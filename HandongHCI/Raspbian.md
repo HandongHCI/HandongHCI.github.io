@@ -1,5 +1,10 @@
-Raspberry Pi
-OS: Raspbian Stretch (Stretch는 version명. 그 이전 version명은 Jessie)
+[← go back to the main page](https://leelamb.github.io/)
+
+### Setting Raspbian on Raspberry Pi 3
+
+#### Introduction
+- Raspbian은 Raspberry Pi에 설치되는 Linux 기반 OS
+- Version: Raspbian Stretch (그 이전 version명은 Jessie)
 
 #### 준비물
 - Raspberry Pi 세트

@@ -45,13 +45,16 @@
 	sudo apt-get upgrade
 	sudo apt autoremove
 	```
+
 - 기본 설정
 
 	**1. Wifi 연결**
-	화면 좌측상단에서 icon을 눌러 wifi를 연결
+	- 화면 좌측상단에서 icon을 눌러 wifi를 연결한다.
+
 
 	**2. Keyboard 입력 변경**
-	Preference에 들어가서 Keyboard Layout을 Korean (101/104 key compatible)로 변경
+	- Preference에 들어가서 Keyboard Layout을 Korean (101/104 key compatible)로 변경한다.
+
 
 	**3. 한글 폰트 설치**
 	```
@@ -59,6 +62,7 @@
 	sudo apt-get install ibus-hangul
 	sudo apt-get install fonts-unfonts-core
 	```
+
 
 	**4. VIM 설치**
 	```
@@ -74,46 +78,35 @@
 		- :q!로 저장 없이 강제 종료
 		- (파일탐색기에서 해당 파일을 찾은 후 text editor를 이용해서 수정할 수도 있음)
 
+
 	**5. 마이크 설정**
-	```
-	sudo vim /usr/share/alsa/alsa.conf
-	```
-	
-	68번째 줄 정도에 있는 아래 부분을
+	- `sudo vim /usr/share/alsa/alsa.conf`로 설정 파일을 열고 68번째 줄 정도에 있는 아래 부분을
 	```
 	defaults.ctl.card 0
 	defaults.pcm.card 0
 	```
 	
-	아래와 같이 변경
+	아래와 같이 변경한다.
 	```
 	defaults.ctl.card 1
 	defaults.pcm.card 1
 	```
 	
 	**6. 화면을 세로로 회전**
-	```
-	sudo vim /boot/config.txt
-	```
-	
-	config.txt의 가장 아래쪽에 한 줄 추가
+	- `sudo vim /boot/config.txt`로 설정 파일을 열고 가장 아래쪽에 한 줄 추가한다.
 	```
 	display_rotate=1
 	```
 
 	**7. 화면보호기/화면자동꺼짐 중지**
-	```
-	sudo vim /etc/X11/xinit/xinitrc
-	```
-	
- 	9번째 줄 정도에 있는 . /etc/X11/Xsession 아래로 3줄 추가
+	- `sudo vim /etc/X11/xinit/xinitrc`로 파일을 열고 9번째 줄 정도에 있는 `. /etc/X11/Xsession` 아래로 3줄 추가한다.
 	```
 	xset s off
 	xset -dpms
 	xset s noblank
 	```
 
-	그리고 나서 `sudo vim /etc/xdg/lxsession/LXDE/autostart`하여 autostart의 아래에 세 줄 추가
+	그리고 나서 `sudo vim /etc/xdg/lxsession/LXDE/autostart`로 autostart 파일을 열고 가장 아래에 다음의 세 줄을 추가한다.
 	```
 	@xset s off
 	@xset -dpms
@@ -121,6 +114,7 @@
 	```
 
 	**8. 마우스 숨김**
+	- Unclutter를 설치한다.
 	```
 	sudo apt-get install unclutter
 	sudo vim /etc/xdg/lxsession/LXDE/autostart

@@ -125,6 +125,7 @@
 	```
 
 	**9. NodeJS 최신 버전으로 upgrade**
+	- NodeJS는 자바스크립트를 그 위에서 돌아가게 하는 일종의 플랫폼이다.
 	- NodeJS의 버전을 확인한다.
 	```
 	node -v
@@ -143,7 +144,7 @@
 	sudo apt-get install nodejs -y
 	```
 
-	- npm 명령어를 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다. `npm install`는 node_modules 폴더를 생성하여 JS들을 설치한다. node_modules 설치 및 관리를 위해서는 아래 것들에 대한 이해가 필요하다. npm을 이용하면서 권한 문제가 있을 때에는 앞에 `sudo`를 붙인다.
+	- npm 명령어를 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다. `npm install`은 node_modules 폴더를 생성하여 그 속에 필요한 java script들을 설치한다. node_modules 설치 및 관리를 위해서는 아래 것들에 대한 이해가 필요하다. npm을 이용하면서 권한 문제가 있을 때에는 앞에 `sudo`를 붙인다.
 	```
 	npm install // package.json에 포함된 것들을 node_modules 폴더 내에 설치한다.
 	npm install XXX // 특정 모듈만 설치한다.

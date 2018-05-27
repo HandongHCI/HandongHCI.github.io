@@ -21,10 +21,6 @@ aaa
 
 ## second title
 
-{% youtube %}
-(address)
-{% endyoutube %}
-
 ### third title
 
 #### fourth title

@@ -86,7 +86,7 @@
 	defaults.pcm.card 0
 	```
 	
-	아래와 같이 변경한다.
+	- 아래와 같이 변경한다.
 	```
 	defaults.ctl.card 1
 	defaults.pcm.card 1
@@ -106,7 +106,7 @@
 	xset s noblank
 	```
 
-	그리고 나서 `sudo vim /etc/xdg/lxsession/LXDE/autostart`로 autostart 파일을 열고 가장 아래에 다음의 세 줄을 추가한다.
+	- 그리고 나서 `sudo vim /etc/xdg/lxsession/LXDE/autostart`로 autostart 파일을 열고 가장 아래에 다음의 세 줄을 추가한다.
 	```
 	@xset s off
 	@xset -dpms
@@ -114,37 +114,36 @@
 	```
 
 	**8. 마우스 숨김**
-	- Unclutter를 설치한다.
+	- Unclutter를 설치하고 autostart 파일을 열어 
 	```
 	sudo apt-get install unclutter
 	sudo vim /etc/xdg/lxsession/LXDE/autostart
 	```
-	
-	unclutter를 설치한 후, autostart의 가장 아래에 한 줄 추가
+	- 가장 아래에 한 줄을 추가한다.
 	```
 	@unclutter -idle 0.1 -root
 	```
 
 	**9. NodeJS 최신 버전으로 upgrade**
-	NodeJS의 버전을 확인한다.
+	- NodeJS의 버전을 확인한다.
 	```
 	node -v
 	```
 
-	버전을 변경(예: v4.X.X에서 v6.X.X로 변경)하려면 자동 업데이트가 되지 않으므로 지우고 새로 깔아야 한다.
+	- 버전을 변경(예: v4.X.X에서 v6.X.X로 변경)하려면 자동 업데이트가 되지 않으므로 지우고 새로 깔아야 한다.
 	```
 	sudo apt-get remove nodered -y
 	sudo apt-get remove nodejs nodejs-legacy -y
 	sudo apt-get remove npm -y
 	```
 
-	설치할 NodeJS의 버전을 선택하고 설치한다. NodeJS의 버전은 중요하다. npm을 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다.
+	- 설치할 NodeJS의 버전을 선택하고 설치한다. NodeJS의 버전은 중요하다. npm을 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다.
 	```
 	curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 	sudo apt-get install nodejs -y
 	```
 
-	npm은 NodeJS가 설치되면 자동으로 설치된다. node_modules 폴더에 관련 JS들을 설치 및 관리하기 위해서는 아래 것들에 대한 이해가 필요하다.
+	- npm은 NodeJS가 설치되면 자동으로 설치된다. node_modules 폴더에 관련 JS들을 설치 및 관리하기 위해서는 아래 것들에 대한 이해가 필요하다.
 	```
 	npm start
 	npm install

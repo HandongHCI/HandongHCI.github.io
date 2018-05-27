@@ -158,7 +158,7 @@
 	```
 
 - 참고사이트
-	- [라즈비안 설치](www.raspberrypi.org/documentation/installation/installing-images/README.md)
-	- [라즈베리파이 문서](https://wikidocs.net/book/483)
+	- [라즈비안 설치 (Eng)](www.raspberrypi.org/documentation/installation/installing-images/README.md)
+	- [라즈베리파이 문서 (Kor)](https://wikidocs.net/book/483)
 
 [← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)

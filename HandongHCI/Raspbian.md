@@ -39,10 +39,12 @@
 - Raspberry Pi에 Raspbian 설치
 	1. Raspberry Pi에 mini SD를 꽂고, 모니터, 키보드, 마우스 등을 연결한 후 전원을 공급한다.
 	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian의 desktop이 보인다. 만약 desktop이 보이지 않고 에러를 표시한다면 Etcher를 이용하여 mini SD에 Raspbian을 덮어 씌워 새로 설치해본다.
-	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지운다.
-	> 	sudo apt-get update
-	> 	sudo apt-get upgrade
-	> 	sudo apt autoremove
+	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지운다. (앞에 sudo를 붙이면 read-only나 수정권한이 없는 file도 강제 수정할 수 있도록 함)
+	'''
+	sudo apt-get update
+	sudo apt-get upgrade
+	sudo apt autoremove
+	'''
 - 기본 설정
 	**1. Wifi 연결**
 	화면 좌측상단에서 icon을 눌러 wifi를 연결
@@ -51,12 +53,17 @@
 	Preference에 들어가서 Keyboard Layout을 Korean (101/104 key compatible)로 변경
 
 	**3. 한글 폰트 설치**
-	>	sudo apt-get install ibus
-	>	sudo apt-get install ibus-hangul
-	>	sudo apt-get install fonts-unfonts-core
+	'''
+	sudo apt-get install ibus
+	sudo apt-get install ibus-hangul
+	sudo apt-get install fonts-unfonts-core
+	'''
 
 	**4. VIM 설치**
-	>		sudo apt-get install vim-gnome
+	'''
+	sudo apt-get install vim-gnome
+	'''
+	
 	- VIM 사용법
 		- Read only file은 sudo vim 파일명으로 실행
 		- a를 누른 후 수정할 영역을 수정
@@ -67,60 +74,95 @@
 		- (파일탐색기에서 해당 파일을 찾은 후 text editor를 이용해서 수정할 수도 있음)
 
 	**5. 마이크 설정**
-	>		sudo vim /usr/share/alsa/alsa.conf
+	'''
+	sudo vim /usr/share/alsa/alsa.conf
+	'''
+	
 	68번째 줄 정도에 있는 아래 부분을
-	>		defaults.ctl.card 0
-	>		defaults.pcm.card 0
+	'''
+	defaults.ctl.card 0
+	defaults.pcm.card 0
+	'''
+	
 	아래와 같이 변경
-	>		defaults.ctl.card 1
-	>		defaults.pcm.card 1
+	'''
+	defaults.ctl.card 1
+	defaults.pcm.card 1
+	'''
 	
 	**6. 화면을 세로로 회전**
-	> 		sudo vim /boot/config.txt
-	(앞에 sudo를 붙이면 read-only와 같은 file도 강제 수정할 수 있도록 함)
+	'''
+	sudo vim /boot/config.txt
+	'''
+	
 	config.txt의 가장 아래쪽에 한 줄 추가
-	>	display_rotate=1
+	'''
+	display_rotate=1
+	'''
 
 	**7. 화면보호기/화면자동꺼짐 중지**
-	>	sudo vim /etc/X11/xinit/xinitrc
+	'''
+	sudo vim /etc/X11/xinit/xinitrc
+	'''
+	
  	9번째 줄 정도에 있는 . /etc/X11/Xsession 아래로 3줄 추가
-	>	xset s off
-	>	xset -dpms
-	>	xset s noblank
+	'''
+	xset s off
+	xset -dpms
+	xset s noblank
+	'''
 
 	그리고 나서 autostart에도 넣어줌
-	>	sudo vim /etc/xdg/lxsession/LXDE/autostart
+	'''
+	sudo vim /etc/xdg/lxsession/LXDE/autostart
+	'''
+	
 	아래에 세 줄 추가
-	>	@xset s off
-	>	@xset -dpms
-	>	@xset s noblank
+	'''
+	@xset s off
+	@xset -dpms
+	@xset s noblank
+	'''
 
 	**8. 마우스 숨김**
-	>	sudo apt-get install unclutter
-	>	sudo vim /etc/xdg/lxsession/LXDE/autostart
+	'''
+	sudo apt-get install unclutter
+	sudo vim /etc/xdg/lxsession/LXDE/autostart
+	'''
+	
 	가장 아래에 한 줄 추가
-	>	@unclutter -idle 0.1 -root
+	'''
+	@unclutter -idle 0.1 -root
+	'''
 
 	**9. NodeJS 최신 버전으로 upgrade**
 	NodeJS의 버전을 확인한다.
-	>	node -v
+	'''
+	node -v
+	'''
 
 	버전을 변경(예: v4.X.X에서 v6.X.X로 변경)하려면 자동 업데이트가 되지 않으므로 지우고 새로 깔아야 한다.
-	>	sudo apt-get remove nodered -y
-	>	sudo apt-get remove nodejs nodejs-legacy -y
-	>	sudo apt-get remove npm -y
+	'''
+	sudo apt-get remove nodered -y
+	sudo apt-get remove nodejs nodejs-legacy -y
+	sudo apt-get remove npm -y
+	'''
 
 	설치할 NodeJS의 버전을 선택하고 설치한다. NodeJS의 버전은 중요하다. npm을 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다.
-	>	curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-	>	sudo apt-get install nodejs -y
+	'''
+	curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+	sudo apt-get install nodejs -y
+	'''
 
 	npm은 NodeJS가 설치되면 자동으로 설치된다. node_modules 폴더에 관련 JS들을 설치 및 관리하기 위해서는 아래 것들에 대한 이해가 필요하다.
-	>	npm start
-	>	npm install
-	>	npm remove
-	>	npm update
-	>	npm cache clean
-	>	npm rebuild 
+	'''
+	npm start
+	npm install
+	npm remove
+	npm update
+	npm cache clean
+	npm rebuild
+	'''
 
 - 참고사이트
 	- www.raspberrypi.org/documentation/installation/installing-images/README.md

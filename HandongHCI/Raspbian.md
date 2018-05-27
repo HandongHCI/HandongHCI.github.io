@@ -137,24 +137,27 @@
 	sudo apt-get remove npm -y
 	```
 
-	- 설치할 NodeJS의 버전을 선택하고 설치한다. NodeJS의 버전은 중요하다. npm을 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다.
+	- 설치할 NodeJS의 버전을 선택하고 설치한다. NodeJS의 버전은 중요하다.
 	```
 	curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 	sudo apt-get install nodejs -y
 	```
 
-	- npm은 NodeJS가 설치되면 자동으로 설치된다. node_modules 폴더에 관련 JS들을 설치 및 관리하기 위해서는 아래 것들에 대한 이해가 필요하다.
+	- npm 명령어를 이용하여 node_moduels를 설치할 때 해당 버전의 NodeJS를 이용하게 된다. `npm install`는 node_modules 폴더를 생성하여 JS들을 설치한다. node_modules 설치 및 관리를 위해서는 아래 것들에 대한 이해가 필요하다. npm을 이용하면서 권한 문제가 있을 때에는 앞에 `sudo`를 붙인다.
 	```
-	npm start
-	npm install
+	npm install // package.json에 포함된 것들을 node_modules 폴더 내에 설치한다.
+	npm install XXX // 특정 모듈만 설치한다.
 	npm remove
+	npm XXX
 	npm update
 	npm cache clean
-	npm rebuild
+	npm rebuild // 특정 모듈을 업데이트 하거나 변경하였을 때는 cache clean을 한 후에 rebuild를 해준다.
+	npm start
+	npm run XXX // 특정 JS를 실행한다.
 	```
 
 - 참고사이트
-	- www.raspberrypi.org/documentation/installation/installing-images/README.md
-	- https://wikidocs.net/3163
+	- [라즈비안 설치](www.raspberrypi.org/documentation/installation/installing-images/README.md)
+	- [라즈베리파이 문서](https://wikidocs.net/book/483)
 
 [← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)

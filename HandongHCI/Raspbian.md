@@ -1,4 +1,4 @@
-[← go back to the main page](https://leelamb.github.io/)
+[← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)
 
 ### Setting Raspbian on Raspberry Pi 3
 
@@ -21,32 +21,31 @@
 - 스피커 (스피커가 지원되는 모니터라면 HDMI 케이블을 이용하여 모니터
 
 #### 다운로드
-- www.raspberrypi.org/downloads/raspbian
-- 사이트에서 Raspbian with Desktop을 받음(압축 풀지 않음).
-- Raspbian Lite는 desktop환경이 빠진 가벼운 버전. Windows와 같은 desktop환경이 구축되므로 파일을 관리하거나 메모장을 이용한 coding 등이 쉬움.
+- [Raspberry Pi site](www.raspberrypi.org/downloads/raspbian)
+- 사이트에서 Raspbian with Desktop을 받는다(압축 풀지 않음).
+- Raspbian Lite는 desktop(바탕화면) 환경이 빠진 가벼운 버전이다. MS Windows와 같은 desktop환경이 구축되므로 파일탐색기를 이용하여 파일을 관리하거나 Text Editor를 이용하여 coding할 수 있다.
 
 #### 설치
-- Mini SD 카드에 Raspbian을 설치 (Windows와 mac에서 모두 시작 가능)
-- 설치를 도와주는 tool로 NOOBS, Win32DiskImage, Etcher 등이 있는데, Etcher를 이용하는 것이 advanced된 방법임
+- Windows나 Mac에서 mini SD 카드에 Raspbian을 설치한 후, mini SD를 Raspberry Pi에 꽂는 방식으로 설치한다.
+- 설치를 도와주는 tool로 NOOBS, Win32DiskImage, Etcher 등이 있는데, Etcher를 이용하는 것이 advanced된 방법이다.
 - Etcher
-	- https://etcher.io 에서 Etcher 프로그램 중 하나를 선택하여 받음 (Windows의 경우 portable 버전을 사용하면 편함)
-	- Mini SD에 Raspian 설치
+	- [https://etcher.io](https://etcher.io) 에서 Etcher 프로그램 중 하나를 선택하여 받는다(Windows의 경우 portable 버전을 사용하면 편함).
+	- Mini SD에 Raspian을 설치한다.
 		1. Etcher 실행
-		1. 다운로드한 Raspbian with Desktop (Raspbian zip 파일)을 선택 
-		1. mini SD 카드가 USB 리더기를 통해 PC의 USB에 꽂고, Etcher에서 해당 드라이브를 선택
-		1. Flash를 눌러 Raspbian을 mini SD 카드에 설치함 (10분 이상 소요됨)
-		1. 설치 과정에서 mini SD가 몇 개의 파티션으로 나눠지며, 새로 생기는 파티션에 대해 포맷하라는 메시지가 뜨면 포맷을 해주면 됨(exFAT으로 하면 되는지??)
+		1. 다운로드한 Raspbian with Desktop (zip 파일)을 선택 
+		1. mini SD 카드를 USB 리더기에 꽂고 USB 리더기를 PC의 연결한다. Etcher에서 해당 드라이브를 선택한다.
+		1. Flash를 눌러 Raspbian을 mini SD 카드에 설치한다(5분 이상 소요됨).
+		1. 설치 과정에서 mini SD가 몇 개의 파티션으로 나눠지며, 새로 생기는 파티션에 대해 포맷하라는 메시지가 뜨면 포맷을 해주면 된다.
 - Raspberry Pi에 Raspbian 설치
-	1. Raspberry Pi에 mini SD를 설치하고, 모니터, 키보드, 마우스를 연결한 후 전원을 공급
-	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian의 desktop이 보이게 됨 (혹시 화면이 넘어가지 않고 에러를 표시한다면 Etcher를 이용하여 mini SD에 Raspbian을 덮어 씌워 새로 설치)
-	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지움
-	>		sudo apt-get update
-	>		sudo apt-get upgrade
-	>		sudo apt auto remove
+	1. Raspberry Pi에 mini SD를 꽂고, 모니터, 키보드, 마우스 등을 연결한 후 전원을 공급한다.
+	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian의 desktop이 보인다. 만약 desktop이 보이지 않고 에러를 표시한다면 Etcher를 이용하여 mini SD에 Raspbian을 덮어 씌워 새로 설치해본다.
+	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지운다.
+	> sudo apt-get update
+	> sudo apt-get upgrade
+	> sudo apt autoremove
 - 기본 설정
 	**1. Wifi 연결**
-	화면 좌측상단에서 icon을 눌러 wifi를 연결 (만약 아무 wifi가 잡히지 않으면 wifi 설정을 해주어야 됨)
-	>		
+	화면 좌측상단에서 icon을 눌러 wifi를 연결
 
 	**2. Keyboard 입력 변경**
 	Preference에 들어가서 Keyboard Layout을 Korean (101/104 key compatible)로 변경
@@ -126,3 +125,5 @@
 - 참고사이트
 	- www.raspberrypi.org/documentation/installation/installing-images/README.md
 	- https://wikidocs.net/3163
+
+[← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)

@@ -13,7 +13,7 @@
 
 2. 상단의 File > Publish to the web 메뉴를 선택한다. 첫 번째 옵션에서 "Entire Document" 혹은 특정 Sheet를 선택하고, 두 번째 옵션에서 "Web page"를 선택한 후 publish한다. (생성되는 link는 중요하지 않으니 창을 닫는다.)
 
-3. 창을 닫고 원 Google Sheets로 돌아와서, 상단 주소창에 보면 주소명이 https://docs.google.com/spreadsheets/d/키값/... 이렇게 되어 있다. 그 키값이 필요하므로 복사해둔다.
+3. 창을 닫고 원 Google Sheets로 돌아와서, 상단 주소창에 보면 주소명이 `https://docs.google.com/spreadsheets/d/키값/...` 이렇게 되어 있다. 그 키값이 필요하므로 복사해둔다.
     - 국가공공데이터에서 받아온 한국 날씨 데이터를 예로 들어보면,
     - 키값: 1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8
     - [원 Google Sheets (public으로 공유되어 있음)](https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=851828607)

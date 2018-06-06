@@ -3,6 +3,7 @@
 site: https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=0
 
 (국가공공데이터 받는 법 넣기)
+- 날씨 조회 사이트: [동네예보정보조회서비스](https://www.data.go.kr/dataset/15000099/openapi.do)
 
 script editor에 들어갈 내용
 ```

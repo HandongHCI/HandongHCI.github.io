@@ -2,7 +2,7 @@
 
 #### Tutorials for HCI computing
 - [Setting Raspbian on Raspberry Pi 3 (Kor)](Raspbian.md)
-- 국가공공데이터 불러서 Google Sheets에 저장하기 (Kor)
+- 주기적으로 국가공공데이터 불러서 Google Sheets에 자동 저장하기 (Kor)
 - Google Sheets에 저장된 데이터를 javascript로 받아오기 (Kor)
 - Github로 홈페이지 만들기
 - (will be continued)

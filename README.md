@@ -6,3 +6,8 @@ To see instructions and examples, go to [/HandongHCI](HandongHCI/README.md)
 
 #### TO-DO
 - add documents and instructions
+
+#### Contact
+- W.LEE (at) HANDONG (dot) EDU
+- LinkedIn: https://www.linkedin.com/in/wonsuplee
+- Facebook Page: https://www.facebook.com/HandongHCI

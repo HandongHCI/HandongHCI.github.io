@@ -11,11 +11,8 @@
 	<div id='wind2'></div>
 </body>
 
-
-
-
-	<script>
-		const onDataLoaded = (data) => {
+<script>
+	const onDataLoaded = (data) => {
 		// 미세먼지
 		const dataE3 = data.feed.entry.find((entry) => entry.title.$t == 'E3').content.$t
 		document.getElementById('dust').innerHTML = "현재 미세먼지: " + dataE3
@@ -53,7 +50,8 @@
 		// 풍속
 		const dataL3 = data.feed.entry.find((entry) => entry.title.$t == 'L3').content.$t
 		document.getElementById('wind2').innerHTML = "현재 풍속: " + dataL3
-	  }
-	</script>
-	<script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
+	}
+</script>
+<script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
+
 </html>

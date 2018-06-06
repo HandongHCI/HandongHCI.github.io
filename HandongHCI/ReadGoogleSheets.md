@@ -39,7 +39,7 @@
             document.getElementById('dust').innerHTML = "현재 미세먼지: " + dataE3
         }
     </script>
-    <!--아래를 <script> 내에 불러줘야 위 code가 제대로 작동함-->
+    <!--아래와 같이 <script>를 불러줘야 위 code가 제대로 작동함-->
     <script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
     </html>
     ```

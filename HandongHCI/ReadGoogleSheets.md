@@ -28,7 +28,7 @@
     <head>
     </head>
     <body>
-      <div id='dust'></div>
+        <div id='dust'></div>
     </body>
     <script>
         // script는 body가 끝나고 들어감

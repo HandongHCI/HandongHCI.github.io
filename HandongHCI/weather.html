@@ -1,0 +1,59 @@
+<html>
+<head>
+</head>
+<body>
+	<div id='dust'></div>
+	<div id='temp'></div>
+	<div id='humidity'></div>
+	<div id='sky'></div>
+	<div id='rain'></div>
+	<div id='wind1'></div>
+	<div id='wind2'></div>
+</body>
+
+
+
+
+	<script>
+		const onDataLoaded = (data) => {
+		// 미세먼지
+		const dataE3 = data.feed.entry.find((entry) => entry.title.$t == 'E3').content.$t
+		document.getElementById('dust').innerHTML = "현재 미세먼지: " + dataE3
+
+		// 온도
+		const dataG3 = data.feed.entry.find((entry) => entry.title.$t == 'G3').content.$t
+		document.getElementById('temp').innerHTML = "현재 온도: " + dataG3
+
+		// 습도
+		const dataH3 = data.feed.entry.find((entry) => entry.title.$t == 'H3').content.$t
+		document.getElementById('humidity').innerHTML = "현재 습도: " + dataH3
+
+		// 하늘상태
+		const dataI3 = data.feed.entry.find((entry) => entry.title.$t == 'I3').content.$t
+		var dataI3text
+		if (dataI3 == 1) {
+			dataI3text = "맑음"
+		} else if (dataI3 == 2) {
+			dataI3text = "구름조금"
+		} else if (dataI3 == 3) {
+			dataI3text = "구름많음"
+		} else if (dataI3 == 4) {
+			dataI3text = "흐림"
+		}
+		document.getElementById('sky').innerHTML = "현재 하늘 상태: " + dataI3text
+
+		// 강수량
+		const dataJ3 = data.feed.entry.find((entry) => entry.title.$t == 'J3').content.$t
+		document.getElementById('rain').innerHTML = "현재 강수량: " + dataJ3
+
+		// 풍향
+		const dataK3 = data.feed.entry.find((entry) => entry.title.$t == 'K3').content.$t
+		document.getElementById('wind1').innerHTML = "현재 풍향: " + dataK3
+
+		// 풍속
+		const dataL3 = data.feed.entry.find((entry) => entry.title.$t == 'L3').content.$t
+		document.getElementById('wind2').innerHTML = "현재 풍속: " + dataL3
+	  }
+	</script>
+	<script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
+</html>

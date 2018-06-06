@@ -5,7 +5,7 @@
 #### Introduction
 - 본 문서는 Google Sheets의 특정 cell에 저장된 data를 HTML에 저장하는 방법에 대해 소개
 - Google Sheets를 JSON형식으로 받아오는 것이므로 응용하면 특정 cell이 아닌 전체 데이터를 유기적으로 이용할 수 있을 것임
-- Google Sheets 제작은 [주기적으로 국가공공데이터 불러서 Google Sheets에 자동 저장하기](#) 참고
+- Google Sheets 제작은 [주기적으로 국가공공데이터 불러서 Google Sheets에 자동 저장하기](PublicDataToGoogleSheets.md) 참고
 - 참고자료: https://stackoverflow.com/questions/45671606/google-sheets-api-read-single-cell-value-from-public-sheet
 
 #### 방법

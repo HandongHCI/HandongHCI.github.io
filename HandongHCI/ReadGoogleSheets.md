@@ -19,6 +19,7 @@
     - [원 Google Sheets (public으로 공유되어 있음)](https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=851828607)
     - [위 Google Sheets의 JSON 형식](https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/full?alt=json)
 
+
 4. 이제는 javascript를 이용하여 JSON을 받아오기만 하면 된다. Public data를 받아오는 형식으로 API를 이용하기 위한 key값은 불필요하다.
 
 5. Code는 [weather.html](weather.html) 참조

@@ -12,7 +12,7 @@
 1. 회원 가입
 2. 원하는 공공데이터 신청 (1시간 정도 후부터 서비스키(key) 사용이 가능함; 아래는 미세먼지 정도를 알 수 있는 한국환경공단의 대기오염정보 조회 서비스 예시임)
 3. 이용
-	- Key값 복사
+	- 공공데이터에서 제공해준 Key값 복사
 	- 데이터 접속 방법: 아래 `ServiceKey` 부분에 본인의 서비스키를 넣고, `stationName`에 본인의 위치(동 이름)를 입력한 후 인터넷 주소창에 붙여 넣음
 	```http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=장량동&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키```
 	

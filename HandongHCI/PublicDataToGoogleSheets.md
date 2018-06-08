@@ -1,22 +1,22 @@
-(작성 중)
+### 대한민국 공공데이터 이용하기
 
-대한민국 공공데이터 이용하기
-
-Site: https://www.data.go.kr
-한국환경공단_대기오염정보 조회 서비스 예 (https://www.data.go.kr/dataset/15000581/openapi.do)
-
+#### 공공데이터 가입하기
+- [대한민국 공공데이터 사이트](https://www.data.go.kr)
+- 한국환경공단 대기오염정보 조회 서비스 예: https://www.data.go.kr/dataset/15000581/openapi.do
+- 절차
 1. 회원 가입
-2. 공공데이터 신청 (1시간 정도 후부터 key 사용이 가능함)
+2. 원하는 공공데이터 신청 (1시간 정도 후부터 서비스키(key) 사용이 가능함; 아래는 미세먼지 정도를 알 수 있는 한국환경공단의 대기오염정보 조회 서비스 예시임)
 3. 이용
 	- Key값 복사
-	- 데이터 접속 방법(아래 "서비스키" 부분에 자신의 서비스키를 넣음): http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=장량동&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키
+	- 데이터 접속 방법: 아래 `ServiceKey` 부분에 본인의 서비스키를 넣고, `stationName`에 본인의 위치(동 이름)를 입력한 후 주소창에 붙여 넣음
+	```http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=장량동&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키```
 	- 변수
-		- stationName 검색(지역 이름. 모든 지역이 가능한 것은 아님): http://www.airkorea.or.kr/index 
+		- stationName: 모든 지역이 가능한 것은 아님(입력 가능한 지역 확인: http://www.airkorea.or.kr/index)
 		- dataTerm
 		- pageNo
-		- numofRows: 1시간마다 업데이트 되므로 1로 하면 1시간 이내의 정보를 받게 됨, 2로 하면 최근 2시간 데이터를 받음
+		- numofRows: 1시간마다 업데이트 되므로 1로 하면 1시간 이내의 정보를 받게 됨, 2로 하면 최근 2회의 데이터를 받음
 		- ServiceKey: 자신의 서비스키를 넣음
-		- _type=json
+		- _type=json: 맨 마지막에 붙여 넣으면 JSON 형식으로 받아오고, 붙이지 않으면 XML 형식으로 받아옴
 	- 데이터 형식
 		- dataTime 측정일 및 시간 (매 시간 업데이트 됨)
 		- so2Value 아황산가스 농도

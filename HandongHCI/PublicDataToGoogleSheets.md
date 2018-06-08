@@ -1,5 +1,50 @@
 (작성 중)
 
+대한민국 공공데이터 이용하기
+
+Site: https://www.data.go.kr
+한국환경공단_대기오염정보 조회 서비스 예 (https://www.data.go.kr/dataset/15000581/openapi.do)
+
+1. 회원 가입
+2. 공공데이터 신청 (1시간 정도 후부터 key 사용이 가능함)
+3. 이용
+	- Key값 복사
+	- 데이터 접속 방법(아래 "서비스키" 부분에 자신의 서비스키를 넣음): http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=장량동&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키
+	- 변수
+		- stationName 검색(지역 이름. 모든 지역이 가능한 것은 아님): http://www.airkorea.or.kr/index 
+		- dataTerm
+		- pageNo
+		- numofRows: 1시간마다 업데이트 되므로 1로 하면 1시간 이내의 정보를 받게 됨, 2로 하면 최근 2시간 데이터를 받음
+		- ServiceKey: 자신의 서비스키를 넣음
+		- _type=json
+	- 데이터 형식
+		- dataTime 측정일 및 시간 (매 시간 업데이트 됨)
+		- so2Value 아황산가스 농도
+		- coValue 일산화탄소 농도
+		- o3Value 오존 농도
+		- no2Value 이상화질소 농도
+		- pm10Value 미세먼지 농도
+		- pm10Value24 24시간 예측 농도
+		- pm25Value 초미세먼지 농도
+		- pm25Value24 24시간 예측 농도
+		- khaiValue 통합대기환경수치
+		- khaiGrade 통합대기환경지수
+		- so2Grade 아황산가스 지수
+		- coGrade 일산화탄소 지수
+		- o3Grade 오존 지수
+		- no2Grade 이상화질소 지수
+		- pm10Grade 미세먼지 24시간 등급
+		- pm25Grade 초미세먼지 24시간 등급
+		- pm10Grade1h 미세먼지 1시간 등급
+		- pm25Grade1h 초미세먼지 1시간 등급
+	- 활용 방법
+  
+  
+  
+  
+  
+  
+
 site: https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=0
 
 (국가공공데이터 받는 법 넣기)

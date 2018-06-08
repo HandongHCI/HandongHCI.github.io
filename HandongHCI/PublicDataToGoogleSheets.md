@@ -2,8 +2,8 @@
 
 #### Introduction
 - 대한민국 공공데이터에서 JSON 형식으로 된 데이터를 Google Sheets로 받아옴
-- 본 문서에서는 미세먼지와 날씨 데이터를 주기적으로 받아와 Google Sheets를 자동으로 업데이트 하는 방법을 다룸
-- [다음 문서](ReadGoogleSheets.md)에서는 Javascript를 이용하여 Google Sheets에 입력된 데이터를 web page로 불러오는 
+- 본 문서에서는 특정 지역의 미세먼지와 날씨 데이터를 주기적으로 받아와 Google Sheets를 자동으로 업데이트 하는 방법을 다룸
+- [다음 문서](ReadGoogleSheets.md)에서는 Javascript를 이용하여 Google Sheets에 입력된 데이터를 web page로 불러오는 방법을 다룸
 
 #### 공공데이터 가입하기
 - [대한민국 공공데이터 사이트](https://www.data.go.kr)

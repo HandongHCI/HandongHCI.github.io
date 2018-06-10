@@ -46,11 +46,9 @@
 - 이 문서의 markdown 문서 내용은 아래와 같다.
 
 #### 기타
-- 컴퓨터에서 coding 작업을 한 후 한번씩 Git에 update하는 방법 중 하나로, sourcetree라는 app을 쓰면 편하다.
 - Git을 통해 협업하는 방법을 알면 좋다. Git은 단순 cloud storage가 아니라 issue를 제기하고, 서로 토론하고, 다른 사람의 code를 받아들이면서 프로젝트를 유기적으로 관리한다. [구글](https://github.com/google)과 [아마존](https://github.com/amzn)에서 어떻게 Github를 통해 프로젝트를 관리하는지 살펴보자.
 
 ```
 
 #### 기타
-- 컴퓨터에서 coding 작업을 한 후 한번씩 Git에 update하는 방법 중 하나로, sourcetree라는 app을 쓰면 편하다.
 - Git을 통해 협업하는 방법을 알면 좋다. Git은 단순 cloud storage가 아니라 issue를 제기하고, 서로 토론하고, 다른 사람의 code를 받아들이면서 프로젝트를 유기적으로 관리한다. [구글](https://github.com/google)과 [아마존](https://github.com/amzn)에서 어떻게 Github를 통해 프로젝트를 관리하는지 살펴보자.

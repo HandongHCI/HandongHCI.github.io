@@ -6,8 +6,8 @@
 
 #### 절차
 1. 본인 Github 계정 하에 `본인계정명.github.io`라는 이름으로 repository를 만든다.
-  - 예를 들어, 나의 계정 이름은 LeeLAMB이며, 내가 Github page를 만들기 위해 생성한 repository의 이름은 [LeeLAMB.github.io](https://LeeLAMB.github.io)이다.
-  - 따라서 나의 github pages 주소는 `https://leelamb.github.io/`가 되고, 이 홈페이지를 구성하는 github 계정 주소는 `https://github.com/LeeLAMB/LeeLAMB.github.io`이 된다.
+    - 예를 들어, 나의 계정 이름은 LeeLAMB이며, 내가 Github page를 만들기 위해 생성한 repository의 이름은 [LeeLAMB.github.io](https://LeeLAMB.github.io)이다.
+    - 따라서 나의 github pages 주소는 `https://leelamb.github.io/`가 되고, 이 홈페이지를 구성하는 github 계정 주소는 `https://github.com/LeeLAMB/LeeLAMB.github.io`이 된다.
 2. Github에 가입한다고 바로 `본인계정명.github.io`의 page가 생성되지는 않는다. `본인계정명.github.io`으로 생성한 repository로 들어가면 상단 우측 정도에 톱니바퀴 아이콘의 'Setup' 메뉴가 있는데, 클릭해서 setup화면에 들어간다. (또는 `https://github.com/본인계정명/본인계정명.github.io/settings`으로 접속하면 된다.) Setting 화면의 아래쪽에 Github Pages라는 항목이 있는데, 여기에서 source를 `master`로 선택하여 `본인계정명.github.io`를 활성화해야 된다.
 
 ![Github Pages 활성화하는 setting 화면 예](GithubHomepageSetting.png)

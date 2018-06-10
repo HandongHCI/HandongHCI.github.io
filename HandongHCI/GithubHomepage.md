@@ -1,13 +1,16 @@
 ### Github로 홈페이지 만들기
 
 #### Introduction
-- ICT분야에 일하면서 Github 하나씩은 가지고 있어야 되는 때가 왔습니다. Github에 많은 프로젝트를 남길수록 
+- ICT분야에 일하면서 Github 하나씩은 가지고 있어야 되는 때가 왔습니다. Github에 많은 프로젝트를 남길수록 다양한 경험을 하였다는 것을 증명합니다.
 - 이번에는 Github로 홈페이지 만드는 방법에 대해 설명드리겠습니다.
 
 #### 절차
-1. 먼저 Github 계정을 만든다.
-2. `본인계정명.github.io`라는 이름으로 repository를 만든다. 나의 계정 이름은 LeeLAMB이다.
-3. 처음에는 아마 `본인계정명.github.io` 사이트가 없을 것인데, 생성한 repository로 들어가면 상단에 톱니바퀴 아이콘과 함께 'Setup' 메뉴가 있고, 클릭해서 `본인계정명.github.io` 사이트를 활성화 해야 된다.
+1. 본인 Github 계정 하에 `본인계정명.github.io`라는 이름으로 repository를 만든다.
+  - 예를 들어, 나의 계정 이름은 LeeLAMB이며, 내가 Github page를 만들기 위해 생성한 repository의 이름은 [LeeLAMB.github.io](https://LeeLAMB.github.io)이다.
+  - 따라서 나의 github pages 주소는 `https://leelamb.github.io/`가 되고, 이 홈페이지를 구성하는 github 계정 주소는 `https://github.com/LeeLAMB/LeeLAMB.github.io`이 된다.
+2. Github에 가입한다고 바로 `본인계정명.github.io`의 page가 생성되지는 않는다. `본인계정명.github.io`으로 생성한 repository로 들어가면 상단 우측 정도에 톱니바퀴 아이콘의 'Setup' 메뉴가 있는데, 클릭해서 setup화면에 들어간다. (또는 `https://github.com/본인계정명/본인계정명.github.io/settings`으로 접속하면 된다.) Setting 화면의 아래쪽에 Github Pages라는 항목이 있는데, 여기에서 source를 `master`로 선택하여 `본인계정명.github.io`를 활성화해야 된다.
+
+![Github Pages 활성화하는 setting 화면 예](GithubHomepageSetting.png)
 
 #### 글작성
 - 가장 쉬운 방법으로, Github에 생성한 `본인계정명.github.io` repository에 가서 파일을 직접 수정하면 된다.

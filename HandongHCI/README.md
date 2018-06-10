@@ -7,13 +7,15 @@
 - [Github로 홈페이지 만들기](GithubHomepage.md)
 - Operating Dji Tello with Leap Motion using Gobot
 - Evan Cohen의 Smart Mirror setting하기
+- Google API 사용법
+- Install Alexa on your computer
 - 대학생활 및 팀프로젝트에 도움이 되는 생산성도구 살펴보기
 - 
 - 
 - 
 - 
 - 
-- 
+- (more topics will be added)
 
 #### Student Projects
 - (준비 중)

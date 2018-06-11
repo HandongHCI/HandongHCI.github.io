@@ -21,7 +21,7 @@
     - [위 Google Sheets의 JSON 형식](https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/full?alt=json)
 
 
-4. 이제는 javascript를 이용하여 JSON을 받아오기만 하면 된다. Public data를 받아오는 형식으로 API를 이용하기 위한 key값은 불필요하다.
+4. 이제는 javascript를 이용하여 JSON을 받아오기만 하면 된다. Public data를 받아오는 형식으로 API를 이용하기 위한 key값은 불필요하다. (데이터를 string으로 받기 때문에 숫자로 변환하려면 parseInt 함수를 써야 된다.
 
 5. Code는 [weather.html](weather.html) 참조
     ```
@@ -36,7 +36,9 @@
         const onDataLoaded = (data) => {
             // Google Sheets의 E3 cell에 저장된 미세먼지 data를 받아와서 dust라는 div에 집어넣는 예
             const dataE3 = data.feed.entry.find((entry) => entry.title.$t == 'E3').content.$t
-            document.getElementById('dust').innerHTML = "현재 미세먼지: " + dataE3
+            if (parseInt(dataE3) == 0) {
+                document.getElementById('dust').innerHTML = "현재 미세먼지 없음"
+            }
         }
     </script>
     <!--아래와 같이 <script>를 불러줘야 위 code가 제대로 작동함-->

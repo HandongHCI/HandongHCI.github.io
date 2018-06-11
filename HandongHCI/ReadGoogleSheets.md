@@ -45,3 +45,5 @@
     <script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
     </html>
     ```
+
+Demo: https://leelamb.github.io/HandongHCI/weather.html

@@ -5,8 +5,6 @@
 - [주기적으로 국가공공데이터 불러서 Google Sheets에 자동 저장하기 (Kor)](PublicDataToGoogleSheets.md)
 - [Google Sheets에 저장된 데이터를 javascript로 받아오기 (Kor)](ReadGoogleSheets.md)
 - [Github로 홈페이지 만들기](GithubHomepage.md)
-- Operating Dji Tello with Leap Motion using Gobot
-- Evan Cohen의 Smart Mirror setting하기
 - Google API 사용법
 - Install Alexa on your computer
 - 대학생활 및 팀프로젝트에 도움이 되는 생산성도구 살펴보기

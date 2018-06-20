@@ -46,6 +46,6 @@
     </html>
     ```
 
-Demo: https://HandongHCI.github.io/Tutorials/weather.html
+Demo: [https://HandongHCI.github.io/Tutorials/weather.html](https://HandongHCI.github.io/Tutorials/weather.html)
 
 [← go back to the list](https://HandongHCI.github.io/Tutorials)

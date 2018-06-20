@@ -6,11 +6,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
   <script src="app.js"></script>
-  <script> 
-    $(function(){
-      $("#mapBox").load("mapBox.html"); 
-    });
-    </script> 
   <link href="style.css" rel="stylesheet">
 </head>
 
@@ -95,7 +90,9 @@
 <!-- Main body -->
 <div id="mainBox">
 
-  <div id="mapBox"></div>
+  <div id="mapBox">
+    <?php include 'mapBox.php'; ?>
+  </div>
 
 	<div id="tempContentBox">
     <!--<p> This is information about temperature.</p>-->

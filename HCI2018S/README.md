@@ -1,6 +1,8 @@
 #### Introduction
 
-Student Project, HCI 2018S
+(in preparation)
+
+#### Student Projects
 - Interactive Web Design
 - Interactive Media Art
 - IoT

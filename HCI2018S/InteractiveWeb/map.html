@@ -6,6 +6,36 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://spreadsheets.google.com/feeds/cells/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/2/public/basic?alt=json-in-script&callback=onDataLoaded"></script>
   <script src="app.js"></script>
+  <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      /*loop through a collection of all HTML elements:*/
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        /*search for elements with a certain atrribute:*/
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          /*make an HTTP request using the attribute value as the file name:*/
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+              if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+              if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+              /*remove the attribute, and call this function once more:*/
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }      
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          /*exit the function:*/
+          return;
+        }
+      }
+    };
+  </script>
+
   <link href="style.css" rel="stylesheet">
 </head>
 
@@ -90,9 +120,7 @@
 <!-- Main body -->
 <div id="mainBox">
 
-  <div id="mapBox">
-    <?php include 'mapBox.php'; ?>
-  </div>
+  <div id="mapBox" w3-include-html="mapBox.html"></div>
 
 	<div id="tempContentBox">
     <!--<p> This is information about temperature.</p>-->
@@ -181,6 +209,9 @@
           
 </div>
 
+<script>
+  includeHTML();
+</script>
 
 </body>
 

@@ -2,10 +2,14 @@
 
 This Github page is to introduce knowledge and techniques about HCI prototyping and to share it with my students as well as with anyone who is interested in the shared topics.
 
-To see instructions and examples, go to [/HandongHCI](HandongHCI/README.md)
+To see instructions and tutorials, go to [/Tutorials](Tutorials/README.md)
+
+#### Student projects
+- [HCI 2018S](HCI2018S/README.md)
 
 #### TO-DO
 - add documents and instructions
+- add student projects
 
 #### Contact
 - W.LEE (at) HANDONG (dot) EDU

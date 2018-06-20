@@ -1,0 +1,34 @@
+{
+    "schema": {
+        "forecast": {
+            "type": "object",
+            "title": "Weather Settings",
+            "properties": {
+                "key": {
+                    "type": "string",
+                    "title": "API Key",
+                    "description": "(see <a href='http://darksky.net'>darksky.net</a> documentation to obtain the API Key)"
+                },
+                "units": {
+                    "type": "string",
+                    "title": "Units",
+                    "description": "(see <a href='http://darksky.net'>darksky.net</a> documentation if you're getting the wrong units)",
+                    "default": "auto"
+                },
+                "refreshInterval": {
+                    "type": "integer",
+                    "title": "Refresh Interval (minutes)",
+                    "default": 2
+                }
+            }
+        }
+    },
+    "form": [
+        {
+            "type": "fieldset",
+            "key": "forecast",
+            "expandable": true,
+            "order":0
+        }
+    ]
+}

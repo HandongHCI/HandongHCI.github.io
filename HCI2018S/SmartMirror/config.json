@@ -1,0 +1,125 @@
+{
+  "general": {
+    "language": "en-US",
+    "layout": "main",
+    "commandsPerPage": 10
+  },
+  "speech": {
+    "device": "plughw:1,0",
+    "keyFilename": "./keyfile.json",
+    "hotwords": [
+      {
+        "keyword": "smart mirror",
+        "model": "smart_mirror.umdl"
+      }
+    ],
+    "sensitivity": 0.6
+  },
+  "remote": {
+    "enabled": true,
+    "port": 8080
+  },
+  "autoTimer": {
+    "mode": "monitor",
+    "autoWake": "07:00:00",
+    "autoSleep": 30,
+    "wakeCmd": "sudo ./scripts/raspi-monitor.sh on > /dev/null 2>&1",
+    "sleepCmd": "sudo ./scripts/raspi-monitor.sh off > /dev/null 2>&1"
+  },
+  "motion": {
+    "pin": "GPIO26",
+    "enabled": false
+  },
+  "geoPosition": {
+    "latitude": "36.1030897",
+    "longitude": "129.38844719999997"
+  },
+  "giphy": {
+    "key": "dc6zaTOxFJmzC"
+  },
+  "greeting": {
+    "option": "time",
+    "morning": [
+      "Good morning!"
+    ],
+    "midday": [
+      "How's your day?"
+    ],
+    "evening": [
+      "Good evening!"
+    ],
+    "night": [
+      "What's up?"
+    ]
+  },
+  "light": {
+    "settings": {
+      "hueIp": "192.168.0.19",
+      "hueUsername": "8OtaKSTJCZBnTndor4wOxOhF4pmwBfYCkxswnGNB"
+    },
+    "setup": [
+      {
+        "name": "SmartMirror",
+        "targets": [
+          {
+            "lightType": "hue",
+            "id": 0
+          }
+        ]
+      }
+    ]
+  },
+  "calendar": {
+    "icals": [
+      "https://calendar.google.com/calendar/ical/21400209%40handong.edu/public/basic.ics"
+    ],
+    "maxResults": 9,
+    "maxDays": 9,
+    "showCalendarNames": true
+  },
+  "rss": {
+    "refreshInterval": 120
+  },
+  "lastfm": {
+    "refreshInterval": 0.6
+  },
+  "youtube": {
+    "key": "AIzaSyDa2HjUiMZUIiwkngGvx2bzVd-muCoIYec"
+  },
+  "fitbit": {
+    "timeout": 10000,
+    "creds": {
+      "clientID": "22CTW3",
+      "clientSecret": "a1d7048f9182dc8aba9543273b5708c9"
+    },
+    "uris": {
+      "authorizationUri": "https://www.fitbit.com",
+      "authorizationPath": "/oauth2/authorize",
+      "tokenUri": "https://api.fitbit.com",
+      "tokenPath": "/oauth2/token"
+    },
+    "authorization_uri": {
+      "redirect_uri": "http://localhost:4000/fitbit_auth_callback/",
+      "response_type": "code",
+      "scope": "activity nutrition profile settings sleep social weight heartrate",
+      "state": "3(#0/!~"
+    }
+  },
+  "traffic": {
+    "key": "AmdLAZV__yDpi2CayJpTlXBlfIVF7KP0Iy-eoBx68Q2E9hoXfTFvomt1_Mr036iZ",
+    "refreshInterval": "2",
+    "trips": [
+      {
+        "name": "Work",
+        "mode": "Driving",
+        "origin": "Seoul",
+        "destination": "Pohang"
+      }
+    ]
+  },
+  "forecast": {
+    "key": "0c0183b4c9100cd8c76fa746432cc551",
+    "units": "auto",
+    "refreshInterval": 2
+  }
+}

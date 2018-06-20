@@ -1,3 +1,5 @@
+[← go back to the list](https://HandongHCI.github.io/Tutorials)
+
 ### 대한민국 공공데이터 이용하기
 
 #### Introduction
@@ -140,3 +142,5 @@ function ImportJSON()
 - 새 창이 뜨면 아래 그림과 같이 데이터 자동 획득을 위해 trriger를 생성
 ![](WeatherAutoRenew.png)
 - 하루에 24개의 data를 자동으로 받아옴
+
+[← go back to the list](https://HandongHCI.github.io/Tutorials)

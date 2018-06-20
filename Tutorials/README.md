@@ -1,4 +1,4 @@
-[← go back to the main page](https://leelamb.github.io/)
+[← go back to the main page](https://HandongHCI.github.io/)
 
 #### Technical Tutorials for HCI computing
 - [Setting Raspbian on Raspberry Pi 3 (Kor)](Raspbian.md)
@@ -14,6 +14,3 @@
 - 
 - 
 - (more topics will be added)
-
-#### Student Projects
-- (준비 중)

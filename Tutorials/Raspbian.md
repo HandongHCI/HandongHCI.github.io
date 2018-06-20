@@ -1,4 +1,4 @@
-[← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)
+[← go back to the list](https://HandongHCI.github.io/Tutorials)
 
 ### Setting Raspbian on Raspberry Pi 3
 
@@ -29,7 +29,7 @@
 - Windows나 Mac에서 mini SD 카드에 Raspbian을 설치한 후, mini SD를 Raspberry Pi에 꽂는 방식으로 설치한다.
 - 설치를 도와주는 tool로 NOOBS, Win32DiskImage, Etcher 등이 있는데, Etcher를 이용하는 것이 advanced된 방법이다.
 - Etcher
-	- [https://etcher.io](https://etcher.io) 에서 Etcher 프로그램 중 하나를 선택하여 받는다(Windows의 경우 portable 버전을 사용하면 편함).
+	- [https://etcher.io](https://etcher.io)에서 Etcher 프로그램 중 하나를 선택하여 받는다(Windows의 경우 portable 버전을 사용하면 편함).
 	- Mini SD에 Raspian을 설치한다.
 		1. Etcher 실행
 		1. 다운로드한 Raspbian with Desktop (zip 파일)을 선택 
@@ -161,4 +161,4 @@
 	- [라즈비안 설치 (Eng)](www.raspberrypi.org/documentation/installation/installing-images/README.md)
 	- [라즈베리파이 문서 (Kor)](https://wikidocs.net/book/483)
 
-[← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)
+[← go back to the list](https://HandongHCI.github.io/Tutorials)

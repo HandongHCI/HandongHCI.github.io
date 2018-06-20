@@ -1,4 +1,4 @@
-[← go back to HandongHCI page](https://leelamb.github.io/HandongHCI)
+[← go back to the list](https://HandongHCI.github.io/Tutorials)
 
 ### Google Sheets에 저장된 데이터를 javascript로 받아오기
 
@@ -46,4 +46,6 @@
     </html>
     ```
 
-Demo: https://leelamb.github.io/HandongHCI/weather.html
+Demo: https://HandongHCI.github.io/Tutorials/weather.html
+
+[← go back to the list](https://HandongHCI.github.io/Tutorials)

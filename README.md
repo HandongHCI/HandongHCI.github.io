@@ -4,7 +4,7 @@ This Github page is to introduce knowledge and techniques about HCI prototyping 
 
 To see instructions and tutorials, go to [/Tutorials](Tutorials/README.md)
 
-### Student projects
+### Student Projects
 - [HCI 2018S](HCI2018S/README.md)
 
 ### TO-DO

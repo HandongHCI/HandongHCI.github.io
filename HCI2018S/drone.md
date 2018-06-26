@@ -53,8 +53,8 @@ Figure: Tello by Leap Motion in Scratch (example)
   4. In Git-Bash or Terminal, go to the directory where tello.go file exists. Then, type `go run tello.go` to run the Go file.
 
 ### Download
-- [Tello using Keyboard](drone/tello_with_keyboard.go)
-- [Tello using Leap Motion](drone/tello_with_leap_motion.go)
+- [Tello using Keyboard](Drone/tello_with_keyboard.go)
+- [Tello using Leap Motion](Drone/tello_with_leap_motion.go)
 
 
 ## Further Issues

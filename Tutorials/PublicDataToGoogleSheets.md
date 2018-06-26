@@ -1,13 +1,13 @@
 [← go back to the list](https://HandongHCI.github.io/Tutorials)
 
-### 대한민국 공공데이터 이용하기
+## 대한민국 공공데이터 이용하기
 
-#### Introduction
+### Introduction
 - 대한민국 공공데이터에서 JSON 형식으로 된 데이터를 Google Sheets로 받아옴
 - 본 문서에서는 특정 지역의 미세먼지와 날씨 데이터를 주기적으로 받아와 Google Sheets를 자동으로 업데이트 하는 방법을 다룸
 - [다음 문서](ReadGoogleSheets.md)에서는 Javascript를 이용하여 Google Sheets에 입력된 데이터를 web page로 불러오는 방법을 다룸
 
-#### 공공데이터 가입하기
+### 공공데이터 가입하기
 - [대한민국 공공데이터 사이트](https://www.data.go.kr)
 - 한국환경공단 대기오염정보 조회 서비스 예: https://www.data.go.kr/dataset/15000581/openapi.do
 - 절차
@@ -47,7 +47,7 @@
 		- `pm10Grade1h` 미세먼지 1시간 등급
 		- `pm25Grade1h` 초미세먼지 1시간 등급
 
-#### 활용 방법
+### 활용 방법
 - Google Sheets의 script editor를 이용하여 JSON 데이터를 받아와서 자동으로 저장
 - 예시: https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=0
 - 본 예시에서는 공공데이터 중에서 미세먼지(한국환경공단 대기오염정보 조회)와 날씨((신)동네예보정보조회서비스)를 받아오는 방법을 소개
@@ -137,10 +137,11 @@ function ImportJSON()
 }
 ```
 
-#### 자동 데이터 획득
+### 자동 데이터 획득
 - 상단 메뉴에서 저장(disk 이미지)과 run(삼각형 실행 이미지) 사이에 있는 시계 모양을 클릭
 - 새 창이 뜨면 아래 그림과 같이 데이터 자동 획득을 위해 trriger를 생성
 ![](WeatherAutoRenew.png)
 - 하루에 24개의 data를 자동으로 받아옴
 
+<br><br><br>
 [← go back to the list](https://HandongHCI.github.io/Tutorials)

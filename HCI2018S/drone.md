@@ -17,15 +17,20 @@
 2. Install [node.js](https://nodejs.org/en/)
 3. Download [Tello.js and Tello.s2e](https://dl-cdn.ryzerobotics.com/downloads/tello/20180222/Scratch.zip)
 4. Open the terminal and go to the file directory where you saved the _Tello.js_ and _Tello.s2e_ files and type `node Tello.js`
-5. Open Scratch 2.0, hold __Shift__ key, click __File__ menu, click __Import Experimental HTTP Extension__, and select _Tello.s2e_ file
-6. The Tello interface will be shown in Scratch under More Blocks
-![Tello blocks in Scratch](files/Tello&#32;in&#32;Scratch.png)
+5. Open Scratch 2.0 Offline, hold __Shift__ key, click __File__ menu, click __Import Experimental HTTP Extension__, and select _Tello.s2e_ file
+6. The Tello interface will be shown in Scratch under __More Blocks__
+![Tello blocks in Scratch](/files/Tello&#32;in&#32;Scratch.png)
 
 ### Leap Motion in Scratch
 1. Download [Scratch 2.0 Plug-in for Leap Motion.exe](https://github.com/khanning/khanning.github.io/blob/master/leapscratch/downloads/Scratch%202.0%20Plug-in%20for%20Leap%20Motion.exe) from https://github.com/khanning/khanning.github.io/tree/master/leapscratch/downloads
-2. Connect the Leap Motion controller to the PC via USB.
-3. Read [https://khanning.github.io/scratch-leapmotion-extension/](https://khanning.github.io/scratch-leapmotion-extension/) to know more about the Scratch extention for Leap Motion.
+2. Connect Leap Motion controller to PC via USB.
+3. Open Scratch 2.0 Offline
+* Read [https://khanning.github.io/scratch-leapmotion-extension/](https://khanning.github.io/scratch-leapmotion-extension/) to know more about the Scratch extention for Leap Motion.
 
+### Controlling Tello by Leap Motion in Scratch
+
+![Example: Tello by Leap Motion in Scratch](/files/Tello&#32;by&#32;Leap&#32;Motion&#32;in&#32;Scratch.png)
+Example: Tello by Leap Motion in Scratch
 
 ## Part B. Tello & Leap Motion using Gobot Library
 

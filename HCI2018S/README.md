@@ -1,6 +1,5 @@
 [← go back to the main page](https://HandongHCI.github.io/)
 
-<br><br><br>
 #### Introduction
 
 (in preparation)

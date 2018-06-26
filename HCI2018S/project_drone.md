@@ -68,4 +68,9 @@ Figure: Tello by Leap Motion in Scratch (example)
 
 
 <br><br><br>
+### Comments by the team
+In conclusion, interaction with Leap Motion was not easy as it seemed. Reality and our expectation was usually different. And it was new to know that debugging part was so important. However, we could also learn that we don’t have to fully understand a certain language or skills to use it. What we need is problem solving skills rather than trying to know everything. We found out the interaction between the  hand guesture and drone is promising. It should be very intuitive. Whoever use drone for first time will know how to use it. Imagine yourself playing pilot game virtually. You can have tons of hand interaction without things like joystick!
+
+
+<br><br><br>
 [← go back to the list](https://HandongHCI.github.io/HCI2018S)

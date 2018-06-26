@@ -40,12 +40,26 @@ Figure: Tello by Leap Motion in Scratch (example)
 <br><br><br>
 ## Part B. Tello & Leap Motion using Gobot Library
 ### Limitation of Scratch
-- Tello does not immediately move as it is controlled in Scratch. Once forward (or any direction) is commanded in Scratch to Tello, it starts to move in 1 or 2 seconds (no immediate movement; unkwon issue).
+- Tello does not immediately move as it is controlled in Scratch. Once Tello is commanded to move in Scratch, it starts moving 1 or 2 seconds later (no immediate movement; unkwon issue).
 - Excute the _forward_ block in Scratch > (1~2s delay) > Tello moves forward > ...
 
-### Gobot codes
+### Gobot 
+- [Gobot](https://gobot.io/) is a framework of Go language, that supports [30+ robotics, Drones, and IoT devices](https://gobot.io/documentation/platforms/) including Tello and Leap Motion.
+- See [Tello and Leap Motion Gobot examples](https://gobot.io/documentation/examples/) to understand how to use Gobot framework.
+- To use Gobot
+  1. Install [Go language](https://golang.org/)
+  2. Install [Git](https://git-scm.com/downloads) if you use Windows (Mac does not require this step)
+  3. Install Gobot. To install, in Git-Bash (MS Windows) or Terminal (MacOS), type `$ go get -d -u gobot.io/x/gobot/...` (including the three dots)
+  4. In Git-Bash or Terminal, go to the directory where tello.go file exists. Then, type `go run tello.go` to run the Go file.
+
+### Download
 - [Tello using Keyboard](drone/tello_with_keyboard.go)
 - [Tello using Leap Motion](drone/tello_with_leap_motion.go)
 
+
+## Further Issues
+- upgrade the code for better alogirhm to control Tello with more natural hand guesture
+- controlling multiple tellos altogether at the same time
+- look into Tello.js if Tello can more immediately respond in Scratch
 
 [← go back to the list](https://HandongHCI.github.io/HCI2018S)

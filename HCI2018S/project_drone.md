@@ -66,4 +66,6 @@ Figure: Tello by Leap Motion in Scratch (example)
 - controlling multiple tellos altogether at the same time
 - look into Tello.js if Tello can more immediately respond in Scratch
 
+
+<br><br><br>
 [← go back to the list](https://HandongHCI.github.io/HCI2018S)

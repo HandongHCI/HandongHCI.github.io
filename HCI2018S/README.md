@@ -8,7 +8,7 @@
 - Interactive Web Design
 - Interactive Media Art
 - IoT
-- [Drone](drone.md)
+- [Drone](project_drone.md)
 - Smart Mirror
 
 [← go back to the main page](https://HandongHCI.github.io/)

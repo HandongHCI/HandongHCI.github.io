@@ -11,6 +11,7 @@
 - Tello & Leap Motion using Scratch
 - Tello & Leap Motion using Gobot library
 
+
 <br><br><br>
 ## Part A. Tello & Leap Motion using Scratch
 ### DJI Tello in Scratch 
@@ -37,6 +38,7 @@ Figure: Tello blocks in Scratch
 ![Example: Tello by Leap Motion in Scratch](files/Tello&#32;by&#32;Leap&#32;Motion&#32;in&#32;Scratch.png)
 Figure: Tello by Leap Motion in Scratch (example)
 
+
 <br><br><br>
 ## Part B. Tello & Leap Motion using Gobot Library
 ### Limitation of Scratch
@@ -58,6 +60,7 @@ Figure: Tello by Leap Motion in Scratch (example)
 - download from <a href="Drone" target="_blank">here</a>
 
 
+<br><br><br>
 ## Further Issues
 - upgrade the code for better alogirhm to control Tello with more natural hand guesture
 - controlling multiple tellos altogether at the same time

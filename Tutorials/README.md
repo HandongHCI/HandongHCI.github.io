@@ -8,7 +8,7 @@
 - Google API 사용법
 - Install Alexa on your computer
 - 대학생활 및 팀프로젝트에 도움이 되는 생산성도구 살펴보기
-- 
+- ScratchX
 - 
 - 
 - 

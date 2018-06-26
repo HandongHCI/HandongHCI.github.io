@@ -23,7 +23,7 @@
 
 4. 이제는 javascript를 이용하여 JSON을 받아오기만 하면 된다. Public data를 받아오는 형식으로 API를 이용하기 위한 key값은 불필요하다. (데이터를 string으로 받기 때문에 숫자로 변환하려면 `parseInt` 함수를 쓰면 된다.
 
-5. Demo는 <a href="weather.html" target="_blank">weather.html</a> 참조
+5. Demo는 [weather.html](weather.html) 참조
     ```
     <html>
     <head>

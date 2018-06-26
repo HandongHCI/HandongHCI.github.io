@@ -1,12 +1,12 @@
 [← go back to the list](https://HandongHCI.github.io/Tutorials)
 
-### Setting Raspbian on Raspberry Pi 3
+## Setting Raspbian on Raspberry Pi 3
 
-#### Introduction
+### Introduction
 - Raspbian은 Raspberry Pi에 설치되는 Linux 기반 OS
 - Version: Raspbian Stretch (그 이전 version명은 Jessie)
 
-#### 준비물
+### 준비물
 - Raspberry Pi 세트
 	- Raspberry Pi 3
 	- mini SD
@@ -20,12 +20,12 @@
 - 마이크 (Google Speech API나 Alexa를 이용하려면 필요)
 - 스피커 (스피커가 지원되는 모니터라면 HDMI 케이블을 이용하여 모니터
 
-#### 다운로드
+### 다운로드
 - [Raspberry Pi site](www.raspberrypi.org/downloads/raspbian)
 - 사이트에서 Raspbian with Desktop을 받는다(압축 풀지 않음).
 - Raspbian Lite는 desktop(바탕화면) 환경이 빠진 가벼운 버전이다. MS Windows와 같은 desktop환경이 구축되므로 파일탐색기를 이용하여 파일을 관리하거나 Text Editor를 이용하여 coding할 수 있다.
 
-#### 설치
+### 설치
 - Windows나 Mac에서 mini SD 카드에 Raspbian을 설치한 후, mini SD를 Raspberry Pi에 꽂는 방식으로 설치한다.
 - 설치를 도와주는 tool로 NOOBS, Win32DiskImage, Etcher 등이 있는데, Etcher를 이용하는 것이 advanced된 방법이다.
 - Etcher
@@ -161,4 +161,5 @@
 	- [라즈비안 설치 (Eng)](www.raspberrypi.org/documentation/installation/installing-images/README.md)
 	- [라즈베리파이 문서 (Kor)](https://wikidocs.net/book/483)
 
+<br><br><br>
 [← go back to the list](https://HandongHCI.github.io/Tutorials)

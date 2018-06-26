@@ -52,9 +52,10 @@ Figure: Tello by Leap Motion in Scratch (example)
   3. Install Gobot. To install, in Git-Bash (MS Windows) or Terminal (MacOS), type `$ go get -d -u gobot.io/x/gobot/...` (including the three dots)
   4. In Git-Bash or Terminal, go to the directory where tello.go file exists. Then, type `go run tello.go` to run the Go file.
 
-### Download
-- [Tello using Keyboard](Drone/tello_with_keyboard.go)
-- [Tello using Leap Motion](Drone/tello_with_leap_motion.go)
+### Source Code
+- Tello using Keyboard
+- Tello using Leap Motion
+- download from <a href="Drone" target="_blank">here</a>
 
 
 ## Further Issues

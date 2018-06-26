@@ -54,5 +54,6 @@
 
 #### 기타
 - Git을 통해 협업하는 방법을 알면 좋다. Git은 단순 cloud storage가 아니라 issue를 제기하고, 서로 토론하고, 다른 사람의 code를 받아들이면서 프로젝트를 유기적으로 관리한다. [구글](https://github.com/google)과 [아마존](https://github.com/amzn)에서 어떻게 Github를 통해 프로젝트를 관리하는지 살펴보자.
+- 더 다양한 테마를 원한다면: [http://jekyllthemes.org/](http://jekyllthemes.org/)
 
 [← go back to the list](https://HandongHCI.github.io/Tutorials)

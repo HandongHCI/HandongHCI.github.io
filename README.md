@@ -13,6 +13,6 @@ To see instructions and tutorials, go to [/Tutorials](Tutorials/README.md)
 
 #### Contact
 - W.LEE (at) HANDONG (dot) EDU
-- Website: https://sites.google.com/view/wonsuplee
-- LinkedIn: https://www.linkedin.com/in/wonsuplee
-- Facebook Page: https://www.facebook.com/HandongHCI
+- Website: [https://sites.google.com/view/wonsuplee](https://sites.google.com/view/wonsuplee)
+- LinkedIn: [https://www.linkedin.com/in/wonsuplee](https://www.linkedin.com/in/wonsuplee)
+- Facebook Page: [https://www.facebook.com/HandongHCI](https://www.facebook.com/HandongHCI)

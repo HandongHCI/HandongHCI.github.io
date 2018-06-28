@@ -2,7 +2,7 @@
 
 # Drone Team
 
-<img src="files/DJI Tello.jpg" height="200"><img src="files/Leap Motion.jpg" height="200">
+<img src="../files/DJI Tello.jpg" height="200"><img src="../files/Leap Motion.jpg" height="200">
 
 #### Members
 - 김한설, 임승찬, 김시은, 김하준, 황인성, Dennis Phalula

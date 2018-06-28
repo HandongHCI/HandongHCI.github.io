@@ -4,7 +4,7 @@
 - Interactive Web Design
 - Interactive Media Art
 - IoT
-- [Drone](project_drone.md)
+- [Drone](Drone)
 - Smart Mirror
 
 <br><br><br>

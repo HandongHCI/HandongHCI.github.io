@@ -35,7 +35,7 @@ Figure: Tello blocks in Scratch
 * Read [https://khanning.github.io/scratch-leapmotion-extension/](https://khanning.github.io/scratch-leapmotion-extension/) to know more about the Scratch extention for Leap Motion.
 
 ### Controlling Tello by Leap Motion in Scratch
-![Example: Tello by Leap Motion in Scratch](files/Tello&#32;by&#32;Leap&#32;Motion&#32;in&#32;Scratch.png)
+![Example: Tello by Leap Motion in Scratch](../files/Tello&#32;by&#32;Leap&#32;Motion&#32;in&#32;Scratch.png)
 Figure: Tello by Leap Motion in Scratch (example)
 
 

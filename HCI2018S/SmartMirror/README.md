@@ -2,14 +2,10 @@
 
 # Smart Mirror
 
-http://www.youtube.com/watch?v=XpDLMKQtfx4
-https://www.youtube.com/watch?v=tmxpc1bJFaQ
+Introduction Video<br>
+[![Smart Mirror Team](https://img.youtube.com/vi/XpDLMKQtfx4/0.jpg)](https://www.youtube.com/watch?v=XpDLMKQtfx4 "Smart Mirror")
 
-#### Introduction
 
-- This project was based on [Evan Cohen's Smart Mirror project](https://github.com/evancohen/smart-mirror).
-- From our project, the necessary files, `keyfile.json` and `config.json`, were deleted because it contains personal API keys.
-- See details about this project from [Evan's documentation](http://docs.smart-mirror.io).
 
 #### Members
 - 박종욱, 이상규, 김진이, 노진기, 한진영, M. Janet Mwanjiwa
@@ -17,6 +13,7 @@ https://www.youtube.com/watch?v=tmxpc1bJFaQ
 #### Agenda
 - Tello & Leap Motion using Scratch
 - Tello & Leap Motion using Gobot library
+
 
 
 <br><br><br>
@@ -62,21 +59,27 @@ Figure: Tello by Leap Motion in Scratch (example)
   4. In Git-Bash or Terminal, go to the directory where tello.go file exists. Then, type `go run tello.go` to run the Go file.
 
 ### Source Code
-- Tello using Keyboard
-- Tello using Leap Motion
-- download from <a href="Drone" target="_blank">here</a>
+- SmartMirror <a href="" target="_blank">here</a>
+- From our project, the necessary files, `keyfile.json` and `config.json`, were deleted because it contains personal API keys.
 
 
 <br><br><br>
 ## Further Issues
-- upgrade the code for better alogirhm to control Tello with more natural hand guesture
-- controlling multiple tellos altogether at the same time
-- look into Tello.js if Tello can more immediately respond in Scratch
+- 
+- 
+- 
+
+- This project was based on [Evan Cohen's Smart Mirror project](https://github.com/evancohen/smart-mirror).
+- See details about this project from [Evan's documentation](http://docs.smart-mirror.io).
+
+### Demonstration 
+[![Smart Mirror Demo](https://img.youtube.com/vi/tmxpc1bJFaQ/0.jpg)](https://www.youtube.com/watch?v=tmxpc1bJFaQ "Smart Mirror Demo")
+
 
 
 <br><br><br>
 ### Comments by the team
-In conclusion, interaction with Leap Motion was not easy as it seemed. Reality and our expectation was usually different. And it was new to know that debugging part was so important. However, we could also learn that we don’t have to fully understand a certain language or skills to use it. What we need is problem solving skills rather than trying to know everything. We found out the interaction between the  hand guesture and drone is promising. It should be very intuitive. Whoever use drone for first time will know how to use it. Imagine yourself playing pilot game virtually. You can have tons of hand interaction without things like joystick!
+
 
 
 <br><br><br>

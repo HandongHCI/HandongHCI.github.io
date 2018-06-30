@@ -2,7 +2,7 @@
 
 # Drone Team
 
-<img src="../files/DJI Tello.jpg" height="200"><img src="../files/Leap Motion.jpg" height="200">
+<img src="img/DJI Tello.jpg" height="200"><img src="img/Leap Motion.jpg" height="200">
 
 #### Members
 - 김한설, 임승찬, 김시은, 김하준, 황인성, Dennis Phalula
@@ -24,7 +24,7 @@
 7. The Tello interface will be shown in Scratch under __More Blocks__
 * Read [https://www.heliguy.com/blog/2018/04/18/coding-with-the-ryze-tello/](https://www.heliguy.com/blog/2018/04/18/coding-with-the-ryze-tello/) to know details how to do this process.
 
-![Tello blocks in Scratch](files/Tello&#32;in&#32;Scratch.png)
+![Tello blocks in Scratch](img/Tello&#32;in&#32;Scratch.png)
 Figure: Tello blocks in Scratch
 
 ### Leap Motion in Scratch
@@ -35,7 +35,7 @@ Figure: Tello blocks in Scratch
 * Read [https://khanning.github.io/scratch-leapmotion-extension/](https://khanning.github.io/scratch-leapmotion-extension/) to know more about the Scratch extention for Leap Motion.
 
 ### Controlling Tello by Leap Motion in Scratch
-![Example: Tello by Leap Motion in Scratch](../files/Tello&#32;by&#32;Leap&#32;Motion&#32;in&#32;Scratch.png)
+![Example: Tello by Leap Motion in Scratch](img/Tello&#32;by&#32;Leap&#32;Motion&#32;in&#32;Scratch.png)
 Figure: Tello by Leap Motion in Scratch (example)
 
 
@@ -57,7 +57,7 @@ Figure: Tello by Leap Motion in Scratch (example)
 ### Source Code
 - Tello using Keyboard
 - Tello using Leap Motion
-- download from <a href="Drone" target="_blank">here</a>
+- download from <a href="download" target="_blank">here</a>
 
 
 <br><br><br>

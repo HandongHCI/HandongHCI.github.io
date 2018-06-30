@@ -7,7 +7,7 @@ http://www.youtube.com/watch?v=XpDLMKQtfx4
 {% endyoutube %}
 
 {% youtube %}
-https://www.youtube.com/watch?v=tmxpc1bJFaQ)
+https://www.youtube.com/watch?v=tmxpc1bJFaQ
 {% endyoutube %}
 
 #### Introduction

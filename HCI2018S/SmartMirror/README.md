@@ -3,7 +3,7 @@
 # Smart Mirror
 
 Introduction Video<br>
-[![Smart Mirror Team](https://img.youtube.com/vi/XpDLMKQtfx4/0.jpg)](https://www.youtube.com/watch?v=XpDLMKQtfx4 "Smart Mirror")
+[![Smart Mirror Team](https://img.youtube.com/vi/XpDLMKQtfx4/0.jpg)](https://www.youtube.com/watch?v=XpDLMKQtfx4 "Smart Mirror" | width=100)
 
 
 

@@ -43,7 +43,7 @@ Figure: Tello by Leap Motion in Scratch (example)
 ## Part B. Tello & Leap Motion using Gobot Library
 ### Limitation of Scratch
 - Tello does not immediately move as it is controlled in Scratch. Once Tello is commanded to move in Scratch, it starts moving 1 or 2 seconds later (no immediate movement; unkwon issue).
-- Excute the _forward_ block in Scratch > (1~2s delay) > Tello moves forward > ...
+- E.g.: Excute the _forward_ block in Scratch > (1~2s delay) > Tello moves forward > ...
 
 ### Gobot 
 - [Gobot](https://gobot.io/) is a framework of Go language, that supports [30+ robotics, Drones, and IoT devices](https://gobot.io/documentation/platforms/) including Tello and Leap Motion.
@@ -57,7 +57,7 @@ Figure: Tello by Leap Motion in Scratch (example)
 ### Source Code
 - Tello using Keyboard
 - Tello using Leap Motion
-- download from <a href="download" target="_blank">here</a>
+- download from <a href="https://github.com/HandongHCI/HandongHCI.github.io/tree/master/HCI2018S/Drone/download" target="_blank">here</a>
 
 
 <br><br><br>

@@ -66,7 +66,7 @@ npm install
 
 6. 기타 Raspberry Pi 환경 설정
 
-아래 환경설정 부분은 Smart Mirror의 설치 및 설정 파일에 포함되어 있지 않고 Raspbian에서 수정하는 부분이다.
+	아래 환경설정 부분은 Smart Mirror의 설치 및 설정 파일에 포함되어 있지 않고 Raspbian에서 수정하는 부분이다.
 
 	1. 마이크 설정
 	- `sudo vim /usr/share/alsa/alsa.conf`로 설정 파일을 열고 68번째 줄 정도에 있는 아래 부분을
@@ -116,11 +116,12 @@ npm install
 
 7. Smart Mirror 환경 설정
 
-Smart Mirror를 처음 실행하기 위해 Raspberry Pi의 smart-mirror 폴더 내에서 `npm start`를 실행한다. 그러면 화면에 아래와 같은 문구가 뜨는데, 같은 wifi network 상의 다른 PC에서 web browser에 `http://192.168.1.130:8080`를 입력함으로써 Smart Mirror에 접속한다. (IP 주소는 다른 것이 될 수 있다.) 접속하여 Smart Mirror의 환경을 설정한다.
-```
-Remote listening on http://192.168.1.130:8080
-```
-처음 환경을 설정하고 나면 smart-mirror 폴더 내에 `config.json` 파일이 생성되는데, 추후 설정을 위해 다른 PC에서 접속하지 않고 이 파일의 내용을 수정해도 된다.
+	Smart Mirror를 처음 실행하기 위해 Raspberry Pi의 smart-mirror 폴더 내에서 `npm start`를 실행한다. 그러면 화면에 아래와 같은 문구가 뜨는데, 같은 wifi network 상의 다른 PC에서 web browser에 `http://192.168.1.130:8080`를 입력함으로써 Smart Mirror에 접속한다. (IP 주소는 다른 것이 될 수 있다.) 접속하여 Smart Mirror의 환경을 설정한다.
+	```
+	Remote listening on http://192.168.1.130:8080
+	```
+
+	처음 환경을 설정하고 나면 smart-mirror 폴더 내에 `config.json` 파일이 생성되는데, 추후 설정을 위해 다른 PC에서 접속하지 않고 이 파일의 내용을 수정해도 된다.
 	1. iCal을 활용한 calendar 추가: iCal은 google 캘린더, 네이버 캘린더 등 다양한 종류의 캘린더를 연동 시켜서 하나로 쓸 수 있도록 한다. 가령, 본인 Google Calendar의 설정에서 iCal 공개 주소를 얻을 수 있는데, 이것을 `config.json` 내에 붙여넣으면 된다.
 	1. 날씨: 위도와 경도를 수동으로 입력한다. 참고: <a href="https://blog.naver.com/dlwjddns5/220795587772" target="_blank">사이트1</a>, <a href="http://bluexmas.tistory.com/573?category=627648" target="_blank">사이트2</a>
 	1. YouTube: <a href="https://console.cloud.google.com/" target="_blank">Google Cloud Platform</a>의 API & Services > API Library에서 __YouTube Data API v3__를 활성화(enable)한다. 그리고나서 Credentials에서 API Key를 만들면서 해당 API에 YouTube Data API v3를 할당한다(API Restrctions 메뉴에서 YouTube Data API v3를 선택). 이렇게 생성된 API Key를 `config.json`에 입력한다.

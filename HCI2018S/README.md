@@ -5,7 +5,7 @@
 - Interactive Media Art
 - IoT
 - [Drone](Drone)
-- Smart Mirror
+- [Smart Mirror](SmartMirror)
 
 <br><br><br>
 [← go back to the main page](https://HandongHCI.github.io/)

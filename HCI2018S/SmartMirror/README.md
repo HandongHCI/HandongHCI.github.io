@@ -3,7 +3,7 @@
 # Smart Mirror
 
 Introduction Video<br>
-[![Smart Mirror Team](https://img.youtube.com/vi/XpDLMKQtfx4/0.jpg)](https://www.youtube.com/watch?v=XpDLMKQtfx4 "Smart Mirror")
+<iframe width="100%" src="https://www.youtube.com/embed/XpDLMKQtfx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
@@ -144,9 +144,7 @@ npm install
 
 
 ### Demonstration
-[![Smart Mirror Demo](https://img.youtube.com/vi/tmxpc1bJFaQ/0.jpg)](https://www.youtube.com/watch?v=tmxpc1bJFaQ "Smart Mirror Demo")
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tmxpc1bJFaQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/tmxpc1bJFaQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Source Code

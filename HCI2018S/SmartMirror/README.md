@@ -11,8 +11,10 @@ Introduction Video<br>
 - 박종욱, 이상규, 김진이, 노진기, 한진영, M. Janet Mwanjiwa
 
 #### Agenda
-- Tello & Leap Motion using Scratch
-- Tello & Leap Motion using Gobot library
+- Smart Mirror 제작 준비
+- Smart Mirror 설치 및 설정
+- Smart Mirror 서비스 연결
+- Smart Mirror UI 디자인 및 frame 제작
 
 
 
@@ -63,6 +65,7 @@ npm install
 
 
 6. 기타 Raspberry Pi 환경 설정
+
 아래 환경설정 부분은 Smart Mirror의 설치 및 설정 파일에 포함되어 있지 않고 Raspbian에서 수정하는 부분이다.
 
 	1. 마이크 설정
@@ -71,7 +74,6 @@ npm install
 	defaults.ctl.card 0
 	defaults.pcm.card 0
 	```
-
 	- 아래와 같이 변경한다. Sound 관련 다른 설정은 바꾸지 않는다.
 	```
 	defaults.ctl.card 1
@@ -93,7 +95,6 @@ npm install
 	xset -dpms
 	xset s noblank
 	```
-
 	- 그리고 나서 `sudo vim /etc/xdg/lxsession/LXDE/autostart`로 autostart 파일을 열고 가장 아래에 다음의 세 줄을 추가한다.
 	```
 	@xset s off
@@ -114,6 +115,7 @@ npm install
 	```
 
 7. Smart Mirror 환경 설정
+
 Smart Mirror를 처음 실행하기 위해 Raspberry Pi의 smart-mirror 폴더 내에서 `npm start`를 실행한다. 그러면 화면에 아래와 같은 문구가 뜨는데, 같은 wifi network 상의 다른 PC에서 web browser에 `http://192.168.1.130:8080`를 입력함으로써 Smart Mirror에 접속한다. (IP 주소는 다른 것이 될 수 있다.) 접속하여 Smart Mirror의 환경을 설정한다.
 ```
 Remote listening on http://192.168.1.130:8080

@@ -3,7 +3,7 @@
 # Smart Mirror
 
 Introduction Video<br>
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/XpDLMKQtfx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XpDLMKQtfx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 100%;"></iframe>
 
 
 

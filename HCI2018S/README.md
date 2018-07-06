@@ -2,7 +2,7 @@
 
 ### Student Projects in 2018
 - Interactive Web Design
-- Interactive Media Art
+- [Interactive Media Art](MediaArt)
 - IoT
 - [Drone](Drone)
 - [Smart Mirror](SmartMirror)

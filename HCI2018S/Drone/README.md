@@ -7,9 +7,6 @@
 #### Members
 - 김한설, 임승찬, 김시은, 김하준, 황인성, Dennis Phalula
 
-#### Agenda
-- Tello & Leap Motion using Scratch
-- Tello & Leap Motion using Gobot library
 
 
 <br><br><br>

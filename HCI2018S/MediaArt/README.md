@@ -68,7 +68,7 @@
 ![화면5](img/photo6.png)
 
 #### Demo
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/watch?v=tAQJ2TnOeU8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/tAQJ2TnOeU8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
@@ -83,7 +83,7 @@
 ![화면1](img/photo7.gif)
 
 #### Demo
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/watch?v=siTn7Pl7wc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/siTn7Pl7wc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
@@ -96,7 +96,7 @@
 탈북민 캐릭터 ‘인남’이를 만들고 탈북민의 아픈 이야기를 들려준다. 그 후에 화면이 전환되어 탈북민에게 상처를 줄 수 있는 말들이 내려오는데 화면 인식을 통해 인남이가 된 사용자는 상처의 말들을 피할 수 있지만 3번 째 맞는 순간 화면이 바뀌면서 아픔에 대해 들려준다. 하지만 인남이는 아픔에 굴하는 것에 그치지 않고, 희망찬 화면으로 전환해  희망의 메시지도 전달하며 마무리한다.
 
 #### Demo
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/watch?v=XQY1y7qoQhw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/XQY1y7qoQhw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ![화면1](img/photo8.gif)
 
@@ -133,7 +133,9 @@
 ### Source Code
 - download from <a href="https://github.com/HandongHCI/HandongHCI.github.io/tree/master/HCI2018S/MediaArt/download" target="_blank">here</a>
 
-
+### Reference
+- https://kocoafab.cc/tutorial/view/716
+- (book) [스크래치 미디어아트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=1400000262870)
 
 <br><br><br>
 [← go back to the list](https://HandongHCI.github.io/HCI2018S)

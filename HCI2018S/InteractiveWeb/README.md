@@ -2,16 +2,13 @@
 
 # Interactive Media Art
 
+## Introduction
+“SHOW ME THE WEATHER”는 날씨를 시각적으로 보여주는 웹사이트로, 사용자가 날씨에 대한 정보를 읽지 않더라도 그림, 애니메이션 등으로 표현하여 직관적으로 알 수 있게 한다. 일반적인 날씨 알림 사이트/앱에서는 날씨를 숫자형 데이터와 간단한 기호로 알려준다. 예를 들어, 풍속  “7 m/s, → ” 와 같은 숫자와 방향기호를 보고 바람의 세기를 추측하기 쉽지 않다. 그래서 우리 팀은 날씨 데이터를 알려주는 것뿐만 아니라 시각적으로 보여줌으로써 사용자가 날씨 정보를 쉽게 인식할 수 있는 웹사이트를 만들기로 기획하였다. Javascript와 CSS를 이용하여 한 페이지 안에서 다양한 정보가 가시화될 수 있도록 하였다.
+
 ![](img/13.png)
 
 #### Members
 - 김주은, 이예담, 정지원, 박예은, Ruth Nvoni, Smith Childreni
-
-
-
-<br><br><br>
-## Introduction
-“SHOW ME THE WEATHER”는 날씨를 시각적으로 보여주는 웹사이트로, 사용자가 날씨에 대한 정보를 읽지 않더라도 그림, 애니메이션 등으로 표현하여 직관적으로 알 수 있게 한다. 일반적인 날씨 알림 사이트/앱에서는 날씨를 숫자형 데이터와 간단한 기호로 알려준다. 예를 들어, 풍속  “7 m/s, → ” 와 같은 숫자와 방향기호를 보고 바람의 세기를 추측하기 쉽지 않다. 그래서 우리 팀은 날씨 데이터를 알려주는 것뿐만 아니라 시각적으로 보여줌으로써 사용자가 날씨 정보를 쉽게 인식할 수 있는 웹사이트를 만들기로 기획하였다. Javascript와 CSS를 이용하여 한 페이지 안에서 다양한 정보가 가시화될 수 있도록 하였다.
 
 
 
@@ -132,7 +129,7 @@ SHOW ME THE WEATHER 사이트의 용도는 직관적으로 알기 어려운 데�
 ### 4-4. Menu (Wind)
 - 바람의 세기에 따른 해당하는 level의 이미지들을 반복하여 겹쳐 보여줌으로써 마치 그림이 영상처럼 움직이는 듯한 효과를 준다. 
 - 화면 구성
-![](img/16.png)
+![](img/17.png)
  
  - 구조
 	- `windContentBox`: 바람에 해당하는 모든 정보를 담고 있는 div
@@ -178,7 +175,6 @@ SHOW ME THE WEATHER 사이트의 용도는 직관적으로 알기 어려운 데�
 
 - <a href="https://github.com/HandongHCI/HandongHCI.github.io/tree/master/HCI2018S/InteractiveWeb/output" target="_blank">Demo</a>
 - <a href="http://HandongHCI.github.io/HCI2018S/InteractiveWeb/output" target="_blank">Source Codes</a>
-
 
 
 

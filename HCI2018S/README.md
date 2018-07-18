@@ -1,7 +1,7 @@
 [← go back to the main page](https://HandongHCI.github.io/)
 
 ### Student Projects in 2018
-- Interactive Web Design
+- [Interactive Web Design](InteractiveWeb)
 - [Interactive Media Art](MediaArt)
 - IoT
 - [Drone](Drone)

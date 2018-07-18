@@ -51,15 +51,16 @@ SHOW ME THE WEATHER 사이트의 용도는 직관적으로 알기 어려운 데�
 풍속에 따라 바람을 5단계로 나누고, 단계에 따른 이름, 코멘트, 특징 정하기
 
 단계 | 풍속 | 바람 이름 | 코멘트 | 특징
------|-----|----------|--------|------
+---- | ---- | -------- | ----- | -----
 1 | 0 ~ 1.5 m/s | Breeze | There is no wind today. | As the most windy wind, the sea surface has ripples in the form of fish scales.
 2 | 1.6 ~ 5.4 m/s | Gentle wind | A good day for a picnic | The wind feels in your face, and the leaves falter. Also, the weather vane moves, and the sea surface has a ripple effect.
 3 | 5.5 ~ 10.7 m/s | Biting Wind | Oh! Today I give up my hair. | Trees with small leaf begins to shake, and a small wave of water is created in the lake.
 4 | 10.8 ~ 17.1 m/s | Strong Wind | I should cancel everything today. | The whole big tree shakes, and it is hard to walk toward the wind. At sea, the waves get rougher and the trough breaks
 5 | 17.2 m/s 이상 | Typhoon | If you want to fly, go outside. | There is a slight damage to the building, such as a chimney cap and slate. At sea, the storm rises and the water spirals up.
-2. ②	5 단계에 따라 바람의 이름, 코멘트, 특징 그리고 캐릭터 정하기
 
+단계에 따른 캐릭터 정하기: 스케치, vector graphic, 
 
+위의 단계에서 만든 SVG 파일을 일러스트(Illustrator CC)를 사용하여 SVG 파일의 백터를 움직여 각 캐릭터의 행동을 수정하였다. 수정된 파일들을 연결하여 애니메이션을 만들 수 있도록 하였다.
 
 
 

@@ -66,22 +66,19 @@ SHOW ME THE WEATHER 사이트의 용도는 직관적으로 알기 어려운 데�
 ### 3-2. 사이트 구조 및 세부사항 디자인
 ![](img/9.jpg)
 
-위의 그림과 같이, 사이트의 구조를 정하였다. 사이트는 크게 4개의 화면으로 구성되는데, 첫화면, 도로 나눠진 한국지도, 시`군`구로 나눠진 도별 지도 그리고 날씨예보 화면이다.
+위의 그림과 같이, 사이트의 구조를 정하였다. 사이트는 크게 4개의 화면으로 구성되는데, 첫화면, 도로 나눠진 한국지도, 시/군/구로 나눠진 도별 지도 그리고 날씨예보 화면이다.
 
 - 첫 화면
 ![](img/10.png)
-
-첫 화면에는 사이트의 이름을 명시하기로 하였다. 그냥 명시만 한다면 사용자가 쉽게 지루하게 느낄 수도 있다고 판단하여 interactive한 디자인을 더하였다. 검정색 배경에 중간에 앱 이름을 넣을 원을 삽입하였다. 재미를 더하기 위해 계속해서 색이 하늘색(#1787EB)에서 탁한 흰색(#c3e1f7)로 변하는 원을 디자인하였다. 또한 사이트 이름은 철자 순서대로 작성하여 사용자가 사이트 이름에 집중할 수 있도록 하였다. 사이트 이름을 클릭하면 다음 화면으로 넘어가도록 하였다. 
+	첫 화면에는 사이트의 이름을 명시하기로 하였다. 그냥 명시만 한다면 사용자가 쉽게 지루하게 느낄 수도 있다고 판단하여 interactive한 디자인을 더하였다. 검정색 배경에 중간에 앱 이름을 넣을 원을 삽입하였다. 재미를 더하기 위해 계속해서 색이 하늘색(#1787EB)에서 탁한 흰색(#c3e1f7)로 변하는 원을 디자인하였다. 또한 사이트 이름은 철자 순서대로 작성하여 사용자가 사이트 이름에 집중할 수 있도록 하였다. 사이트 이름을 클릭하면 다음 화면으로 넘어가도록 하였다. 
 
 - 우리나라 지도, 도별 지도
 ![](img/11.png)
-
-배경은 연한 하늘색(#e1eef6), 지도는 하늘색(#b0daf4)로 설정하였고, 지도에 마우스 커서가 올라가면 주황색(#f9c045)로 변하게 하였다.
+	배경은 연한 하늘색(#e1eef6), 지도는 하늘색(#b0daf4)로 설정하였고, 지도에 마우스 커서가 올라가면 주황색(#f9c045)로 변하게 하였다.
 
 - 날씨 예보 화면
 ![](img/13.png)
-
-이 화면의 배경은 연한 하늘색(#e1eef6)로 이전 화면과 어색함이 없도록 하였다. 왼쪽에는 메뉴, 중앙에는 날씨예보로 구성된다. 메뉴는 흰색이며 Temperature, wind, finedust 그리고 contact 4가지로 구성되고, 마우스 커서가 닿을때마다 interactive하게 반응한다. WIND를 누르면 하늘색(#9fd1f4) 박스와 그 오른쪽 위에 흰색 박스(information box)가 생긴다. 하늘색 박스 중앙에는 날씨에 해당하는 풍속에 따른 애니메이션이, 오른쪽 위에는 그 바람에 대한 설명이 위치한다. 애니메이션 밑에는 흰색으로 오늘의 풍속을 알려주며, information box에는 위에서 정했던 바람의 이름, 코멘트 그리고 특징을 알려준다.
+	이 화면의 배경은 연한 하늘색(#e1eef6)로 이전 화면과 어색함이 없도록 하였다. 왼쪽에는 메뉴, 중앙에는 날씨예보로 구성된다. 메뉴는 흰색이며 Temperature, wind, finedust 그리고 contact 4가지로 구성되고, 마우스 커서가 닿을때마다 interactive하게 반응한다. WIND를 누르면 하늘색(#9fd1f4) 박스와 그 오른쪽 위에 흰색 박스(information box)가 생긴다. 하늘색 박스 중앙에는 날씨에 해당하는 풍속에 따른 애니메이션이, 오른쪽 위에는 그 바람에 대한 설명이 위치한다. 애니메이션 밑에는 흰색으로 오늘의 풍속을 알려주며, information box에는 위에서 정했던 바람의 이름, 코멘트 그리고 특징을 알려준다.
 
 
 ## 4. Development
@@ -170,11 +167,10 @@ SHOW ME THE WEATHER 사이트의 용도는 직관적으로 알기 어려운 데�
 
 
 ## Demo & Source Codes
-
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/JUqfB8Ri_Q0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 - <a href="https://github.com/HandongHCI/HandongHCI.github.io/tree/master/HCI2018S/InteractiveWeb/output" target="_blank">Demo</a>
 - <a href="http://HandongHCI.github.io/HCI2018S/InteractiveWeb/output" target="_blank">Source Codes</a>
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/JUqfB8Ri_Q0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 

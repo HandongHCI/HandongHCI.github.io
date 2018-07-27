@@ -11,6 +11,9 @@
 
 ## 준비물
 - Raspberry Pi (Raspberry Pi에 Raspbian OS 설치 방법은 [여기](Raspbian.md) 참조)
+- 미세먼지 센서 (여러 센서를 연결하기 위해서는 Arduino가 필요할 수 있음)
+- Philips HUE (HUE 외에 다른 표시장치를 이용할 수 있음)
+- USB keyboard, mouse
 
 ## Raspberry Pi에 미세먼지 센서 연결하기
 

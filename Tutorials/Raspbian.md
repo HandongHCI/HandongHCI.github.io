@@ -112,6 +112,9 @@
 	npm run XXX // 특정 JS를 실행한다.
 	```
 
+	**6. 악성코드 차단 방법**
+	Raspberry Pi를 대상으로 한 악성코드는 Rapberry Pi를 가상화폐 채굴기로 만들어 버린다. 이 악성코드는 네트워크의 기본 포트인 22번을 사용해 라즈베리파이에 접속하고, 공장 출고 기본값의 비밀번호를 입력해서 로그인에 성공하면 ZMap과 sshpass를 설치해 가상화폐를 체굴-전송한다. 이 악성코드에 걸리지 않으려면, 비밀번호를 부여하고 SSH 포트를 막는 등 몇 가지 설정이 필요하다. [https://wikidocs.net/9784](https://wikidocs.net/9784)를 참고할 것.
+
 - 참고사이트
 	- [라즈비안 설치 (Eng)](www.raspberrypi.org/documentation/installation/installing-images/README.md)
 	- [라즈베리파이 문서 (Kor)](https://wikidocs.net/book/483)

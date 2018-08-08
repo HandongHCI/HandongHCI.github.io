@@ -12,7 +12,7 @@
     - 따라서 나의 Github Pages 주소는 [`https://leelamb.github.io/`](https://leelamb.github.io/)가 되고, 이 홈페이지를 구성하는 github 계정 주소는 [`https://github.com/LeeLAMB/LeeLAMB.github.io`](https://github.com/LeeLAMB/LeeLAMB.github.io)이 된다.
 2. Github에 가입한다고 바로 `본인계정명.github.io`의 page가 생성되지는 않는다. `본인계정명.github.io`으로 생성한 repository로 들어가면 상단 우측 정도에 톱니바퀴 아이콘의 'Setup' 메뉴가 있는데, 클릭해서 setup화면에 들어간다. (또는 `https://github.com/본인계정명/본인계정명.github.io/settings`으로 접속하면 된다.) Setting 화면의 아래쪽에 Github Pages라는 항목이 있는데, 여기에서 source를 `master`로 선택하여 `본인계정명.github.io`를 활성화해야 된다.
 
-![Github Pages 활성화하는 setting 화면 예](GithubHomepageSetting.png)
+![Github Pages 활성화하는 setting 화면 예](img/GithubHomepageSetting.png)
 
 ### 글작성
 - 본인 컴퓨터에다 폴더를 만들어서 파일들을 생성하고 sourcetree와 같은 app을 통해 파일을 github에 comit하는 방법으로 github에 파일을 생성하과 수정/관리할 수 있다.

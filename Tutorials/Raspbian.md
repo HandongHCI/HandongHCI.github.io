@@ -21,7 +21,7 @@
 - 스피커 (스피커가 지원되는 모니터라면 HDMI 케이블을 이용하여 모니터
 
 ### 다운로드
-- [Raspberry Pi site](www.raspberrypi.org/downloads/raspbian)
+- [Raspberry Pi site](http://www.raspberrypi.org/downloads/raspbian)
 - 사이트에서 Raspbian with Desktop을 받는다(압축 풀지 않음).
 - Raspbian Lite는 desktop(바탕화면) 환경이 빠진 가벼운 버전이다. MS Windows와 같은 desktop환경이 구축되므로 파일탐색기를 이용하여 파일을 관리하거나 Text Editor를 이용하여 coding할 수 있다.
 

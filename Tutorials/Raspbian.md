@@ -39,6 +39,7 @@
 - Raspberry Pi에 Raspbian 연결
 	1. 학과에 있는 7inch 디스플레이를 사용할 것이라면, PC에 Mini SD를 연결하고 Raspbian이 설치된 드라이브를 열어서 config.txt의 가장 아래 줄에 다음 몇 줄을 추가한다. (이 때 포맷하라고 물어도 절대 포맷하지 말 것)
 	```
+	# setting for 7-inch LCD display
 	max_usb_current=1
 	hdmi_group=2
 	hdmi_mode=87
@@ -46,9 +47,9 @@
 	hdmi_drive=1
 	```
 	1. Raspberry Pi에 mini SD를 꽂고, 모니터, 키보드, 마우스 등을 연결한 후 전원을 공급한다.
-	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian을 초기 설정하는 화면이 보인다. 만약 초기 설정 화면으로 넘어가지 않고 부팅 중에 에러를 표시한다면 메모리를 FAT32로 파티션을 합쳐 포맷한 후(MacOS라면 DiskUtil 사용), 다시 Etcher로 Raspbian을 설치해본다.
-	1. Rapberry Pi 초기 설정 화면에서 **지역을 바꾸지 말고 넘어간다.** 그리고 반드시 비밀번호를 정해준다. (공용 장비는 0000으로 함) 그리고 Wifi를 잡은 후 자동 업데이트를 실행한다. (자동 업데이트가 성공적으로 되지 않고 오류가 날 수 있다. 업데이트 성공 여부에 관계 없이, 일단 리부팅을 한 후에 아래 3줄을 실행한다.)
-	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지운다. (앞에 `sudo`를 붙이면 read-only나 수정권한이 없는 file도 강제 수정할 수 있도록 한다는 뜻)
+	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian을 초기 설정하는 화면이 보인다. 만약 초기 설정 화면으로 넘어가지 않고 부팅 중에 에러를 표시한다면 메모리를 FAT32로 파티션을 합쳐 포맷한 후(MacOS라면 DiskUtil 사용하면 ), 다시 Etcher로 Raspbian을 설치해본다.
+	1. Rapberry Pi 초기 설정 화면에서 **지역을 바꾸지 말고 넘어간다.** 그리고 반드시 비밀번호를 정해준다. (공용 장비는 0000으로 함) 그리고 Wifi를 잡은 후 자동 업데이트를 실행한다. (자동 업데이트가 성공적으로 되지 않고 오류가 날 수 있다. 업데이트 성공 여부에 관계 없이, 일단 **리부팅을 한 후**에 아래 3줄을 실행한다.)
+	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지운다. (앞에 `sudo`를 붙이면 read-only나 수정권한이 없는 file도 강제 수정할 수 있도록 한다는 뜻) Upgrade할 사항이 있다면 약 20분 정도 소요된다.
 	```
 	sudo apt-get update
 	sudo apt-get upgrade

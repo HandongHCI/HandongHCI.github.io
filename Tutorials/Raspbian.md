@@ -27,17 +27,17 @@
 
 ### 설치
 - Windows나 Mac에서 mini SD 카드에 Raspbian을 설치한 후, mini SD를 Raspberry Pi에 꽂는 방식으로 설치한다.
-- 설치를 도와주는 tool로 NOOBS, Win32DiskImage, Etcher 등이 있는데, Etcher를 이용하는 것이 advanced된 방법이다.
+- 설치를 도와주는 tool로 NOOBS, Win32DiskImage, Etcher 등이 있는데, 이 예시에서는 Etcher를 이용한다.
 - Etcher
-	- [https://etcher.io](https://etcher.io)에서 Etcher 프로그램 중 하나를 선택하여 받는다(Windows의 경우 portable 버전을 사용하면 편함).
-	- Mini SD에 Raspian을 설치한다.
+	- [https://etcher.io](https://etcher.io)에서 Etcher 프로그램 중 하나를 선택하여 받는다(Windows의 경우 portable 버전을 사용하면 Etcher를 설치하지 않고도 이용할 수 있다.).
+	- Mini SD에 Raspbian을 설치한다.
 		1. Etcher 실행
 		1. 다운로드한 Raspbian with Desktop (zip 파일)을 선택 
 		1. mini SD 카드를 USB 리더기에 꽂고 USB 리더기를 PC의 연결한다. Etcher에서 해당 드라이브를 선택한다.
-		1. Flash를 눌러 Raspbian을 mini SD 카드에 설치한다(5분 이상 소요됨).
-		1. 설치 과정에서 mini SD가 몇 개의 파티션으로 나눠진다. 설치 과정 중에 "포맷"하라고 물어도 포맷하지 않는다.
+		1. 'Flash'를 눌러 Raspbian을 mini SD 카드에 설치한다(5분 이상 소요됨).
+		1. 설치 과정에서 mini SD가 2개의 파티션으로 나눠진다. **설치 과정 중에 "포맷"하라고 물어도 포맷하지 않는다.**
 - Raspberry Pi에 Raspbian 연결
-	1. 학과에 있는 7inch 디스플레이를 사용할 것이라면, PC에 Mini SD를 연결하고 Raspbian이 설치된 드라이브를 열어서 config.txt의 가장 아래 줄에 다음 몇 줄을 추가한다. (이 때 포맷하라고 물어도 절대 포맷하지 말 것)
+	1. 학과에 있는 7inch 디스플레이를 사용할 것이라면, PC에 mini SD를 연결하고 Raspbian이 설치된 드라이브를 열어서 config.txt의 가장 아래 줄에 다음 몇 줄을 추가한다. (**mini SD를 PC에 연결 시 포맷하라고 권장해도 절대 포맷하지 말 것**)
 	```
 	# setting for 7-inch LCD display
 	max_usb_current=1
@@ -48,7 +48,7 @@
 	```
 	1. Raspberry Pi에 mini SD를 꽂고, 모니터, 키보드, 마우스 등을 연결한 후 전원을 공급한다.
 	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian을 초기 설정하는 화면이 보인다. 만약 초기 설정 화면으로 넘어가지 않고 부팅 중에 에러를 표시한다면 메모리를 FAT32로 파티션을 합쳐 포맷한 후(MacOS를 이용하는 것이 편할 수 있다. DiskUtil 사용하여 mini SD의 volume을 erase하면 된다. 이 때 MS-DOS(FAT) 옵션을 이용한다. Mac에서 volume이 삭제된 mini SD를 윈도 PC로 읽어서 다시 '장치 기본값'으로 포맷한다.), 다시 Etcher로 Raspbian을 설치해본다.
-	1. Rapberry Pi 초기 설정 화면에서 **지역을 바꾸지 말고 넘어간다.** 그리고 반드시 비밀번호를 정해준다. (공용 장비는 0000으로 함) 그리고 Wifi를 잡은 후 자동 업데이트를 실행한다. (자동 업데이트가 성공적으로 되지 않고 오류가 날 수 있다. 업데이트 성공 여부에 관계 없이, 일단 **리부팅을 한 후**에 아래 3줄을 실행한다.)
+	1. Rapberry Pi 초기 설정 화면에서 **지역을 바꾸지 말고 넘어간다.** 그리고 반드시 비밀번호를 정해준다. (공용 장비는 0000으로 할 것) 그리고 wifi를 잡은 후 자동 업데이트를 실행한다. (자동 업데이트가 성공적으로 되지 않고 오류가 날 수 있다. 업데이트 성공 여부에 관계 없이, 일단 **리부팅을 한 후**에 아래 3줄을 실행한다.)
 	1. 설치가 완료되면 가장 먼저 update를 해주고 불필요한 것들을 지운다. (앞에 `sudo`를 붙이면 read-only나 수정권한이 없는 file도 강제 수정할 수 있도록 한다는 뜻) Upgrade할 사항이 있다면 약 20분 정도 소요된다.
 	```
 	sudo apt-get update

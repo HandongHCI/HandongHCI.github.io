@@ -79,31 +79,29 @@ function ImportJSON()
   var datarange = sheet.getDataRange();
   var currentRowNo = datarange.getNumRows();
   
-  sheet.getRange("O1").setValue(date1); // O1 셀에 현재 날짜 넣기
-  sheet.getRange("P1").setValue("=YEAR(O1)"); // 현재 날짜 중에 Year 부분만 빼서 P1 셀에 넣기. Year는 Google Sheets 함수임.
-  sheet.getRange("Q1").setValue("=MONTH(O1)"); // Month 부분만 빼기
-  sheet.getRange("R1").setValue("=DAY(O1)"); // Day 부분만 빼기
-  sheet.getRange("S1").setValue("=HOUR(O1)"); // Hour 부분만 빼기
-  var Y = sheet.getRange("P1").getValue(); // 셀에 넣은 것을 다시 변수로 불러들임
-  var M = sheet.getRange("Q1").getValue();
-  var D = sheet.getRange("R1").getValue();
-  var H = sheet.getRange("S1").getValue();
+  sheet.getRange("N1").setValue(date1); // O1 셀에 현재 날짜 넣기
+  sheet.getRange("O1").setValue("=YEAR(N1)"); // 현재 날짜 중에 Year 부분만 빼서 P1 셀에 넣기. Year는 Google Sheets 함수임.
+  sheet.getRange("P1").setValue("=MONTH(N1)"); // Month 부분만 빼기
+  sheet.getRange("Q1").setValue("=DAY(N1)"); // Day 부분만 빼기
+  sheet.getRange("R1").setValue("=HOUR(N1)"); // Hour 부분만 빼기
+  var Y = sheet.getRange("O1").getValue(); // 셀에 넣은 것을 다시 변수로 불러들임
+  var M = sheet.getRange("P1").getValue();
+  var D = sheet.getRange("Q1").getValue();
+  var H = sheet.getRange("R1").getValue();
   var currentHour = H; // current hour
   var lastHour = sheet.getRange(currentRowNo, 4).getValue(); // last hour
   
   
-  var date2 = sheet.getRange("T1").getValue(); // T1과 U1은 Google Sheets 내에서 다른 셀을 참고하여 만든 값이며, 이를 불러와서 변수에 저장. 자세한 내용은 공유된 Google Sheets의 T1과 U1셀 참고 (https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=0)
-  var time2 = sheet.getRange("U1").getValue();
+  var date2 = sheet.getRange("S1").getValue(); // S1과 T1은 Google Sheets 내에서 다른 셀을 참고하여 만든 값이며, 이를 불러와서 변수에 저장. 자세한 내용은 공유된 Google Sheets의 S1과 T1셀 참고 (https://docs.google.com/spreadsheets/d/1fImbr5ovXR07P7NxYKqU6FsYKsHHaonZV9PmDnjt_T8/edit#gid=0)
+  var time2 = sheet.getRange("T1").getValue();
   var url2 = "http://newsky2.kma.go.kr/service/SecndSrtpdFrcstInfoService2/ForecastGrib?base_date=" + date2 + "&base_time=" + time2 + "&nx=102&ny=95&numOfRows=10&pageSize=10&pageNo=1&startPage=10&_type=json&serviceKey=서비스키" // 날씨를 받아올 때는 현재 날짜와 시간을 인터넷 주소값에 넣어야 하는데, 미세먼지 데이터를 받아오면서 얻은 날짜 값을 변형하여 Google Sheets에서 date2와 time2를 만들고 이를 이용하여 현재 날씨를 불러옴
   var res2 = UrlFetchApp.fetch(url2);
   var content2 = res2.getContentText();
   var json2 = JSON.parse(content2); // JSON을 얻음
   
-  var LGT;
   var PTY;
   var REH;
   var RN1;
-  var SKY;
   var T1H;
   var UUU;
   var VEC;
@@ -112,12 +110,11 @@ function ImportJSON()
   
   var xPath = "response/body/items/item/obsrValue";
   var patharray2 = xPath.split("/");
-  T1H = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][5][patharray2[4]]; // JSON에서 필요한 부분만 
-  REH = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][2][patharray2[4]];
-  SKY = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][4][patharray2[4]];
-  RN1 = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][3][patharray2[4]];
-  VEC = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][7][patharray2[4]];
-  WSD = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][9][patharray2[4]];
+  T1H = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][3][patharray2[4]]; // JSON에서 필요한 부분만 
+  REH = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][1][patharray2[4]];
+  RN1 = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][2][patharray2[4]];
+  VEC = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][5][patharray2[4]];
+  WSD = json2[patharray2[0]][patharray2[1]][patharray2[2]][patharray2[3]][7][patharray2[4]];
   
   if(currentHour !== lastHour) // 시간이 바뀐 경우에만 실행
   {
@@ -129,7 +126,6 @@ function ImportJSON()
     
     sheet.getRange(currentRowNo+1, 7).setFormula(T1H); //온도
     sheet.getRange(currentRowNo+1, 8).setFormula(REH); //습도
-    sheet.getRange(currentRowNo+1, 9).setFormula(SKY); //하늘상태
     sheet.getRange(currentRowNo+1, 10).setFormula(RN1); //강수량
     sheet.getRange(currentRowNo+1, 11).setFormula(VEC); //풍향
     sheet.getRange(currentRowNo+1, 12).setFormula(WSD); //풍속

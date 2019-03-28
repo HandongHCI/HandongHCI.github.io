@@ -6,6 +6,7 @@ To see instructions and tutorials, go to [/Tutorials](Tutorials/README.md)
 
 ### Student Projects
 - [HCI 2018S](HCI2018S/README.md)
+- HCI 2019S
 
 ### TO-DO
 - add documents and instructions

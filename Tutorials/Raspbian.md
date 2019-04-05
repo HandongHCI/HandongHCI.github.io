@@ -36,16 +36,30 @@
 		1. mini SD 카드를 USB 리더기에 꽂고 USB 리더기를 PC의 연결한다. Etcher에서 해당 드라이브를 선택한다.
 		1. 'Flash'를 눌러 Raspbian을 mini SD 카드에 설치한다(5분 이상 소요됨).
 		1. 설치 과정에서 mini SD가 2개의 파티션으로 나눠진다. **설치 과정 중에 "포맷"하라고 물어도 포맷하지 않는다.**
-- Raspberry Pi에 Raspbian 연결
-	1. 학과에 있는 7inch 디스플레이를 사용할 것이라면, PC에 mini SD를 연결하고 Raspbian이 설치된 드라이브를 열어서 config.txt의 가장 아래 줄에 다음 몇 줄을 추가한다. (**mini SD를 PC에 연결 시 포맷하라고 권장해도 절대 포맷하지 말 것**)
+- (option) PC에서 Raspbian 구동 환경 세팅
+	1. 학과에 있는 7인치 디스플레이를 사용할 것이라면, PC에 mini SD를 연결하고 Raspbian이 설치된 드라이브를 열어서 `config.txt`의 가장 아래 줄에 다음 몇 줄을 추가한다. (**mini SD를 PC에 연결 시, 포맷하라고 권장해도 절대 포맷하지 말 것**)
 		```
 		# setting for 7-inch LCD display
 		max_usb_current=1
 		hdmi_group=2
 		hdmi_mode=87
-		hdmi_cvt 1024 600 60 6 0 0 0
+		hdmi_cvt 1024 600 60 6 0 0 0 #해상도
 		hdmi_drive=1
 		```
+	1. 10.1인치 디스플레이를 사용하려면 해상도 부분만 변경한다.
+		```
+		hdmi_cvt 1280 800 60 6 0 0 0 #해상도
+		```
+	1. 미세먼지 프로젝트를 위해서는 bluetooth를 꺼야 한다. `config.txt`의 가장 아랫줄에 다음을 입력한다.
+		```
+		# Turn off BlueTooth
+		dtoverlay=pi3-disable-bt
+		```
+	1. 미세먼지 프로젝트를 위해서는 또한, `cmdline.txt`의 내용을 아래와 같이 바꿔준다.
+		```
+		dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait
+		```
+- Raspberry Pi에 Raspbian 연결
 	1. Raspberry Pi에 mini SD를 꽂고, 모니터, 키보드, 마우스 등을 연결한 후 전원을 공급한다.
 	1. mini SD에 Raspbian이 제대로 설치가 되었다면 Raspbian을 초기 설정하는 화면이 보인다. 만약 초기 설정 화면으로 넘어가지 않고 부팅 중에 에러를 표시한다면 메모리를 FAT32로 파티션을 합쳐 포맷한 후(MacOS를 이용하는 것이 편할 수 있다. DiskUtil 사용하여 mini SD의 volume을 erase하면 된다. 이 때 MS-DOS(FAT) 옵션을 이용한다. Mac에서 volume이 삭제된 mini SD를 윈도 PC로 읽어서 다시 '장치 기본값'으로 포맷한다.), 다시 Etcher로 Raspbian을 설치해본다.
 	1. Rapberry Pi 초기 설정 화면에서 **지역을 바꾸지 말고 넘어간다.** 그리고 반드시 비밀번호를 정해준다. (공용 장비는 0000으로 할 것) 그리고 wifi를 잡은 후 자동 업데이트를 실행한다. (자동 업데이트가 성공적으로 되지 않고 오류가 날 수 있다. 업데이트 성공 여부에 관계 없이, 일단 **리부팅을 한 후**에 아래 3줄을 실행한다.)

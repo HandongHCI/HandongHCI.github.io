@@ -54,6 +54,7 @@
 		```
 		# Turn off BlueTooth
 		dtoverlay=pi3-disable-bt
+		enable_uart=1
 		```
 	1. 미세먼지 프로젝트를 위해서는 또한, `cmdline.txt`의 내용을 아래와 같이 바꿔준다.
 		```

@@ -55,7 +55,7 @@
 ```
 function ImportJSON()
 {
-  var url1 = http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=%EC%9E%A5%EB%9F%89%EB%8F%99&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키"; // '서비스키' 부분에 본인의 키 입력
+  var url1 = "http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=%EC%9E%A5%EB%9F%89%EB%8F%99&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키"; // '서비스키' 부분에 본인의 키 입력
   var res1 = UrlFetchApp.fetch(url1);
   var content1 = res1.getContentText();
   var json1 = JSON.parse(content1);

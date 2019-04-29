@@ -16,7 +16,7 @@
 3. 이용
 	- 공공데이터에서 제공해준 Key값 복사
 	- 데이터 접속 방법: 아래 `ServiceKey` 부분에 본인의 서비스키를 넣고, `stationName`에 본인의 위치(동 이름)를 입력한 후 인터넷 주소창에 붙여 넣음
-	```http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=장량동&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키```
+	```http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=장량동&dataTerm=daily&pageNo=1&numOfRows=1&_returnType=json&ServiceKey=서비스키```
 	
 	- Input 변수
 		- `stationName`: 모든 지역이 가능한 것은 아님(입력 가능한 지역 확인: http://www.airkorea.or.kr/index)
@@ -55,7 +55,7 @@
 ```
 function ImportJSON()
 {
-  var url1 = "http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=%EC%9E%A5%EB%9F%89%EB%8F%99&dataTerm=daily&pageNo=1&numOfRows=1&ServiceKey=서비스키"; // '서비스키' 부분에 본인의 키 입력
+  var url1 = "http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=%EC%9E%A5%EB%9F%89%EB%8F%99&dataTerm=daily&pageNo=1&numOfRows=1&_returnType=json&ServiceKey=서비스키"; // '서비스키' 부분에 본인의 키 입력
   var res1 = UrlFetchApp.fetch(url1);
   var content1 = res1.getContentText();
   var json1 = JSON.parse(content1);

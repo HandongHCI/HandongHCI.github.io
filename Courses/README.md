@@ -11,3 +11,6 @@
 	- 4-2. Emotional Ergonomics II
 	- 5-1. Usability Engineering I
 	- 5-2. Usability Engineering II
+- Human-Computer Interaction
+- Data Visualization
+- Seminars

@@ -24,5 +24,4 @@
 
 
 
-|[[next: 2-1. Physical Ergonomics I →]](HFE02_1.md)|
-|-|
+[[next: 2-1. Physical Ergonomics I →]](HFE02_1.md)

@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io)
+[← go back to the main page](https://HandongHCI.github.io)
 
 ## DB of User Needs & Design Ideas
 
@@ -217,6 +217,7 @@
 
 
 
+<br><br><br>
 아이디어 제안: 이원섭 교수에게 이메일(W.Lee@Handong.edu) 보내주세요!
 
-[← go back to the list](https://HandongHCI.github.io)
+[← go back to the main page](https://HandongHCI.github.io)

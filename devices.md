@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io)
+[← go back to the main page](https://HandongHCI.github.io)
 
 ## Equipment & Devices
 
@@ -9,4 +9,4 @@
 
 
 
-[← go back to the list](https://HandongHCI.github.io)
+[← go back to the main page](https://HandongHCI.github.io)

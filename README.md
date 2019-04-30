@@ -2,10 +2,10 @@
 
 This Github page is to introduce knowledge and techniques about HCI prototyping and to share it with my students as well as with anyone who is interested in the shared topics.
 
-### [Courses](Courses/README.md)
-### [Tutorials](Tutorials/README.md)
-### [Needs & Ideas](ideas.md)
-### [Devices](devices.md)
+### Courses [go →]](Courses/README.md)
+### Tutorials [go →]](Tutorials/README.md)
+### Needs & Ideas [go →]](ideas.md)
+### Devices [go →]](devices.md)
 ### Student Projects
 - [HCI 2018S](HCI2018S/README.md)
 - HCI 2019S

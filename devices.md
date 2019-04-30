@@ -48,7 +48,7 @@
 	- [Go Pro Hero 7 Silver](https://shop.gopro.com/cameras/hero7-silver/CHDHC-601-master.html)
 	- [Insta 360 Pro](https://www.insta360.com/product/insta360-pro/)
 - Robots
-	- [Aldebaran NAO V5](https://www.softbankrobotics.com/us/NAO) | [NAOqi 2.1](http://doc.aldebaran.com/2-1/index.html)
+	- [Aldebaran NAO V5](https://www.softbankrobotics.com/us/NAO) ([NAOqi 2.1](http://doc.aldebaran.com/2-1/index.html))
 
 ### Prototyping
 - 3D Printing

@@ -4,10 +4,10 @@
 
 ### 1. Introduction to HF/E
 
-#### Introduction
+#### [Introduction]
 (provided soon)
 
-#### Video Lectures
+#### [Video Lectures]
 - Ergonomics and Human Factors at Iowa State
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/urhU5XBh2KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

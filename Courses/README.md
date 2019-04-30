@@ -5,3 +5,5 @@
 	- [1. Introduction to HF/E](HFE01.md)
 	- [2-1. Physical Ergonomics I](HFE02_1.md): Biomechanics
 	- [2-2. Physical Ergonomics II](HFE02_2.md): Anthropometry, ergonomics at workplace, virtual ergonomics
+	- [3-1. Cognitive Ergonomics I](HFE03_1.md): Information Processing Model
+	- [3-2. Cognitive Ergonomics II](HFE03_2.md): Fight or flight response, human error, cognitive training

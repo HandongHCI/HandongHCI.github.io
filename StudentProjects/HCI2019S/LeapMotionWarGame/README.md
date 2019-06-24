@@ -10,27 +10,27 @@
 ## 1. 프로젝트 진행에 필요한 설치
 
 ### 1) Leap motion
-    - Leap motion setup을 pc에 다운로드 한다. 
-    ![](img/1.png)
-    - 아래 파일들을 다운로드한다. 
-    ![](img/2.png)
-    ![](img/3.png)
+- Leap motion setup을 pc에 다운로드 한다. 
+![](img/1.png)
+- 아래 파일들을 다운로드한다. 
+![](img/2.png)
+![](img/3.png)
 
 ### 2) Unity
-    - Personal 선택
-    ![](img/4.png)
-    - 약관 동의 후 Unity Hub 다운로드를 클릭한다. 로그인 후 사용할 수 있다.
-    ![](img/5.png)
+- Personal 선택
+![](img/4.png)
+- 약관 동의 후 Unity Hub 다운로드를 클릭한다. 로그인 후 사용할 수 있다.
+![](img/5.png)
 
 ### 3) Touchless For Mac
-    - Touchless for Mac을 pc에 다운로드 한다. [Download_link](https://gallery.leapmotion.com/touchless-for-mac/) 
-    ![](img/6.png)
-    - 실행하면 아래와 같은 화면이 뜬다.
-    ![](img/7.png)
+- Touchless for Mac을 pc에 다운로드 한다. [Download_link](https://gallery.leapmotion.com/touchless-for-mac/) 
+![](img/6.png)
+- 실행하면 아래와 같은 화면이 뜬다.
+![](img/7.png)
 
 ### 4) GameWave
-    - Gamewave를 pc에 다운로드 한다. [Download_link](http://uwyn.com/gamewave/)
-    ![](img/8.png)
+- Gamewave를 pc에 다운로드 한다. [Download_link](http://uwyn.com/gamewave/)
+![](img/8.png)
 
 
 

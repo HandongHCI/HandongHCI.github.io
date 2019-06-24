@@ -13,7 +13,7 @@ Mini Battle in Handong
 1)	Leap motion
 - Leap motion setup을 pc에 다운로드 한다. 
 
-<img width="450" src="img/1.png">
+![](img/1.png)
 
 - 아래 파일들을 다운로드한다. 
 

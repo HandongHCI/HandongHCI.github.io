@@ -12,10 +12,10 @@ Nowadays many people spend much time on the mirror perfecting their looks. As a 
 ![output](image.png)
 
 ## 3. Step-by-step tutorial
-### 1. Install Raspberry Pi
+### 3.1. Install Raspberry Pi
 Download the Raspbian from the website and start the Raspberry Pi. It is recommended to download the latest full version. https://www.raspberrypi.org/
 
-### 2. Intall Smart mirror.
+### 3.2. Intall Smart mirror.
 Automatic installation
 ```
 bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/MagicMirror/master/installers/raspberry.sh)"
@@ -32,7 +32,7 @@ Then following modules will be installed automatically. You can refer to these l
 - [Alert](https://github.com/MichMich/MagicMirror/tree/master/modules/default/alert)
   
     
-### 3. Change settings
+### 3.3. Change settings
 - Installation of korean font 
 ```sudo apt-get --yes install fonts-nanum fonts-symbola```
 - Sound output
@@ -51,7 +51,7 @@ pm2 save
 ```
 
 
-### 4. Install google assistant
+### 3.4. Install google assistant
 MMM-Hotword and MMM-AssistantMk2 are required for google assistant
 
 #### Step1. installation of related programs
@@ -100,14 +100,14 @@ mv token.json ./profiles/default.json
 ```
 
 
-### 5. Currentweather and weatherforecast module
+### 3.5. Currentweather and weatherforecast module
 Open your config.js file and look for currentweather.  
 Change location to your location  
 Get a API keys from https://openweathermap.org/ and paste the API ket to the appid in the config.js  
 Do the same steps for the weatherforcast modules  
   
     
-### 6. Google calendar
+### 3.6. Google calendar
 Get a ical address from your google calendar and paste it to the url part in your config.js file  
 ```
 config: {
@@ -128,7 +128,7 @@ config: {
 ```
 
 
-### 7. Install google photos
+### 3.7. Install google photos
 We installed google photos to see the school bus schedules on the mirror. We uploaded school bus schedules to the google photo album and displayed on the mirror with silde show.
 
 #### Step1. Install Module  
@@ -165,7 +165,7 @@ travel to paris : AGj1epU5VMNoBGK9GDX3k_zDQaPT16Fe56o0N93eN6aXn-f21M98
 You can chage the size of you photos and speed of slide and so on...
 
 
-### 8. Install remote control
+### 3.8. Install remote control
 You can control your smarmirror modules on your smartphone.  
 Automatic installation  
 ```

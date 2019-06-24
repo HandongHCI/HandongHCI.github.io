@@ -123,7 +123,7 @@ public class newgame : MonoBehaviour
 그리고 해당 모델에 대한 설명을 초등학생의 수준으로 설명을 넣었다. 
 또한 화면을 Looking-glass로 표시하여 화면을 홀로그램으로 띄어서 입체감 있는 화면을 만들었다. 
 
-```
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -189,20 +189,10 @@ public class newgame : MonoBehaviour
 ```
 
 
-### 재미/즐거움
-조립을 통한 학습의 즐거움/ 실제감있는 학습
+### 기대효과
+#### 재미/즐거움
+- 조립을 통한 학습의 즐거움/ 실제감있는 학습
 
-
-### 교육
+#### 교육
 - 입체적 체험, 다양한 소재
--생물/기기/건축 등
-
-
-### TO-DO
-- add documents and instructions
-- add student projects
-- add more student projects
-
-
-### Contact
-- 21700738 (at) HANDONG (dot) EDU
+- 생물/기기/건축 등

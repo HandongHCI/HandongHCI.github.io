@@ -36,12 +36,10 @@
 - 해당파일에있는 파일을 다운받은 후, 립모션 기기와 연결시켜 프로그램을 만들거나 작동시킬수 있다.
 
 ### [Looking Glass](https://lookingglassfactory.com/)
--    
-### looking glass의 구현원리
-  : Looking glass회사에서 제공해주는 unity용 module을 import하여 화면을 looking glass에 나오게 했다. 바로 위의 사진을 보면 초록색 네모박스를 기준으로       looking glass화면이 나온다.
+- Looking Glass 홈페이지에서 제공해주는 Unity용 module을 import하여 화면을 Looking Glass에 나오게 했다. 바로 위의 사진을 보면 초록색 네모박스를 기준으로 Looking Glass화면이 나온다.
   
 
-## Code of menu
+## Source Code
 
 버튼을 선택하는 script로써 해당 버튼에 손을 올라갔는지 확인하는 코드다. 
 해당 버튼에 손가락이 올라가면 로딩중 표시가 나오고 2초동안 올려놓으면 다른 화면으로 전환된다. 
@@ -50,7 +48,7 @@
 여러 버튼이 있어서, 원하는 버튼을 선택하여 다음 화면으로 넘어가는 장면이다.
 그리고 메뉴가 처음에 오른쪽에서 왼쪽으로 움직여 등장하는 애니메이션을 넣었고, 배경은 별들이 움직이는 것을 넣었다.
 
-```
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

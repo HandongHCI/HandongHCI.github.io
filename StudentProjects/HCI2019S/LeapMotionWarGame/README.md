@@ -2,9 +2,6 @@
 
 # War Game Team
 
-
-
-<br><br><br>
 ####  프로젝트명 및 멤버
 - Mini Battle in Handong
 - 김평강, 신지현, 전예은, 최은송, 홍혜성
@@ -15,7 +12,6 @@
 1)	Leap motion
     - Leap motion setup을 pc에 다운로드 한다. 
     ![](img/1.png)
-
     - 아래 파일들을 다운로드한다. 
     ![](img/2.png)
     ![](img/3.png)
@@ -23,35 +19,23 @@
 2)	Unity
     - Personal 선택
     ![](img/4.png)
-
-
-- 약관 동의 후 Unity Hub 다운로드를 클릭한다. 로그인 후 사용할 수 있다.
-
-<img width="450" src="img/5.png">
+    - 약관 동의 후 Unity Hub 다운로드를 클릭한다. 로그인 후 사용할 수 있다.
+    ![](img/5.png)
 
 3)	Touchless For Mac
-- Touchless for Mac을 pc에 다운로드 한다. [Download_link](https://gallery.leapmotion.com/touchless-for-mac/) 
-
-<img width="450" src="img/6.png">
-
-- 실행하면 아래와 같은 화면이 뜬다.
-
-<img width="450" src="img/7.png">
+    - Touchless for Mac을 pc에 다운로드 한다. [Download_link](https://gallery.leapmotion.com/touchless-for-mac/) 
+    ![](img/6.png)
+    - 실행하면 아래와 같은 화면이 뜬다.
+    ![](img/7.png)
 
 4)	GameWave
-- Gamewave를 pc에 다운로드 한다. [Download_link](http://uwyn.com/gamewave/)
-
-<img width="450" src="img/8.png">
+    - Gamewave를 pc에 다운로드 한다. [Download_link](http://uwyn.com/gamewave/)
+    ![](img/8.png)
 
 
 
 ##  2. Research
-
-    Battle ground in handing 게임은 FPS 게임에 익숙하지 않은 사람들이 게임을 직관적으로 이해하고 쉽게 접근 할 수 있고, 
-    기존에 사용자들 또한 게임을 흥미로운 관점으로 접근 할 수 있도록 돕는 것을 목표로 하였다. 
-    따라서 사용자들의 게임 이해도, 게임 시간, 게임 흥미에 대한 정보를 수집하고자 하였다. 
-    다음 단계는, Unity 와 leap-motion간의 상관관계를 이해하고 연동할 수 있는 연결점을 찾는 것을 조사의 목적으로 하였다. 
-    실제로 게임에 등장하는 asset 을 구현하기 위해서는 Unity asset score, google 사이트를 참조하여 게임에 활용할 수 있는 정보와 자원들을 적극 수집하였다.
+Battle ground in handing 게임은 FPS 게임에 익숙하지 않은 사람들이 게임을 직관적으로 이해하고 쉽게 접근 할 수 있고, 기존에 사용자들 또한 게임을 흥미로운 관점으로 접근 할 수 있도록 돕는 것을 목표로 하였다. 따라서 사용자들의 게임 이해도, 게임 시간, 게임 흥미에 대한 정보를 수집하고자 하였다. 다음 단계는, Unity 와 leap-motion간의 상관관계를 이해하고 연동할 수 있는 연결점을 찾는 것을 조사의 목적으로 하였다. 실제로 게임에 등장하는 asset 을 구현하기 위해서는 Unity asset score, google 사이트를 참조하여 게임에 활용할 수 있는 정보와 자원들을 적극 수집하였다.
 
 
     3-1) 용도

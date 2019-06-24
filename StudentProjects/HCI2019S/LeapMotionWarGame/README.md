@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
 
 # War Game Team
 
@@ -74,3 +74,5 @@ Touchless For Mac는 립모션으로 mouse를 control하기 위한 툴이며, �
 ## 7. Reference
 - [https://m.blog.naver.com/PostList.nhn?blogId=choish1919](https://m.blog.naver.com/PostList.nhn?blogId=choish1919)
 
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

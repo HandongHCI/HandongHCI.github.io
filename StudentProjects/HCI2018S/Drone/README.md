@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)
 
 # Drone Team
 
@@ -68,4 +68,4 @@ In conclusion, interaction with Leap Motion was not easy as it seemed. Reality a
 
 
 <br><br><br>
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)

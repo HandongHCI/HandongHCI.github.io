@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
 
 # Real-dict
 
@@ -196,3 +196,6 @@ public class newgame : MonoBehaviour
 #### 교육
 - 입체적 체험, 다양한 소재
 - 생물/기기/건축 등
+
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

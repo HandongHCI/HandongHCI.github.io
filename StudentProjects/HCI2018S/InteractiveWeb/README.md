@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)
 
 # Interactive Media Art
 
@@ -175,4 +175,4 @@ SHOW ME THE WEATHER 사이트의 용도는 직관적으로 알기 어려운 데�
 
 
 <br><br><br>
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)

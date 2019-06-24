@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)
 
 # Interactive Media Art
 
@@ -143,4 +143,4 @@
 - (book) [스크래치 미디어아트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=1400000262870)
 
 <br><br><br>
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)

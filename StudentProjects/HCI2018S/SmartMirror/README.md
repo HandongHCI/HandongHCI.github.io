@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)
 
 # Smart Mirror
 
@@ -166,4 +166,4 @@ npm install
 
 
 <br><br><br>
-[← go back to the list](https://HandongHCI.github.io/HCI2018S)
+[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)

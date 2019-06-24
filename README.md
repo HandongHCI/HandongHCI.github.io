@@ -6,7 +6,7 @@ This Github page is to introduce knowledge and techniques about HCI prototyping 
 ### Tutorials [[go →]](Tutorials/README.md)
 ### Student Projects
 - [HCI 2018S](StudentProjects/HCI2018S/README.md)
-- [HCI 2019S](StudentProjects/HCI2018S/README.md)
+- [HCI 2019S](StudentProjects/HCI2019S/README.md)
 - [ICT Prototyping 2019S](StudentProjects/ICTprototyping2019S/README.md)
 
 ### Needs & Ideas DB [[go →]](ideas.md)

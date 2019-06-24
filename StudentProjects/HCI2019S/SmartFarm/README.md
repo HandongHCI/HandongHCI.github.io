@@ -10,12 +10,12 @@ Different crops require different environmental or weather conditions to grow pr
 
 ## 2. Setting Up the Arduino
 1. Requirements and Tools
-- Arduino Uno
-- Breadboard
-- Male and Female Jumper Wires
-- DHT11 Temperature and Humidity
-- ESP8266-01 Wi-Fi Module
-- Soil Moisture Sensor V2
+	- Arduino Uno
+	- Breadboard
+	- Male and Female Jumper Wires
+	- DHT11 Temperature and Humidity
+	- ESP8266-01 Wi-Fi Module
+	- Soil Moisture Sensor V2
 
 2. Download Arduino Uno IDE [HERE](https://www.arduino.cc/en/Main/Software).
 

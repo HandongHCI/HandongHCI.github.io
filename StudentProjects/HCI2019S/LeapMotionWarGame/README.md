@@ -52,7 +52,7 @@ FPS게임을 쉽게 즐기지 못하는 사람을 주로 대상으로 하며, �
 
 
 ## 4. Source Code
-[click](SourceCode)
+[click](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/StudentProjects/HCI2019S/LeapMotionWarGame/SourceCode)
 
 
 ## 5. 구동방식
@@ -72,5 +72,5 @@ Touchless For Mac는 립모션으로 mouse를 control하기 위한 툴이며, �
 
 
 ## 7. Reference
-- https://m.blog.naver.com/PostList.nhn?blogId=choish1919
+- [https://m.blog.naver.com/PostList.nhn?blogId=choish1919](https://m.blog.naver.com/PostList.nhn?blogId=choish1919)
 

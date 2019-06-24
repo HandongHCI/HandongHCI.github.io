@@ -2,26 +2,27 @@
 
 # War Game Team
 
+
+
+<br><br><br>
 ####  프로젝트명 및 멤버
-Mini Battle in Handong
-김평강, 신지현, 전예은, 최은송, 홍혜성
+- Mini Battle in Handong
+- 김평강, 신지현, 전예은, 최은송, 홍혜성
   
 
 ##  1. 프로젝트 진행에 필요한 설치
 
 1)	Leap motion
-- Leap motion setup을 pc에 다운로드 한다. 
-![](img/1.png)
+    - Leap motion setup을 pc에 다운로드 한다. 
+    ![](img/1.png)
 
-- 아래 파일들을 다운로드한다. 
-
-<img width="450" src="img/2.png">
-<img width="450" src="img/3.png">
+    - 아래 파일들을 다운로드한다. 
+    ![](img/2.png)
+    ![](img/3.png)
 
 2)	Unity
-
-- Personal 선택
-<img width="450" src="img/4.png">
+    - Personal 선택
+    ![](img/4.png)
 
 
 - 약관 동의 후 Unity Hub 다운로드를 클릭한다. 로그인 후 사용할 수 있다.

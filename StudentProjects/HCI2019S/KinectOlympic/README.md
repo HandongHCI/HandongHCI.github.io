@@ -1,25 +1,19 @@
-# Homelympic
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
 
+# Homelympic
 <img src="image/kinect.jpg" height="200"><img src="image/scratchX.png" height="200">
 
 #### Members
 - 변지혜, 이동희, 정진호, 최현종
-#### Agenda
-- ScratchX를 이용한 Kinect 게임 제작
 
 
-
-<br><br><br>
-
-## 주제. 집에서 즐길 수 있는 올림픽 게임
-### 아이디어 선정 과정
+## 1. 주제. 집에서 즐길 수 있는 올림픽 게임
+### 1.1. 아이디어 선정 과정
 Idea: Using the Kinect that can be used throughout the body, we are going to enhance the reality of Olympic Games and allow users to gain new and special experiences. 
+- Target: We are going to provide 'Olympics' game to the people who don't want to go out of their house, but want to do something active and who are not familiar with Kinect.
+- Purpose and Expectation: The user can experience various activity (sports game) at home, and they can have a special experience.
 
--Target: We are going to provide ‘Olympics’ game to the people who don’t want to go out of their house, but want to do something active and who are not familiar with Kinect.
-
--Purpose and Expectation: The user can experience various activity (sports game) at home, and they can have a special experience.
-
-### 주요 내용
+### 1.2. 주요 내용
 #### 시작 화면
 시작하는 과정을 올림픽과 유사하게 만들어 올림픽을 경험하는 느낌을 주었다.
 1. 올림픽 문양과 유사한 디자인의 Homelympic 문구가 나온다
@@ -101,3 +95,5 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 ### Source Code
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nLRnyeqk7_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

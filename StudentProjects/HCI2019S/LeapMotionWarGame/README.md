@@ -2,17 +2,15 @@
 
 # War Game Team
 
-###  1. 프로젝트명 및 멤버
-
+####  프로젝트명 및 멤버
 Mini Battle in Handong
 김평강, 신지현, 전예은, 최은송, 홍혜성
   
 
-###  2. 프로젝트 진행에 필요한 설치
+##  1. 프로젝트 진행에 필요한 설치
 
 1)	Leap motion
 - Leap motion setup을 pc에 다운로드 한다. 
-
 ![](img/1.png)
 
 - 아래 파일들을 다운로드한다. 
@@ -46,7 +44,7 @@ Mini Battle in Handong
 
 
 
-###  3. Research
+##  2. Research
 
     Battle ground in handing 게임은 FPS 게임에 익숙하지 않은 사람들이 게임을 직관적으로 이해하고 쉽게 접근 할 수 있고, 
     기존에 사용자들 또한 게임을 흥미로운 관점으로 접근 할 수 있도록 돕는 것을 목표로 하였다. 
@@ -68,19 +66,15 @@ Mini Battle in Handong
     FPS게임을 쉽게 즐기지 못하는 사람을 주로 대상으로 하며, 기존에 FPS게임을 하고 있는 사람을 대상으로도 새로운 게임 환경을 제공하여 그 발전 가능성을 확인하도록 한다.
 
 
-###  4. 게임 첫 화면
-
-
+##  3. 게임 첫 화면
 <img width="451" src="img/9.png">
 
 
-
-###  5. Source Code
-
+##  4. Source Code
 [click](https://github.com/Shingibanggi/HCI/tree/master/SourceCode)
 
 
-###  6. 구동방식
+##  5. 구동방식
 
     우리 팀은 동일한 게임에 대해 두 가지 방법의 interaction을 구현하고자 한다. 두 가지 방법을 구현한 후 그 둘을 비교할 것이다.
     첫 번째는 기존의 FPS게임방식과 유사하게 마우스와 키보드를 활용한 interaction이다.  마우스의 이동에 따라 시점이 움직이게 한다. 
@@ -99,13 +93,13 @@ Mini Battle in Handong
 
 
 
-###  7. 향후 계획
+##  6. 향후 계획
 
     1) 지금까지 구현한 에셋에 더해서 게임을 더 액티브하게 만들고자 한다. 게임에 등장하는 적의 방향과 움직임에 자유도를 더해주는 것이 첫번째 목표이다. 
       또한 사용자와 적의 전투 상황 시 구현 조건을 디테일하게 조정해 자연스러운 상황을 연출시키고자 한다. 
     2) 게임은 사용자가 1인용 게임만을 추구하지 않고, 네트워크를 가능하게 하여 멀티유저가 게임을 즐길 수 있도록 한다.
 
-###  8. Reference
+##  7. Reference
 
     https://m.blog.naver.com/PostList.nhn?blogId=choish1919
 

@@ -26,6 +26,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ![화면2](image/torch.PNG)
 
+<br><br>
 #### [종목 1. 권투]
 링 안에서 상대방 랜덤으로 나타다는 상대방 선수를 사용자가 주먹으로 때리는 것으로 설정하였다.
 1. 게임 방식 설명: 진행될 게임의 방식을 설명한다
@@ -36,6 +37,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ![화면3](image/Box.PNG)
 
+<br><br>
 #### [종목 2. 수영]
 특정 좌표를 화면 안에 지정하고 왼손과 오른손이 그 범위 안에 들어왔을 때 캐릭터를 앞으로 움직이게 설정
 1. 게임 방식 설명: 진행될 게임의 방식을 설명한다
@@ -46,6 +48,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ![화면4](image/swim.PNG)
 
+<br><br>
 #### [종목 3. 달리기]
 다리를 허리 위로 움직일 때마다 캐릭터가 앞으로 조금씩 움직이게 설정했다.
 1. 게임 방식 설명: 진행될 게임의 방식을 설명한다
@@ -56,6 +59,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ![화면5](image/run.PNG)
 
+<br><br>
 #### [종목 4. 리듬체조]
 4가지 동작의 좌표를 각각 다르게 설정하고 사용자가 그 좌표에 맞게 몸을 움직이면 통과
 1. 게임 방식 설명: 진행될 게임의 방식을 설명한다
@@ -65,11 +69,13 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ![화면6](image/rhythm.png)
 
+<br><br>
 #### [Ending]
 게임을 모두 마쳤을 때, 4개의 게임에서 받았던 메달에 점수를 부여(금:3, 은:2, 동:1, 무:0)하여 등수를 선정하고, 등수에 따라서 시상식에 캐릭터가 올라가 상을 수여받도록 한다. 
 
 ![화면7](image/award.PNG)
 
+<br><br>
 ## 2. 구현 원리
 1. 캐릭터 선택 > 남자를 택할때는 1로 여자로는 2로 charactor라는 변수에 저장되게 함 > 페이지 마다 if문을 사용해서 1이면 남자 캐릭터가 뜨게 2면 여자 캐릭터가 뜨게 함
 2. 복싱 > 30초라는 제한 시간 안에 heart 10개를 주고 오른손이나 왼손이 복서의 좌표 x,y 둘다 +-20 안에 들어모면 heart가 1개씩 깎임

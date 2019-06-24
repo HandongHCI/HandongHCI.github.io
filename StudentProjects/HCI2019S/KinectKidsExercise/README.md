@@ -14,15 +14,15 @@
 더불어 유저리서치를 통해 아이들의 불규칙한 수면패턴과 고칼로리 음식을 선호하는 식습관을 발견하였다. 이와같이 소아비만으로 이어질수있는 불균형한 생활습관도 올바르게 교육할 수 있도록 하였다.
 
 #### Character (뛰용이)
-![캐릭터](img/2.png)
 User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이라는 결과를 통해 3D 캐릭터로 만들었다.
 뛰뛰쿨쿨은 뛰면서 움직이는 게임이므로 캐릭터 이름은 뛰용이이다. 또, 뛰용이의 머리카락은 줄넘기 모양이다.
 원색을 좋아하는 어린이의 심리적 특성과 눈에 잘 띈다는 점이 맞물려 노란색은 어린이 용품의 색으로 자주 쓰이기 때문에 메인캐릭터 색상을 노랑으로 선정하였다.
+![캐릭터](img/2.png)
   
 
 ## 01. 게임 구성
 타깃이 아이들이기 때문에, 한가지 게임만으로는 쉽게 질려 해 운동량을 증가시키기 어려울 것이라고 생각했기 때문에 다양한 내용의 미니게임 6가지로 구성했다.
-![섬네리-02](img/3.png)
+![menus](img/3.png)
 
 ####  01) 하늘에서 음식이 내린다면
 건강한 음식을 먹는 것이 미션! 제한 시간 안에 미션을 수행해야 한다. 만약, 건강하지 않은 음식을 먹으면 뛰용이의 몸이 뚱뚱해진다.
@@ -45,18 +45,16 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 
 ## 02. Step by step tutorial
 ### 원리
--	Launch Kinect SDK v2.0
-https://www.microsoft.com/en-us/download/details.aspx?id=44561
--	Launch Scratch X
-https://github.com/stephenhowell/kinect2scratch
+- [Kinect SDK v2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+- [Scratch X](https://github.com/stephenhowell/kinect2scratch)
 ![image](img/4.png)
 ![image](img/5.png)
-Kinect 카메라가 User를 인식하여 User의 관절의 위치를 x, y, z 좌표로 입력 받음
+
+- Kinect 카메라가 User를 인식하여 User의 관절의 위치를 x, y, z 좌표로 입력 받음
 입력 받은 User의 좌표를 이용하여 Scratch X를 통해 게임 구현
 - 사용한 좌표
-Spin Base: 캐릭터 뛰용과 <꿈나라로 뛰어가요> 공의 상하좌우, 거리 표현
-
-Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, 거리 표현
+	- Spin Base: 캐릭터 뛰용과 <꿈나라로 뛰어가요> 공의 상하좌우, 거리 표현
+	- Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, 거리 표현
 
 
 ### 게임 튜토리얼 

@@ -99,8 +99,7 @@ light_num2= 9
 
 1. 파이썬과 hue를 연동하기 위하여서는 총 ip 주소, username, light number가 필요하다. ip 주소를 받아오는 과정은 단순 공유기의 ip를 받아오는 것이 아니다. HUE 어플 내에서 따로 생성된 ip를 받아와야한다. 어플 내 하단 바의 설정 > Hue bridge 선택 하여 확인할 수 있다.
 
-![](img/11.jpeg)
-![](img/12.jpeg)
+<img height="500" src="img/11.jpeg"><img height="500" src="img/12.jpeg">
 
 2. username 을 받아오는 과정은 단순하다. 아래 코드를 수행하면 username 이 자동으로 프린트 된다. 프린트 된 유저네임을 복사하여 파이썬 코드의 username 위치에 작성하여주면 된다. 
 

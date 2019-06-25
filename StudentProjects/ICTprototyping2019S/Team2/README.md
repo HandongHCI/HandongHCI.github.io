@@ -20,14 +20,19 @@ hdmi_mode=87
 hdmi_cvt 1024 600 60 6 0 0 0 #해상도
 hdmi_drive=1
 ```
+
 - 미세먼지 프로젝트를 위해 bluetooth를 끈다. ```config.txt```의 가당 아래에 다음과 같이 추가한다.
 ```
 # Turn off BlueTooth
 dtoverlay=pi3-disable-bt
 enable_uart=1
 ```
-- 라즈베리 설치 파일의 ```cmdline.txt```의 내용을 다음과 같이 바꾼다.
-```dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait```
+
+- 라즈베리 설치 파일의 `cmdline.txt`의 내용을 다음과 같이 바꾼다.
+```
+dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait
+```
+
 자세한 설치 방법과 미세먼지 프로젝트를 위한 라즈비안 세팅은 링크를 참조한다. [Stting Raspbian on Raspberry Pi3](https://github.com/HandongHCI/HandongHCI.github.io/blob/master/Tutorials/Raspbian.md)[라즈베리파이](https://www.raspberrypi.org/)
 
     
@@ -90,6 +95,9 @@ sudo python3 /home/pi/sample.py # code_micre_dust의 경로를 입력하면 된�
      
 ## Conclusion
 미세먼지 신호등은 미세먼지 농도에 따른 색의 변화를 통해 사용자들에게 미세먼지 농도에 대해 알려주고자 만든 제품이다. 모니터를 사용하여 제품을 만든만큼 다양한 제품을 시도해 볼 수 있을 것이다. 우리팀은 모니터의 색을 변화시키는 방법을 사용했지만 더 나아가 모니터에 미세먼지 농도에 따른 마스크 필요여부, 현재 농도에서의 위험성 설명과 같은 미디어를 출력하는 방식의 제품을 만들 수도 있을 것이다. 모니터를 활용한 제품인만큼 다양한 발전가능성을 가진 제품이라고 생각한다.
+
+## Source Code
+- [Here](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/StudentProjects/ICTprototyping2019S/Team2/source)
 
 <br><br><br>
 [← go back to the list](https://HandongHCI.github.io/StudentProjects/ICTprototyping2019S)

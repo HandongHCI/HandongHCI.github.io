@@ -103,7 +103,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 	- There is no enough space for enjoying this contents
 
 ## 6. Source Code
-
+- [Here](https://HandongHCI.github.io/StudentProjects/HCI2019S/KinectOlympic/source)
 
 ## 7. Video
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/nLRnyeqk7_Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

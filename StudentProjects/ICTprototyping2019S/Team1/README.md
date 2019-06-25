@@ -2,7 +2,7 @@
 
 # Portable Micro-dust Device(PMD) Project - 휴대용 미세먼지 측정기
 
-#### members
+#### Members
 - 김태운, 박성경, 유재은
 
 ## 1. 제품 설명 ###

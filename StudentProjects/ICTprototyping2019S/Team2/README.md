@@ -35,17 +35,22 @@ enable_uart=1
 - 센서를 연결하기 앞서서 터미널에서 다음과 같은 과정을 실행한다.
 ```
 sudo raspi-config
-#설정창이 열리면
-5 Interfacing Options -> P5 Serial -> No -> Yes
+```
+설정창이 열리면 `5 Interfacing Options` > `P5 Serial` > `No` > `Yes` 순으로 선택한다.
 
+```
 sudo chmod g+r /dev/ttAMA0
 sudo reboot
-
-ls -l /dev/ttAMA0
-# crw--rw---- 가 출력되어야 함.
 ```
+
+재부팅된 후에 아래와 같이 명령한다. 결과로서 `crw--rw----`가 출력되어야 한다.
+```
+ls -l /dev/ttAMA0
+```
+
 - 센서와 라즈베리 파이 연결
 아래 사진과 같이 센서와 라즈베리파이를 연결한다.
+
 ![connection](img/1.PNG)
 (사진출처 : 한동대학교 ICT융합특론 수업자료)
     
@@ -58,7 +63,10 @@ ls -l /dev/ttAMA0
 다음은 라즈베리파이가 실행될 때마다 pigpiod와 파이썬 코드와 자동으로 실행되도록 하는 코드이다. 제품 실행에 불필요한 부품(마우스, 키보드)을 제거하기 위함이다. 
 ```
 sudo nano /home/pi/.bashrc
-#마지막 라인에 다음과 같이 추가한다.
+```
+
+마지막 라인에 다음과 같이 추가한다.
+```
 echo Running at boot
 sudo pigpiod
 sudo python3 /home/pi/sample.py # code_micre_dust의 경로를 입력하면 된다.
@@ -67,15 +75,17 @@ sudo python3 /home/pi/sample.py # code_micre_dust의 경로를 입력하면 된�
 ### 4. 케이스 제작 및 조립
 케이스는 레이저 커팅을 사용하였다. 제작된 케이스 안에 전원 선이나 HDMI 케이블을 모두 넣어 외관상으로 깔끔한 제품을 만들고 싶었다.
 - 레이저 커팅 도면  
+
 ![도면](img/2.PNG)
     
 - 모니터를 먼저 앞쪽에 고정을 하고 위, 아래, 옆면을 글루건이나 본드로 붙인다. 그 후 미세먼지 센서 라즈베리 파이를 케이스의 안쪽에 고정한다.   
-  
 - 케이스의 뒤쪽 부분은 풀로 접찹시키지 않고 자유롭게 열 수 있도록 만든다.
+
 ![output](img/3.jpg) 
   
 - 완성품  
-미세먼지 센서로 미세먼지 농도를 측정하고 농도에 따라 파랑색<초록색<주황색<빨강색 으로 신호등의 색을 변화시키는 제품이다.  
+미세먼지 센서로 미세먼지 농도를 측정하고 농도에 따라 파랑색<초록색<주황색<빨강색 으로 신호등의 색을 변화시키는 제품이다.
+
 ![final_output](img/4.jpg)
      
 ## Conclusion

@@ -77,8 +77,8 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 <br><br>
 ## 2. 구현 원리
-1. 캐릭터 선택 > 남자를 택할때는 1로 여자로는 2로 charactor라는 변수에 저장되게 함 > 페이지 마다 if문을 사용해서 1이면 남자 캐릭터가 뜨게 2면 여자 캐릭터가 뜨게 함
-2. 복싱 > 30초라는 제한 시간 안에 heart 10개를 주고 오른손이나 왼손이 복서의 좌표 x,y 둘다 +-20 안에 들어모면 heart가 1개씩 깎임
+1. 캐릭터 선택: 남자를 택할때는 1로 여자로는 2로 charactor라는 변수에 저장되게 함 > 페이지 마다 if문을 사용해서 1이면 남자 캐릭터가 뜨게 2면 여자 캐릭터가 뜨게 함
+2. 복싱: 30초라는 제한 시간 안에 heart 10개를 주고 오른손이나 왼손이 복서의 좌표 x,y 둘다 +-20 안에 들어모면 heart가 1개씩 깎임
 3. 수영 오른손과 왼손의 높이 차이가 절댓값 200 되면 움직임
 4. 육상도 마찬가지 무릎 높이가 일정수준 도달해야함 오른쪽 왼쪽 차례대로 번갈아가면서 올라와야 캐릭터가 앞으로 나간다
 5. 이때 모든 게임들이 금메달이면 score라는 변수에 +3점 은메달은 +2점 동메달은 +1점으로
@@ -96,11 +96,11 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ## 5. Conclusion
 1. Success Point
--Providing active content to those who like to be active
--Providing new experience by getting access to Kinect
+	- Providing active content to those who like to be active
+	- Providing new experience by getting access to Kinect
 2. Weakness
--This is too active so it's hard to enjoy at home
--There is no enough space for enjoying this contents
+	- This is too active so it's hard to enjoy at home
+	- There is no enough space for enjoying this contents
 
 ## 6. Source Code
 

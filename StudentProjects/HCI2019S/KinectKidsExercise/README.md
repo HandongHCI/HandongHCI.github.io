@@ -105,3 +105,7 @@ Prototype test - 요약 영상
 
 ## 05. References
 - https://social.msdn.microsoft.com/Forums/en-US/c818387d-8717-48a9-b562-738e9e0b69e5/joints-in-kinect-v2?forum=kinectv2sdk
+
+
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

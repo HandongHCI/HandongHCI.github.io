@@ -2,14 +2,14 @@
 
 # 리듬손타
 ### LeapMotion을 활용한 지휘 프로그램
-<img height="200" src="img/1.png"><img height="200" src="img/2.png">
+<img height="300" src="img/1.png"><img height="300" src="img/2.png">
 
 
 #### Members
-- 21300207 김태운 / 21500431 유재은 / 21600202 나누리
+- 김태운, 유재은, 나누리
 
 ## 01. Purposes / Expectation
-- 리듬손타 프로그램은 교육용 프로그램으로서, 음악을 학습하는 학습자를 대상으로 지휘법을 배우고, 직접 실습할 수 있도록 하는 프로그램이다. 사용자는 이로 하여금 지휘법을 익히고 음악적 이해도를 높이는 데 그 의의가 있다. 기존과는 다른 색다른 학습법의 도입으로, 쉽고 재미있게 지휘법을 익힐 수 있을것이다. 또한, 그에 따라 음악을 좀 더 풍부하게 이해할 수 있을 것이라 생각된다.
+리듬손타 프로그램은 교육용 프로그램으로서, 음악을 학습하는 학습자를 대상으로 지휘법을 배우고, 직접 실습할 수 있도록 하는 프로그램이다. 사용자는 이로 하여금 지휘법을 익히고 음악적 이해도를 높이는 데 그 의의가 있다. 기존과는 다른 색다른 학습법의 도입으로, 쉽고 재미있게 지휘법을 익힐 수 있을것이다. 또한, 그에 따라 음악을 좀 더 풍부하게 이해할 수 있을 것이라 생각된다.
 
 ## 02. Photos & videos
 ![photo](img/3.png)
@@ -35,29 +35,26 @@
 
 
 ## 04. 프로젝트 진행 과정
-- week2 - week3: idea development
-- week4 - week5: storyboard 제작 및 프로그램 화면구성정리
+- week2 ~ week3: idea development
+- week4 ~ week5: storyboard 제작 및 프로그램 화면구성정리
+
 <img height="200" src="img/4.png"><img height="200" src="img/5.png">
 
-* week5-6: concept testing - 구글폼으로 설문진행 (응답자: 46명)
+- week5 ~ 6: concept testing - 구글폼으로 설문진행 (응답자: 46명)
 
-	<image width = "100%" src="https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png"> 
+  ![](img/6.png)
 
+- week7: low-fidelity prototype -figma
+  - 악보 이미지 및 아이콘 다운로드
+  - 피그마를 활용하여 tool-based prototyping 진행
 
+	![](img/7.png)
 
-* week7: low-fidelity prototype -figma
+- week8: Mid-term presentation
 
-	* 악보 이미지 및 아이콘 다운로드
-	* 피그마를 활용하여 tool-based prototyping 진행
-
-	![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
-
-* week8: Mid-term presentation
-
-	<image width = "80%" src = "https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png">
+	![](img/8.png)
     
-
-* week12 ~ week13: prototype testing & Final PT
+- week12 ~ week13: prototype testing & Final PT
 
 	<image width="50%" src = "https://user-images.githubusercontent.com/48409392/58369059-37a18200-7f30-11e9-9449-e8655d8bdc51.png"> <image width = "45%" src="https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png">
 

@@ -1,30 +1,21 @@
-# SIT32002-HCI-4조 리듬손타
-## LeapMotion을 활용한 지휘 프로그램
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
 
-<img width ="40%" src="https://user-images.githubusercontent.com/42803425/58370928-3596ed80-7f47-11e9-8f22-6fcaff3658d4.png"><img width ="60%" src="https://user-images.githubusercontent.com/42803425/58370934-53645280-7f47-11e9-9b5f-f284f2bcd034.png">
-
-
-### Members
-
-  * 21300207 김태운 / 21500431 유재은 / 21600202 나누리
+# 리듬손타
+### LeapMotion을 활용한 지휘 프로그램
+<img height="200" src="img/1.png"><img height="200" src="img/2.png">
 
 
+#### Members
+- 21300207 김태운 / 21500431 유재은 / 21600202 나누리
 
-### Purposes / Expectation
+## 01. Purposes / Expectation
+- 리듬손타 프로그램은 교육용 프로그램으로서, 음악을 학습하는 학습자를 대상으로 지휘법을 배우고, 직접 실습할 수 있도록 하는 프로그램이다. 사용자는 이로 하여금 지휘법을 익히고 음악적 이해도를 높이는 데 그 의의가 있다. 기존과는 다른 색다른 학습법의 도입으로, 쉽고 재미있게 지휘법을 익힐 수 있을것이다. 또한, 그에 따라 음악을 좀 더 풍부하게 이해할 수 있을 것이라 생각된다.
 
-  * 리듬손타 프로그램은 교육용 프로그램으로서, 음악을 학습하는 학습자를 대상으로 지휘법을 배우고, 직접 실습할 수 있도록 하는 프로그램이다. 
-    사용자는 이로 하여금 지휘법을 익히고 음악적 이해도를 높이는 데 그 의의가 있다. 
-    기존과는 다른 색다른 학습법의 도입으로, 쉽고 재미있게 지휘법을 익힐 수 있을것이다. 
-    또한, 그에 따라 음악을 좀 더 풍부하게 이해할 수 있을 것이라 생각된다.
-
-
-
-### Photos & videos
-
-![photo](https://user-images.githubusercontent.com/31753348/58369151-869be700-7f31-11e9-9c85-45412efcea84.png)
+## 02. Photos & videos
+![photo](img/3.png)
 
 
-### 화면 설명
+## 03. 화면 설명
 1. 시작 화면: 프로그램 로고와 함께 '게임시작','게임설명', 그리고 '환경설정'을 선택할 수 있다.
 2. 게인시작: '연습모드'와 '실전모드'를 선택할 수 있고 홈 버튼으로 시작화면으로, 뒤로가기 버튼으로 이전 페이지로 돌아갈 수 있다. 
 3. 연습모드: 연습할 수 있는 4가지 박자(2/4박, 3/4박, 4/4박, 6/8박)를 선택하여 연습모드를 진행할 수 있다. 
@@ -43,15 +34,10 @@
               시작화면으로 돌아가게 된다. 
 
 
-
-## 프로젝트 진행 과정
-
-
-* week2 - week3: idea development
-
-* week4 - week5: storyboard 제작 및 프로그램 화면구성정리
-
-	<image width = "50%" src="https://user-images.githubusercontent.com/48409392/58367595-264e7a80-7f1c-11e9-93d0-13899f240512.png"> <image width = "45%" src="https://user-images.githubusercontent.com/48409392/58367566-cb1c8800-7f1b-11e9-8db7-2e5b09e8f24d.png">
+## 04. 프로젝트 진행 과정
+- week2 - week3: idea development
+- week4 - week5: storyboard 제작 및 프로그램 화면구성정리
+<img height="200" src="img/4.png"><img height="200" src="img/5.png">
 
 * week5-6: concept testing - 구글폼으로 설문진행 (응답자: 46명)
 
@@ -135,3 +121,6 @@ download from [here](https://github.com/wodms95/HCI-Group3-RhythmSonTa/tree/mast
   
   [3] 스크래치 이미지: https://www.flaticon.com/
 
+
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

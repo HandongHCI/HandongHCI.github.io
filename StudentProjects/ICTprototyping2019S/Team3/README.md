@@ -165,7 +165,7 @@ dust10 = int(dust10)
 5. 그 후 linelist에 read 모드로 받아온 파일의 정보를 line 별로 나눠서(splitlines) 리스트화한다. 
 위의 경우에는 linelist에 [[latest data],[Y,N,D,H,미세먼지10,온도,습도,강수량,풍향], [2019,6,16,17,3,19.4,77,0,41]] 로 저장되어있다. 
 
-6. 이 중 lineList[2].split(",") 즉 3번째 줄의 데이터를 , 를 기준으로 나눠서 선언된 tmp1, tmp2, tmp3, tmp4, dust10, tmp5, tmp6, tmp7, tmp8 에 저장한다. 이 중, 미세먼지 데이터는 5번째로 '3' 이 dust10 에 저장되었다. 저장된 정보는 string 이다. 
+6. 이 중 lineList[2].split(",") 즉 3번째 줄의 데이터를 , 를 기준으로 나눠서 선언된 tmp1, tmp2, tmp3, tmp4, dust10, tmp5, tmp6, tmp7, tmp8 에 저장한다. 이 중, 미세먼지 데이터는 5번째로 '3' 이 dust10 에 저장되었다. 저장된 정보는 string type이다. 
 
 7. 따라서 숫자로 변환하여 주기 위하여 int(dust10)을 하여 인트형으로 변환한다. 
 

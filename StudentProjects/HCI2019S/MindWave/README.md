@@ -123,6 +123,8 @@ MindwavePacketPayloadParser.py
     ex) [0.21, 0.72] - 초록, [0.68, 0.32] - 빨강
 
 
+## Source Code
+- [Here](https://HandongHCI.github.io/StudentProjects/HCI2019S/MindWave/source.py)
 
 <br><br><br>
 [← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

@@ -15,11 +15,11 @@
 
   
 ## Concept  
-'Tob'의 가장 큰 특장점은 제품 외형에 제약이 없는 것이다. 사용자는 본인이 원하는 건축물이나 상징물로 형태를 선택할 수 있다. 이는 기존 제품들의 고정적 틀에서 벗어나 사용자가 직접 제품 제작에 참여하여 재미의 요소를 더하고 제품의 가치를 높이고자 의도되었다. 프로토타입은 '한동대학교 효암 채플' 모델로 전체 규격 32 X 8 X 22 cm로 제작되었다.
+'Tob'의 가장 큰 특장점은 제품 외형에 제약이 없는 것이다. 사용자는 본인이 원하는 건축물이나 상징물로 형태를 선택할 수 있다. 이는 기존 제품들의 고정적 틀에서 벗어나 사용자가 직접 제품 제작에 참여하여 재미의 요소를 더하고 제품의 가치를 높이고자 의도되었다. 프로토타입은 '한동대학교 효암 채플' 모델로 전체 규격 32 × 8 × 22 cm로 제작되었다.
 
 ![](img/2.jpg)
 ![](img/3.jpg)
-![](img/5.jpg)
+![](img/4.jpg)
 ![](img/7.png)
 
 
@@ -54,21 +54,21 @@
 __Marvel prototype '오늘'__ [체험해보기](https://marvelapp.com/5hh4jj6)
   
 
+<br><br><br>
 ## 미세먼지와 HUE 연동하는법 
-### Introduction 
+### 0. Introduction 
 이 설명서는 미세먼지 공공데이터를 google sheet로 받아오는 법을 먼저 숙지해야 한다. 마찬가지로 라즈베리 파이를 통해 실기간 미세먼지 농도를 측정하는 방법도 먼저 숙지해야 한다. 불빛을 통해 미세먼지 데이터를 사람들에게 시각적으로 전달하기 위하여 시도한 방법이다.
+
 (1) 라즈베리 파이를 통해 실시간 미세먼지 농도 측정한 값을 HUE 와 연동하는 법 설명서
+
 (2) 미세먼지 공공 데이터를 HUE 로 가져오는 방법 설명서
 
-just in case 
-
-모든 코드는 cmd (terminal)창에서 진행된다. 파일이 설치된 위치에 들어가서 python3 파일이름.py로 실행한다.
+(just in case...) 모든 코드는 cmd (terminal)창에서 진행된다. 파일이 설치된 위치에 들어가서 python3 파일이름.py로 실행한다.
 
 ![](img/9.jpg)
 
 ### 1. 라즈베리 파이를 통해 실시간 미세먼지 농도 측정한 값을 HUE 와 연동하는 법 설명서
-
-	라즈베리 파이를 통해 실기간 미세먼지 농도를 측정하는 방법은 이곳에서 설명하지 않는다. 이 곳에서 중점적으로 설명할 것은 HUE와 인터넷과의 연동이다. 이 과정이 있어야 HUE가 연동이 되어, 데이터를 받아올 수 있으므로 필수로 참고해야 한다. python 코드와 HUE를 연동하기 위해서는 2가지의 과정이 필요하다. 
+라즈베리 파이를 통해 실기간 미세먼지 농도를 측정하는 방법은 이곳에서 설명하지 않는다. 이 곳에서 중점적으로 설명할 것은 HUE와 인터넷과의 연동이다. 이 과정이 있어야 HUE가 연동이 되어, 데이터를 받아올 수 있으므로 필수로 참고해야 한다. python 코드와 HUE를 연동하기 위해서는 2가지의 과정이 필요하다. 
 
 1. 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
 2. Username 과 Hue 전구의 번호를 받아와 python과 연동하기 
@@ -77,7 +77,7 @@ just in case
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/TL-K4Gm0fis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
+#### 1. 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
 1. 근처 wifi 위치를 확인한다. 
 2. wifi에 아래의 사진과 같은 philps bridge를 연결한다. (philips hue 전구 박스를 확인하면 있다.)
 <img src= "https://user-images.githubusercontent.com/37058246/59563613-26531d80-9077-11e9-95f0-3aab7080d782.jpg"  width="100%" height="100%">

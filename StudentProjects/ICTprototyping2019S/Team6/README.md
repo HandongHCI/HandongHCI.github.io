@@ -1,7 +1,12 @@
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/ICTprototyping2019S)
+
 # 미세먼지 데이터를 이용한 시각화 프로젝트
 
+#### Members
+- 박규태, 백윤정, 박은하
+
 ## Introduction
-- 본 문서는 Raspberry Pi와 미세먼지 센서를 이용하여 얻은 데이터를 수치에 따라 홀로그램으로 디스플레이하는 것을 목표로 한다.
+본 문서는 Raspberry Pi와 미세먼지 센서를 이용하여 얻은 데이터를 수치에 따라 홀로그램으로 디스플레이하는 것을 목표로 한다.
 
 ## 준비물
 - Raspberry Pi
@@ -54,3 +59,6 @@
 
     player.quit()
     ```
+
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/ICTprototyping2019S)

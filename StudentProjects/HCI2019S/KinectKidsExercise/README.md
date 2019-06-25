@@ -53,13 +53,14 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 - Kinect 카메라가 User를 인식하여 User의 관절의 위치를 x, y, z 좌표로 입력 받음
 입력 받은 User의 좌표를 이용하여 Scratch X를 통해 게임 구현
 - 사용한 좌표
-	- Spin Base: 캐릭터 뛰용과 <꿈나라로 뛰어가요> 공의 상하좌우, 거리 표현
-	- Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, 거리 표현
+	- Spin Base: 캐릭터 뛰용과 공(**꿈나라로 뛰어가요**)의 상하좌우, 거리 표현
+	- Right/Left Hand Tip: 왼쪽 오른쪽 글러브(**지방 복싱**) 상하좌우, 거리 표현
 
 
 ### 게임 튜토리얼 
 
-[유저 플레이 영상 바로가기](https://youtu.be/eOAuMgEgBc4)
+유저 플레이 영상
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/eOAuMgEgBc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ![1](img/6.png)
 - User가 점프하면 캐릭터 뛰용이 게임시작 버튼에 닿음, 
@@ -76,7 +77,8 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 ![4](img/9.png)
 - <꿈나라로 뛰어가요> 게임 첫 화면
 - 제한시간동안 User가 점프하여 캐릭터 미니 뛰용이 침대로 이동함
-- User의 점프는 왼쪽 주황색 공으로 표현, 
+- User의 점프는 왼쪽 주황색 공으로 표현
+
 ![5](img/10.png)
 - 게임 성공 화면
 - <꿈나라로 뛰어가요> 게임 실패 화면

@@ -47,6 +47,7 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 ### 원리
 - [Kinect SDK v2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
 - [Scratch X](https://github.com/stephenhowell/kinect2scratch)
+
 ![image](img/4.png)
 ![image](img/5.png)
 
@@ -60,32 +61,31 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 ### 게임 튜토리얼 
 
 #### menu
-![1](img/6.png)
 - User가 점프하면 캐릭터 뛰용이 게임시작 버튼에 닿음, 
 - 미니게임을 선택할 수 있는 화면이 나오고 화살표에 캐릭터 뛰용이 닿으면 다음 게임으로 바뀜. 미니게임 썸네일 위치에서 User가 점프하여 캐릭터 뛰용이 닿으면 해당 게임으로 화면 넘어감
 
+![1](img/6.png)
+
 #### 하늘에서 음식이 내린다면 게임 첫화면
-![2](img/7.png)
 - User가 점프하여 게임 시작 버튼에 캐릭터 뛰용이 닿으면 게임 시작
 - 왼쪽 위에 캐릭터 뛰용이 먹어야 하는 음식의 숫자가 랜덤하게 표시되고 User가 몸을 움직이며 캐릭터 뛰용이 음식을 먹거나 피함. 피해야 하는 음식(ex, 감자튀김, 도넛, 아이스크림)이 캐릭터 뛰용에 닿으면 Life의 하트가 하나씩 줄고, 캐릭터 뛰용의 모습이 뚱뚱해짐. 
 
-![3](img/8.png)
-- 게임성공 화면과 게임 실패 화면
+![2](img/7.png)
+![게임성공 화면과 게임 실패 화면](img/8.png)
 
 #### 꿈나라로 뛰어가요 게임 첫 화면
-![4](img/9.png)
 - 제한시간동안 User가 점프하여 캐릭터 미니 뛰용이 침대로 이동함
 - User의 점프는 왼쪽 주황색 공으로 표현
 
-![5](img/10.png)
-- 게임 성공 화면과 게임 실패 화면
+![4](img/9.png)
+![게임 성공 화면과 게임 실패 화면](img/10.png)
 
 #### 지방 복싱 게임 첫 화면
-![6](img/11.png)
-
-![7](img/12.png)
 - User가 오른쪽 왼쪽 손을 움직여 캐릭터 '지방'을 잡음
 - User의 손의 움직임은 빨간색 글러브를 통해 표현.
+
+![6](img/11.png)
+![7](img/12.png)
 
 ### 유저 플레이 영상
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/eOAuMgEgBc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

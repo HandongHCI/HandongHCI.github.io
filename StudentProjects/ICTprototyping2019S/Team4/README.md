@@ -28,13 +28,9 @@
 
 ### Tool-based application
 - Laspberry pi는 미세먼지측정기에서 측정한 결과를 어플리케이션으로 전송하도록 프로그래밍했다.
-
-![](img/5.png)
-
 - 서버에 접속하여 사용자들끼리 정보를 공유할 수 있다.
 
-![](img/6.png)
-![](img/7.png)
+<img height="300" src="img/5.png"><img height="300" src="img/6.png"><img height="300" src="img/7.png">
 
 ### Web-based application
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/jinojung/ICT_Webapp/master/index.html

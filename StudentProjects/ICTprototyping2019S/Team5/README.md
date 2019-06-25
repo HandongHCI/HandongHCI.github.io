@@ -11,13 +11,16 @@
 Watch Dust! 프로젝트의 제품은 가정용 미세먼지 시계를 컨셉으로 제작된다. 미세먼지 시계란 다음 사진과 같이 동그란 아날로그 시계 테두리에 각 시간에 따라 미세먼지 농도 변화를 색상으로 표현해줄 수 있는 LED를 달아 사용자가 시각적으로 하루의 미세먼지 농도를 지각하게 하는 것에 초점을 둔다. 하루의 미세먼지 농도를 종합적으로 시각화하기 위해서는 시계와 결합하는 것이 어떨까라는 아이디어에서 시작하였다. 시계 중에서도 디지털 시계가 아닌 아날로그 시계를 택한 이유는 Design for Simplicity, Ease of Use를 실천하기 위해 디지털 기기에 생소한 사용자들도 편리하게 사용할 수 있기 때문이다. 또한, LED를 통해 조명으로 미세먼지를 표현하면서 디지털 화면을 보여준다면 사용자의 눈에 피로가 가서 장기간 사용하기에 무리가 있다고 판단되어 다음과 같은 결정을 하였다.
 
 **Low-Fidelity Concept**
+
 ![](img/hardware_prototype.png)
 
 **Concept Image**
-![](img/hardware_concept.png)
+
+![](img/hardware_concept.jpg)
 
 **Color Division**
-![](img/light_color.png)
+
+![](img/light_color.jpg)
 
 
 ### 2. How To Develop
@@ -25,32 +28,34 @@ Watch Dust! 프로젝트의 제품은 가정용 미세먼지 시계를 컨셉으
 다음은 레이저 커팅 도면과 실제 커팅을 한 후 모습이다.
 
 **레이저 커팅 도면**
+
 ![](img/laser_cut.png)
 
 **레이저 커팅 이후 사진**
+
 ![](img/laser_cut.jpg)
 
 **시계 구조**
+
 ![](img/clock_cover.jpg)
 
 라즈베리 파이, 시계에 미세먼지 농도에 따라 빛으로 표현하게 하는 LED를 사용하였다. 시계의 센서를 통해 미세먼지 농도 정보를 받아들이고 현재 시각 이후의 농도는 미세먼지 예측 데이터를 에어코리아, 국가정보관리원과 같은 사이트에서 제공하는 데이터를 받아 대기의 상태를 매우 나쁨/나쁨/보통/좋음으로 나누어 다르게 표현할 예정이었다. LED의 색상은 농도에 따라 매우 나쁨(빨강), 나쁨(노랑), 보통(초록), 좋음(파랑)으로 나누어 표현하였다. LED는 빵판과 선을 이용하여 라즈베리 파이에 연결하였다. 
 
-**레이저 커팅 도면**
-![](img/laser_cut.png)
+**라즈베리파이와 LED 연결**
 
-**레이저 커팅 이후 사진**
-![](img/laser_cut.jpg)
+![](img/test.jpg)
+
+**시계에 LED 시험 연결**
+
+![](img/before_lighting.jpg)
 
 **시계 구조**
-![](img/clock_cover.jpg)
 
-**시계 구조**
-![](img/clock_cover.jpg)
+![](img/done.jpg)
 
-<center><img src="./img/test.jpg" width="300" height="300"><br><strong>라즈베리파이와 LED 연결</strong><br><br>
-<img src="./img/before_lighting.jpg" width="300" height="300"><br><strong>시계에 LED 시험 연결</strong><br><br>
-  <img src="./img/done.jpg" width="300" height="300"><br><br>
-<img src="./img/lighting.jpg" width="300" height="300"><br><strong>LED 연결 완료</strong></center>
+**LED 연결 완료**
+
+![](img/lighting.jpg)
 
 ---
 ## Result

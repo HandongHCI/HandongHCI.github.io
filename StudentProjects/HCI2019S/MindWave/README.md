@@ -1,6 +1,11 @@
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
+
 # 뇌파 데이터를 이용한 시각화 프로젝트
 
-## Introduction
+#### members
+- 박규태, 문현기, 박은하, 목하은
+
+## 01. Introduction
 - 본 문서는 Windows 10 환경에서 Python으로 MindWave Mobile 2 장비로부터 뇌파 정보를 받는 방법을 소개 (Mac은 Python의 bluetooth module이 잘 설치되지 않음)
 - 장비가 수집하는 뇌파
     1. attention/concentration (집중도)
@@ -8,23 +13,23 @@
     1. raw EEG data (delta, highAlpha, highBeta, lowAlpha, lowBeta, lowGamma, midGamma, theta)
 - 작동원리
     1. MindWave Mobile 2
-    - bluetooth를 통해 컴퓨터와 통신
+        - bluetooth를 통해 컴퓨터와 통신
     1. Philips HUE
-    - wifi를 통해 컴퓨터와 통신
-    - wifi 공유기에 HUE Bridge를 연결(컴퓨터에서는 Bridge가 연결된 wifi를 잡아야한다.)
-    - Bridge와 전구가 연결되어 상호 통신
+        - wifi를 통해 컴퓨터와 통신
+        - wifi 공유기에 HUE Bridge를 연결(컴퓨터에서는 Bridge가 연결된 wifi를 잡아야한다.)
+        - Bridge와 전구가 연결되어 상호 통신
 
-## 준비물
+## 02. 준비물
 - Mindwave Mobile 2
 - Philips HUE
 - Windows 운영체제
 - 사용 언어: python
 
-## 개발 단계
+## 03. 개발 단계
 1. Python으로 MindWave Mobile 2 뇌파 데이터 받아오기
 2. 뇌파 데이터를 HUE로 표현하기
 
-### Python으로 MindWave Mobile 2 뇌파 데이터 받아오기
+### A. Python으로 MindWave Mobile 2 뇌파 데이터 받아오기
 #### 개발 환경 구축
 1. 알려진 Python code를 사용하기 위해서는 먼저 Pybluez라는 bluetooth 연결 모듈을 설치해야 한다. Pybluez는 현재 Windows 환경에서 제대로 작동하는 것으로 확인되며, Mac에서는 잘 설치되지 않았다. (Linux 및 Linux 기반의 Raspberry Pi에서 사용 가능하다는 보고가 있지만 test하진 않았다.)
 
@@ -62,7 +67,7 @@ MindwavePacketPayloadParser.py
  
 1. 전부 합쳐서 만들어진 파일의 read_mindwave_mobile.py의 내용에 hasattr를 사용해서 mindwave mobile2에서 가져오는 데이터를 각각 저장 한다.
     ```python
-    If hasattr(dataPoint, ‘meditationValue’)
+    If hasattr(dataPoint, 'meditationValue')
          medVal = dataPoint.meditationValue
          attVal = dataPoint.attentionValue
          DVal = dataPoint.delta
@@ -77,7 +82,7 @@ MindwavePacketPayloadParser.py
 
 1. 받아온 데이터를 csv파일로 저장한다.
     ```python
-    Sleepdata = open(‘sleepVal.csv’, ‘w’, encoding=’utf-8’, newline = ‘ ’)
+    Sleepdata = open('sleepVal.csv', 'w', encoding='utf-8', newline = ' ')
     Sleepcsv = csv.writer(sleepdata)
     Sleepcsv.writerow([medVal, attVal, DVal, TVal, LAVal, HAVal, LBVal, HBVal, LGVal, MGVal])
     ```
@@ -87,7 +92,7 @@ MindwavePacketPayloadParser.py
 - [Win10에 Pybluez 설치](https://github.com/pybluez/pybluez/issues/180#issuecomment-448102727)
 
 
-### 뇌파 데이터를 HUE로 표현하기
+### B. 뇌파 데이터를 HUE로 표현하기
 #### 개발 환경 구축
 1. HUE를 python으로 제어하기 위해서는 "phue"라는 모듈이 필요하다.
     ```
@@ -109,14 +114,15 @@ MindwavePacketPayloadParser.py
 
 1. HUE 색깔 변경하기
     phue에서는 “CIE 1931”라는 색 규격을 사용한다.
-    [CIE 1931](https://en.wikipedia.org/wiki/CIE_1931_color_space)는 색 좌표를 가지게 되는데 해당 색의 좌표를 
+    [CIE 1931](https://en.wikipedia.org/wiki/CIE_1931_color_space)는 색 좌표를 가지게 되는데 해당 색의 좌표를 아래와 같이 적어주면 된다.
     ```python
     b.set_light(1, 'xy', [0.21, 0.72])
     ```
-    이렇게 적어주면 된다.
+    
     ()의 파라미터는 순서대로 “전구번호”, “적용함수(색깔바꾸기)”, “[x좌표, y좌표]”이다.
-
     ex) [0.21, 0.72] - 초록, [0.68, 0.32] - 빨강
 
 
 
+<br><br><br>
+[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)

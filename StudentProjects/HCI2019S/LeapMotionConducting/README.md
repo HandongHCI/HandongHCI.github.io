@@ -61,13 +61,13 @@
 
 
 
-## 05. 구현방법: Leap Motion (ver. 2.3.1)과 ScratchX를 활용하여 제작
+## 05. 구현방법: 
 
 ### 구동환경 구현
-
-- [Downloads of Leap-Motion](https://www.leapmotion.com/setup/desktop)
-  - **반드시 2.3 버전을 다운로드 한다**
-- [ScratchX](http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch)
+- Windows 10, Leap Motion (ver. 2.3.1), ScratchX
+- 설치
+  - [Leap Motion](https://www.leapmotion.com/setup/desktop) (**반드시 2.3 버전을 다운로드**)
+  - [ScratchX](http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch)
 
 
 ### 구현원리

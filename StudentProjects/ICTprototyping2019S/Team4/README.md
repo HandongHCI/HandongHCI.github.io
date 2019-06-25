@@ -35,8 +35,8 @@
 ### Web-based application
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/jinojung/ICT_Webapp/master/index.html
 
-### Future plan
-- 현재 서버단위가 아닌 개인 기기단위의 어플리케이션을 개발하는 데 성공했다. 추후에 이를 서버단위로 확장하여 정보공유를 가능하게 만들 계획이다.
+## Future plan
+현재 서버단위가 아닌 개인 기기단위의 어플리케이션을 개발하는 데 성공했다. 추후에 이를 서버단위로 확장하여 정보공유를 가능하게 만들 계획이다.
 
 <br><br><br>
 [← go back to the list](https://HandongHCI.github.io/StudentProjects/ICTprototyping2019S)

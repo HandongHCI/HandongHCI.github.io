@@ -38,7 +38,8 @@
 - week2 ~ week3: idea development
 - week4 ~ week5: storyboard 제작 및 프로그램 화면구성정리
 
-<img height="200" src="img/4.png"><img height="200" src="img/5.png">
+  ![](img/4.png)
+  ![](img/5.png)
 
 - week5 ~ 6: concept testing - 구글폼으로 설문진행 (응답자: 46명)
 
@@ -56,30 +57,23 @@
     
 - week12 ~ week13: prototype testing & Final PT
 
-	<image width="50%" src = "https://user-images.githubusercontent.com/48409392/58369059-37a18200-7f30-11e9-9449-e8655d8bdc51.png"> <image width = "45%" src="https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png">
+	<img height="400" src="img/9.png"><img height="400" src="img/10.png">
 
 
 
-## 구현방법: Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작
-
+## 구현방법: Leap Motion (ver. 2.3.1)과 ScratchX를 활용하여 제작
 
 ### 구동환경 구현
 
-* [Downloads of Leap-Motion](https://www.leapmotion.com/setup/desktop) 
-	
-  (해당 페이지에서 Windows, Mac, Linux 등 버전에 맞게 다운로드 가능)
-
-* [ScratchX](http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch, "ScratchX")
-
+- [Downloads of Leap-Motion](https://www.leapmotion.com/setup/desktop)
+  - **반드시 2.3 버전을 다운로드 한다**
+- [ScratchX](http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch)
 
 
 ### 구현원리
-
-  * Leap Motion Controller는 컴퓨터와 USB를 활용, 연결시켜 사용하는 기기이다.
-  
-  * 기기에 내장과 LED와 카메라 센서를 통해 움직임을 인식하여 화면으로 반영한다. 기기에서 8-cubic feet (2x2x2) 정도 떨어진 공간을 개략적으로 스캔하며, Leap Motion 기기는 양 손과, 10개 손가락을 모두 추적할 수 있다.
-    
-  * Interaction 예)
+- Leap Motion Controller는 컴퓨터와 USB를 활용, 연결시켜 사용하는 기기이다.
+- 기기에 내장과 LED와 카메라 센서를 통해 움직임을 인식하여 화면으로 반영한다. 기기에서 8-cubic feet (2x2x2) 정도 떨어진 공간을 개략적으로 스캔하며, Leap Motion 기기는 양 손과, 10개 손가락을 모두 추적할 수 있다.
+- Interaction 예)
     - 손을 움직임이 그대로 반영되어, 움직임에 따라 자신이 움직인 궤적이 나타나도록 함.
     - 손의 움직임으로 마우스의 기능을 대체할 수 있도록 함. (2초 이상 머물면 다음 화면 전환)
     - 움직임을 점수화하여, 시각적으로 나타내도록 함.

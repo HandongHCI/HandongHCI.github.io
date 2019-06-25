@@ -31,11 +31,11 @@
 1. Raspberry Pi를 통해 미세먼지 데이터를 받아오는 방법은 [이 문서](https://handonghci.github.io/Tutorials/RaspberryPi_DustDevice_Project.html)를 참고한다.
 
 1. Raspberry Pi를 통해 영상을 재생하기 위해서는 omxplayer-wrapper를 설치해야 한다.
-    ```
-    apt-get install libdbus-glib-1-dev
-    pip3 install omxplayer-wrapper
-    pip install pathlib
-    ```
+```
+apt-get install libdbus-glib-1-dev
+pip3 install omxplayer-wrapper
+pip install pathlib
+```
     - 참고문헌: [라즈베리파이3 OMXPlayer 제어 — 파이썬](https://medium.com/@lyoungh2570/라즈베리파이3-omxplayer-제어-파이썬-3e9327a6bfde)
    
 1. 예제코드

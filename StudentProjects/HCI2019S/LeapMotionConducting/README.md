@@ -61,7 +61,7 @@
 
 
 
-## 구현방법: Leap Motion (ver. 2.3.1)과 ScratchX를 활용하여 제작
+## 05. 구현방법: Leap Motion (ver. 2.3.1)과 ScratchX를 활용하여 제작
 
 ### 구동환경 구현
 
@@ -73,23 +73,20 @@
 ### 구현원리
 - Leap Motion Controller는 컴퓨터와 USB를 활용, 연결시켜 사용하는 기기이다.
 - 기기에 내장과 LED와 카메라 센서를 통해 움직임을 인식하여 화면으로 반영한다. 기기에서 8-cubic feet (2x2x2) 정도 떨어진 공간을 개략적으로 스캔하며, Leap Motion 기기는 양 손과, 10개 손가락을 모두 추적할 수 있다.
-- Interaction 예)
+- Interaction 예
     - 손을 움직임이 그대로 반영되어, 움직임에 따라 자신이 움직인 궤적이 나타나도록 함.
     - 손의 움직임으로 마우스의 기능을 대체할 수 있도록 함. (2초 이상 머물면 다음 화면 전환)
     - 움직임을 점수화하여, 시각적으로 나타내도록 함.
     
     
 ### 장점
-
  - 학습자가 직접 참여해 손과 팔을 직접 움직이며 실제 지휘법을 익힐 수 있음
  - ScratchX를 활용하면 비교적 손쉽게 창의적인 컨텐츠 제작가능
  - 다양한 컨텐츠의 프로토타이핑 및 그래픽 등의 상시 검토 가능
  - 학습 참여도 향상의 효과를 기대할 수 있음
 
  
-
 ### 한계점
-
  - 화면 크기, 해상도, 세부 동작 등의 구현에 있어 기술적 제약 존재
  - 사용자의 편리를 고려한 인터페이스 구현
  - 평가 기준의 다양성 제고.
@@ -98,19 +95,16 @@
 
 
 ### Source Code
-download from [here](https://github.com/wodms95/HCI-Group3-RhythmSonTa/tree/master/HCI_Rythm%20SonTA_Source%20Code) 
+download from [here](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/StudentProjects/HCI2019S/LeapMotionConducting/source.sbx) 
 
 
-
-## 결론
+## 06. 결론
 기존에 립모션을 경험해보지 않은 사람들도 쉽고 재미있게 프로그램을 즐기는 것을 확인하였다. 컨셉 테스팅과 프로토타입 테스팅을 통해 받은 피드백을 바탕으로 프로그램을 수정하고 발전시킨다면 앞으로 지휘를 배우고 싶어하는 개인 혹은 초등교육에 의해 프로그램이 사용되어질 수 있을 것이라고 기대한다.
 
 ## References
-  [1] 곰세마리 음악: http://bit.ly/2EwKYgm
-  
-  [2] 곰세마리 악보: http://bit.ly/2K1xMDK
-  
-  [3] 스크래치 이미지: https://www.flaticon.com/
+- 곰세마리 음악: http://bit.ly/2EwKYgm
+- 곰세마리 악보: http://bit.ly/2K1xMDK
+- 스크래치 이미지: https://www.flaticon.com/
 
 
 <br><br><br>

@@ -93,7 +93,7 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 
 
 ## 03. Source code
-[뛰뛰쿨쿨 게임 코드 다운받으러 가기](https://drive.google.com/file/d/1i2l00q4xolkikD1NLW0cRwdchtC2Jlrg/view?usp=sharing)
+[뛰뛰쿨쿨 게임 코드 다운받으러 가기](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/StudentProjects/HCI2019S/KinectKidsExercise/)
 
 
 ## 04. Photos and Videos
@@ -105,4 +105,4 @@ Prototype test - 요약 영상
 
 
 ## 05. References
-https://social.msdn.microsoft.com/Forums/en-US/c818387d-8717-48a9-b562-738e9e0b69e5/joints-in-kinect-v2?forum=kinectv2sdk
+- https://social.msdn.microsoft.com/Forums/en-US/c818387d-8717-48a9-b562-738e9e0b69e5/joints-in-kinect-v2?forum=kinectv2sdk

@@ -20,6 +20,9 @@
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/_WG-Wm1XLhE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
+#### Assignments
+- Find related essay topic from [Here](HFE_Essays.md).
+- NOTE. Another required assignments can be noticed, but not updated in this site. Please always check LMS.handong.edu.
 
 
 

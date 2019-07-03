@@ -16,7 +16,8 @@
 Write the first essay including the follow subtopics.
 
 **Subtopic 1. Introduction to yourself**
->Say something about yourself. What is important matter for you? Why did you choose this course? What do you expect to learn from this course? And is there anything that you'd like to say?
+
+	Say something about yourself. What do you study in Handong? Why do you want to take this course? What do you expect to learn from this course? Is there anything that you'd like to say to the professor?
 
 Watch the videos in the list of "Online Lecture #1", then write the first essay including the following subjects.
 

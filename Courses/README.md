@@ -1,4 +1,4 @@
-[← go back to the main page](https://HandongHCI.github.io/)
+[← go back to the main page](../README.md)
 
 ## Courses
 - [Human Factors and Ergonomics (SIT22008)](HFE00.md)

@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/Courses)
+[← go back to the list](README.md)
 
 ## Human Factors and Ergonomics
 

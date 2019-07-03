@@ -1,4 +1,4 @@
-[← go back to the list](../HFE00.md)
+[← go back to the list](HFE00.md)
 
 ## Human Factors and Ergonomics (SIT22008) - Essays
 last update: 3 July 2019

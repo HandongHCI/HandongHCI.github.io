@@ -11,6 +11,8 @@
 	- 4-2. Emotional Ergonomics II: Emotional Engineering, Measurement of Human Emotion
 	- 5-1. Usability Engineering I: User-Centered Design Principles
 	- 5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn
+	- [Assignments](HFE_Essays.md)
+	- Project
 - Human-Computer Interaction *(not prepared yet)*
 - Data Visualization *(not prepared yet)*
 - Seminars *(not prepared yet)*

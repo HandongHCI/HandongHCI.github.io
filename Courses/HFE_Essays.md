@@ -29,54 +29,63 @@ Write the first essay including the follow subtopics.
 - **Subtopic 1. Introduction to yourself**: Say something about yourself. What do you study in Handong? Why do you want to take this course? What do you expect to learn from this course? Is there anything that you'd like to say to the professor?
 - **Subtopic 2. What is the 'human factors and ergonomics'?**: What do you know about HF/E? What could be core values of HF/E? Find one or two examples of ergonomic product and explain why that provides ergonomic values and how?
 
+<br><br><br>
 #### Topic 2. [Physical Ergonomics I: Biomechanics]
 Watch the [videos listed as **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: How can the knowledge of biomechanics help people in their daily life? Self-search some existing products for your understanding (example of search keywords: motion capture, bionics, exoskeleton, occupational biomechanics, sports science).
 - **Subtopic 3**: Provide some ideas about new product that uses human biomechanical data for general or specific people.
 
+<br><br><br>
 #### Topic 3. [Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
 Watch the [videos listed as **2-2. Physical Ergonomics II**](HFE02_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: How can the knowledge of anthropometry help people in their daily life? Self-search some existing products for your understanding (example of search keywords: anthropometric design, 3d body scanning, 3d human shape, human body size, office ergonomics, ergonomic posture, office stretching, digital human model).
 - **Subtopic 3**: Provide some ideas about new product that can make people in good and safe posture (at industry/office workplaces and at school/study places).
 
+<br><br><br>
 #### Topic 4. [Cognitive Ergonomics I: Information Processing Model]
 Watch the [videos listed as **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
+<br><br><br>
 #### Topic 5. [Cognitive Ergonomics II: Fight or Flight Response, Human Error, Cognitive Training]
 Watch the [videos listed as **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
+<br><br><br>
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Design]
 Watch the [videos listed as **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
+<br><br><br>
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed as **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
+<br><br><br>
 #### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]
 Watch the [videos listed as **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
+<br><br><br>
 #### Topic 9. [5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn]
 Watch the [videos listed as **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
+<br><br><br>
 #### Topic 10. Epilog
 Please share how you studied in this course, also how you worked in team. Which core concepts have your learned? What have you earned from the activities of this class? What is new experience you have gotten in the course? How did you do through the course? How did you learn and experience? How did you acheive your initial goal? What is your next step in human-centered design, HF/E, HCI, or UX/UI areas? How could the earned knowledge and experiences be used in your future study or work? And do you have anything to share related to this course?
 - no page limit for this assignment

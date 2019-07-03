@@ -51,10 +51,10 @@ In team projects, students have the **responsibility to actively participate in 
 
 Finally, as my educational duty, I've gladly spent lots of time to **see each student of my class in person**. Please come to me **at least once during the semester**. To effectively excel my education into the class, this individual meeting is **compulsory for all student**.
 
-#### Philosophy about essay writing
+#### Philosophy of essay writing
 - The essay writing is aimed to help students to have clear understandings and ideas regarding human factors and ergonomics topics delivered through the course.
-- The essay is NOT a report or a summary of knowledge. The essay, just like a diary, is to **express students' thoughts, ideas, opinions, arguments, discussion, agreements, or critiques** in non-strict writing styles or formats. There's NO answer for the essay topics, but essays will be evaluated by the professor in terms of such as **clarity of opinion, rationality of argument, writing quality, depth of the philosophy about the topic, and so forth**.
-- Find my philosophy about the essay writing by referring to the [세바시 talk](https://www.youtube.com/watch?v=QYt1-Z12K2E), spoken in Korean; I will not use the peer evaluation concept introduced in this video.
+- The essay is NOT a report or a summary of knowledge. The essay, just like a diary, is to **express students' thoughts, ideas, opinions, arguments, discussion, agreements, or critiques** in non-strict writing styles or formats. There's NO answer for the essay topics, but essays will be evaluated by the professor in terms of such as **clarity of opinion, the rationality of argument, writing quality, depth of own philosophy about the topic, and so forth**.
+- For your understanding about my education philosophy on the essay writing, I share this [세바시 talk](https://www.youtube.com/watch?v=QYt1-Z12K2E), which is spoken in Korean. Note that I will not use the peer evaluation concept introduced in this video.
 - Writing Guideline
 	- Use the shared essay form (Download: [here](https://goo.gl/Lh7d4a))
 		- Font: Batang & Times New Roman

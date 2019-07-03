@@ -1,20 +1,20 @@
 [← go back to the list](HFE00.md)
 
 ## Human Factors and Ergonomics (SIT22008) - Essays
-last update: 3 July 2019
+(last update: 3 July 2019)
 
 ### Announcement
-- This essay topics might be changed recently, but not updated in this site.
-- Please double-check LMS.handong.edu.
+- This essay topics might be changed over time, but not updated in this site yet.
+- Therefore, please double-check LMS.handong.edu.
 
 ### General Guidelines for Writers
-Find about the essay writing in this class from [here](HFE00.md#Philosophy-about-essay-writing)
+- Find guidelines about the essay writing from [here](HFE00.md#philosophy-about-essay-writing).
 
-#### Topics
+### Topics
 
 #### Topic 1. [The First Essay]
-
-1. Introduction to yourself
+Write the first essay including the follow subtopics.
+**Subtopic 1. Introduction to yourself**
 Say something about yourself. What is important matter for you? Why did you choose this course? What do you expect to learn from this course? And is there anything that you'd like to say?
 
 Watch the videos in the list of "Online Lecture #1", then write the first essay including the following subjects.

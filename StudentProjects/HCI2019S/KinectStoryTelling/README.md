@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
+[← go back to the list](../README.md)
 
 # HCI_interactive_media_art
 

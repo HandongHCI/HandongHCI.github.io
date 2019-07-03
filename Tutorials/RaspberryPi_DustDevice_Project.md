@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/Tutorials)
+[← go back to the list](README.md)
 
 # Raspberry Pi 미세먼지 디바이스 제작 프로젝트 (작성 중)
 ### 목차

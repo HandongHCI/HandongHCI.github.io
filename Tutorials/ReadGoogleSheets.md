@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/Tutorials)
+[← go back to the list](README.md)
 
 ## Google Sheets에 저장된 데이터를 javascript로 받아오기
 

@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
+[← go back to the list](../README.md)
 
 # 뇌파 데이터를 이용한 시각화 프로젝트
 

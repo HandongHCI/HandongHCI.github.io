@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/ICTprototyping2019S)
+[← go back to the list](../README.md)
 
 # Fine Dust Case
 

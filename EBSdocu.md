@@ -1,4 +1,4 @@
-[← go back to the main page](https://HandongHCI.github.io)
+[← go back to the main page](README.md)
 
 ## EBS 다큐프라임
 

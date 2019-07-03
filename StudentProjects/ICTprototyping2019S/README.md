@@ -1,4 +1,4 @@
-[← go back to the main page](https://HandongHCI.github.io/)
+[← go back to the main page](../README.md)
 
 ### Student Projects in 2019
 공통 주제: 미세먼지 측정 및 알람 시스템(하드웨어 & 소프트웨어)

@@ -1,4 +1,4 @@
-[← go back to the main page](https://HandongHCI.github.io/)
+[← go back to the main page](../README.md)
 
 ## Technical Tutorials for HCI computing
 - [Setting Raspbian on Raspberry Pi 3](Raspbian.md)

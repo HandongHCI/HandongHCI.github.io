@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
+[← go back to the list](../README.md)
 
 # Homelympic
 <img src="image/kinect.jpg" height="300"><img src="image/scratchX.png" height="300">

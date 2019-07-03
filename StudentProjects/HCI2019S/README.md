@@ -1,4 +1,4 @@
-[← go back to the main page](https://HandongHCI.github.io/)
+[← go back to the main page](../README.md)
 
 ### Student Projects in 2019
 - [Team 1.1 War Game (Leap Motion, Unity)](LeapMotionWarGame)

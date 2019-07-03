@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/Tutorials)
+[← go back to the list](README.md)
 
 ## 대한민국 공공데이터 이용하기
 

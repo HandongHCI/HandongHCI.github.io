@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
+[← go back to the list](../README.md)
 
 # 바리스타 교육용 립모션 게임
 

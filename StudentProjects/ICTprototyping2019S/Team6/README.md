@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/ICTprototyping2019S)
+[← go back to the list](../README.md)
 
 # 미세먼지 데이터를 이용한 시각화 프로젝트
 

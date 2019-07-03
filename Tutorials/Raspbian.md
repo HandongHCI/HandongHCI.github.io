@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/Tutorials)
+[← go back to the list](README.md)
 
 ## Setting Raspbian on Raspberry Pi 3
 

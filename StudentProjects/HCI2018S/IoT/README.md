@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/STUdentProjects/HCI2018S)
+[← go back to the list](../README.md)
 
 # Internet of Things
 

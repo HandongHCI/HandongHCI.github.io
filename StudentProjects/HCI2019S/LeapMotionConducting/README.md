@@ -1,4 +1,4 @@
-[← go back to the list](https://HandongHCI.github.io/StudentProjects/HCI2019S)
+[← go back to the list](../README.md)
 
 # 리듬손타
 ### LeapMotion을 활용한 지휘 프로그램

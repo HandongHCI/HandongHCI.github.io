@@ -5,7 +5,7 @@
 ### Course Introduction
 This course will provide essential knowledge related to the physical, cognitive, and emotional characteristics of the human, also hands-on practices regarding measuring, analysis, and application of those human characteristics in product design.
 
-This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule. See the following figure and "Course Schedule" for your clear understanding of the course operation in this semester.
+This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule.
 
 ##### PPD sessions
 The PPD (Practice, Project, and Discussion) session is the essential concept of this course. Every week, students MUST take assigned online lectures (about 75 minutes lengths per week) and write an essay before they come to the class. In class, students will learn specific theories by practicing and discussing in groups. Also, students will participate in one project through the full course schedule (more or less three months), and they will make certain progress of the project during each regular class time. The activities regarding the project that are not completed in the class time should be done as the homework.
@@ -86,7 +86,20 @@ I personally have a disagreeing opinion of the ABCDF-based grading system. 0-to-
 
 Attendance is the right of students as they paid for their learning, not a responsibility that could be evaluated; therefore, there is no evaluation of students' attendance. However, uninformed absences or late attendances will be reflected in participation criteria (10%) because the active participation in class is one of the highly required attitudes in this course.
 
+#### Grading Scheme Overview
+- Participation (10%)
+- Essay assignment (20%; 10 essays)
+- Mid-term examination (15%; 10-page essay style)
+- Final examiination (15%; 10-page essay style)
+- Project (40%)
+	- Progress (20%)
+	- Effort (5%)
+	- Final report (5%)
+	- Mid-term presentation (5%)
+	- Final presentation (5%)
+
 ### Schedule
+See the syllabus shared via Hisnet.
 
 ### Miscellaneous
 

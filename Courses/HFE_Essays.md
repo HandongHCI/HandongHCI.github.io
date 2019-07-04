@@ -56,26 +56,26 @@ Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then w
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Design]
 Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2**: (will be updated soon)
+- **Subtopic 3**: (will be updated soon)
 
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2**: (will be updated soon)
+- **Subtopic 3**: (will be updated soon)
 
 #### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2**: (will be updated soon)
+- **Subtopic 3**: (will be updated soon)
 
 #### Topic 9. [5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2**: (will be updated soon)
+- **Subtopic 3**: (will be updated soon)
 
 #### Topic 10. Epilog
 Please share how you studied in this course, also how you worked in team. Which core concepts have your learned? What have you earned from the activities of this class? What is new experience you have gotten in the course? How did you do through the course? How did you learn and experience? How did you acheive your initial goal? What is your next step in human-centered design, HF/E, HCI, or UX/UI areas? How could the earned knowledge and experiences be used in your future study or work? And do you have anything to share related to this course?

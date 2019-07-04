@@ -39,19 +39,19 @@ Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then wr
 Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: How can the knowledge of anthropometry help people in their daily life? Self-search some existing products for your understanding (example of search keywords: anthropometric design, 3d body scanning, 3d human shape, human body size, office ergonomics, ergonomic posture, office stretching, digital human model).
-- **Subtopic 3**: Provide some ideas about new product that can make people in good and safe posture (at industry/office workplaces and at school/study places).
+- **Subtopic 3**: Provide some ideas about new product that can make people in good and safe posture (at industry/office workplaces or at school/study places).
 
 #### Topic 4. [Cognitive Ergonomics I: Information Processing Model]
 Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2**: Explain the process of OOO (e.g., learning, taking an exam, decision making, playing basketball) by the IPM. For the OOO task you choose, how the information is processed **within as well as between** the sensory memory, the short-term memory (= working memory), and the long-term memory? Drawing of the IPM chart might help you to understand the process of OOO. Self-search to understand the concept of IPM (example of search keywords: information processing model, information processing theory, cognitive process model, sensory memory, short-term memory, long-term memory).
+- **Subtopic 3**: Provide some ideas how to increase the brain performance such as accurate divided attention, good memorizing, fast memorizing and recall, accurate sensation and perception, fast calculation, and so forth.
 
 #### Topic 5. [Cognitive Ergonomics II: Fight or Flight Response, Human Error, Cognitive Training]
 Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2**: How can the knowledge of 'fight or flight response' help people in their daily life? Self-search some existing products measures human body signals to understand cognitive status of people (example of search keywords: ECG, EEG, eye tracking, body temparature, skin conductance).
+- **Subtopic 3**: Look arround. What kind of product or software can you find, which makes people causing the human error (e.g., wrong decision making, wrong perception, wrong calculation, mistake, slip, failure, memory lapse, ...). And provide some ideas how to fix it to reduce the human error.
 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Design]
 Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.

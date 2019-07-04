@@ -75,7 +75,7 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 		- Rationality of opinion
 		- Creativity for new ideas
 		- Keeping the minimum page limit
-		- Late essay: -20% (any late essays are acceptable until no later than week 16)
+		- Late essay: -50% (any late essays are acceptable until no later than week 16)
 	- Sample essays: [here](https://drive.google.com/open?id=1Mdj6XVPGG8sgYujmV3B5QXZwzN9_vGyU)
 - Essay topics
 	- Please find alternative essay topics from [Here](HFE_Essays.md).

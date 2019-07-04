@@ -30,49 +30,49 @@ Write the first essay including the follow subtopics.
 - **Subtopic 2. What is the 'human factors and ergonomics'?**: What do you know about HF/E? What could be core values of HF/E? Find one or two examples of ergonomic product and explain why that provides ergonomic values and how?
 
 #### Topic 2. [Physical Ergonomics I: Biomechanics]
-Watch the [videos listed as **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: How can the knowledge of biomechanics help people in their daily life? Self-search some existing products for your understanding (example of search keywords: motion capture, bionics, exoskeleton, occupational biomechanics, sports science).
 - **Subtopic 3**: Provide some ideas about new product that uses human biomechanical data for general or specific people.
 
 #### Topic 3. [Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
-Watch the [videos listed as **2-2. Physical Ergonomics II**](HFE02_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: How can the knowledge of anthropometry help people in their daily life? Self-search some existing products for your understanding (example of search keywords: anthropometric design, 3d body scanning, 3d human shape, human body size, office ergonomics, ergonomic posture, office stretching, digital human model).
 - **Subtopic 3**: Provide some ideas about new product that can make people in good and safe posture (at industry/office workplaces and at school/study places).
 
 #### Topic 4. [Cognitive Ergonomics I: Information Processing Model]
-Watch the [videos listed as **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
 #### Topic 5. [Cognitive Ergonomics II: Fight or Flight Response, Human Error, Cognitive Training]
-Watch the [videos listed as **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Design]
-Watch the [videos listed as **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Engineering, Measurement of Human Emotion]
-Watch the [videos listed as **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
 #### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]
-Watch the [videos listed as **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
 #### Topic 9. [5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn]
-Watch the [videos listed as **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 

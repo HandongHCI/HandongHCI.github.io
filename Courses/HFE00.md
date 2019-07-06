@@ -104,10 +104,9 @@ See the syllabus shared via Hisnet.
 ### Miscellaneous
 
 #### Open source policy
-All course materials and students' assignments of Prof. Lee's courses will be shared through his Google Drive folder. The public folder in Prof. Lee's Google Drive: https://drive.google.com/drive/folders/
+All course materials and students' assignments of Prof. Lee's courses will be shared through his Google Drive folder. The public folder in [Prof. Lee's Google Drive](https://drive.google.com/drive/folders/1Aokhj9haabYCAT1rLUXvUjhuJWdAdNUX?usp=sharing).
 
-#### Extended Syllabus (full version)
-https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#
+#### [Extended Syllabus (full version)](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
 
 ### Online Videos
 - [1. Introduction to HF/E](HFE01.md)

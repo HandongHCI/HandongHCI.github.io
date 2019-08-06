@@ -15,4 +15,5 @@
 	- Project *(not prepared yet)*
 - Human-Computer Interaction *(not prepared yet)*
 - Data Visualization *(not prepared yet)*
+- [Product Planning and Development (SIT23005)](PPD00.md)
 - Seminars *(not prepared yet)*

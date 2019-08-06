@@ -39,107 +39,52 @@
 
 초기 프로토타입은 품질은 낮지만 대략적인 형태와 방향이 보이도록 제작을 합니다. 제작된 프로토타입을 가지고 다른 직원 또는 사용자에게 평가받습니다. 수정할 부분이 있으면 수정하고, 개발의 방향을 더 구체화합니다. 그리고 이 과정이 반복되면서 프로토타입은 꾸준히 발전됩니다. 반복적인 '프로토타이핑 & 평가' 과정을 통해 점차 최종 제품 형태가 완성이 됩니다. 제품의 형태, 구성요소, 재질, 기능, 성능 등의 구체적인 요소들이 다 정해진 후, 실제로 제품을 만들어내는 것은 '제조(manufacturing)'라고 합니다. 제조로 들어가기 전에 모든 구체적인 것들이 완전하게 정해져야 합니다. 제조를 위해서는 공장의 설비를 세팅하고 필요한 자원들과 재료들을 조달해야 되는데, 제조하는 중에 갑자기 변경할 것이 생긴다면, 돌아가던 공장을 멈추고, 잘못 생산된 것들을 폐기하며, 새로 공장을 세팅해야 되므로 회사로서는 막대한 손실입니다. 그렇기 때문에 완성도 높은 프로토타입을 제작하는 것은 매우 중요합니다. 
 
-소프트웨어의 경우는 조금 다릅니다. 소프트웨어는 '제조'라는 단계가 없으며, 언제라도 업데이트를 할 수 있다는 장점이 있습니다. 그래서 요즘은 완성도가 높지 않은 앱이나 게임도 '베타버전'이라는 이름을 가지고 미리 출시가 되기도 합니다. 경쟁사보다 빨리 출시하여서 충분한 고객을 미리 확보하는 것도 중요하기 때문에 그런 전략이 쓰이는 것입니다. 고객을 확보하고 커뮤니케이션하며 그들로부터 다양한 피드백을 받아서, 결과적으로 고객들이 진정으로 원하는 제품으로 완성해나가는 것이 요즘 IT기업들의 사업 방법이기도 합니다. 고객들은 자신과 적극적으로 커뮤니케이션하는 회사에 강한 신뢰감을 주고 그들이 제공하는 제품이나 서비스를 기꺼이 이용하려고 합니다.
+소프트웨어의 경우는 조금 다릅니다. 소프트웨어는 '제조'라는 단계가 없으며, 언제라도 업데이트를 할 수 있다는 장점이 있습니다. 그래서 요즘은 완성도가 높지 않은 앱이나 게임도 '베타버전'이라는 이름을 가지고 미리 출시가 되기도 합니다. 경쟁사보다 빨리 출시하여서 충분한 고객을 미리 확보하는 것도 중요하기 때문에 그런 전략이 쓰이는 것입니다. 고객을 확보하고 커뮤니케이션하며 그들로부터 다양한 피드백을 받아서, 결과적으로 고객들이 진정으로 원하는 제품으로 완성해나가는 것이 요즘 IT기업들의 사업 방법이기도 합니다. 고객들은 자신과 적극적으로 커뮤니케이션하는 회사에 강한 신뢰감을 주고 그들이 제공하는 제품이나 서비스를 기꺼이 이용하려고 합니다. 디지털 비즈니스에서의 이런 과정을 요즘 린스타트업(lean start-up)이라고도 하고 애자일(agile) 방식이라고도 부릅니다.
 
 ### Major Concepts
 제기개 수업에 관련된 주요 내용들은 다음과 같습니다.
 
 ##### Project-Based Learning
-제기개 수업은 한 학기에 걸친 프로젝트로 진행됩니다. 
+제기개 수업은 한 학기에 걸친 프로젝트로 진행됩니다. 제품을 기획하고 개발해나가는 과정에서 해야 할 일은 매우 다양합니다. 그렇기 때문에 매주 주어지는 과업들이 있고 정해진 일정을 잘 지키는 것이 중요합니다. 학생들은 프로젝트를 통해 다음과 같은 것들을 경험하게 될 것입니다.
+- 프로젝트 기획
+- 각종 조사: 시장 조사, 기술 조사, 배경 조사, 사용자 니즈 조사(인터뷰, 설문)
+- 제품 아이디어 및 컨셉 개발 및 구체화
+- 제품 프로토타입 개발(mark I, mark II, mark III, ...)
+- 홍보자료 개발
+- 시장성 분석
+- 팀역학(team dynamics)
+- 보고서 작성
+- 중간 및 최종 발표
+- ...
+
+##### Team Dynamics
+**팀**은 제품 기획 및 개발에서 가장 중요한 요소 중 하나입니다. 서로 다른 사람들이 모여서 최선의 성과를 내기 위해 서로 간의 협력하고 유기적으로 소통하는 것을 팀역학(team dynamics)이라고 합니다. 처음부터 성공적인 결과를 만들어내는 팀은 없습니다. 팀은 각자의 노력으로 만들어가는 것입니다. 제기개 수업에서는 팀의 성공적인 운영이 프로젝트의 결과에 큰 영향을 미칩니다. 제기개 수업에서는 팀 운영과 참여도가 평가됩니다(10%).
 
 ##### Smart City
-이번 학기 제기개 수업 주제는 **'스마트시티'**입니다. 스마트시티와 관련된 제품, 서비스, 앱 등을 기획하고, 기획된 것을 프로토타입으로 제작하는 것이 2019년 2학기에 진행될 내용입니다.
+이번 학기 제기개 수업 주제는 **'스마트시티'**입니다. 스마트시티와 관련된 제품, 서비스, 앱 등을 기획하고, 기획된 것을 프로토타입으로 제작하는 것이 2019년 2학기에 진행될 내용입니다. 스마트시티의 개념과 사례들을 각자 공부해보기 바랍니다.
 
-##### Team
-- **팀**은 제품 기획 및 개발에서 가장 중요한 요소 중 하나입니다. 
+몇 가지 자료를 소개합니다.
+- [YTN Science](https://www.youtube.com/watch?v=Z2sPpoO5VGw)
+- [YTN Science 4차 산업혁명 스페셜](https://www.youtube.com/watch?v=o2q-7iXEueE)
+- [YTN Science ICT 지식콘서트](https://www.youtube.com/watch?v=Yb_6rCTBncY)
+- [(Eng) Solving urban problems using technology](https://www.youtube.com/watch?v=nnyRZotnPSU)
+- [우리는 이미 스마트시티에 살고 있다](https://www.youtube.com/watch?v=U5trKH48o7Q)
+- [월드 스마트시티 위크 행사장 소개 - 2018년](https://www.youtube.com/watch?v=EBTzJXS39Pk)
+- [월드 스마트시티 엑스포 소개 - 2019년 9월 4일~6일](https://www.worldsmartcityexpo.com/main.action)
+- [National Geographics - San Diego](https://www.youtube.com/watch?v=LAjznAJe5uQ)
+- [City of the future - Singapore](https://www.youtube.com/watch?v=xi6r3hZe5Tg)
+- [국토교통부 스마트시티 정책](http://www.molit.go.kr/USR/WPGE0201/m_36673/DTL.jsp)
 
 ##### Design Sprint
+2019년 2학기에는 2주차 토요일(9월 7일)에 5시간에 걸친 수업이 있습니다. 2주차 목요일(수업), 금요일(과제), 그리고 토요일(5시간 프로그램)에 걸친 3일짜리 디자인 스프린트를 통해 각 팀의 프로젝트를 빠르게 기획하고 평가하는 시간을 가지게 됩니다. 디자인 스프린트에 관심이 있으면 YouTube 채널 AJ&Smart [(https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)를 참고하기 바랍니다.
 
 ##### Lean Start-up
 위에서 '프로토타이핑 & 평가' 과정을 소개하였습니다. Lean start-up에서는 이 과정을 Build-Measure-Learn이라는 3단계 반복적인 절차로 부릅니다. Build는 다른 사람들과 소통하기 위한 매체로써 프로토타입을 만드는 것입니다. Measure는 만들어진 프로토타입을 평가하는 단계를 말하며, Learn은 평가 결과를 통해 제품 개발 방향을 정하는 것입니다. 그리고 새로운 Build를 시작합니다.
 
-##### Your Mindset
+린스타트업은 단지 BML 과정만을 의미하진 않습니다. Lean하다는 것은 거창하고 복잡한 것을 과감히 없애고 가볍고 날렵함을 유지한다는 뜻입니다. 린스타트업은 가볍고 빠른 신제품/서비스 개발 방법 내지는 철학이라고 하겠습니다. 수업에서는 BML 프로세슽와 [lean canvas](https://leanstack.com/leancanvas)를 다룰 것입니다. 중요한 것은 철학입니다. 디자인 스프린트, 린스타트업, 그리고 다음에 소개할 애자일 모두 유사한 철학을 가지고 있습니다. 그것이 무엇인지 설명하는 것은 시험문제 중 하나가 될 것입니다.
+
+##### Agile
+애자일은 철학적인 개념입니다. 애자일의 철학은 기업의 기획/개발 프로세스, 조직 구조, 문화 등 전반에 관련됩니다. 유기적이고 기민하며 효율적이고 민접한 조직과 의사결정에 관련된 기업 문화이자 경영 원칙이라고도 할 수 있습니다. 기업 내에서의 소통과 기업 운영적인 측면뿐 아니라, 제품 개발에 있어 고객과 빠르게 소통하고 민첩하게 고객의 요구에 반응하는 것 또한 애자일의 특징입니다. 이를 실행하기 위해서는 기업 내에서는 수직적이고 다단계적인 소통 체계를 허물고 팀에게 자율권을 부여하며, 팀의 
 
 
-
-### Course Introduction
-This course will provide essential knowledge related to the physical, cognitive, and emotional characteristics of the human, also hands-on practices regarding measuring, analysis, and application of those human characteristics in product design.
-
-This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule.
-
-##### PPD sessions
-The PPD (Practice, Project, and Discussion) session is the essential concept of this course. Every week, students MUST take assigned online lectures (about 75 minutes lengths per week) and write an essay before they come to the class. In class, students will learn specific theories by practicing and discussing in groups. Also, students will participate in one project through the full course schedule (more or less three months), and they will make certain progress of the project during each regular class time. The activities regarding the project that are not completed in the class time should be done as the homework.
-
-##### Online lectures
-Total of 600 min (75 min x 8 classes) amount of videos will be provided through the LMS system (lms.handong.edu).
-
-#### Course Objectives
-Upon completion of the course, students will
-- understand of physical, cognitive, and emotional characteristics of human;
-- know how to measure human characteristics and analyze it;
-- experience how to apply measured/analyzed human characteristics in product design through in-class practices/discussion and team project;
-- and consider the usability and human-centered design which can help a broad range of people including children, elderly, disabled, and other minorities.
-
-#### Learning Outcomes
-Upon completion of the course, students will be able to
-- find user-unfriendly designs around us and have feasible ideas on how to resolve or revise it to help people and society healthy and sound;
-- explain how human physical, cognitive, emotional characteristics can be applied in ergonomic/human-friendly product design and development;
-- discuss practical issues on how human-centric values can be considered in the product development process;
-- and have broader views such as team working, interdisciplinary collaboration, and ethical issues that should be considered in the ergonomic and human-friendly product development.
-
-#### Assignments and Exams
-- Individual assignments: 10 essay writings
-- Group assignments: progress reports for the team project
-- Examination
-	- Mid-term exam (around W5 and W6)
-	- Final-term exam (around W12 and W13)
-	- Both mid-term and final-term exams are the essay-styled take-home exam with about 7+ days period.
-
-### Teaching Philosophy
-
-#### Role of Professor
-To say about the knowledge, there are different types: (1) information as common knowledge, (2) knowledge earned by understanding, (3) **empirical knowledge gained by experience**, (4) skills, (5) meta-knowledge, et cetera. The information or common knowledge that are a lot shared and distributed through various internet media such as blogs, news, and YouTube are not focused to care in this course. Re-providing that easily-foundable knowledge in a classroom is not meaningful as high-level education in the university. Also, delivering a huge amount of information (even that is necessary for the coursework) by a lecturer in the small classroom is almost impossible as well as an inefficient way of information delivery. Instead, earning **in-depth and empirical knowledge (by hands-on experiences through discussion, practice, writing, and projects)** that cannot be easily acquired from the internet media should be majorly offered by professional tutoring in the classroom.
-
-The role of the professor in this course is a **facilitator** or **tutor**, not just a lecturer. As the **facilitator**, I guide students to know what to see and where to find any necessary knowledge about the course contents. I spend a lot of hours to carefully select 600 minutes of essential YouTube videos (and other media sources) that are informative, visually well-made, delivering meaningful knowledge, appropriate in the level of knowledge depth, and interesting not that boring. My role is to give meaningful questions that can be solved through critical, creative, and collaborative thinking, also to provide good reference information to expand students' knowledge and understanding. Then, during class time, I will guide students to earn sufficient experient by discussion, practice, project activities, and other hands-on experiences. As a **tutor**, I'd like to know each of my student in person through various channels so that I sincerely hope to communicate with each of them to make his/her study successfully finished through the semester.
-
-#### Role of Students
-All the activities in the classroom will be conducted by teams. Therefore, individual activity in the classroom is not appropriate, and students will be requested to actively participate in a group. Therefore, **active, positive, collaborative and enthusiastic mindsets** as a learner are highly required. Students **MUST take online lectures (about 60-75 minutes lengths) and write an essay assignment before they come to class**. Please do not hesitate to ask and discuss anything that you've wanted to know. The participation of each student will be evaluated by the professor.
-
-This course requires students to submit **multiple essay writings** including mid- and final-terms exams. Please describe your **own thoughts, insights, and philosophy** about issues related to this course. Use your academic knowledge and personal experiences to explain. The essay writings will not be that easy to produce but it requires students to **squeeze their brain and percolate ideas to melt all the related knowledge into short sentences**. Therefore, if necessary, enjoy to **learn yourself** from anywhere (from internet media, from classmates, or from the professor) to write your opinion about the topic. Writing should reveal the author's efforts of thinking and their time spent for the writing, therefore I can so easily see those efforts by reading the article. I encourage you to have enough time to prepare own article earnestly.
-
-In team projects, students have the **responsibility to actively participate in their team activities**. For the presentations, show fruitful outcomes of own projects as professionally as possible with well-prepared materials.
-
-Finally, as my educational duty, I've gladly spent lots of time to **see each student of my class in person**. Please come to me **at least once during the semester**. To effectively excel my education into the class, this individual meeting is **compulsory for all student**.
-
-#### Philosophy of essay writing
-- The essay writing is aimed to help students to have clear understandings and ideas regarding human factors and ergonomics topics delivered through the course.
-- The essay is NOT a report or a summary of knowledge. The essay, just like a diary, is to **express students' thoughts, ideas, opinions, arguments, discussion, agreements, or critiques** in non-strict writing styles or formats. There's NO answer for the essay topics, but essays will be evaluated by the professor in terms of such as **clarity of opinion, rationality of argument, creativity about new ideas, depth of own philosophy about the topic, and so forth**.
-- For your understanding about my education philosophy on the essay writing, I share this [세바시 talk](https://www.youtube.com/watch?v=QYt1-Z12K2E), which is spoken in Korean. Note that I will not use the peer evaluation concept introduced in this video.
-- Writing Guideline
-	- Use the shared essay form (Download: [here](https://goo.gl/Lh7d4a))
-		- Font: Batang & Times New Roman
-		- Font size: 12 pt.
-		- Line height: 1.5
-	- Do NOT put your name or student ID. Due to the open source policy of this course, some of selected essays will be anonymously (without including the name and student-ID of the author) shared to public through the Google Drive.
-	- Putting any sketches or drawings are highly recommended.
-	- Minimum requirements
-		- Number of pages: minimum of TWO A4 pages
-		- Language: English (Korean allowed)
-		- More than one-third of essays (at least three essays) should be written in English
-	- Upload: Save your essay as PDF, then upload your essay to the LMS system ([https://lms.handong.edu/](https://lms.handong.edu/)).
-	- Honor code
-		- Students should NOT just reuse (copy and paste) sentences from other's articles. But they can rephrase others' ideas to express your own opinion.
-		- Students can freely open books, search internet sites, and discuss with others to find own answers; however, they should NOT share any of your written sentences to others.
-	- Evaluation
-		- Depth of thoughts
-		- Rationality of opinion
-		- Creativity for new ideas
-		- Keeping the minimum page limit
-		- Late essay: -50% (any late essays are acceptable until no later than week 16)
-	- Sample essays: [here](https://drive.google.com/open?id=1Mdj6XVPGG8sgYujmV3B5QXZwzN9_vGyU)
-- Essay topics
-	- Please find alternative essay topics from [Here](HFE_Essays.md).
-	- "The topics can be changed as time flows."
-
-
-### 기타
+(내용 계속 작성 중입니다.)

@@ -61,7 +61,7 @@
 **팀**은 제품 기획 및 개발에서 가장 중요한 요소 중 하나입니다. 서로 다른 사람들이 모여서 최선의 성과를 내기 위해 서로 간의 협력하고 유기적으로 소통하는 것을 팀역학(team dynamics)이라고 합니다. 처음부터 성공적인 결과를 만들어내는 팀은 없습니다. 팀은 각자의 노력으로 만들어가는 것입니다. 제기개 수업에서는 팀의 성공적인 운영이 프로젝트의 결과에 큰 영향을 미칩니다. 제기개 수업에서는 팀 운영과 참여도가 평가됩니다(10%).
 
 #### Smart City
-이번 학기 제기개 수업 주제는 **'스마트시티'**입니다. 스마트시티와 관련된 제품, 서비스, 앱 등을 기획하고, 기획된 것을 프로토타입으로 제작하는 것이 2019년 2학기에 진행될 내용입니다. 스마트시티의 개념과 사례들을 각자 공부해보기 바랍니다.
+이번 학기 제기개 수업 주제는 **'스마트시티'**입니다. 스마트시티와 관련된 제품, 서비스, 앱 등을 기획하고, 기획된 것을 프로토타입으로 제작하는 것이 2019년 2학기에 진행될 내용입니다. 이번 학기 동안 스마트시티의 개념과 사례들을 알고, 스마트시티에 관련된 제품/서비스 아이디어들을 많이 생각해보기 바랍니다. 스마트시티와 관련된 공모전이 최근 많이 열리는 추세이므로 수업에서 다룬 내용을 공모전에 제출해볼 수 있는 기회도 가질 수 있기를 바랍니다.
 
 몇 가지 자료를 소개합니다.
 - [YTN Science](https://www.youtube.com/watch?v=Z2sPpoO5VGw)
@@ -116,5 +116,11 @@
 
 
 ### 참고영상
-- [What is a product manager?](https://www.youtube.com/watch?v=TbPWW6LEMSg)
-- [What is Agile?](https://www.youtube.com/watch?v=GzzkpAOxHXs)
+- What is a product manager?
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/TbPWW6LEMSg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- What is agile?
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GzzkpAOxHXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- What is a design sprint?
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Uu8jmVhwj_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

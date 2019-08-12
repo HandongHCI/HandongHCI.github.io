@@ -1,6 +1,6 @@
 [← go back to the list](README.md)
 
-## Product Planning and Development (SIT23005) - Syllabus
+## Product Planning and Development (SIT23005) - Introduction
 
 ### Course Introduction
 제품을 만들고 판매하여 이윤을 추구하는 것은 기업의 존재 목적이며, 또한 가장 주된 역할이기도 합니다. 제품 기획 및 개발(이하, 제기개) 수업에서 학생들은 제품을 기획하고 개발해내는 전반적인 과정을 한 학기에 걸친 프로젝트를 통해 경험합니다. 우선 제품, 기획, 그리고 개발이 무엇인가부터 소개하고자 합니다.

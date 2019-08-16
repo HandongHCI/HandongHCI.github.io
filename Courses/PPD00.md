@@ -85,9 +85,9 @@
 		- 스마트시티를 막는 요인은 무엇인가?
 		- 포커스할 문제는 무엇인가?
 - 1주차 essay 과제
-	- 1 페이지: 이 수업을 통해 기대하는 바가 무엇인지 작성하세요.
-	- 2 페이지: 스마트시티에 무엇이 필요할지 10가지 새로운 아이템(기존에 없는 제품/앱/서비스/시스템)을 제시하세요.
-	- due: 2주차 수요일
+	- Essay 01: 이 수업을 통해 기대하는 바가 무엇인지 작성하세요.
+	- Essay 02: 스마트시티에 무엇이 필요할지 10가지 새로운 아이템(기존에 없는 제품/앱/서비스/시스템)을 제시하세요.
+	- due: 2주차 화요일
 	- [과제 제출 양식 다운로드](https://www.dropbox.com/s/qy3kackg6qr87gg/essay%20format.docx?dl=0)
 	- 과제 제출: LMS.handong.edu
 	- Essay 예시 보기: [이원섭 교수 Google Drive](https://drive.google.com/drive/folders/1Mdj6XVPGG8sgYujmV3B5QXZwzN9_vGyU?usp=sharing)

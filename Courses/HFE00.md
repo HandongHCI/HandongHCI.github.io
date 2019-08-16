@@ -56,7 +56,7 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 - The essay is NOT a report or a summary of knowledge. The essay, just like a diary, is to **express students' thoughts, ideas, opinions, arguments, discussion, agreements, or critiques** in non-strict writing styles or formats. There's NO answer for the essay topics, but essays will be evaluated by the professor in terms of such as **clarity of opinion, rationality of argument, creativity about new ideas, depth of own philosophy about the topic, and so forth**.
 - For your understanding about my education philosophy on the essay writing, I share this [세바시 talk](https://www.youtube.com/watch?v=QYt1-Z12K2E), which is spoken in Korean. Note that I will not use the peer evaluation concept introduced in this video.
 - Writing Guideline
-	- Use the shared essay form (Download: [here](https://goo.gl/Lh7d4a))
+	- Use the shared essay form (Download from [HERE](https://goo.gl/Lh7d4a))
 		- Font: Batang & Times New Roman
 		- Font size: 12 pt.
 		- Line height: 1.5
@@ -76,9 +76,9 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 		- Creativity for new ideas
 		- Keeping the minimum page limit
 		- Late essay: -50% (any late essays are acceptable until no later than week 16)
-	- Sample essays: [here](https://drive.google.com/open?id=1Mdj6XVPGG8sgYujmV3B5QXZwzN9_vGyU)
+	- Sample essays: [HERE](https://drive.google.com/open?id=1Mdj6XVPGG8sgYujmV3B5QXZwzN9_vGyU)
 - Essay topics
-	- Please find alternative essay topics from [Here](HFE_Essays.md).
+	- Please find essay topics from [HERE](HFE_Essays.md).
 	- "The topics can be changed as time flows."
 
 #### Grading
@@ -99,14 +99,15 @@ Attendance is the right of students as they paid for their learning, not a respo
 	- Final presentation (5%)
 
 ### Schedule
-See the syllabus shared via Hisnet.
+See the syllabus shared via Hisnet or [HERE](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
 
 ### Miscellaneous
 
 #### Open source policy
 All course materials and students' assignments of Prof. Lee's courses will be shared through his Google Drive folder. The public folder in [Prof. Lee's Google Drive](https://drive.google.com/drive/folders/1Aokhj9haabYCAT1rLUXvUjhuJWdAdNUX?usp=sharing).
 
-#### [Extended Syllabus (full version)](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
+#### Extended Syllabus (full version)
+- [Visit HERE](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
 
 ### Online Videos
 - [1. Introduction to HF/E](HFE01.md)

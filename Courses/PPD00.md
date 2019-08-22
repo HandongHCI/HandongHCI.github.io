@@ -63,18 +63,39 @@
 #### Smart City
 이번 학기 제기개 수업 주제는 **'스마트시티'**입니다. 스마트시티와 관련된 제품, 서비스, 앱 등을 기획하고, 기획된 것을 프로토타입으로 제작하는 것이 2019년 2학기에 진행될 내용입니다. 이번 학기 동안 스마트시티의 개념과 사례들을 알고, 스마트시티에 관련된 제품/서비스 아이디어들을 많이 생각해보기 바랍니다. 스마트시티와 관련된 공모전이 최근 많이 열리는 추세이므로 수업에서 다룬 내용을 공모전에 제출해볼 수 있는 기회도 가질 수 있기를 바랍니다.
 
-몇 가지 자료를 소개합니다.
-- [YTN Science](https://www.youtube.com/watch?v=Z2sPpoO5VGw)
-- [YTN Science 4차 산업혁명 스페셜](https://www.youtube.com/watch?v=o2q-7iXEueE)
-- [YTN Science ICT 지식콘서트](https://www.youtube.com/watch?v=Yb_6rCTBncY)
-- [(Eng) Solving urban problems using technology](https://www.youtube.com/watch?v=nnyRZotnPSU)
-- [우리는 이미 스마트시티에 살고 있다](https://www.youtube.com/watch?v=U5trKH48o7Q)
-- [월드 스마트시티 위크 행사장 소개 - 2018년](https://www.youtube.com/watch?v=EBTzJXS39Pk)
-- [월드 스마트시티 엑스포 소개 - 2019년 9월 4일~6일](https://www.worldsmartcityexpo.com/main.action)
-- [National Geographics - San Diego](https://www.youtube.com/watch?v=LAjznAJe5uQ)
-- [City of the future - Singapore](https://www.youtube.com/watch?v=xi6r3hZe5Tg)
-- [국토교통부 스마트시티 정책](http://www.molit.go.kr/USR/WPGE0201/m_36673/DTL.jsp)
-- [구글 스마트워크랩](https://www.neoearly.net/2470905)
+아래 사이트에서 스마트시티에 관련된 다양한 자료들을 공유합니다.
+- [사이트 바로가기](PPD_SmartCity.md)
+
+몇 가지 도움이 될만한 질문과 키워드들을 제시합니다.
+- **자동화/지능화**할 수 있는 것은 더 없을까?
+- **인공지능**이 해줄 수 있는 새로운 서비스는?
+- 어떻게 하면 **저출산**, **고령화**와 관련된 문제를 다룰 수 있을까?
+- **교통**과 관련된 문제들을 해결할 수 있는 새로운 방법은 있는가?
+- **안전**과 관련된 어떤 문제들이 있을까? 이를 어떻게 해결할까?
+- 독립적이었던 것들 중에 새롭게 **연결**시켜볼 수 있는 것들은?
+- **시민 참여**를 이끌 수 있는 방법은 무엇일까?
+- 어떻게 하면 좀 더 신체적으로 정신적으로 **건강**하게 살 수 있을까?
+- 어떻게 하면 **환경**을 보호할 수 있을까?
+- 어떻게 하면 **즐거움과 행복도**를 높일 수 있을까?
+- 어떻게 하면 **우울증과 자살률**을 낮출 수 있을까?
+- OO를 좀 더 잘 **관리**할 수 있는 방법은 무엇일까?
+- 혁신을 막고 있는 문제는 무엇인가?
+- 아이들이 행복한 도시
+- 관광
+- 쓰레기 문제
+- 오픈데이터
+- 참여형 서비스
+- 위치 기반
+- 연결
+- 문화
+- 리빙랩
+- 생태계
+- 지속가능성
+- 디자인
+- 플랫폼
+- 균형적 발전
+
+
 
 #### Design Sprint
 2019년 2학기에는 **2주차 토요일(9월 7일)에 5시간에 걸친 수업**이 있습니다. 미리 언급하였듯, 이번 학기 수강생은 모두 이 수업에 참여해야 합니다. 1주차 목요일(수업), 2주차 목요일(수업), 그리고 토요일(5시간 프로그램) 3일에 걸친 디자인 스프린트를 통해 각 팀의 프로젝트를 빠르게 기획하고 평가하는 시간을 가지게 됩니다. 제기개 수업에서의 디자인 스프린트는 원래 디자인 스프린트 개념에서 조금 변형된 형태로 진행될 예정입니다. 디자인 스프린트에 관심이 있으면 YouTube 채널 AJ&Smart [(https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)를 참고하기 바랍니다.
@@ -118,12 +139,5 @@
 애자일은 철학적인 개념입니다. 애자일의 철학은 기업의 기획/개발 프로세스, 조직 구조, 문화 등 전반에 관련됩니다. 유기적이고 기민하며 효율적이고 민접한 조직과 의사결정에 관련된 기업 문화이자 경영 원칙이라고도 할 수 있습니다. 기업 내에서의 소통과 기업 운영적인 측면뿐 아니라, 제품 개발에 있어 고객과 빠르게 소통하고 민첩하게 고객의 요구에 반응하는 것 또한 애자일의 특징입니다. 애자일은 기업 내에서의 수직적이고 다단계적인 소통 체계를 허물고 팀에게 자율권을 부여하며 빠른 대응과 쉽고 가벼운 의견 교류를 중요시합니다. 이를 실행하기 위해서 애자일을 도입한 기업은 조직 체계, 의사결정 체계, 결재시스템, 예산편성 및 활용 방법 등 기업 전반적인 경영 원칙들을 기존 기업과 매우 다르게 가져가고 있습니다.
 
 
-### 참고영상
-- What is a product manager?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/TbPWW6LEMSg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- What is agile?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GzzkpAOxHXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- What is a design sprint?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Uu8jmVhwj_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+### 수업 참고영상
+- [사이트 바로가기](PPD_Videos.md)

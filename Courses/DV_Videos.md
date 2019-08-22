@@ -1,6 +1,6 @@
-[← go back to the list](README.md)
+[← go back to the main](DV00.md)
 
-## Data Visualization (SIT42001) - Video Lectures
+## Data Visualization (SIT42001) - Video Lectures & Assignments
 
 ### 0. Introduction
 - What is data visualization?
@@ -14,6 +14,8 @@
 
 - Storytelling with data
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/IIMHicxQ0LY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Assignment
 
 
 
@@ -51,6 +53,8 @@
 - Information design and visualization fundamentals (4/4)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/3NDdVhOMsko" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+- Assignment
+
 
 
 ### 3. Data Visualization lectures
@@ -62,6 +66,8 @@
 
 - Informative lecture a the Tableau Conference (1h)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/l7cAdp0f4X0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Assignment
 
 
 
@@ -80,6 +86,8 @@
 
 - Inforgraphics
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/tN8_85gKOTc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Assignment
 
 
 

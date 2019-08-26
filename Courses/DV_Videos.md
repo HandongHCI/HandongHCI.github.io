@@ -2,7 +2,7 @@
 
 ## Data Visualization (SIT42001) - Video Lectures & Assignments
 
-### 0. Introduction
+### 1. Introduction
 - What is data visualization?
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/VyhLRJVoIrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -19,7 +19,7 @@
 
 
 
-### 1. Eye and Vision
+### 2. Eye and Vision
 - How your eyes work
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/i3_n3Ibfn1c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -37,7 +37,7 @@
 
 
 
-### 2. Visual Information and Information Visualization
+### 3. Visual Information and Information Visualization
 - Information visualization
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/3NDdVhOMsko" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -57,7 +57,7 @@
 
 
 
-### 3. Data Visualization lectures
+### 4. Data Visualization Lectures
 - The future of data visualization by Jeffrey Heer
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/vc1bq0qIKoA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -71,7 +71,7 @@
 
 
 
-### 4. Charts and Visualization Techniques
+### 5. Charts and Visualization Techniques
 - Charts
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/i5KaO-Cggis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -91,7 +91,7 @@
 
 
 
-### 5. Case Studies
+### 6. Case Studies
 - A chart by Florence Nightingale
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/yhX0OR1_Vfc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -109,7 +109,7 @@
 
 
 
-### Other Useful Videos
+### 99. Other Useful Videos
 - Siraj Raval's lecture
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/yQsOFWqpjkE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

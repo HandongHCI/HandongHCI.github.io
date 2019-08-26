@@ -64,8 +64,7 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 	- Putting any sketches or drawings are highly recommended.
 	- Minimum requirements
 		- Number of pages: minimum of TWO A4 pages
-		- Language: English (Korean allowed)
-		- More than one-third of essays (at least three essays) should be written in English
+		- Language: English at least 5 out of 10
 	- Upload: Save your essay as PDF, then upload your essay to the LMS system ([https://lms.handong.edu/](https://lms.handong.edu/)).
 	- Honor code
 		- Students should NOT just reuse (copy and paste) sentences from other's articles. But they can rephrase others' ideas to express your own opinion.

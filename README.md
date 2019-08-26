@@ -19,6 +19,6 @@ This Github page is to introduce knowledge and techniques about HCI prototyping 
 
 ### Contact info.
 - W.LEE (at) HANDONG (dot) EDU
-- Website: [https://sites.google.com/view/wonsuplee](https://sites.google.com/view/wonsuplee)
+- Website: [https://sites.google.com/view/wonsuplee](https://handonghci.github.io/WonsupLee/)
 - LinkedIn: [https://www.linkedin.com/in/wonsuplee](https://www.linkedin.com/in/wonsuplee)
 - Facebook Page: [https://www.facebook.com/HandongHCI](https://www.facebook.com/HandongHCI)

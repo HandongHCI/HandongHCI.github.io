@@ -3,7 +3,7 @@
 ## Courses
 ### Human Factors and Ergonomics (SIT22008)
 - [Syllabus](HFE00.md)
-- [1-1. Introduction to HF/E](HFE01.md)
+- [1. Introduction to HF/E](HFE01.md)
 - [2-1. Physical Ergonomics I: Biomechanics](HFE02_1.md)
 - [2-2. Physical Ergonomics II: Anthropometry, ergonomics at workplace, virtual ergonomics](HFE02_2.md)
 - [3-1. Cognitive Ergonomics I: Information Processing Model](HFE03_1.md)

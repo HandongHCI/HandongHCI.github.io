@@ -33,9 +33,9 @@ Here are three topics for essay-styled writing assignments (5% point each).
 		- Satisfaction of the minimum requirement
 		- Evaluation criteria: clarity of opinion, rationality of argument, creativity about new ideas, depth of own philosophy about the topic
 
-### Tools
-- [D3.js lecture (13h)](https://www.youtube.com/watch?v=_8V5o2UHG0E)
+### Visualization Tools
 - [Introduction to Tableau](https://www.youtube.com/watch?v=TPMlZxRRaBQ)
 - [Python demo](https://github.com/llSourcell/visualize_dataset_demo)
 - [Python Matplotlib tutorial](https://www.youtube.com/watch?v=a9UrKTVEeZA)
 - [R and ggplot2](https://www.youtube.com/watch?v=49fADBfcDD4)
+- [D3.js lecture (13h)](https://www.youtube.com/watch?v=_8V5o2UHG0E)

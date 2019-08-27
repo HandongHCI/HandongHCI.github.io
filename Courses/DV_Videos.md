@@ -9,4 +9,5 @@
 - [4. Data Visualization Lectures](DV_Videos04.md)
 - [5. Charts and Visualization Techniques](DV_Videos05.md)
 - [6. Case Studies](DV_Videos06.md)
+- [7. Agile Approach](DV_Videos07.md)
 - [99. Other Useful Videos](DV_Videos99.md)

@@ -16,6 +16,8 @@
 	- [Kinect V2](https://developer.microsoft.com/en-us/windows/kinect)
 	- [Leap Motion](https://www.leapmotion.com/)
 	- [Intel RealSense D435i](https://www.intelrealsense.com/depth-camera-d435i/)
+	- [Occipital Structure Core](https://structure.io/structure-core)
+	- [Amazon DeepLens](https://aws.amazon.com/deeplens/)
 - [Martin anthropometer](http://www.seedtech.co.kr/shop/item.php?it_id=1455198141)
 
 ### 생체신호 측정
@@ -28,7 +30,7 @@
 	- [Neurosky Mind Wave Mobile 2](https://store.neurosky.com/pages/mindwave)
 - EMG(근전도)
 	- [BIOPAC BN-EMG2](https://www.biopac.com/product/bionomadix-2ch-wireless-emg-amplifier/)
-	- [Noraxon Mini DTS](https://www.noraxon.com/our-products/mini-dts/)
+	- [Noraxon Mini DTS (4 ch.)](https://www.noraxon.com/our-products/mini-dts/)
 - Eye Tracking
 	- [Tobii Pro Glasses 2](https://www.tobiipro.com/product-listing/tobii-pro-glasses-2/)
 	- [Tobii Pro VR](https://www.tobiipro.com/product-listing/vr-integration/)
@@ -43,6 +45,7 @@
 	- [HTC Vive](https://www.vive.com/ca/product/)
 	- [Samsung Odyssey](https://www.samsung.com/us/computing/computing-accessories/computers/xe800zaa-hc1us-xe800zaa-hc1us/)
 	- Microsoft HoloLens
+	- [Magic Leap](https://www.magicleap.com/)
 - Media
 	- Samsung Gear 360
 	- [Go Pro Hero 7 Silver](https://shop.gopro.com/cameras/hero7-silver/CHDHC-601-master.html)

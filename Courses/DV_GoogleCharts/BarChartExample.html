@@ -1,0 +1,95 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Sales', 'Expenses', 'Profit'],
+          ['2014', 1000, 400, 200],
+          ['2015', 1170, 460, 250],
+          ['2016', 660, 1120, 300],
+          ['2017', 1030, 540, 350]
+        ]);
+
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },]);
+
+        var options1 = {
+          title: 'Company Performance',
+          vAxis: {
+            title: 'Volume (USD)'
+          },
+          hAxis: {
+            title: 'Year'
+          },
+          legend: {
+            position: 'bottom'
+          }
+        };
+
+        var options2 = {
+          title: 'Company Performance',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['silver', 'gray', 'black'],
+          vAxis: {
+            title: 'Volume (USD)',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+            baseline: 0,
+            gridlines: {
+              count: 10
+            },
+            minValue: 0,
+            maxValue: 1400
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          }
+        };
+
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+
+        var chart2 = new google.visualization.ColumnChart(document.getElementById('chart_div2'));
+        chart2.draw(view, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div1" style="width: 1200px; height: 500px;"></div>
+    <div id="chart_div2" style="width: 1200px; height: 500px; padding-top: 200px"></div>
+  </body>
+</html>

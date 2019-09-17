@@ -3,8 +3,7 @@
 ## Data Visualization (SIT42001) - Video Lectures
 
 ### 5. Charts and Visualization Techniques
-- Charts
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/i5KaO-Cggis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- [After Effects Template: Data Visualization - Infographic Charts and Graphs](https://www.youtube.com/watch?v=i5KaO-Cggis)
 
 - Data Visualization part 1 by Crash Course
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/hEWY6kkBdpo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

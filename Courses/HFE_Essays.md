@@ -62,7 +62,8 @@ Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then wr
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-
+- **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, let's think about human emotion. Good emotional status can make posivite behavior. (질문 뭐??????????)
+- **Subtopic 3**: AI/robot technology is getting rapidly developed. Let's suppose that AI can perfectly measure human emotions using our bio-signals, and appropriately response to you such like real human. What is your opinion, feeling, and/or thinking that a computer/device/robot naturally reacts/responses to your emotions? Provide your ideas that what are positive and negative effects of human-like robots, and how the robot should behave to human.
 
 #### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.

@@ -20,7 +20,7 @@
 
 ### Data Visualization (SIT42001)
 - [Introduction](DV00.md)
-- [Video Lectures & Assignments](DV_Videos.md)
+- [Video Lectures & Assignments](DV_Sources.md)
 
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)

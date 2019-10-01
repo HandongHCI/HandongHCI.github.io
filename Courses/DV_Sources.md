@@ -2,7 +2,7 @@
 
 ## Data Visualization (SIT42001) - Sources
 
-### Videos
+### Video Lectures
 - [1. Introduction](DV_Videos01.md)
 - [2. Eye and Vision](DV_Videos02.md)
 - [3. Visual Information and Information Visualization](DV_Videos03.md)

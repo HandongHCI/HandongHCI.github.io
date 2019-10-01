@@ -1,6 +1,6 @@
 [← go back](DV00.md)
 
-## Data Visualization (SIT42001) - Video Lectures
+## Data Visualization (SIT42001) - Sources
 
 ### Videos
 - [1. Introduction](DV_Videos01.md)

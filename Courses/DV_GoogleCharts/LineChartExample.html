@@ -1,0 +1,128 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+
+      function drawLineColors() {
+
+        // data type I
+        var data1 = new google.visualization.DataTable();
+        data1.addColumn('number', 'X');
+        data1.addColumn('number', 'Dogs');
+        data1.addColumn('number', 'Cats');
+
+        data1.addRows([
+          [0, 0, 0],    [1, 10, 5],   [2, 23, 15],  [3, 17, 9],   [4, 18, 10],  [5, 9, 5],
+          [6, 11, 3],   [7, 27, 19],  [8, 33, 25],  [9, 40, 32],  [10, 32, 24], [11, 35, 27],
+          [12, 30, 22], [13, 40, 32], [14, 42, 34], [15, 47, 39], [16, 44, 36], [17, 48, 40],
+          [18, 52, 44], [19, 54, 46], [20, 42, 34], [21, 55, 47], [22, 56, 48], [23, 57, 49],
+          [24, 60, 52], [25, 50, 42], [26, 52, 44], [27, 51, 43], [28, 49, 41], [29, 53, 45],
+          [30, 55, 47], [31, 60, 52], [32, 61, 53], [33, 59, 51], [34, 62, 54], [35, 65, 57],
+          [36, 62, 54], [37, 58, 50], [38, 55, 47], [39, 61, 53], [40, 64, 56], [41, 65, 57],
+          [42, 63, 55], [43, 66, 58], [44, 67, 59], [45, 69, 61], [46, 69, 61], [47, 70, 62],
+          [48, 72, 64], [49, 68, 60], [50, 66, 58], [51, 65, 57], [52, 67, 59], [53, 70, 62],
+          [54, 71, 63], [55, 72, 64], [56, 73, 65], [57, 75, 67], [58, 70, 62], [59, 68, 60],
+          [60, 64, 56], [61, 60, 52], [62, 65, 57], [63, 67, 59], [64, 68, 60], [65, 69, 61],
+          [66, 70, 62], [67, 72, 64], [68, 75, 67], [69, 80, 72]
+        ]);
+
+        // data type II
+        var data2 = google.visualization.arrayToDataTable([
+          ['Year', 'Sales', {type: 'string', role: 'annotation'}, 'Expenses'],
+          ['2004',  1000,   1000,                                 400],
+          ['2005',  1170,   1170,                                 460],
+          ['2006',  660,    660,                                  1120],
+          ['2007',  1030,   1030,                                 540]
+        ]);
+
+        data2 = new google.visualization.DataView(data2);
+
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+
+        var options1 = {
+          title: 'line chart example 1 - Change of Popularity',
+          hAxis: {
+            title: 'Time'
+          },
+          vAxis: {
+            title: 'Popularity'
+          },
+          colors: ['#a52714', '#097138']
+        };
+
+        var options2 = {
+          title: 'line chart example 2 - Company Performance',
+
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Times New Roman'
+          },
+
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Amount (USD)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 1000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 1,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['blue', 'red']
+        };
+
+        var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+        chart1.draw(data1, options1);
+
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>title of this chart</h1>
+      <p>date: 2019-09-17</p>
+      <p>name: 홍길동 (21900001)</p>
+      <p>Introduction: This chart shows .........</p>
+      <p>Data: The data is .......... (also, include the web link of the data)</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+  </body>
+</html>

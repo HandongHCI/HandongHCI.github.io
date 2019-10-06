@@ -79,5 +79,5 @@ Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then 
 - **Subtopic 3**: Explain the differences between the low-fidelity prototype and the high-fidelity prototype.
 
 #### Topic 10. Epilog
-Please share how you studied in this course, also how you worked in team. Which core concepts have your learned? What have you earned from the activities of this class? What is new experience you have gotten in the course? How did you do through the course? How did you learn and experience? How did you acheive your initial goal? What is your next step in human-centered design, HF/E, HCI, or UX/UI areas? How could the earned knowledge and experiences be used in your future study or work? And do you have anything to share related to this course?
+Pblease share how you studied in this course, also how you worked on the team. Which core concepts have you learned? What have you earned from the activities of this class? What is the new experience you have gotten in the course? How did you do it through the course? How did you learn and experience? How did you achieve your initial goal? What is your next step in human-centered design, HF/E, HCI, or UX/UI areas? How could the earned knowledge and experiences be used in your future study or work? And do you have anything to share related to this course?
 - no page limit for this assignment

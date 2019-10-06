@@ -68,14 +68,15 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 #### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: (will be updated soon)
-- **Subtopic 3**: (will be updated soon)
+- **Subtopic 2**: Why is the USER importantly considered in product development? What can be happend if the USER (their needs/wants and their physical, coginitive, and emotional characteristics) is not fully considered in a <font color="blue">product</font> (you can get some hints from my lecture note #02). Also, based on the knowledge of "INCLUSIVE DESIGN", discuss how the HUMAN is different from the USER. (in other words, think the differences between "HUMAN-centered" and "USER-centered")
+<font color="blue">(Note) "Product" mentioned in this question widely includes various types of the produced things: ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, 
+- (there's no Subtopic 3)
 
 #### Topic 9. [5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: (will be updated soon)
-- **Subtopic 3**: (will be updated soon)
+- **Subtopic 2**: Based on the knowledge of 'Participatory Design', 'Build-Measure-Learn', and 'Prototyping', discuss why a product should be developed by satisfying various needs of its actual users. What are major roles of the prototype? If needed, search about 'Build-Measure-Learn' to earn more knowledge of it. (related keywords: iterative design process, lean start-up, agile approach)
+- **Subtopic 3**: Explain differences between low-fidelity prototype and high-fidelity prototype.
 
 #### Topic 10. Epilog
 Please share how you studied in this course, also how you worked in team. Which core concepts have your learned? What have you earned from the activities of this class? What is new experience you have gotten in the course? How did you do through the course? How did you learn and experience? How did you acheive your initial goal? What is your next step in human-centered design, HF/E, HCI, or UX/UI areas? How could the earned knowledge and experiences be used in your future study or work? And do you have anything to share related to this course?

@@ -2,13 +2,14 @@
 
 ## Links
 
-### 국내 대학 인간공학/HCI 분야 연구실
+### companies
+- AI: 
+- Sharing Economy: Uber, Airbnb, WeWork
+- Subscription (구독 서비스): Netflix, Porsche Passport, 23andMe, PatientLikeMe
+- for 90%: MINTOSYS, HISCARES
 
-### 해외 대학 인간공학/HCI 분야 연구실
+### Conferences & Organizations
 
-### Selected Videos
-- EBS 다큐프라임 [[go →]](EBSdocu.md)
-- 세바시
-
+### Ergonomics/HCI labs
 
 [← go back to the main page](https://HandongHCI.github.io)

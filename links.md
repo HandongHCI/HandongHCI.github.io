@@ -3,10 +3,11 @@
 ## Links
 
 ### companies
-- AI: 
-- Sharing Economy: Uber, Airbnb, WeWork
+- AI: IBM Watson
+- Sharing Economy: Uber, Airbnb, WeWork, 타다
 - Subscription (구독 서비스): Netflix, Porsche Passport, 23andMe, PatientLikeMe
 - for 90%: MINTOSYS, HISCARES
+- 사회적 기업: HISZBEANS COFFEE
 
 ### Conferences & Organizations
 

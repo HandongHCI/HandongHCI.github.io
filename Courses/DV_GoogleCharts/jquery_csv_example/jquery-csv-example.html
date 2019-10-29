@@ -9,7 +9,7 @@
       google.charts.load('current', {packages: ['corechart', 'line']});
       //google.charts.setOnLoadCallback(drawLineColors);
 
-      var file = 'file:///E:/Data Files/Desktop/test/data.csv';
+      var file = 'data.csv';
       $.get(file, function(csvToArray) {
           var data = $.csv.toArrays(csvToArray, {
             onParseValue: $.csv.hooks.castToScalar

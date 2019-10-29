@@ -8,7 +8,7 @@
     <script type="text/javascript">
       google.charts.load('current', {
         callback: function () {
-          $.get("file_name.csv", function(csvString) {
+          $.get("data.csv", function(csvString) {
             var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
 
             var data2 = new google.visualization.arrayToDataTable(arrayData);

@@ -16,21 +16,7 @@
           var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
 
           var data2 = new google.visualization.arrayToDataTable(arrayData);
-          data2 = new google.visualization.DataView(data2);
-          // add a new column right (column for annotation) to the fourth column (using the source of column 3)
-          data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
-          /*
-          var options1 = {
-            title: 'line chart example 1 - Change of Popularity',
-            hAxis: {
-              title: 'Time'
-            },
-            vAxis: {
-              title: 'Popularity'
-            },
-            colors: ['#a52714', '#097138']
-          };
-          */
+
           var options2 = {
             title: 'Birth rate - India vs China',
             titleTextStyle: {

@@ -12,66 +12,69 @@
       google.charts.setOnLoadCallback(draw);
 
       function draw() {
-        // read a .csv file and save the data in arrayData variable
-        $.get("data.csv", function(csvString) {
+        
+        // in this event, the file could be 
+        filename = "data.csv";
+        $.get(filename, function(csvString) {
+          // read a .csv file and save the data in arrayData variable
           var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+
+          // convert arrayData into DataTable form
+          var data2 = new google.visualization.arrayToDataTable(arrayData);
+
+          var options2 = {
+            title: 'birth rate of country A and B',
+            titleTextStyle: {
+              color: 'black',
+              fontSize: 40,
+              fontName: 'Arial'
+            },
+            hAxis: {
+              title: 'Year',
+              titleTextStyle: {
+                fontSize: 15,
+                fontName: 'Arial',
+                italic: false
+              },
+            },
+            vAxis: {
+              title: 'birth rate',
+              titleTextStyle: {
+                fontSize: 15,
+                fontName: 'Arial',
+                italic: false
+              },
+            },
+            animation: {
+              duration: 5000, // 1000 ms = 1 s
+              startup: true,
+              easing: 'out'
+            },
+            annotations: {
+              boxStyle: {
+                // Color of the box outline.
+                //stroke: '#888',
+                // Thickness of the box outline.
+                strokeWidth: 1,
+                // x-radius of the corner curvature.
+                rx: 10,
+                // y-radius of the corner curvature.
+                ry: 10
+              }
+            },
+            legend: {
+              position: 'bottom',
+              textStyle: {
+                fontSize: 20
+              }
+            },
+            colors: ['green', 'red']
+          };
+          //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+          //chart1.draw(data1, options1);
+          var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+          chart2.draw(data2, options2);
         });
-
-        // convert arrayData into DataTable form
-        var data2 = new google.visualization.arrayToDataTable(arrayData);
-
-        var options2 = {
-          title: 'birth rate of country A and B',
-          titleTextStyle: {
-            color: 'black',
-            fontSize: 40,
-            fontName: 'Arial'
-          },
-          hAxis: {
-            title: 'Year',
-            titleTextStyle: {
-              fontSize: 15,
-              fontName: 'Arial',
-              italic: false
-            },
-          },
-          vAxis: {
-            title: 'birth rate',
-            titleTextStyle: {
-              fontSize: 15,
-              fontName: 'Arial',
-              italic: false
-            },
-          },
-          animation: {
-            duration: 5000, // 1000 ms = 1 s
-            startup: true,
-            easing: 'out'
-          },
-          annotations: {
-            boxStyle: {
-              // Color of the box outline.
-              //stroke: '#888',
-              // Thickness of the box outline.
-              strokeWidth: 1,
-              // x-radius of the corner curvature.
-              rx: 10,
-              // y-radius of the corner curvature.
-              ry: 10
-            }
-          },
-          legend: {
-            position: 'bottom',
-            textStyle: {
-              fontSize: 20
-            }
-          },
-          colors: ['green', 'red']
-        };
-        //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
-        //chart1.draw(data1, options1);
-        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
-        chart2.draw(data2, options2);
       }
     </script>
   </head>

@@ -6,89 +6,83 @@
     <script src="jquery-csv.js"></script>
 
     <script type="text/javascript">
-      google.charts.load('current', {packages: ['corechart', 'line']});
-      //google.charts.setOnLoadCallback(drawLineColors);
+      google.charts.load('current', {
+        callback: function () {
+          $.get("file_name.csv", function(csvString) {
+            var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
 
-      var file = 'data.csv';
-      $.get(file, function(csvToArray) {
-          var data = $.csv.toArrays(csvToArray, {
-            onParseValue: $.csv.hooks.castToScalar
+            var data2 = new google.visualization.arrayToDataTable(arrayData);
+            data2 = new google.visualization.DataView(data2);
+            // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+            data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+            /*
+            var options1 = {
+              title: 'line chart example 1 - Change of Popularity',
+              hAxis: {
+                title: 'Time'
+              },
+              vAxis: {
+                title: 'Popularity'
+              },
+              colors: ['#a52714', '#097138']
+            };
+            */
+            var options2 = {
+              title: 'Birth rate - India vs China',
+              titleTextStyle: {
+                color: 'black',
+                fontSize: 40,
+                fontName: 'Arial'
+              },
+              hAxis: {
+                title: 'Year',
+                titleTextStyle: {
+                  fontSize: 15,
+                  fontName: 'Arial',
+                  italic: false
+                },
+              },
+              vAxis: {
+                title: 'Birth rate',
+                titleTextStyle: {
+                  fontSize: 15,
+                  fontName: 'Arial',
+                  italic: false
+                },
+              },
+              animation: {
+                duration: 5000, // 1000 ms = 1 s
+                startup: true,
+                easing: 'out'
+              },
+              annotations: {
+                boxStyle: {
+                  // Color of the box outline.
+                  //stroke: '#888',
+                  // Thickness of the box outline.
+                  strokeWidth: 1,
+                  // x-radius of the corner curvature.
+                  rx: 10,
+                  // y-radius of the corner curvature.
+                  ry: 10
+                }
+              },
+              legend: {
+                position: 'bottom',
+                textStyle: {
+                  fontSize: 20
+                }
+              },
+              colors: ['green', 'red']
+            };
+            //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+            //chart1.draw(data1, options1);
+            var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+            chart2.draw(data2, options2);
           });
-          drawLineColors(data);
+        },
+        packages: ['corechart', 'line']
       });
-
-
-      function drawLineColors(arrayData) {
-
-        var data2 = new google.visualization.arrayToDataTable(arrayData);
-        data2 = new google.visualization.DataView(data2);
-        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
-        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
-        /*
-        var options1 = {
-          title: 'line chart example 1 - Change of Popularity',
-          hAxis: {
-            title: 'Time'
-          },
-          vAxis: {
-            title: 'Popularity'
-          },
-          colors: ['#a52714', '#097138']
-        };
-        */
-        var options2 = {
-          title: 'Birth rate - India vs China',
-          titleTextStyle: {
-            color: 'black',
-            fontSize: 40,
-            fontName: 'Arial'
-          },
-          hAxis: {
-            title: 'Year',
-            titleTextStyle: {
-              fontSize: 15,
-              fontName: 'Arial',
-              italic: false
-            },
-          },
-          vAxis: {
-            title: 'Birth rate',
-            titleTextStyle: {
-              fontSize: 15,
-              fontName: 'Arial',
-              italic: false
-            },
-          },
-          animation: {
-            duration: 5000, // 1000 ms = 1 s
-            startup: true,
-            easing: 'out'
-          },
-          annotations: {
-            boxStyle: {
-              // Color of the box outline.
-              //stroke: '#888',
-              // Thickness of the box outline.
-              strokeWidth: 1,
-              // x-radius of the corner curvature.
-              rx: 10,
-              // y-radius of the corner curvature.
-              ry: 10
-            }
-          },
-          legend: {
-            position: 'bottom',
-            textStyle: {
-              fontSize: 20
-            }
-          },
-          colors: ['green', 'red']
-        };
-        //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
-        //chart1.draw(data1, options1);
-        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
-        chart2.draw(data2, options2);
-      }
     </script>
   </head>
   <body>

@@ -1,0 +1,86 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        // data type II
+        var data2 = google.visualization.arrayToDataTable([
+          ['Year', 'Accidents', {type: 'string', role: 'annotation'}, 'The Injured'],
+          ['2015',  232035,   232035,                                 350400],
+          ['2016',  220917,   220917,                                 331720],
+          ['2017',  216335,   216335,                                  322829],
+          ['2018',  217148,   217148,                                 323037]
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        var options2 = {
+          title: 'Trend of Car Accidents (2015-2018)',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 25,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Counts',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 2000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#777',
+              // Thickness of the box outline.
+              strokeWidth: 2,
+              // x-radius of the corner curvature.
+              rx: 0,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'top',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['red', 'purple']
+        };
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Trend of Car Accidents in Korea</h1>
+      <p>date: 2019-10-10</p>
+      <p>Introduction: This chart shows the trend of car accidents occured in 4 years.</p>
+      <p>Data: The data is collected by TAAS (http://taas.koroad.or.kr/) </p>
+    </div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 10px"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      빨간색 숫자 표기에도 comma를 넣어주면 좋겠죠.
+      회색 박스가 숫자랑 너무 붙어 있어서 숫자를 읽는데 방해가 될 수 있음.<br>
+    </div>
+  </body>
+</html>

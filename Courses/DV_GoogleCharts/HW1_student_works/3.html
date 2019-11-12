@@ -1,0 +1,102 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Age', 'Real Asset - Property', 'Financial Assets', 'Else'],
+          ['20s', 40, 33.4, 26.6],
+          ['30s', 45.1,36.7,18.2],
+          ['40s', 45.3, 38.1,16.6],
+          ['50s', 52.3, 33.1, 14.6],
+          ['Over 60', 55.5,30.8,13.7]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },]);
+        var options1 = {
+          title: 'Types of Preferred Assets for Seoulite',
+          vAxis: {
+            title: 'Assets Preference Ratio (%)'
+          },
+          hAxis: {
+            title: 'Age'
+          },
+          series: { 0: {color: 'brown'}, 1: {color: 'green'}, 2: {color: 'lightgray'} },
+          legend: {
+            position: 'bottom'
+          }
+        };
+        var options2 = {
+          title: 'Types of Preferred Assets for Seoulite',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['silver', 'gray', 'black'],
+          vAxis: {
+            title: 'Age',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+            baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 100
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          }
+        };
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+        var chart2 = new google.visualization.ColumnChart(document.getElementById('chart_div2'));
+        chart2.draw(view, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Types of Preferred Assets for Seoulite</h1>
+      <p>▶ date: 2019-09-17</p>
+      <p>▶ Introduction: This chart shows the types of preferred Assets for Seoulite by Age.
+        It shows that people of all ages in Seoul prefer real estate to financial assets.
+        As the age increases, the ratio of preference for real estate tends to rise.
+        </p>
+      <p>▶ Data: This is data based on a survey conducted by the Seoul Institute in 2015.</p> weblink for data: https://www.si.re.kr/node/54139</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 100px"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>백분율 데이터는 Pie Chart로 그리는 것이 의미가 있어요. 2번째 그래프는 가로축이 Age이고 세로축은 단위가 %인 지표이네요.</div>
+  </body>
+</html>

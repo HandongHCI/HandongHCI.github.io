@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Laptop', {type: 'string', role: 'annotation'}, 'tablet PC'],
+          ['2015',  65,   65,                                 37],
+          ['2016',  45,   45,                                 60],
+          ['2017',  55,    55,                                 70],
+          ['2018',  73,   73,                                 90]
+        ]);
+        data = new google.visualization.DataView(data);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation',sourceColumn: 3, calc: 'stringify'}])
+        var options = {
+          title: 'The comparison about how much notebooks and PCs are sold',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 25,//change size from 30 to 25
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Number of sales',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 2000, // change speed to 2000 ms = 2 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+          	textStyle: {//add option to change text style
+		      fontName: 'Times-Roman',
+		      fontSize: 18,
+		      bold: true,
+		      italic: false,
+		      opacity: 1
+		    },
+            boxStyle: {
+              // Change color of the box outline to #777.
+              stroke: '#777',
+              // Change thickness of the box outline from 1 to 0.7.
+              strokeWidth: 0.7,
+              // change x-radius of the corner curvature. to 7
+              rx: 7,
+              // change y-radius of the corner curvature to 7.
+              ry: 7
+            }
+          },
+          legend: {
+            position: 'rigth',//change position.
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['5B9BD5','ED7D31']//change color
+        };
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>The comparison about how much notebooks and PCs are sold </h1>
+      <p>date: 2019-10-09</p>
+      <p>Introduction: This chart shows The comparison about how much notebooks and PCs are sold at companyA</p>
+      <p>Data: The data is what I made. </p>
+      <p>https://github.com/HaEunMok/Data-Visualization.io/blob/master/homework2<p>
+    </div>
+    <div id="chart_div" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      Y축 단위가 빠짐<br>
+      내용은 notebook과 PC로 적혀 있는데, 사실 데이터는 notebook (laptop)과 tablet PC임. tablet PC와 PC는 다른 종류라는 점에서 PC가 아닌 tablet PC로 적어야 됨.<br><br>
+      (근데 처음에 로딩 시간이 왜 걸릴까?)
+    </div>
+  </body>
+</html>

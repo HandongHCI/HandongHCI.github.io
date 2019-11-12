@@ -1,0 +1,86 @@
+  
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Vendor', '2017','2018'],
+          ['Samsung', 321263, 295043],
+          ['Apple', 214924, 209048],
+          ['Huawei', 150534, 202901],
+          ['Xiaomi', 88926, 122387],
+          ['OPPO', 112124, 118837],
+          //['Others', 648762.7, 607049.0],
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0,1,
+                        { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                         2,
+                        { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       ]);
+        var options = {
+          title: 'Worldwide Smartphone Sales',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['blue', 'red'],
+          vAxis: {
+            title: 'Units(in Thousands)',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false,
+              bold: true
+            },
+            baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 140
+          },
+          hAxis: {
+            title: 'Vendors',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false,
+              bold: true
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 15
+            }
+          },
+          width: 1200,
+          bar: {groupwidth: '10%'}
+        };
+  
+        var chart2 = new google.visualization.ColumnChart(document.getElementById('chart_div2'));
+        chart2.draw(view, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Worldwide Smartphone Sales to End Users by Vendor in 2018 </h1>
+      <p>date: 2019-09-27</p>
+      <p>Introduction: This chart shows the worldwide smartphone sales to end users by vendors in 2017 and 2018. It shows that Huawei is significantly growing in the smarphone market.</p>
+      <p>Data: The data is derived from Gartner which is a research and advisory company<p><a href="https://www.gartner.com/en/newsroom/press-releases/2019-02-21-gartner-says-global-smartphone-sales-stalled-in-the-fourth-quart">https://www.gartner.com/en/newsroom/press-releases/2019-02-21-gartner-says-global-smartphone-sales-stalled-in-the-fourth-quart</a></p></p>
+    </div>
+  
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>2017년과 2018년에 파란색과 빨간색 말고 다른 어떤 색을 넣을 수 있을까요?</div>
+  </body>
+</html>

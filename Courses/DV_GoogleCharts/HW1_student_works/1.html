@@ -1,0 +1,100 @@
+  
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Coupang','Wemap','Tmon'],
+          ['2016', 19159, 3691, 2644, ],
+          ['2017', 26846, 4731, 3562, ],
+          ['2018', 44227, 4294, 4927, ]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation",
+                        },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },]);
+        var options1 = {
+          title: 'Company Performance',
+          vAxis: {
+            title: 'Sales (Millon WON)'
+          },
+          hAxis: {
+            title: 'Year'
+          },
+          legend: {
+            position: 'bottom'
+          },
+          colors: ['#A74141', '#FF0000', '#FF8205'],
+        };
+        /*
+        var options2 = {
+          title: 'Company Performance',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['silver', 'gray', 'black'],
+          vAxis: {
+            title: 'Volume (USD)',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+            baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 1400
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          }
+        };
+        */
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+        //var chart2 = new google.visualization.ColumnChart(document.getElementById('chart_div2'));
+        //chart2.draw(view, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Big 3 E-commerce sales in korea</h1>
+      <p>date: 2019-09-26</p>
+      <p>Introduction: This chart shows sales change of Coupang, Wemap, and Timon over the last three years</p>
+      <p>Data: The data is <br>https://m.sedaily.com/NewsVIew/1VHP4PIZ94#_enliple<br>https://www.zdnet.co.kr/view/?no=20190415160928</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>
+    세로축을 milion Won으로 하지 말고 우리나라 단위 표현에 적합하게 하려면 "억원, 조원"으로 단위 변환을 하는 것이 좋습니다.</div>
+  </body>
+</html>

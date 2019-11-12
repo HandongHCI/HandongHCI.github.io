@@ -1,0 +1,73 @@
+<html> 
+   <head> 
+     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script> 
+     <script type="text/javascript"> 
+       google.charts.load('current', {'packages':['corechart']}); 
+       google.charts.setOnLoadCallback(drawChart); 
+  
+       function drawChart() { 
+         var data = google.visualization.arrayToDataTable([ 
+           ['Book by Subject', 'Literature','History', 'Technical science', 'Others'], 
+           ['2015', 7230, 1227, 946, 3571], 
+           ['2016', 3799, 709, 638, 2030], 
+           ['2017', 2372, 579, 463, 2178], 
+           ['2018', 2281, 412, 492, 1811] 
+         ]); 
+  
+         var view = new google.visualization.DataView(data); 
+           view.setColumns([0, 1, 
+                        { calc: "stringify", 
+                          sourceColumn: 1, 
+                          type: "string", 
+                          role: "annotation", }, 
+                        2, 
+                        { calc: "stringify", 
+                          sourceColumn: 2, 
+                          type: "string", 
+                          role: "annotation" }, 
+                        3, 
+                        { calc: "stringify", 
+                          sourceColumn: 3, 
+                          type: "string", 
+                          role: "annotation" },
+                        4, 
+                        { calc: "stringify", 
+                          sourceColumn: 4, 
+                          type: "string", 
+                          role: "annotation" },]); 
+  
+         var options1 = { 
+           title: '', 
+           vAxis: { 
+             title: 'Books' 
+           }, 
+           hAxis: { 
+             title: 'Year' 
+           }, 
+           legend: { 
+             position: 'bottom' 
+           },
+           color: [
+            "Red", "Yellow", "Green", "Blue"
+           ]
+          
+         }; 
+  
+         var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1')); 
+         chart1.draw(view, options1); 
+  
+       } 
+     </script> 
+  </head> 
+  <body> 
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px"> 
+      <h1>Pohang northen district library books</h1> 
+     <p>date: 2019-09-24</p> 
+     <p>Introduction: This chart shows the number of books by subject in the library in the northern district of Pohang for four years</p> 
+     <p>Data: The data is number of books by subject in the library. </p> 
+     <p>Source code of this page: https://www.data4library.kr/regionThema<p> 
+    </div> 
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div> 
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>해당 숫자가 책을 대여한 숫자인지, 새로운 책이 들어온 숫자인지, 어떤 의미인지 가로축과 설명 부분에 명확하게 언급할 필요가 있겠습니다.</div>
+  </body> 
+</html> 

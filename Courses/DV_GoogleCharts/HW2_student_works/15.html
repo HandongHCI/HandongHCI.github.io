@@ -1,0 +1,97 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        // data type II
+        var data2 = google.visualization.arrayToDataTable([
+          ['Week', 'Postivie', {type: 'string', role: 'annotation'}, 'negative'],
+          ['June 4',  47.6, 47.6, 47.6],
+          ['July 1',  51.3, 51.3, 43.8],
+          ['July 2',  47.8, 47.8, 47.3],
+          ['July 3',  51.8, 51.8, 43.1],
+          ['July 4',  52.1, 52.1, 43.7],
+          ['July 5',  51.8, 51.8, 43.1],
+          ['August 1',  49.9, 49.9, 45.5],
+          ['August 2',  50.4, 50.4, 44.4],
+          ['August 3',  49.4, 49.4, 46.3],
+          ['August 4',  46.2, 46.2, 50.4],
+          ['August 5',  46.5, 46.5, 50.2],
+          ['September 1',  50.2, 50.2, 48.3],
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        
+        var options2 = {
+          title: 'Day 1st Week of September 2019 Total',
+          titleTextStyle: {
+            color: 'darkblue',
+            fontSize: 30,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Week',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Support rate(%)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 300, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 2,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['blue', 'red']
+        };
+        
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 1000px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Moon Jae-in, president of performance assessment</h1>
+      <p>date: 2019-10-05</p>
+      <p>Introduction: This chart shows Moon Jae-in the president head of state, South Korea is positive and negative from survery.</p>
+      <p>Data: This data is the results of a survey conducted by polling agency Realmeter on 1,502 voters nationwide on the request of the TBS broadcasting station. (https://bit.ly/2Ir60it)</p>
+    </div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      차트 제목과 X축 제목이 적절하지 않아요.
+    </div>
+  </body>
+</html>

@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        // data type I
+        var data = google.visualization.arrayToDataTable([
+          ['Date', 'High Temperature', {type: 'string', role: 'annotation'}, 'Low Temperature'],
+          ['09-30',  29.9,   29.9,                                 16.4],
+		  ['10-01',  28.2,   28.2,                                 17.6],
+		  ['10-02',  24.2,   24.2,                                 20.0],
+		  ['10-03',  27.3,   27.3,                                 19.8],
+          ['10-04',  27.8,   27.8,                                 18.0],
+          ['10-05',  21.9,   21.9,                                 14.7],
+          ['10-06',  22.7,   22.7,                                 13.2]
+        ]);
+        data = new google.visualization.DataView(data);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        var options = {
+          title: 'Last week high and low temperature',
+          titleTextStyle: {
+            color: 'blue',
+            fontSize: 20,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Date',
+            titleTextStyle: {
+              fontSize: 15,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Temperature (°C)',
+            titleTextStyle: {
+              fontSize: 15,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 2000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 1,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['blue', 'red']
+        };
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Last Week's Daily High and Low Temperature.</h1>
+      <p>date: 2019-10-06</p>
+      <p>Introduction: This chart shows last week's daily high and low temperature.</p>
+      <p>Data: The data is from http://www.weather.go.kr/weather/climate/past_cal.jsp </p>
+    </div>
+    <div id="chart_div" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      좋습니다.
+    </div>
+  </body>
+</html>

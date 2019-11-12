@@ -1,0 +1,67 @@
+<html>
+<head>
+  <!--Load the AJAX API-->
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+  <script type="text/javascript">
+    // Load the Visualization API and the corechart package.
+    google.charts.load('current', {packages: ['corechart', 'bar']});
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.charts.setOnLoadCallback(drawChart);
+    // Callback that creates and populates a data table,
+    // instantiates the pie chart, passes in the data and
+    // draws it.
+    function drawChart() {
+      // Create the data table. (Or you can read data from a file.)
+      var data = google.visualization.arrayToDataTable([
+        ['Religious', '2015 Population',{role: 'style'},{role:'annotation'}],
+        ['Christianity', 2429000000,'color: blue','24.2'],
+        ['Muslim', 1731400000,'color: yellow','17.3'],
+        ['Hindu', 984510000,'color: red','9.8'],
+        ['Buddism', 529000000,'color: gray','5.2'],
+        ['Atheism', 1650120000,'color: black','16.5']
+        ]);
+      var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },]);
+      // Set chart options
+      var options = {
+        title: 'The world religious population',
+        chartArea: {width: '50%'},
+        hAxis: {
+          title: 'Total Population',
+          minValue: 0
+        },
+        vAxis: {
+          title: 'Religious'
+        }
+      };
+      // Instantiate and draw our chart, passing in some options.
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    }
+    </script>
+</head>
+<body>
+  <!-- Put title and necessary descrioption in this div -->
+  <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+    <h1>title of this chart</h1>
+    <p>date: 2019-09-23</p>
+    <p>Introduction: This chart shows the world's religious population at 2015</p>
+    <p>Data: This data shows the world's religious population as of 2015. (https://m.blog.naver.com/PostView.nhn?blogId=mk4768&logNo=220996871296&proxyReferer=http%3A%2F%2F)</p>
+  </div>
+
+  <!-- The chart will be displayed in this div -->
+  <div id="chart_div" style="max-width: 800px; margin: auto"></div>
+  <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>
+  24.2, 17.3, 9.8, 5.2 등 숫자는 %이네요. 그렇다면 이 데이터는 Pie Chart로 나타내야 되겠습니다.<br><br>
+  절대적인 숫자가 중요하다면 Bar Chart로 그릴 수도 있지만, 단위를 변환하는 것이 좋겠습니다.<br><br>
+  세로축 단위가 매우 큰데, 1,000,000,000이면 10억이네요. 단위를 바꾸자면, 한글로는 '억'을 쓰면 세로축 숫자에는 10, 20, 30이 들어갈 거고, Billion으로 하자면 세로축 숫자는 1, 2, 3이 되겠지요.<br><br>
+  가로축 제목과 세로축 제목이 바뀌었네요.<br><br>
+  각 카테고리별로 2가지 데이터를 넣으라는 것이었는데 1개만 들어갔네요. 한 가지 데이터라면 우측에 2015 Population이라는 remark는 빼는 것이 좋습니다.<br><br>
+  page의 title이 빠졌네요.</div>
+</body>
+</html>

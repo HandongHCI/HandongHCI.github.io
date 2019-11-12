@@ -1,0 +1,194 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+		
+		//loan data
+		var data2 = google.visualization.arrayToDataTable([
+          ['Date','amount(1,000,000 won)','number of people', 'earn(dollar)'],
+		  ['2006' ,1693386,539665, 2166370],
+		  ['2007' ,2206486,641396, 2402680],
+		  ['2008' ,2432313,661655, 2134530],
+		  ['2009' ,2614839,704855, 1912210],
+		  ['2010' ,2867304,792484, 2311770],
+		  ['2011' ,2795570,766782, 2525580],
+	   	  ['2012' ,2418968,761361, 2572370],
+		  ['2013' ,2654198,825067, 2735130],
+		  ['2014' ,3651315,966547, 2938390],
+		  ['2015' ,3196417,917501, 2881360],
+		  ['2016' ,1980867,685808, 2939430],
+		  ['2017' ,1804166,642660, 3173410],
+        ]);
+		data2 = new google.visualization.DataView(data2);
+		        
+		//loan data
+		var data3 = google.visualization.arrayToDataTable([
+          ['Date','amount(1,000,000 won)','number of people'],
+          ['2005-1' ,32029,12587],
+		  ['2005-2' ,553998,194602],
+		  ['2006-1' ,864967,268040],
+		  ['2006-2' ,828418,271625],
+		  ['2007-1' ,1133144,321378],
+		  ['2007-2' ,1073343,320018],
+		  ['2008-1' ,1289227,341371],
+		  ['2008-2' ,1143086,320284],
+		  ['2009-1' ,1360487,356624],
+		  ['2009-2' ,1254353,348231],
+		  ['2010-1' ,1527955,411243],
+		  ['2010-2' ,1339349,381241],
+		  ['2011-1' ,1477521,392702],
+		  ['2011-2' ,1318049,374080],
+	   	  ['2012-1' ,1280519,379869],
+		  ['2012-2' ,1138449,381492],
+		  ['2013-1' ,1394519,415578],
+		  ['2013-2' ,1259679,409489],
+		  ['2014-1' ,1350111,416359],
+		  ['2014-2' ,2301204,550188],
+		  ['2015-1' ,2215972,557222],
+		  ['2015-2' ,980445,360279],
+		  ['2016-1' ,1055980,343702],
+		  ['2016-2' ,924886,342106],
+		  ['2017-1' ,961613,320839],
+		  ['2017-2' ,842553,321821]
+        ]);
+		data3 = new google.visualization.DataView(data3);
+		        
+		
+		// option 3
+		var options3 = {
+          title: 'Student Loan(2005~2017)',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 25,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'semester',
+            titleTextStyle: {
+			  color: 'navy',
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'sum',
+            titleTextStyle: {
+              fontSize: 20,
+			  color: 'navy',
+              fontName: 'Times New Roman',
+              italic: false
+			  
+            },
+          },
+          animation: {
+            duration: 2000, // 2000 ms = 2 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '000',
+              // Thickness of the box outline.
+              strokeWidth: 3,
+              // x-radius of the corner curvature.
+              rx: 5,
+              // y-radius of the corner curvature.
+              ry: 5
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['orange', 'purple']
+        };
+		// option 2
+		var options2 = {
+          title: 'Student Loan(2005~2017)',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 25,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'semester',
+            titleTextStyle: {
+			  color: 'navy',
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'sum',
+            titleTextStyle: {
+              fontSize: 20,
+			  color: 'navy',
+              fontName: 'Times New Roman',
+              italic: false
+			  
+            },
+          },
+          animation: {
+            duration: 2000, // 2000 ms = 2 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '000',
+              // Thickness of the box outline.
+              strokeWidth: 3,
+              // x-radius of the corner curvature.
+              rx: 5,
+              // y-radius of the corner curvature.
+              ry: 5
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['orange', 'purple','Red']
+        };
+		
+		var chart3 = new google.visualization.LineChart(document.getElementById('chart_div3'));
+        chart3.draw(data3, options3);
+      
+		var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+	  
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Student Loan </h1>
+      <p>date: 2019-10-11</p>
+      <p>Introduction: This chart shows how many people applied for student loans and how much they borrowed. In general, the number of borrowers and amount of loans tend to be proportional to each other, but it is different the proportion like year 2005,2012,2015, etc. this means that more loans per person and can be predicted to be related to income and economic conditions at the time.  </p>
+      <p>The second chart is addition of GIN, the national GDP. I want to know the relation of student loans(the number who loaned) and GNI, but there was no clear correlation. However, there are some correlation that increase in amount of GNI and the number of student loan was almost proportional.</p>
+	  <p>Data: this data was downloaded from 'Student Loan Statistics' from the Public Data Portal, and I only selected the data what I want to visualize. Tere are data from 2005 to 2017.(web link of the data: https://www.data.go.kr/dataset/3060497/fileData.do) and GIN(personal earning like GDP of Korea) from the Bank of Korea</p>
+    </div>
+	<div id="chart_div3" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+	<div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; "></div>
+
+  <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      데이터의 성격이 다르면 chart 하나에 넣기가 어렵습니다. 첫 번째 그래프의 경우, Y축이 2개여야 하겠습니다. 왼쪽 Y축은 백만원을 단위로 하는 축, 오른쪽 Y축은 사람 숫자인데 단위를 '만명'으로 해도 좋겠네요.<br><br>
+
+      두 번째 그래프의 경우는 3개 데이터의 단위가 모두 다르네요. 그렇다면 원화와 달러 중에 하나를 환산해서 단위를 하나로 만들어줄 수도 있겠습니다.<br><br>
+
+      차트 2개 제목이 같네요. 제목을 다르게 해보세요.
+  </body>
+</html>

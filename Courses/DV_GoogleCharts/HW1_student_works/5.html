@@ -1,0 +1,99 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Korea', 'Japan', 'China', 'USA'],
+          ['2008', 10022, 50379, 45943, 147218],
+          ['2009', 9019, 52314, 51017, 144489],
+          ['2010', 10945, 57001, 60872, 149921],
+          ['2011', 12052, 61575, 75515, 155426],
+          ['2012', 12228, 62032, 85322, 161970],
+          ['2013', 13056, 51557, 95704, 167848],
+          ['2014', 14113, 48504, 104385, 175217],
+          ['2015', 13828, 43895, 110155, 182193],
+          ['2016', 14148, 49267, 111379, 187072],
+          ['2017', 15308, 48600, 121435, 194854],
+          ['2018', 16194, 49709, 136082, 204941]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },
+                       4,
+                       { calc: "stringify",
+                         sourceColumn: 4,
+                         type: "string",
+                         role: "annotation" },]);
+
+        var options = {
+          title: 'Nomial GDP from 2008 to 2018',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 20,
+            fontName: 'CG Times'
+          },
+          colors: ['blue', 'gray', 'purple', 'orange'],
+          vAxis: {
+            title: 'Amount of dollars(USD)',
+            titleTextStyle: {
+              fontSize: 17,
+              italic: false
+            },
+            baseline: 0,
+            gridlines: {
+              count: 3
+            },
+            minValue: 0,
+            maxValue: 210000
+          },
+          hAxis: {
+            title: 'Year(2008-2018)',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          }
+        };
+        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+        chart.draw(view, options);
+      }
+
+
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Nominal GDP of the surrounding countries of Korea </h1>
+      <p>date: 2019-09-25</p>
+      <p>Introduction: This chart shows the Nominal GDP of Korea, Japan, China and USA from 2008 to 2018. It has been put together as a panoramic view of the GDP that has changed over the last decade. </p>
+      <p>Data: The data is from a site called Economic Statistics System(ECOS). This is a measure of production activity within a country in dollars. (https://ecos.bok.or.kr/jsp/vis/world/index_k.jsp#/map)</p>
+    </div>
+    <div id="chart_div" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>세로축이 너무 길어서 데이터가 많은데, 숫자까지 넣으려니깐 너무 복잡하지요? 막대를 horizontal하게 배치하는 것도 방법이고요.<br><br>
+
+    그리고 유효숫자라는 개념이 있습니다. 숫자가 이렇게 큰 경우는 셋째자리 이하 숫자는 무시해도 됩니다. 그러면 단위를 $K (thousand dollars)로 변환하는 것이 좋습니다. 그러면 세로축은 100, 200, 300이 될 것이고, 데이터는 3째 자리에서 반올림하면 됩니다. 소수점 1자리까지 표현해줘도 좋습니다. 가령 10,022라는 수치는 10 또는 10.0이 되고, 147,218는 147 또는 147.2가 됩니다. 단위는 $K가 됩니다.</div>
+  </body>
+</html>

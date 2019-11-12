@@ -1,0 +1,97 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'SBI', 'HK', 'OK', 'BSBK'],
+          ['2015', 472213, 279252, 251324, 132418],
+          ['2014', 238171, 318266, 46847, 111156],
+          ['2013', 213108, 393636, 45500, 108522],
+      ['2012', 325445, 394199, 0, 114082],
+      ['2011', 422111, 372233, 0, 116713]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },
+                       4,
+                       { calc: "stringify",
+                         sourceColumn: 4,
+                         type: "string",
+                         role: "annotation" },]);
+        var options1 = {
+          title: 'Sales Profits of 4 Savings Banks',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 25,
+            fontName: 'Verdana'
+          },
+          colors: ['gray', 'blue', 'red','orange'],
+      // SB는 gray, HK는 blue, OK는 red, BSBK는 orange를 대표색으로 사용한다.
+          vAxis: {
+            title: 'Value (￦)',
+            titleTextStyle: {
+              fontSize: 19,
+              italic: false
+            },
+            baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 500000
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 19,
+              italic: false
+            },
+          },
+          legend: {
+            position: 'right',
+            textStyle: {
+              fontSize: 19
+            }
+          }
+        };
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+      }
+    
+    
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Sales Profits of 4 Savings Banks</h1>
+      <p>date: 2019-09-20</p>
+      <p>Introduction: This chart shows the sales of the top four savings banks from 2011 to 2015. I believe this will help us identify the market impact of each savings bank.</p>
+      <p>Data: 
+The data was produced by referring to the link below.
+** Table of sales and operating profit of the top four savings banks (http://www.econovill.com/news/articleView.html?idxno=294020)</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>
+    이렇게 숫자가 큰 경우는 '유효숫자'라는 것을 고려해야 됩니다. 한화에서 1원 10원 100원은 크게 의미가 없지요. 그리고 익숙한 돈의 단위인 "만원"을 쓰는 게 좋겠습니다.<br><br>
+
+    그러면 세로축은 10, 20, 30, 40이 되겠습니다. 그리고 그래프에 적힐 숫자는 472213이 아니라 47이 되겠지요 47만원이란 뜻이 됩니다. 천원 이하는 버리는 것이지요.<br><br>
+    
+    만약 소수점 한 자리(천원)가 의미가 있다면, 47.2 식으로 적을 수도 있습니다.</div>
+  </body>
+</html>

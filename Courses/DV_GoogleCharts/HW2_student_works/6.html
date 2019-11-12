@@ -1,0 +1,119 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        // data type II
+        var data2 = google.visualization.arrayToDataTable([
+          ['Year', 'Man', {type: 'string', role: 'annotation'}, 'Woman'],
+          ['1970',  16309,   '16,309',15832],
+          ['1980',  19236,   '19,236',18688],
+          ['1990',  21568,    '21,568',20901],
+          ['2000',  23667,   '23,667',23341]
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        var options2 = {
+          title: 'Mens and Womens population changes by ten years',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 40,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 30,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          
+          vAxis: {
+            title: 'Number of people (thousand)',
+            titleTextStyle: {
+              fontSize: 26,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 2000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'inAndOut'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: 'gray',
+              // Thickness of the box outline.
+              strokeWidth: 0.1,
+              // x-radius of the corner curvature.
+              rx: 30,
+              // y-radius of the corner curvature.
+              ry: 10,
+              gradient: {
+        // Start color for gradient.
+        color1: 'white',
+        // Finish color for gradient.
+        color2: 'pink',
+        // Where on the boundary to start and
+        // end the color1/color2 gradient,
+        // relative to the upper left corner
+        // of the boundary.
+        x1: '0%', y1: '0%',
+        x2: '100%', y2: '100%',
+        // If true, the boundary for x1,
+        // y1, x2, and y2 is the box. If
+        // false, it's the entire chart.
+        useObjectBoundingBoxUnits: true
+      }
+            },
+            textStyle: {
+              fontName: 'Times-Roman',
+              fontSize: 15,
+              bold: true,
+              italic: false,
+              // The color of the text.
+              color: 'black',
+              // The color of the text outline.
+              auraColor: 'pink',
+              // The transparency of the text.
+              opacity: 0.8
+            },
+          },
+          legend: {
+            position: 'in',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['blue', 'orange']
+        };
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Men's and Women's demographics</h1>
+      <p>date: 2019-10-11</p>
+      <p>Introduction: This chart shows the changes in the population of men and women in the 10-year period.</p>
+      <p>Data:This data is estimated by the National Statistical Office (NSO) and includes the number of men and women (http://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1010)</p>
+    <div id="chart_div2" style="max-width: 1000px; margin: auto; width: 900; height: 600px; padding-top: 50px"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      인구가 급격히 변하므로 작은 자리 숫자는 큰 의미가 없지요. '천 명' 단위 이하를 버린 것은 잘 하였는데, 그래프상의 숫자를 더 줄일 수도 있습니다. 영어라면 단위를 '백만 명'(million)으로 할 수도 있습니다. 그리고 소수점 1자리까지 사용하고요. 그러면 16,309K는 16.3M이 되겠습니다.<br><br>
+
+      하지만 한국이라면 16백만 이라는 숫자는 어색합니다. 한국으로는 '천만 명' 단위로 해도 됩니다. 1.6으로 적으면 1천600만 명이 됩니다. 또는 '만 명'을 단위로 해도 좋겠습니다. 1,600으로 적으면 1천600만 명이라는 뜻이니깐 직관적이지요.<br><br>
+
+      Y축 scale이 자동으로 정해진 것 같은데, Y축 scale을 0부터 시작하는 것으로 하는 것이 좋습니다. Scale을 바꾸면 misreading하게 됩니다. 즉, 작은 차이인데도 아주 큰 차이가 나는 것으로 잘못 보일 수 있습니다.<br><br>
+    </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>21500804_홍유빈_BarChart</title>
+   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+   <script type="text/javascript">
+     google.charts.load('current', {packages: ['corechart', 'bar']});     
+   </script>
+</head>
+
+<script language="JavaScript">
+function drawChart() {
+   // Define the chart to be drawn.
+        var data = new google.visualization.arrayToDataTable([
+        ['업종별분류', '1년 미만', '1~2년', '2~3년', '3~5년', '5년 이상'],
+        ['닭/오리요리', 87,44, 101, 162, 253],
+        ['제과제빵떡케익', 39,28,40,66,133],
+        ['기타음식업', 19, 12, 41, 110, 407],
+        ['양식', 38, 18, 38, 59, 86], 
+        ['유흥주점', 159, 122, 289, 450, 583],
+        ['분식', 141, 60, 140, 183, 244],
+        ['중식', 36, 25, 54, 65, 133],
+        ['패스트푸드', 65, 41, 35, 68, 85],
+        ['커피점/카페', 212, 145, 144, 213, 243],
+        ['일식/수산물', 275, 90, 187, 385, 404],
+        ]);
+var options2 = {
+          title: '포항시 음식 업종별 + 운영년수 현황',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['silver', 'gray', 'Gold', 'brown', 'black'],
+          vAxis: {
+            title: '점포 수',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+            baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 600
+          },
+          hAxis: {
+            title: '음식 업종',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          }
+        };
+var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },
+                       4,
+                       { calc: "stringify",
+                         sourceColumn: 4,
+                         type: "string",
+                         role: "annotation" },
+                       5,
+                       { calc: "stringify",
+                         sourceColumn: 5,
+                         type: "string",
+                         role: "annotation" },]);
+   var options = {
+      title: '포항시 음식 업종별 현황',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+      colors: ['silver', 'gray', 'Gold', 'brown', 'black'],
+      isStacked: 'true',
+hAxis: {
+            title: '점포 수',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+          },
+  
+   
+vAxis: {
+            title: '음식 업종',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: false
+            },
+baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 1700
+           }    
+   };
+   // Instantiate and draw the chart.
+   var chart = new google.visualization.BarChart(document.getElementById('chart_div2'));
+   chart.draw(data, options);
+   var chart2 = new google.visualization.ColumnChart(document.getElementById('container'));
+   chart2.draw(view, options2);
+}
+google.charts.setOnLoadCallback(drawChart);
+</script>
+</head>
+<body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>2018년 포항시 상가현황</h1>
+      <p>date: 2019-09-27</p>
+      <p>Introduction: This chart shows the types of shops in Pohang in 2018, the number of stores and  years of shop operations.</p>
+      <p>Data: The data is taken only from Pohang from the state of the nation's malls on the public data portal, and the current state of the business is detailed.
+       https://www.data.go.kr/dataset/15012005/fileData.do </p>
+      </div>      
+      <div id="container" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+      <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+      <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>가로로 표현한 것은 좋은 시도입니다. 위쪽 그래프를 보면 숫자가 많아서 눈에 잘 들어오지 않습니다.<br><br>
+
+      가로로 표현할 때는, 들쭉날쭉하게 하지 말고 막대가 긴 것부터 짧은 것으로 재정렬하면 눈에 더 잘 들어옵니다.<br><br>
+
+      stacked horizontal bar chart에서 각 색깔(연도)이 차지하는 비중(%)을 적어줄 수 있어도 좋겠습니다.<br><br>
+
+      색상 사용에 있어서는 회색, 노랑, 빨강 등이 연도와 크게 매칭이 되지 않습니다. 같은 회색 계열 혹은 다른색 계열이어도 좋으니, 같은 색 계열 내에서 1년 미만은 연한 색, 5년 이상은 진한색 식으로 표현해주는 것이 좋겠습니다.</div>
+</body>
+</html>

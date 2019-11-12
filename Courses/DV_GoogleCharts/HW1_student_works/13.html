@@ -1,0 +1,63 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Type of Coniferous Tree', 'Summer', 'Winter'],
+          ['Hinoki Cypress', 5.5, 5.2],
+          ['Abies koreana', 4.8, 3.9],
+          ['Korean red pine', 1.3, 1.7],
+          ['Japanese cedar', 4.0, 3.6],
+          ['Sawara cypress', 3.3, 3.1],
+          ['Juniperus chinensis', 1.4, 1.8],
+          ['Platycladus orientalis', 1.3, 1.0]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },]);
+        var options1 = {
+          title: 'Phytoncide Amount by Coniferous tree in Korea',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['green', 'lightgreen'],
+          vAxis: {
+            title: 'Volume (mL per 100g)'
+          },
+          hAxis: {
+            title: 'Type of tree'
+          },
+          legend: {
+            position: 'bottom'
+          }
+        };
+  
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Phytoncide Amount by Coniferous tree in Korea</h1>
+      <p>date: 2019-09-27</p>
+      <p>Introduction: This chart shows Phytoncide amount by Coniferous tree in Korea when it is summer or winter.</p>
+      <p>Data: The data is gathered in Korea Forest Research Institute. (http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Blv8&articleno=16873926&categoryId=987528&regdt=20110624114822)</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>Summer과 Winter에 어떤 색이 어울릴지 다시 생각해보면 어떨까요?</div>
+  </body>
+</html>

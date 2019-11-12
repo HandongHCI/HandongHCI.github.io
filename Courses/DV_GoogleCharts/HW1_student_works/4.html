@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Class', 'Red', 'Green', 'Blue'],
+          ['ClassA', 8, 5, 7],
+          ['ClassB',12 , 6, 2],
+          ['ClassC', 3, 10, 7]
+        ]);
+
+         var options = {
+          title: 'Favorite color of people',
+          colors: ['#DB4437','#47C83E','#4285F4'],
+          vAxis: {title: 'The number of people'},
+          hAxis: {title: 'Colors'},
+          legend: {position: 'bottom'},
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
+
+        chart.draw(data,google.charts.Bar.convertOptions(options));
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>people's favorite colors according to classes</h1>
+      <p>date: 2019-09-24</p>
+      <p>Introduction: This chart shows what is the status of people's favorite colors according to classes
+      </p>
+      <p>Data: The data is what I made.</p>
+  </body>
+  </div>
+    <div id="columnchart_material" style="margin: 0 auto; width: 700px; height: 400px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>Bar의 끝에 숫자를 적어주는 것이 직관적이에요. 지금 이 data는 관측치(frequency)를 가지고 반을 비교하는 거네요. 각 반에 20명씩 있는데, 만약 각 반에 사람이 다른 경우라면 어떻게 될까요? 즉, 이런 데이터는 Pie Chart로 비교하는 것이 좋습니다. 절대적인 숫자보다 비중이 중요한 데이터에요.<br><br>
+    하지만 참고로, 이런 종류의 데이터인데 절대적인 숫자가 중요한 경우도 있어요.
+    </div>
+  </body>
+</html>

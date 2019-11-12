@@ -1,0 +1,75 @@
+  
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Sales', 'Expenses', 'Profit', 'average'],
+          ['2014', 1000, 400, 200, 533],
+          ['2015', 1170, 460, 250, 626],
+          ['2016', 660, 1120, 300, 693],
+          ['2017', 1030, 540, 350, 640]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },
+                        4,
+                        { calc: "stringify",
+                         sourceColumn:  4,
+                         type: "string",
+                         role: "annotation" },
+                         ]);
+        var options1 = {
+          title: 'Company Performance',
+          vAxis: {
+            title: 'Volume (USD)'
+          },
+          colors: ['pink', 'gold', 'green', 'red'],
+          curveType: 'function',
+          hAxis: {
+            title: 'Year'
+          },
+          legend: {
+            position: 'bottom'},
+            seriesType: 'bars',
+            series: {3: {type: 'line'}}
+            };
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>title of this chart</h1>
+      <p>date: 2019-09-21</p>
+      <p>Introduction: This chart is added average line from professor's graph.</p>
+      <span style="color:red;  font-weight: bold ">
+            By adding an average line, it is easy for users to compare performance for each year.
+        </span>
+      <p>Data: The data is from google chart. and I added to average column.
+            https://developers.google.com/chart/interactive/docs/gallery/columnchart?hl=ko </p>
+            (also, include the web link of the data)</p>
+            
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>좋은 시도입니다. 그런데 시각적으로 보여주는 것 뿐 아니라 data 해석도 중요합니다. Sales는 판매량, expenses는 회사의 지출입니다. Profit은 이윤이고요. 이 세 가지는 서로 다른 지표이므로 평균을 내는 것은 무의미합니다.<br><br>
+    title이 빠졌네요.</div>
+  </body>
+</html>

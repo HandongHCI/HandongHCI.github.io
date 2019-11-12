@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        var data2 = google.visualization.arrayToDataTable([
+          ['Year', 'Employment rate', {type: 'string', role: 'annotation'}, 'Unemployment rate', {type: 'string', role: 'annotation'}, 'Employment Assistance Index 3'],
+          ['2015',  41.2,   41.2, 9.1, 9.1, 21.9],
+          ['2016',  41.7,   41.7, 9.8, 9.8, 22.1],
+          ['2017',  42.1,   42.1, 9.8, 9.8, 22.7],
+          ['2018',  42.7,   42.7, 9.5, 9.5, 22.8]
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        // add a new column right (column for annotation) to the sixth column (using the source of column 5)
+        data2.setColumns([0, 1, 2, 3, 4, 5, {type: 'string', role: 'annotation', sourceColumn: 5, calc: 'stringify'}])
+        var options2 = {
+          title: 'Youth Employment Index of South Korea, 2015-2018',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 25,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Percentages (%)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 2000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 1,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'right',
+            textStyle: {
+              fontSize: 15
+            }
+          },
+          colors: ['46943B', 'B43D24', '391287']
+        };
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Youth Employment Status of South Korea</h1>
+      <p>date: 2019-10-09</p>
+      <p>Introduction: This chart shows how the youth employment index of South Korea is changing from 2015 to 2018<br><br>
+        Unemployment rate = Unemployed/Economically Active Population<br>
+        Employment rate = Employed/15-29 years old population<br>
+        Employment Assistance Index 3 = (Unemployed + additional hours available for employment + Potential economically active population / Extended economically active population
+      </p>
+      <p>Data: The data is from a news article(https://news.mt.co.kr/mtview.php?no=2019041815025345809)</p>
+    </div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      ok
+    </div>
+  </body>
+</html>

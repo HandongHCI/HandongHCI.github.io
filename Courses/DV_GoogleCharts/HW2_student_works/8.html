@@ -1,0 +1,118 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        var data2 = google.visualization.arrayToDataTable([
+		  ['Day', 'SO2 (0.001ppm)', {type: 'string', role: 'annotation'}, 'O3 (0.001ppm)'],
+		  ['01', 9, 9, 25],
+		  ['02', 9, 9, 13],
+		  ['03', 9, 9, 11],
+		  ['04', 9, 9, 15],
+		  ['05', 5, 5, 24],
+		  ['06', 11, 11, 16],
+		  ['07', 10, 10, 20],
+		  ['08', 6, 6, 13],
+		  ['09', 4, 4, 25],
+		  ['10', 8, 8, 22],
+		  ['11', 9, 9, 18],
+		  ['12', 13, 13, 25],
+		  ['13', 7, 7, 20],
+		  ['14', 5, 5, 15],
+		  ['15', 7, 7, 20],
+		  ['16', 9, 9, 15],
+		  ['17', 15, 15, 21],
+		  ['18', 11, 11, 26],
+		  ['19', 7, 7, 20],
+		  ['20', 8, 8, 23],
+		  ['21', 6, 6, 24],
+		  ['22', 7, 7, 18],
+		  ['23', 9, 9, 19],
+		  ['24', 7, 7, 26],
+		  ['25', 6, 6, 25],
+		  ['26', 6, 6, 26],
+		  ['27', 12, 12, 18],
+		  ['28', 8, 8, 22],
+		  ['29', 8, 8, 20],
+		  ['30', 6, 6, 34],
+		  ['31', 7, 7, 25]
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        var options2 = {
+          title: 'SO2 and O3 measurement results in the atmosphere of Busan',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Day',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Value (0.001ppm)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 3000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'inAndOut'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#666',
+              // Thickness of the box outline.
+              strokeWidth: 2,
+              // x-radius of the corner curvature.
+              rx: 20,
+              // y-radius of the corner curvature.
+              ry: 30
+            }
+          },
+          legend: {
+            position: 'right',
+            textStyle: {
+              fontSize: 18
+            }
+          },
+          colors: ['red', 'brown']
+        };
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1> Busan Gwangbok-dong Metro Station - January 2014 Air Quality Information Daily Average </h1>
+      <p>date: 2019-10-11 </p>
+      <p>Introduction: This chart shows the level of air pollution in January 2014 measured in Gwangbok-dong, Busan. I've seen how pollution levels change throughout the month of January.</p>
+      <p>Data: The data was produced by referring to the link below. 	Possible to check in health environment information disclosure system (http://heis.busan.go.kr/environmental/air002_1.aspx)</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      에니메이션 속도가 좀 더 빠르면 좋겠네요.
+      SO<sub>2</sub>와 O<sub>3</sub>에서 첨자 표기 방법을 알아보세요.<br><br>
+
+      legend에 단위가 0.001ppm인 것으로 적었는데, Y축 title에도 적혀 있지요. 중복이므로 legend에서는 빼는 게 좋겠습니다.<br><br>
+
+      Chart는 설명 없이 chart만 보고도 무슨 내용인 줄 아는 것이 좋습니다. X축이 Day인데, 설명 없이 보면 어느 날인지 모르겠지요. X축 제목으로 January 2014가 좋겠죠.
+    </div>
+
+  </body>
+</html>

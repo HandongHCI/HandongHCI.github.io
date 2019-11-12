@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <script type="text/javascript">
+  window.onload = function () {
+    var chart = new CanvasJS.Chart("chartContainer",
+    {
+
+      title:{
+      text: "Quarterly Sales of Samsung Electronics "
+      },
+      axisY:{
+          includeZero : false,
+          title: "Sales"
+      }, 
+      axisX: {
+        title: "quater (unit : 100 billion won)"
+      },
+      
+       data: [
+      {
+        type: "line",
+
+        dataPoints: [
+        { x: new Date(2018, 06, 30), y: 584 },
+        { x: new Date(2018, 09, 30), y: 654, indexLabel: "highest", markerColor: "red", markerType: "triangle" },
+        { x: new Date(2018, 12, 31), y: 592 },
+        { x: new Date(2019, 03, 31), y: 523, indexLabel: "lowest", markerColor: "DarkSlateGrey", marketType: "cross" },
+        { x: new Date(2019, 06, 30), y: 561 },
+        { x: new Date(2019, 09, 30), y: 611 },
+        { x: new Date(2019, 12, 31), y: 617 },
+        { x: new Date(2020, 03, 31), y: 572 }
+        ]
+      }
+      ]
+    });
+
+    chart.render();
+  }
+  </script>
+ <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script></head>
+<body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+        <h1>Samsung Electronics' quarterly sales data</h1>
+        <p>date: 2019-10-04</p>
+        <p>Introduction: This graph is Samsung Electronics' quarterly sales data</p>
+        <span style="color:red;  font-weight: bold ">
+            By dotting, I've made it easier to identify the highest and lowest points, each quarterly sales
+          </span>
+        <p>Data: The data is from finance naver.  </p>
+        <p>Samsung Electronics' quarterly sales from 2018.6 ~ 2020.3(Estimaed)
+               </p>
+              (also, include the web link of the data) https://finance.naver.com/item/main.nhn?code=005930 </p>
+              
+        <p><p>
+      </div>  
+  <div id="chartContainer" style="max-width: 800px; margin: auto; width: 800x; height: 500px;">
+  </div>
+  <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      차트 애니메이션 빠짐, 2개 이상 category 사용할 것<br>
+      Sales 단위는?<br>
+      arrayToDataTable과 DataView 함수를 사용하지 않았네요.<br><br>
+      
+      Y축 scale이 자동으로 정해진 것 같은데, Y축 scale을 0부터 시작하는 것으로 하는 것이 좋습니다. Scale을 바꾸면 misreading하게 됩니다. 즉, 작은 차이인데도 아주 큰 차이가 나는 것으로 잘못 보일 수 있습니다.<br><br>
+
+      highest와 lowest label을 잘 넣었습니다. 그런데 만약 가장 높은 수치와 낮은 수치를 자동으로 넣을 수 있도록 programming한다면? (생각해보세요~)
+    </div>
+</body>
+</html>

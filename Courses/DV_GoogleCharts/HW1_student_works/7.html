@@ -1,0 +1,82 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Zoos', 'Pandas', 'Tigers', 'Giraffes'],
+          ['Seoul Zoo', 52, 40, 20],
+          ['Pohang Zoo', 17, 46, 25],
+          ['Jeju Zoo', 60, 78, 30],
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },]);
+        var options1 = {
+          title: 'Animals in Zoo',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Verdana'
+          },
+          colors: ['#63615c', '#f2be55', '#f2d855'],
+          vAxis: {
+            title: 'Count',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: true
+            },
+            baseline: 0,
+            gridlines: {
+              count: 5
+            },
+            minValue: 0,
+            maxValue: 80
+          },
+          hAxis: {
+            title: 'Name of Zoo',
+            titleTextStyle: {
+              fontSize: 20,
+              italic: true
+            },
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 15
+            }
+          }
+        };
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Animals in Zoo</h1>
+      <p>date: 2019-09-19</p>
+      <p>Introduction: This chart shows how many animals(pandas, tigers and giraffes) are living in three zoos in South Korea.</p>
+      <p>Data: The data is produced randomly by me. </p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>
+    만든 데이터이긴 하지만 동물들의 숫자도 현실적이면 좋겠죠. 시각화에 있어서 숫자의 절대적인 양적 의미도 중요합니다.</div>
+
+  </body>
+</html>

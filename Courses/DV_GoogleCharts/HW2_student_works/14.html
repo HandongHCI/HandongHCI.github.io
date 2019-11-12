@@ -1,0 +1,85 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        var data2 = google.visualization.arrayToDataTable([
+          ['Year', 'Management', {type: 'string', role: 'annotation'}, 'Computer Science'],
+          ['2015',  450,   450,                                 38],
+          ['2016',  393,   393,                                 94],
+          ['2017',  241,   241,                                 189],
+          ['2018',  152,   152,                                 328],
+          ['2019',  76,   76,                                   470]
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        var options2 = {
+          title: 'Number of HGU Students in Different Majors',
+          titleTextStyle: {
+            color: 'blue',
+            fontSize: 33,
+            fontName: 'Microsoft Sans Serif'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              color: 'red',
+              fontSize: 22,
+              fontName: 'Microsoft Sans Serif',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Number of People',
+            titleTextStyle: {
+              color: 'red',
+              fontSize: 22,
+              fontName: 'Microsoft Sans Serif',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 500, 
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              stroke: '#888',
+              strokeWidth: 1,
+              rx: 10,
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'right',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['Orange', 'Navy']
+        };
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 5px">
+      <h1>Changes in Number of People who major Management or Computer Science at HGU </h1>
+      <p>date: 2019-10-10</p>
+      <p>Introduction: This chart shows number of people who major Management and Computer Science at HGU from 2015 to 2019.</p>
+      <p>Data: The data is made by myself.</p>
+      <p>Source code of this page: https://github.com/MinhaJin/MinhaJin.github.io/blob/master/Data%20visualization/Jin%20Minha%20hw2.html<p>
+    </div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 650px; padding-top: 10px"></div>
+
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      좋습니다. annotation에 꼭 동그라미가 들어갈 필요는 없습니다. 숫자와 선이 너무 붙어 있지요.
+    </div>
+  </body>
+</html>

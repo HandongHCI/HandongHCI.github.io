@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Gold', 'Silver', 'Bronze'],
+          ['  1992 Albertville', 2, 1, 1],
+          ['1994 Lillehammer', 4, 1, 1],
+          ['ㅤ1998ㅤNagano', 3, 1, 2],
+          ['ㅤㅤ2002ㅤㅤSalt Lake city', 2, 2, 0],
+          ['ㅤ2006ㅤTurin', 6, 3, 2],
+          ['2010 Vancouver', 6, 6, 2],
+          ['ㅤ2014ㅤSochi', 3, 3, 2],
+          ['2018 Pyeongchang', 5, 8, 4]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },
+                       3,
+                       { calc: "stringify",
+                         sourceColumn: 3,
+                         type: "string",
+                         role: "annotation" },]);
+        var options1 = {
+          title: 'ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤNumber of Medals in Winter Olympic Games',
+          colors: ['gold', 'silver', 'brown'],
+          vAxis: {
+            title: 'Number (medals)'
+          },
+          hAxis: {
+            title: 'Year'
+          },
+          legend: {
+            position: 'bottom'
+          }
+        };
+        
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>The number of Winter Olympic Games medals of Korea</h1>
+      <p>date: 2019-09-25</p>
+      <p>Introduction: This chart shows the number of Winter Olympic Games medals of Korea since 1992.</p>
+      <p>Data: Korea participated the Winter Olympic Games since 1948, but had no medals befor 1992. Since 1992, South Korea has been winning more and more Olympic medals.
+      <p></p>https://namu.wiki/w/%EC%98%AC%EB%A6%BC%ED%94%BD/%ED%95%9C%EA%B5%AD%20%EB%A9%94%EB%8B%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8?from=%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8F%99%EA%B3%84%EC%98%AC%EB%A6%BC%ED%94%BD%20%EC%84%B1%EC%A0%81 </p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>
+    Gold, Silver, Bronze를 표현하기 위하여 잘 사용하는 색상이 있으니 그걸 사용하면 좋겠지요.<br>
+    세로축 제목은 Number of Medals가 좋겠습니다.</div>
+ </body>
+</html>

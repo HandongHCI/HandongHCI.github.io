@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Company', '2017', '2018'],
+          ['Apple', 287, 370],
+          ['Samsung', 204, 179],
+          ['Huawei', 64, 123],
+        ]);
+
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },]);
+                       
+        var options = {
+          vAxis: {
+            title: 'Sale_amount ($ Billon)'
+          },
+          hAxis: {
+            title: 'Company'
+          },
+          legend: {
+            position: 'bottom'
+          }
+        };
+
+        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+        chart.draw(view, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Company performance - smart phone sales </h1>
+      <p>date: 2019-09-27 </p>
+      <p>Introduction: This chart shows the company's smart phone sales_aumont (2017~2018)</p>
+      <p>Data: The data is from NAVER </p>
+      <p>Source code of this page: https://news.naver.com/main/read.nhn?oid=001&aid=0010487827</p>
+    </div>
+    <div id="chart_div" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>2017년과 2018년에 파란색과 빨간색 말고 다른 어떤 색을 넣을 수 있을까요?</div>
+  </body>
+</html>

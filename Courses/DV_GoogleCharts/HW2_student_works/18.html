@@ -1,0 +1,159 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+        // data type I
+        var data1 = google.visualization.arrayToDataTable([
+           ['Year', 'Korea', {type: 'string', role: 'annotation'}, 'China'],
+          ['2013',  851,   851,                                 181],
+          ['2014',  894,   894,                                 285],
+          ['2015',  1104,    1104,                                  223],
+          ['2016',  1224,   1224,                                 306],
+          ['2017',  1352,   1352,                                 74],
+          ['2018',  1308,   1308,                                 66],
+        ]);
+        data1 = new google.visualization.DataView(data1);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data1.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        
+        var options1 = {
+          title: 'Jeju Island tourist',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 35,
+            fontName: 'Arial'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Arial',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'number of people (unit: 1000)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Arial',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 5000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 1,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 15
+            }
+          },
+          lineWidth: 5,
+          colors: ['green' ,'red']
+        };
+        // data type II
+        var data2 = google.visualization.arrayToDataTable([
+          ['Year', 'Japan', {type: 'string', role: 'annotation'}, 'USA'],
+          ['2013',  1288,   1288,                                 214],
+          ['2014',  965,   965,                                 198],
+          ['2015',  592,    592,                                  168],
+          ['2016',  479,   479,                                 336],
+          ['2017',  553,   553,                                 326],
+          ['2018',  866,   866,                                 312],
+        ]);
+        data2 = new google.visualization.DataView(data2);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data2.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+        
+        var options2 = {
+          title: 'Jeju Island tourist',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 35,
+            fontName: 'Arial'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Arial',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'number of people (unit: 100)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Arial',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 5000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 1,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 15
+            }
+          },
+          lineWidth: 5,
+          colors: ['#e49307', 'blue']
+        };
+        var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+        chart1.draw(data1, options1);
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1> Jju Island tourist of Korea, China, Japan, USA inhabitant</h1>
+      <p>date: 2019-10-11</p>
+      <p>Introduction: This chart shows Jeju Island tourist in 2013 -  2018 for Korea, China, Japan, USA.</p>
+      <p>Data: The data is taken from Jeju from Juju Island tourist on the public data portal. and the data is takend from trourist in Korea, Chian, Japan, and USA
+https://www.data.go.kr/dataset/3083546/fileData.do</p>
+      <p>Source code of this page: https://github.com/yb-Hong/Data-visualization/blob/master/HW_Line_chart_21500804_홍유빈.html<p>
+    </div>
+    <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      좋습니다. 두 chart가 같은 내용에 data만 다르므로 두 chart를 하나로 합쳐도 되겠네요. 단위도 하나로 합치고요. 지금의 경우는 단위가 다르다는 것을 못 보면 일본 미국 사람도 제주도에 많이 오는 것으로 잘못 해석될 수 있어요.
+    </div>
+  </body>
+</html>

@@ -1,0 +1,102 @@
+  
+ <html> 
+   <head> 
+     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script> 
+     <script type="text/javascript"> 
+       google.charts.load('current', {packages: ['corechart', 'line']}); 
+       google.charts.setOnLoadCallback(drawLineColors); 
+  
+       function drawLineColors() { 
+  
+         
+         // data type 
+         var data1 = google.visualization.arrayToDataTable([ 
+           ['Year', 'South district', {type: 'string', role: 'annotation'}, 'North district'], 
+           ['2015',  58008,   58008,                                 13852], 
+           ['2016',  88486,   88486,                                 7877], 
+           ['2017',  48154,    48154,                                  8903], 
+           ['2018',  44900,   44900,                                 6655] 
+         ]); 
+  
+         data1 = new google.visualization.DataView(data1); 
+  
+         // add a new column right (column for annotation) to the fourth column (using the source of column 3) 
+         data1.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}]) 
+  
+         
+         var options1 = { 
+           title: ' Pohang City Library New Book Count', 
+  
+           titleTextStyle: { 
+             color: 'black', 
+             fontSize: 30, 
+             fontName: 'Times New Roman' 
+           }, 
+  
+           hAxis: { 
+             title: 'Year', 
+             titleTextStyle: { 
+               fontSize: 20, 
+               fontName: 'Times New Roman', 
+               italic: false 
+             }, 
+           }, 
+           vAxis: { 
+             title: 'New book count', 
+             titleTextStyle: { 
+               fontSize: 20, 
+               fontName: 'Times New Roman', 
+               italic: false 
+             }, 
+           }, 
+           animation: { 
+             duration: 1500, // 1000 ms = 1 s 
+             startup: true, 
+             easing: 'out' 
+           }, 
+  
+           annotations: { 
+             boxStyle: { 
+               // Color of the box outline. 
+               stroke: '#888', 
+               // Thickness of the box outline. 
+               strokeWidth: 1, 
+               // x-radius of the corner curvature. 
+               rx: 10, 
+               // y-radius of the corner curvature. 
+               ry: 10 
+             } 
+           }, 
+  
+           legend: { 
+             position: 'bottom', 
+             textStyle: { 
+               fontSize: 20 
+             } 
+           }, 
+           colors: ['blue', 'red'] 
+         }; 
+  
+         var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1')); 
+         chart1.draw(data1, options1); 
+       } 
+     </script> 
+   </head> 
+   <body> 
+     <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px"> 
+       <h1>Pohang City Library New Book Count </h1> 
+       <p>date: 2019-10-10</p> 
+       <p>Introduction: This chart shows the number of new books in the library of Pohang for four years</p> 
+       <p>Data: The data is the number of new books in the library of Pohang.</p> 
+       <p>Source code of this page: https://www.data4library.kr/regionThema<p> 
+     </div> 
+     <div id="chart_div1" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div> 
+
+     <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      파란색 annotation에도 셋째 자리 comma를 넣어보세요.
+    </div>
+      
+   </body> 
+ </html> 

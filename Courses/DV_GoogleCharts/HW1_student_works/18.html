@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>21500804_홍유빈_BarChart</title>
+   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+   <script type="text/javascript">
+     google.charts.load('current', {packages: ['corechart', 'bar']});     
+   </script>
+</head>
+
+  
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([
+          ['Name', 'Score', 'Rebound', 'Assist'],
+          ['Lebron James', 28.5, 9.7, 11.1],
+          ['Kyrie Irving', 26.3, 5.3, 9.8],
+          ['Dwight Howord', 22.6, 13.2, 3.2],
+          ['Kawhi Lenord', 25.8, 10.1, 9.8],
+  ['Kevin Durant', 29.8, 8.7, 10.1],
+  ['Jamens Harden',33.8, 8.7, 11.1],
+        ]);
+
+        var options = {
+  
+          chart: {
+            title: 'NBA player mean stastistics',
+            subtitle: 'final results 2018-2019',
+          }
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
+
+        chart.draw(data, google.charts.Bar.convertOptions(options));
+      }
+    </script>
+  </head>
+  <body>
+    <div id="columnchart_material" style="width: 800px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>전체 제목, 차트 설명 등 다른 부분들은 빠졌네요. 세로축의 axis title도 빠졌네요.<br><br>
+
+    한편으로 score는 점수이고 rebound와 assist는 횟수이기 때문에 같은 세로축으로 보여주는 것이 좀 어색합니다. 즉, 종류가 다른 데이터가 섞여 들어가 있는 것입니다. 세로축에 어떤 제목을 붙여보면 됩니다.</div>
+  </body>
+</html>

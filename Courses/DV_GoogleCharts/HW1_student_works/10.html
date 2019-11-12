@@ -1,0 +1,67 @@
+<html>
+<head>
+  <!--Load the AJAX API-->
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+  <script type="text/javascript">
+    // Load the Visualization API and the corechart package.
+    google.charts.load('current', {packages: ['corechart', 'bar']});
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.charts.setOnLoadCallback(drawBasic);
+    // Callback that creates and populates a data table,
+    // instantiates the pie chart, passes in the data and
+    // draws it.
+    function drawBasic() {
+      // Create the data table. (Or you can read data from a file.)
+      var data = google.visualization.arrayToDataTable([
+        ['Student number', 'Number',{role: 'style'}],
+        ['12', 2,'red'],
+        ['13', 2,'red'],
+        ['14', 1,'blue'],
+        ['15', 2,'red'],
+        ['16', 4,'green'],
+        ['17',2,'red'],
+        ['18',3,'yellow'],
+        ['19',5,'orange']
+        ]);
+      var view = new google.visualization.DataView(data);
+      view.setColumns([0, 1,
+            { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2]);
+      // Set chart options
+      var options = {
+        title: 'Student number distribution of HAC',
+        chartArea: {width: '50%'},
+        hAxis: {
+          title: 'Number',
+          minValue: 0
+        },
+        vAxis: {
+          title: 'Student number'
+        }
+      };
+      // Instantiate and draw our chart, passing in some options.
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(view, options);
+    }
+    </script>
+</head>
+<body>
+  <!-- Put title and necessary descrioption in this div -->
+  <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+    <h1>title of this chart</h1>
+    <p>date: 2019-09-17</p>
+    <p>Introduction: This chart shows distribution of student number for my club in this semester.</p>
+    <p>Data: The data was produced by hand.</p>
+  </div>
+
+  <!-- The chart will be displayed in this div -->
+  <div id="chart_div" style="max-width: 800px; margin: auto"></div>
+  <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>각 카테고리별로 2가지씩의 데이터를 넣으라는 것이었는데 1개만 들어갔네요. 가령, 각 연도별로 남자와 여자 데이터가 들어갔을 수도 있겠습니다. 한 가지 데이터라면 우측에 Number라는 remark는 빼는 것이 좋습니다.<br><br>
+
+  축 제목에서 Student number는 '학생번호'라는 뜻이고, Frequency 또는 Number of Students가 맞겠습니다. 가로축은 Number가 아니라 Year인 것 같네요.</div>
+</body>
+</html>

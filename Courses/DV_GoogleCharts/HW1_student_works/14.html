@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Age', 'Male', 'Female'],
+          ['7 to 18', 36.2, 40.2],
+          ['19 to 29', 38.3, 42.7],
+          ['30 to 39', 32.3, 35.1],
+          ['40 to 49', 30.4, 31.2],
+          ['50 to 59', 24.2, 22.5],
+          ['60 to 69', 19.8, 18.0]
+        ]);
+        var view = new google.visualization.DataView(data);
+          view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2,
+                       { calc: "stringify",
+                         sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" },]);
+                      
+        var options1 = {
+          title: 'Time spent using smartphones by age of Male and Female in Korea at 2016',
+          vAxis: {
+            title: 'Average hours of use per week'
+          },
+          hAxis: {
+            title: 'Age'
+          },
+          legend: {
+            position: 'bottom'
+          },
+          series: {
+            0: { color: '#006496' },
+            1: { color: '#F06463' },
+        }
+        };
+       
+        var chart1 = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+        chart1.draw(view, options1);
+ 
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 1050px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 40px">
+      <h1>Survey of Korean smartphone usage time (2016) </h1>
+      <p>date: 2019-09-27</p>
+      <p>Introduction: This chart shows how many people in Koreaa use smartphones on average a week.</p>
+      <p>Data: The data is taken from the 2016 smartphone usage statistics report released by Yonsei University's Barun ICT Institute. (http://news1.kr/articles/?2982346)</p>
+    </div>
+    <div id="chart_div1" style="max-width: 1400px; margin: auto; width: 1600px; height: 500px;"></div>
+    <div style="max-width: 1200px; margin: auto; width: 100%; margin-top: 50px; font-size: 15pt"><b>[Professor's comment]</b><br>no special comment</div>
+  </body>
+</html>

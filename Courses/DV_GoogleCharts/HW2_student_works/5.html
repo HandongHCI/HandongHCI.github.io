@@ -1,0 +1,98 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.setOnLoadCallback(drawLineColors);
+      function drawLineColors() {
+
+        // data type II
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Sales', {type: 'string', role: 'annotation'}, 'Expenses'],
+          ['2014',  1053, 1053,        996],
+          ['2015',  1131, 1131,        935], 
+          ['2016',  1161, 1161,        1068], 
+          ['2017',  1131, 1131,        1009]
+        ]);
+        data = new google.visualization.DataView(data);
+        // add a new column right (column for annotation) to the fourth column (using the source of column 3)
+        data.setColumns([0, 1, 2, 3, {type: 'string', role: 'annotation', sourceColumn: 3, calc: 'stringify'}])
+
+        var options = {
+          title: 'the Graph of Exchage Rate(USD, JPY)',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 30,
+            fontName: 'Times New Roman'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'Amount (USD, JPY)',
+            titleTextStyle: {
+              fontSize: 20,
+              fontName: 'Times New Roman',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 1500, // 1000 ms = 1 s
+            startup: true,
+            easing: 'linear'
+          },
+          annotations: {
+            textStyle: {
+              fontSize: 15,
+              bold: true, 
+              color: "gray",  
+              opacity: 1.0},
+            boxStyle: {
+              // Color of the box outline.
+              stroke: '#895',
+              // Thickness of the box outline.
+              strokeWidth: 1.5,
+              // x-radius of the corner curvature.
+              rx: 13,
+              // y-radius of the corner curvature.
+              ry: 13
+            }
+          },
+          legend: {
+            position: 'right',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['purple', 'green']
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+
+      <h1>Exchage Rate from 2012 to 2018</h1>
+      <p>date: 2019-10-11</p>
+      <p>Introduction: This chart show the changes of Exchage rate of Dollar and Yen. It starts from 2012 and show it untill 2018. </p>
+      <p>Data: The data is borrowed from a site called 'ECOS' which has stored various data of Economics.(https://ecos.bok.or.kr/jsp/vis/keystat/#/key)</p>
+    </div>
+
+    <div id="chart_div" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px; padding-top: 50px"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+      [Professor's comments]<br><br>
+      
+      Y축 scale이 자동으로 정해진 것 같은데, Y축 scale을 0부터 시작하는 것으로 하는 것이 좋습니다. Scale을 바꾸면 misreading하게 됩니다. 즉, 작은 차이인데도 아주 큰 차이가 나는 것으로 잘못 보일 수 있습니다.<br><br>
+
+      그런데 단위 사용이 잘못되었음.2개의 line은 각각 sales와 expenses입니다. 그런데 Y축 단위가 USD, JPY로 표시되어 있네요. 둘 중 하나여야 할텐데요.
+    </div>
+  </body>
+</html>

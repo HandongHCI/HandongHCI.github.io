@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="religious.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(readFile); // (1) when the javascript is read, readFile function is launched first.
+      // (2) file is read, and the data is saved in arrayData
+      // arrayData variable is sent to the function called 'draw'
+      function readFile() {
+        filename = "data2.csv";
+        $.get(filename, function(csvString) {
+          // read a .csv file and save the data in arrayData variable
+          var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+          // send arrayData to 'draw' function
+          draw(arrayData)
+        });
+      };
+      function draw(arrayData) {
+        var data = new google.visualization.arrayToDataTable(arrayData);
+         
+        var options = {
+          title: '2015 World Religious Population Distribution(Million)',
+          legend: {
+            position: 'labeled'
+          },
+          pieSliceText: 'label',
+          slices: {  
+            0: {offset: 0.2},
+            1: {color :'green'},
+            2: {color :'orange'},
+            3: {color : 'red'},
+            4: {color : 'black',offset:0.1},
+          },
+        };
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>The number of people by religion around the world</h1>
+      <p>date: 2019-10-26</p>
+      <p>Introduction: This table shows the population and percentage of the world's religions as of 2015</p>
+      <p>Data:This data was released by the Overseas Mission Research Center in the U.S. showing the world's religious population in 2015.
+         (https://www.newsnjoy.or.kr/news/articleView.html?idxno=199255)</p>
+   <div id="piechart" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

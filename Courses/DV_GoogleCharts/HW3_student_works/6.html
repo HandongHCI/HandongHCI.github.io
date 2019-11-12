@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="jquery-csv.js"></script>
+
+    <script type="text/javascript">
+      google.charts.load('current', {
+        packages: ['corechart', 'line']
+      });
+      google.charts.setOnLoadCallback(readFile); // (1) when the javascript is read, readFile function is launched first.
+      // (2) file is read, and the data is saved in arrayData
+      // arrayData variable is sent to the function called 'draw'
+      function readFile() {
+        filename = "data6.csv";
+        $.get(filename, function(csvString) {
+          // read a .csv file and save the data in arrayData variable
+          var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+          // send arrayData to 'draw' function
+          draw(arrayData)
+        });
+      };
+      function draw(arrayData) {
+        // (3) convert arrayData into DataTable form
+        // then, the remaining process is same to the previous chart drawing assignments.
+        var data2 = new google.visualization.arrayToDataTable(arrayData);
+        
+         var options = {
+          title: 'The Number of National Assembly seats by political party of South Korea',
+          slices: { 
+                     2: {offset: 0.05},
+                     3: {offset: 0.05},
+                     4: {offset: 0.05},
+          },
+                   
+          legend: {
+           position: 'labeled'
+          }
+        }
+       
+        //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+        //chart1.draw(data1, options1);
+        var chart2 = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart2.draw(data2, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>The Number of 20th National Assembly seats by political party of South Korea</h1>
+      <p>date: 2019-11-01</p>
+      <p>Introduction: The chart shows the number of 20th national assembly seats by political party</p>
+      <p>Data: The data is from https://www.assembly.go.kr/memCond/hnumseat.do</p>
+    </div>
+    <div id="piechart" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+
+  </body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="jquery-csv.js"></script>
+	  
+    <script type="text/javascript">
+      google.charts.load('current', {
+	      'packages':['corechart','line']
+      });
+      //google.charts.setOnLoadCallback(drawChart);
+      google.charts.setOnLoadCallback(readFile); // (1) when the javascript is read, readFile function is launched first.
+ // (2) file is read, and the data is saved in arrayData
+      // arrayData variable is sent to the function called 'draw'
+      function readFile() {
+        filename = "data8.csv";
+        $.get(filename, function(csvString) {
+         // read a .csv file and save the data in arrayData variable
+          var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+          // send arrayData to 'draw' function
+          draw(arrayData)
+        });
+      };
+      function draw(arrayData) {
+	// (3) convert arrayData into DataTable form
+        var data = new google.visualization.arrayToDataTable(arrayData);
+	      
+	      
+        var options = {
+		width:900,
+		height:400,
+         	title: 'Zoo in Geumgang Natural Recreation Forest',
+		slices: {  1: {offset: 0.1}, //make exploding 4 slices
+                   	   2: {offset: 0.1},
+                           5: {offset: 0.05},
+			   3: {offset: 0.1},
+          },
+		//change colors for pie
+		colors: ['DarkGray', 'Black', 'SaddleBrown', 'LightSteelBlue', 'Goldenrod','Dimgray'],
+		pieSliceText: 'value', //make slice text and percentage together 
+		sliceVisibilityThreshold :0,
+		fontSize: 17,
+		legend: {
+		   position: 'labeled'
+		},
+		};
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1> The number of animals in Geumgang Natural Recreation Forest </h1>
+      <p>date: 2019-11-01</p>
+      <p>Introduction: This chart shows that number of animals in Zoo of Geumgang Natural Recreation Forest. You can see how many animals are there and know animal distribution in the zoo. </p>
+      <p>Data: The data indicate the number of animals held in the zoo. And the data is from 공공데이터포털 (web link: https://www.data.go.kr/dataset/15015843/fileData.do )</p>
+    </div>
+    <div id="piechart" style="max-width: 1200px; margin: auto;width: 1000px; height: 800px;"></div>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="jquery-csv.js"></script>
+
+    <script type="text/javascript">
+      google.charts.load('current', {
+        packages: ['corechart', 'line']
+      });
+      google.charts.setOnLoadCallback(readFile); // (1) when the javascript is read, readFile function is launched first.
+      // (2) file is read, and the data is saved in arrayData
+      // arrayData variable is sent to the function called 'draw'
+      function readFile() {
+        filename = "data5.csv";
+        $.get(filename, function(csvString) {
+          // read a .csv file and save the data in arrayData variable
+          var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+          // send arrayData to 'draw' function
+          drawChart(arrayData)
+        });
+      };
+      
+      function drawChart(arrayData) {
+        var data = new google.visualization.arrayToDataTable(arrayData);
+        
+        var options = {
+          title: 'Ratio of Foreigners in Korea',
+          slices: { 4: {offset: 0.3},
+                   2: {color: "blue"}},
+          pieSliceText: 'none',
+          legend: {
+            position: 'labeled'
+          }
+        };
+        
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Foreigners living in Korea</h1>
+      <p>date: 2019-10-30</p>
+      <p>Introduction: This chart shows the ratio of foreigners living in Korea</p>
+      <p>Data: The data is derived from Ministry of Justice. Republic of Korea</p>
+      <p>Source code of this page: https://github.com/yoonyire/data-visualization/tree/master/piechart<p>
+    </div>
+    
+  <div id="piechart" style="maxsidth: 1500px; width: 1000px; height: 800px;"></div>
+
+  </body>
+</html>

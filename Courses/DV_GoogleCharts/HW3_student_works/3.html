@@ -6,14 +6,14 @@
     <script src="jquery-csv.js"></script>
 
     <script type="text/javascript">
-      google.charts.load('current', {packages: ['corechart', 'line']});
+      google.charts.load('current', {
+        packages: ['corechart', 'line']
+      });
       google.charts.setOnLoadCallback(readFile); // (1) when the javascript is read, readFile function is launched first.
-
-
       // (2) file is read, and the data is saved in arrayData
       // arrayData variable is sent to the function called 'draw'
       function readFile() {
-        filename = "data.csv";
+        filename = "data3.csv";
         $.get(filename, function(csvString) {
           // read a .csv file and save the data in arrayData variable
           var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
@@ -21,70 +21,43 @@
           draw(arrayData)
         });
       };
-
       function draw(arrayData) {
         // (3) convert arrayData into DataTable form
         // then, the remaining process is same to the previous chart drawing assignments.
         var data2 = new google.visualization.arrayToDataTable(arrayData);
-
         var options2 = {
-          title: 'birth rate of country A and B',
+          title: 'What eye colors do comic heroes have?',
           titleTextStyle: {
             color: 'black',
             fontSize: 40,
             fontName: 'Arial'
           },
-          hAxis: {
-            title: 'Year',
-            titleTextStyle: {
-              fontSize: 15,
-              fontName: 'Arial',
-              italic: false
-            },
-          },
-          vAxis: {
-            title: 'birth rate',
-            titleTextStyle: {
-              fontSize: 15,
-              fontName: 'Arial',
-              italic: false
-            },
-          },
-          animation: {
-            duration: 5000, // 1000 ms = 1 s
-            startup: true,
-            easing: 'out'
-          },
-          annotations: {
-            boxStyle: {
-              // Color of the box outline.
-              //stroke: '#888',
-              // Thickness of the box outline.
-              strokeWidth: 1,
-              // x-radius of the corner curvature.
-              rx: 10,
-              // y-radius of the corner curvature.
-              ry: 10
-            }
-          },
+          pieSliceText: 'value',
           legend: {
-            position: 'bottom',
+            position: 'labeled',
             textStyle: {
               fontSize: 20
             }
-          },
-          colors: ['green', 'red']
+          },        
+          slices: {  1: {offset: 0.2},
+                      3: {offset: 0.3},
+                      4: {offset: 0.3},
+                      },
+          colors: ['blue', 'black', 'brown', 'green', 'grey', 'red', 'yellow', '#d0db9e'],
+          pieHole: 0.4
         };
-        //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
-        //chart1.draw(data1, options1);
-        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        var chart2 = new google.visualization.PieChart(document.getElementById('chart_div2'));
         chart2.draw(data2, options2);
       }
     </script>
   </head>
   <body>
-    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
-      <h1>jquery-csv example</h1>
+     <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>Various Eye Colors of Comic Heroes</h1>
+      <p>date: 2019-10-30</p>
+      <p>Introduction: This chart shows what colors do comic heroes have.      
+      </p>
+      <p>Data: The data is from comic.csv which I used in last semester's class.</p>
     </div>
     <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
     <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">

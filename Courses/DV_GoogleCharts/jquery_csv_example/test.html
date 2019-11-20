@@ -27,7 +27,10 @@
       function drawRegionsMap(arrayData) {
         var data = google.visualization.arrayToDataTable(arrayData);
 
-        var options = {};
+        var options = {
+          region: 'KR'
+          colorAxis: {colors: ['red', 'green']}
+        };
 
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
 

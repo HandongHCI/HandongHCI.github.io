@@ -19,14 +19,16 @@
           // read a .csv file and save the data in arrayData variable
           var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
           // send arrayData to 'draw' function
-          drawRegionsMap(arrayData)
+          drawChart(arrayData)
         });
       };
 
-      function drawRegionsMap(arrayData) {
+      function drawChart(arrayData) {
         var data = google.visualization.arrayToDataTable(arrayData);
 
         var options = {
+          showTooltip: true,
+          showInfoWindow: true
         };
 
         var chart = new google.visualization.Map(document.getElementById('chart_div'));

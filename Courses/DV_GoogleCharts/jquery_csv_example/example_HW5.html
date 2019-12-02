@@ -27,11 +27,12 @@
         var data = google.visualization.arrayToDataTable(arrayData);
 
         var options = {
-          mapType: 'terrain',
           zoomLevel: 6,
           showTooltip: true,
           showInfoWindow: true,
-          useMapTypeControl: true
+          useMapTypeControl: true,
+          mapType: 'terrain',
+          mapTypeIds: {'normal', 'terrain', 'satellite', 'hybrid'},
         };
 
         var chart = new google.visualization.Map(document.getElementById('chart_div'));

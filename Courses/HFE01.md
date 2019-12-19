@@ -1,6 +1,6 @@
-[← go back to the list](README.md)
+[← go back to the course main](README.md)
 
-## Human Factors and Ergonomics
+## Human Factors and Ergonomics (SIT22008)
 
 ### 1. Introduction to HF/E
 

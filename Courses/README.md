@@ -24,7 +24,7 @@
 
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)
-- [Materials - Videos realted to PPD](PPD_Videos.md)
+- [Materials - Videos related to PPD](PPD_Videos.md)
 - [Materials - 2019-2 Smart City](PPD_SmartCity.md)
 
 ### Seminars

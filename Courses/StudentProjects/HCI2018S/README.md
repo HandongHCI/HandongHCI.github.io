@@ -1,4 +1,4 @@
-[← go back to the main page](../README.md)
+[← go back to the course page](../../README.md)
 
 ### Student Projects in 2018
 - [Interactive Web Design](InteractiveWeb)
@@ -6,6 +6,3 @@
 - [IoT](IoT)
 - [Drone](Drone)
 - [Smart Mirror](SmartMirror)
-
-<br><br><br>
-[← go back to the main page](https://HandongHCI.github.io/)

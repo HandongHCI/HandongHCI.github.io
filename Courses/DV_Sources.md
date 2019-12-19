@@ -18,7 +18,7 @@
 - [Report about Open Government Data](https://eiuperspectives.economist.com/sites/default/files/Open_Government_Data.pdf)
 
 ### Sample Data
-- by countries
+- Open Data service by countries
 	- [South Korea](https://www.data.go.kr)
 	- [Argentina](https://datos.gob.ar/)
 	- [Australia](https://data.gov.au/)

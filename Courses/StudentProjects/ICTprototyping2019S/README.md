@@ -1,4 +1,4 @@
-[← go back to the main page](../README.md)
+[← go back to the course page](../../README.md)
 
 ### Student Projects in 2019
 공통 주제: 미세먼지 측정 및 알람 시스템(하드웨어 & 소프트웨어)
@@ -9,7 +9,3 @@
 - [Team 5. Watch Dust!](Team5)
 - [Team 6. 홀로그램 디스플레이](Team6)
 - [Team 7. 스노우볼 & 마이크로 가드](Team7)
-
-
-<br><br><br>
-[← go back to the main page](https://HandongHCI.github.io/)

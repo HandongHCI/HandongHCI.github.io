@@ -20,12 +20,12 @@
 
 ### Data Visualization (SIT42001)
 - [Introduction](DV00.md)
-- [Video Lectures & Assignments](DV_Sources.md)
+- [Video Lectures & Useful Metarials](DV_Sources.md)
 
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)
-- [Materials - Smart City](PPD_SmartCity.md)
 - [Materials - Videos realted to PPD](PPD_Videos.md)
+- [Materials - 2019-2 Smart City](PPD_SmartCity.md)
 
 ### Seminars
 - *(not prepared yet)*

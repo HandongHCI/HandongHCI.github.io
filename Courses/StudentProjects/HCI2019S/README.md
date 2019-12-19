@@ -1,4 +1,4 @@
-[← go back to the main page](../README.md)
+[← go back to the course page](../../README.md)
 
 ### Student Projects in 2019
 - [Team 1.1 War Game (Leap Motion, Unity)](LeapMotionWarGame)
@@ -11,7 +11,3 @@
 - [Team 2.3 Conducting Learning Game (Leap Motion, Scratch)](LeapMotionConducting)
 - [Team 2.4 Baby Sleeping Monitor (MindWave, Hue)](MindWave)
 - [Team 2.5 Cafe Recipe Memorize Game (Leap Motion, Scratch)](LeapMotionBarista)
-
-
-<br><br><br>
-[← go back to the main page](https://HandongHCI.github.io/)

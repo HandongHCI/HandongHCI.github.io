@@ -20,11 +20,6 @@ CHI 2013	https://www.youtube.com/watch?v=eFavrbJQud8
 
 **B. Interesting HCI Products**
 
-Mudesign Bearbot	https://www.youtube.com/watch?v=iOIjWCySXvQ
-New Sony Aibo	https://www.youtube.com/watch?v=oGo0TwNXXuo
-Phree	https://www.youtube.com/watch?v=tuY_TYqiasU
-SmartHalo	https://www.youtube.com/watch?v=sZa24fzMJC8
-
 more more more
 
 
@@ -35,3 +30,11 @@ more more more
 
 
 #### List of Video Lectures
+- [1. Introduction to HCI](HCI01.md)
+- **2. Examples of HCI Application**
+- [3. Home & Human Life](HCI03.md)
+- [4. Health & Safety](HCI04.md)
+- [5. Education](HCI05.md)
+- [6. Smart City](HCI06.md)
+- [7. Transportation](HCI07.md)
+- [8. Ethics and Philosophies](HCI08.md)

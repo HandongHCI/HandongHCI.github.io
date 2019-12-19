@@ -26,8 +26,9 @@
 - other videos/materials
 	- [Brief Introduciton to HCI](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)
 
+<br><br><br>
 
-**B. HCI Technologies (Lecture by GeorgiaTech in Udacity)**
+**B. HCI Technologies ([Lecture by GeorgiaTech in Udacity](https://classroom.udacity.com/courses/ud400/))**
 
 - HCI Technologies: Virtual Reality
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/N114LH_-ST0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -44,8 +45,9 @@
 - HCI Technologies: Mobile
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/U0esvuKopfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<br><br><br>
 
-**C. Related Domains of HCI (Lecture by GeorgiaTech in Udacity)**
+**C. Related Domains of HCI ([Lecture by GeorgiaTech in Udacity](https://classroom.udacity.com/courses/ud400/))**
 
 - HCI Domains: Example 1. Special Needs
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/qgv3IEyOJyo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -70,11 +72,10 @@
 
 #### List of Video Lectures
 - **1. Introduction to HCI**
-- [2-1. ](HCI02_1.md)
-- [2-2. ](HCI02_2.md)
-- [3-1. ](HCI03_1.md)
-- [3-2. ](HCI03_2.md)
-- [4-1. ](HCI04_1.md)
-- [4-2. ](HCI04_2.md)
-- [5-1. ](HCI05_1.md)
-- [5-2. ](HCI05_2.md)
+- [2. Examples of HCI Application](HCI02.md)
+- [3. Home & Human Life](HCI03.md)
+- [4. Health & Safety](HCI04.md)
+- [5. Education](HCI05.md)
+- [6. Smart City](HCI06.md)
+- [7. Transportation](HCI07.md)
+- [8. Ethics and Philosophies](HCI08.md)

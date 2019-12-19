@@ -31,7 +31,7 @@
 - *(not prepared yet)*
 
 ## Course Materials
-All the course materials of Prof. Lee's classes are shared through his Google Drive: [http://tiny.cc/HandongHCI](http://tiny.cc/HandongHCI).
+- All lecturing materials of Prof. Lee's courses are shared through his Google Drive: [http://tiny.cc/HandongHCI](http://tiny.cc/HandongHCI).
 
 ## Student Projects
 - [HCI 2018S](StudentProjects/HCI2018S/README.md)

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="jquery-csv.js"></script>
+
+    <script type="text/javascript">
+      google.charts.load('current', {
+        packages: ['corechart', 'line']
+      });
+      //google.charts.setOnLoadCallback();
+
+      function selectFile() {
+        if (!window.File || !window.FileReader || !window.FileList || !window.Blob) {
+          alert('The File APIs are not fully supported in this browser.');
+          return;
+        }
+
+        input = document.getElementById('findfile');
+        if (!input) {
+          alert("cannot find any file");
+        }
+        else if (!input.files) {
+          alert("This browser doesn't seem to support the `files` property of file inputs.");
+        }
+        else if (!input.files[0]) {
+          alert("Please select a file before clicking 'Load'");
+        }
+        else {
+          var file = input.files[0];
+          var fr = new FileReader();
+          fr.onload = function() {
+            document.getElementById('chart_div2').appendChild(document.createTextNode(fr.result));
+            var csvString = event.target.result;
+            var arrayData = $.csv.toArrays(csvString);
+            draw(arrayData);
+          }
+          fr.readAsDataURL(file);
+        }
+      }
+
+
+      function draw(arrayData) {
+        var data2 = new google.visualization.arrayToDataTable(arrayData);
+
+        var options2 = {
+          title: 'birth rate of country A and B',
+          titleTextStyle: {
+            color: 'black',
+            fontSize: 40,
+            fontName: 'Arial'
+          },
+          hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+              fontSize: 15,
+              fontName: 'Arial',
+              italic: false
+            },
+          },
+          vAxis: {
+            title: 'birth rate',
+            titleTextStyle: {
+              fontSize: 15,
+              fontName: 'Arial',
+              italic: false
+            },
+          },
+          animation: {
+            duration: 5000, // 1000 ms = 1 s
+            startup: true,
+            easing: 'out'
+          },
+          annotations: {
+            boxStyle: {
+              // Color of the box outline.
+              //stroke: '#888',
+              // Thickness of the box outline.
+              strokeWidth: 1,
+              // x-radius of the corner curvature.
+              rx: 10,
+              // y-radius of the corner curvature.
+              ry: 10
+            }
+          },
+          legend: {
+            position: 'bottom',
+            textStyle: {
+              fontSize: 20
+            }
+          },
+          colors: ['green', 'red']
+        };
+        //var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+        //chart1.draw(data1, options1);
+        var chart2 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+        chart2.draw(data2, options2);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="introduction" style="max-width: 800px; font-family: Verdana, Dotum; margin: auto; padding-bottom: 30px">
+      <h1>jquery-csv example</h1>
+    </div>
+    <div><input type="file" id="findfile"><input type="button" id="upload" value="Upload" onclick="selectFile()"></div>
+    <div id="chart_div2" style="max-width: 1200px; margin: auto; width: 1200px; height: 500px;"></div>
+    <div style="max-width: 800px; margin: auto; margin-top: 50px; width: 800px">
+    </div>
+
+  </body>
+</html>

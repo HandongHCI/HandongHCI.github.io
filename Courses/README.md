@@ -29,3 +29,11 @@
 
 ### Seminars
 - *(not prepared yet)*
+
+## Course Materials
+All the course materials of Prof. Lee's classes are shared through his Google Drive: [http://tiny.cc/HandongHCI](http://tiny.cc/HandongHCI).
+
+## Student Projects
+- [HCI 2018S](StudentProjects/HCI2018S/README.md)
+- [HCI 2019S](StudentProjects/HCI2019S/README.md)
+- [ICT Prototyping 2019S](StudentProjects/ICTprototyping2019S/README.md)

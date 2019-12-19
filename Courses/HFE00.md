@@ -1,6 +1,7 @@
 [← go back to the list](README.md)
 
-## Human Factors and Ergonomics (SIT22008) - Syllabus
+## Human Factors and Ergonomics (SIT22008) - General Syllabus
+This general syllabus is not year-specific. The course-takers should find the syllabus of the year in the intranet of HGU.
 
 ### Course Introduction
 This course will provide essential knowledge related to the physical, cognitive, and emotional characteristics of the human, also hands-on practices regarding measuring, analysis, and application of those human characteristics in product design.

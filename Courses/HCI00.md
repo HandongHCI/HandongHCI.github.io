@@ -145,11 +145,10 @@ All lecturing materials of Prof. Lee’s courses are shared through [his Google 
 
 ### Online Videos
 - [1. Introduction to HCI](HCI01.md)
-- [2-1. ](HCI02_1.md)
-- [2-2. ](HCI02_2.md)
-- [3-1. ](HCI03_1.md)
-- [3-2. ](HCI03_2.md)
-- [4-1. ](HCI04_1.md)
-- [4-2. ](HCI04_2.md)
-- [5-1. ](HCI05_1.md)
-- [5-2. ](HCI05_2.md)
+- [2. Examples of HCI Application](HCI02.md)
+- [3. Home & Human Life](HCI03_1.md)
+- [4. Health & Safety](HCI03_2.md)
+- [5. Education](HCI04_1.md)
+- [6. Smart City](HCI04_2.md)
+- [7. Transportation](HCI05_1.md)
+- [8. Ethics and Philosophies](HCI05_2.md)

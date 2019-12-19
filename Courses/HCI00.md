@@ -1,12 +1,12 @@
 [← go back to the list](README.md)
 
-## Human Factors and Ergonomics (SIT22008) - General Syllabus
+## Human-Computer Interaction (SIT32002) - General Syllabus
 This general syllabus is not year-specific. The course-takers should find the syllabus of the year in the intranet of HGU.
 
 ### Course Introduction
-This course will provide essential knowledge related to the physical, cognitive, and emotional characteristics of the human, also hands-on practices regarding measuring, analysis, and application of those human characteristics in product design.
+This course will give a broad understanding of the human, computer, and interactions between the human and computer; and provide practical experiences in such as planning, user-friendly design, prototyping, engineering analysis, and usability evaluation to implementing an HCI application.
 
-This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule.
+This course consists of 24 classe sessions (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD), then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule.
 
 ##### PPD sessions
 The PPD (Practice, Project, and Discussion) session is the essential concept of this course. Every week, students MUST take assigned online lectures (about 60-to-70-minute-length per week) and write an essay before they come to the class. In class, students will learn specific theories by practicing and discussing in groups. Also, students will participate in one project through the full course schedule (about three months). Students will participate in their team project once every week under the supervision of the professor. The designated activities regarding the project that are not completed in class time should be done as homework.
@@ -15,32 +15,26 @@ The PPD (Practice, Project, and Discussion) session is the essential concept of 
 Total of 600 min (eight-class amount) of videos will be provided through Prof. Lee's GitHub Page: [https://handonghci.github.io/Courses/](https://handonghci.github.io/Courses/).
 
 #### Course Objectives
-Upon completion of the course, students will
-- understand of physical, cognitive, and emotional characteristics of human;
-- know how to measure human characteristics and analyze it;
-- experience how to apply measured/analyzed human characteristics in product design through in-class practices/discussion and team project;
-- and consider the usability and human-centered design which can help a broad range of people including children, elderly, disabled, and other minorities.
-
-#### Learning Outcomes
 Upon completion of the course, students will be able to
-- find user-unfriendly designs around us and have feasible ideas on how to resolve or revise it to help people and society healthy and sound;
-- explain how human physical, cognitive, emotional characteristics can be applied in ergonomic/human-friendly product design and development;
-- discuss practical issues on how human-centric values can be considered in the product development process;
-- and have broader views such as team working, interdisciplinary collaboration, and ethical issues that should be considered in the ergonomic and human-friendly product development.
+- explain the characteristics of each of the human, computer, and interaction with the perspective as HCI designer/engineer;
+- describe HCI knowledge and principles in computer/mobile/web interactions as well as physical interactions;
+- apply HCI design principles and design guidelines in a design process to develop a human-centered HCI system;
+- identify and analyze user needs, socio-environmental issues, and stakeholders' requirements in different HCI domains;
+- and as an HCI practitioner, discuss HCI-related issues (e.g., ethical issues, social issues) in different HCI domains.
 
 #### Assignments and Exams
 - Individual assignments: 10 essay writings
 - Group assignments: progress reports for the team project
 - Examination
-	- Mid-term exam (around W5 and W6)
-	- Final-term exam (around W12 and W13)
+	- Mid-term exam (around W7 until W9)
+	- Final-term exam (around W13 until W16)
 	- Both mid-term and final-term exams are the essay-styled take-home exam with about 7+ days period.
 - See "Assignmetns and Grading" below for more information
 
 ### Teaching Philosophy
 
 #### Role of Professor
-To say about the knowledge, there are different types: (1) information as common knowledge, (2) knowledge earned by understanding, (3) **empirical knowledge gained by experience**, (4) skills, (5) meta-knowledge, et cetera. The information or common knowledge that are a lot shared and distributed through various internet media such as blogs, news, and YouTube are not focused to care in this course. Re-providing that easily-findable knowledge in a classroom is not meaningful as high-level education in the university. Also, delivering a huge amount of information (even that is necessary for the coursework) by a lecturer in the small classroom is almost impossible as well as an inefficient way of information delivery. Instead, earning **in-depth and empirical knowledge (by hands-on experiences through discussion, practice, writing, and projects)** that cannot be easily acquired from the internet media should be majorly offered by professional tutoring in the classroom.
+To say about the knowledge, there are different types: (1) information as common knowledge, (2) knowledge earned by understanding, (3) **empirical knowledge gained by experience**, (4) skills, (5) meta-knowledge, et cetera. The information or common knowledge that are shared and distributed through various internet media such as blogs, news, and YouTube are not focused to care in this course. Re-providing that easily-findable knowledge in a classroom is not meaningful as high-level education in the university. Also, delivering a huge amount of information (even that is necessary for the coursework) by a lecturer in the small classroom is almost impossible as well as an inefficient way of information delivery. Instead, earning **in-depth and empirical knowledge (by hands-on experiences through discussion, practice, writing, and projects)** that cannot be easily acquired from the internet media should be majorly offered by professional tutoring in the classroom.
 
 The role of the professor in this course is a **facilitator** or **tutor**, not just a lecturer. As the **facilitator**, I guide students to know what to see and where to find any necessary knowledge about the course contents. I spend a lot of hours to carefully select 600 minutes of essential YouTube videos (and other media sources) that are informative, visually well-made, delivering meaningful knowledge, appropriate in the level of knowledge depth, and interesting not that boring. My role is to give meaningful questions that can be solved through critical, creative, and collaborative thinking, also to provide good reference information to expand students' knowledge and understanding. Then, during class time, I will guide students to earn sufficient experient by discussion, practice, project activities, and other hands-on experiences. As a **tutor**, I'd like to know each of my student in person through various channels so that I sincerely hope to communicate with each of them to make his/her study successfully finished through the semester.
 
@@ -55,11 +49,11 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 
 ### Assignments
 
-#### Essay writing
+#### Essay Writing
 
 ##### Philosophy of essay writing
-- The essay writing is aimed to help students to have clear understandings and ideas regarding human factors and ergonomics topics delivered through the course.
-- The essay is NOT a report or a summary of knowledge. The essay, just like a diary, is to **express students' thoughts, ideas, opinions, arguments, discussion, agreements, or critiques** in non-strict writing styles or formats. There's NO answer for the essay topics, but essays will be evaluated by the professor in terms of such as **clarity of opinion, rationality of argument, creativity about new ideas, depth of own philosophy about the topic, and so forth**.
+- The essay writing is aimed to help students to have clear understandings and ideas regarding HCI topics delivered through the course.
+- The essay is NOT a report or a summary of knowledge. The essay, just like a diary, is to **express students' thoughts, ideas, opinions, arguments, discussion, agreements, or critiques** in non-strict writing styles or formats. There's NO answer for the essay topics, but the essays will be evaluated by the professor in terms of such as **clarity of opinion, rationality of argument, creativity about new ideas, depth of own philosophy about the topic, and so forth**.
 - For your understanding about my education philosophy on the essay writing, I share this [세바시 talk](https://www.youtube.com/watch?v=QYt1-Z12K2E), which is spoken in Korean. Note that I will not use the peer evaluation concept introduced in this video.
 
 ##### Writing Guideline
@@ -67,7 +61,7 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 	- Font: Batang & Times New Roman
 	- Font size: 12 pt.
 	- Line height: 1.5
-- **Do NOT put your name or student ID**. Due to the open source policy of this course, some of selected essays will be anonymously (without including the name and student-ID of the author) shared to public through the Google Drive.
+- Do NOT put your name or student ID. Due to the open source policy of this course, some of selected essays will be anonymously (without including the name and student-ID of the author) shared to public through the Google Drive.
 - Putting any own sketches or drawings are highly recommended.
 - Minimum requirements
 	- Number of pages: minimum of TWO A4 pages
@@ -130,7 +124,7 @@ Attendance is the right of students as they paid for their learning, not a respo
 	- Final presentation (5%)
 
 ### Schedule
-See the syllabus shared via Hisnet or [HERE](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
+See the syllabus shared via Hisnet or [HERE](https://docs.google.com/document/d/1aErjglM7GYZ8JJVtCbr4ruZk-NEyu5WIujvh40QG_1M/edit#heading=h.60q51x48dpm1)
 
 ### Miscellaneous
 
@@ -138,7 +132,7 @@ See the syllabus shared via Hisnet or [HERE](https://docs.google.com/document/d/
 All lecturing materials of Prof. Lee’s courses are shared through [his Google Drive](http://tiny.cc/HandongHCI).
 
 #### Extended Syllabus (full version)
-- [Visit HERE](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
+- [Visit HERE](https://docs.google.com/document/d/1aErjglM7GYZ8JJVtCbr4ruZk-NEyu5WIujvh40QG_1M/edit#heading=h.60q51x48dpm1)
 
 #### How to use LMS?
 - Go to our LMS system (http://lms.handong.edu/). Click “마이페이지” at the right-top corner. Log-in using the Hisnet ID (ID: student number)
@@ -148,13 +142,14 @@ All lecturing materials of Prof. Lee’s courses are shared through [his Google 
 - The course schedule can be adjusted by considering an overall schedule of the semester (e.g., mid-term period, festival, ...), the professor's schedule, and/or students' needs.
 - The freshman and 2nd grade students are not allowed to take this course if he/she doesn't have sufficient coding skills.
 
+
 ### Online Videos
-- [1. Introduction to HF/E](HFE01.md)
-- [2-1. Physical Ergonomics I](HFE02_1.md): Biomechanics
-- [2-2. Physical Ergonomics II](HFE02_2.md): Anthropometry, ergonomics at workplace, virtual ergonomics
-- [3-1. Cognitive Ergonomics I](HFE03_1.md): Information Processing Model
-- [3-2. Cognitive Ergonomics II](HFE03_2.md): Fight or flight response, human error, cognitive training
-- [4-1. Emotional Ergonomics I](HFE04_1.md): Emotional Design
-- [4-2. Emotional Ergonomics II](HFE04_2.md): Emotional Engineering, Measurement of Human Emotion
-- [5-1. Usability Engineering I](HFE05_1.md): User-Centered Design Principles
-- [5-2. Usability Engineering II](HFE05_2.md): Usability Evaluation, Build-Measure-Learn
+- [1. Introduction to HCI](HCI01.md)
+- [2-1. ](HCI02_1.md)
+- [2-2. ](HCI02_2.md)
+- [3-1. ](HCI03_1.md)
+- [3-2. ](HCI03_2.md)
+- [4-1. ](HCI04_1.md)
+- [4-2. ](HCI04_2.md)
+- [5-1. ](HCI05_1.md)
+- [5-2. ](HCI05_2.md)

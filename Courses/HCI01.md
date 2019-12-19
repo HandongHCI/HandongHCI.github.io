@@ -64,17 +64,17 @@
 
 
 #### Assignments
-- Find related essay topic from [Here](HFE_Essays.md).
-- NOTE. Another required assignments can be noticed, but not updated in this site. Please always check LMS.handong.edu.
+- Find related essay topic from [Here](HCI_Essays.md).
+- NOTE. The assignment topic might be changed during the semester but not updated in this site. Please always check LMS.handong.edu.
 
 
 #### List of Video Lectures
-- **1. Introduction to HF/E**
-- [2-1. Physical Ergonomics I](HFE02_1.md): Biomechanics
-- [2-2. Physical Ergonomics II](HFE02_2.md): Anthropometry, ergonomics at workplace, virtual ergonomics
-- [3-1. Cognitive Ergonomics I](HFE03_1.md): Information Processing Model
-- [3-2. Cognitive Ergonomics II](HFE03_2.md): Fight or flight response, human error, cognitive training
-- [4-1. Emotional Ergonomics I](HFE04_1.md): Emotional Design
-- [4-2. Emotional Ergonomics II](HFE04_2.md): Emotional Engineering, Measurement of Human Emotion
-- [5-1. Usability Engineering I](HFE05_1.md): User-Centered Design Principles
-- [5-2. Usability Engineering II](HFE05_2.md): Usability Evaluation, Build-Measure-Learn
+- **1. Introduction to HCI**
+- [2-1. ](HCI02_1.md)
+- [2-2. ](HCI02_2.md)
+- [3-1. ](HCI03_1.md)
+- [3-2. ](HCI03_2.md)
+- [4-1. ](HCI04_1.md)
+- [4-2. ](HCI04_2.md)
+- [5-1. ](HCI05_1.md)
+- [5-2. ](HCI05_2.md)

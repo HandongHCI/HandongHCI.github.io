@@ -4,9 +4,9 @@
 (last update: 3 July 2019)
 
 ### Announcement
-- This essay topics might be changed over time, but not updated in this site yet.
-- **Due date for each essay assignment** will be noticed in the LMS ([lms.handong.edu](https://lms.handong.edu)).
-- Therefore, please double-check the LMS.
+- The essay topics might be changed over time, but not be updated in this site yet.
+- Therefore, please **double-check the LMS**.
+- **Due date** for each essay assignment will be noticed in the LMS ([lms.handong.edu](https://lms.handong.edu)).
 
 ### General Guidelines for Writers
 - Find guidelines about the essay writing from [here](HFE00.md#philosophy-about-essay-writing).

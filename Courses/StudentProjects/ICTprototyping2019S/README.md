@@ -1,6 +1,6 @@
 [← go back to the course page](../../README.md)
 
-### Student Projects in 2019
+### Student Projects in ICT Prototyping Course in 2019S
 공통 주제: 미세먼지 측정 및 알람 시스템(하드웨어 & 소프트웨어)
 - [Team 1. PMD](Team1)
 - [Team 2. 미세먼지 신호등](Team2)

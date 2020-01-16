@@ -1,0 +1,350 @@
+<!doctype html>
+<!--https://www.free-css.com/free-css-templates/page242/stacked -->
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Steam Data Visualization</title>
+<!--
+Stacked Template
+http://www.templatemo.com/tm-505-stacked
+-->
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/templatemo-style.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <nav class="nav">
+          <div class="burger">
+            <div class="burger__patty"></div>
+          </div>
+
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a href="#1" class="nav__link c-blue"><img src="img/home-icon.png" alt=""></a>
+            </li>
+            <li class="nav__item">
+              <a href="#2" class="nav__link c-yellow scrolly"><img src="img/about-icon.png" alt=""></a>
+            </li>
+            <li class="nav__item">
+              <a href="#3" class="nav__link c-red"><img src="img/chart.png" alt=""></a>
+            </li>
+            <li class="nav__item">
+              <a href="#4" class="nav__link c-green"><img src="img/wordtree.png" alt=""></a>
+            </li>
+            <li class="nav__item">
+              <a href="#5" class="nav__link c-green"><img src="img/wordclouds.png" alt=""></a>
+            </li>
+          </ul>
+        </nav>
+
+        <section class="panel b-blue" id="1">
+          <article class="panel__wrapper">
+            <div class="panel__content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="home-content">
+                      <div class="home-heading">
+                        <h1><em>Steam</em> Data_visualization</h1>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+                          <div class="home-box-content">
+                            <div class="left-text">
+                              <h4>New <em>Stacked</em> Template</h4>
+                              <p> 21300387 Son Chan Woo <br>
+                                21400488 Yoon Yi re <br>
+                                21500876 Hye Seong Hong <br>
+                                21700253 Park Gee Beum
+                                </p>
+                              <div class="primary-button">
+                                <a href="#2">Discover More</a>
+                              </div>
+                            </div>
+                            <div class="right-image">
+                              <img src="img/steam.png" alt="" width = "200px" height="">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="panel b-yellow" id="2">
+          <article class="panel__wrapper">
+            <div class="panel__content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="about-content">
+                      <div class="heading">
+                        <h4>About Our Project</h4><br>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+                          <div class="text-content">
+                                  <font color="white" fontsize=14><p> 이 프로젝트의 목적은 SteamSpy 데이터를 활용하여 게임 개발자와 분석가들에게 도움이 되기 위함입니다. <br>
+                                </p></font>
+                                <font color="white" fontsize=14><p> 목차 <br>
+                          1. Data Analysis: SteamSpy 데이터셋 시각화<br>
+                          2. Word Tree: Steam 게임들의 장르 조합을 시각화한 차트 <br>
+                          3. Word Cloud: 선별된 게임들의 댓글을 사용한 word cloud
+                                </p></font>
+                          </div>
+                        </div>
+                        <div class="col-md-7 col-md-offset-5">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="panel b-yellow" id="3">
+          <article class="panel__wrapper">
+            <div class="panel__content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="about-content">
+                      <div class="heading">
+                        <h4>Data Analysis</h4><br>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+                          <div class="text-content">
+                                  <font font color="white" fontsize=14><p> 해당 섹션은 SteamSpy 데이터셋을 shinyr로 구현하여 사용자가 선택에 따라 결과가 달라지는 인터렉티브한 시각화를 보여준다.<br>
+                                      <li>"통계요약" 탭: 출시 빈도, 좋아요/싫어요 비율, 예상매출량을 통해 시장 전체의 현황, 트랜드를 파악할 수 있다.</li>
+                                      <li>"추천분석" 탭: 자신이 만들고 싶은 컨셉을 고르면 해당 컨셉들을 골고루 가지고 있는 유사 게임을 보여주어, 기존 시장을 벤치마킹 또는 경쟁분석을 할 수 있도록 장려한다.<li>
+                                </p></font>
+                                <!-- <font color="white" fontsize=14><p> Contents <br>
+                          1. About data: summary of SteamSpy data.<br>
+                          2. Genre Relationship: word tree to show the combination of geners. <br>
+                          3. Word Clouds: Word clouds of Positive and Negative comments of selected games and <br>
+                             tables of comments of selected games
+                                </p></font> -->
+                          </div>
+                        </div>
+                        <div class="col-md-7 col-md-offset-5">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="panel b-green">
+          <iframe src="https://gagip.shinyapps.io/Steam/?transparent=0" height="700" width="1000" style="-webkit-transform:scale(0.8); -moz-transform:scale(0.8); background-color:white;"></iframe>
+        </section>
+        <section class="panel b-yellow" id="4">
+          <article class="panel__wrapper">
+            <div class="panel__content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="about-content">
+                      <div class="heading">
+                        <h4>Word Tree</h4><br>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+                          <div class="text-content">
+                                  <font color="white" fontsize=14><p> 장르의 조합을 한눈에 알아보기 위한 방법으로 구글차트에서 제공하는 Word Tree를 이용하였다. <br>
+                                    이 차트를 통하여 각 장르가 어떤 장르와 자주 조합이 되는지를 확인 할 수 있다.<br>
+                                    Word Tree에서 원하는 장르를 클릭하면 그 장르는 기준으로 차트가 그려진다.
+                                <!-- </p></font>
+                                <font color="white" fontsize=14><p> Contents <br>
+                          1. About data: summary of SteamSpy data.<br>
+                          2. Renre Relationship: word chart of the combination of geners. <br>
+                          3. Word Clouds: Word clouds of Positive and Negative comments of selected games <br>
+                                </p></font> -->
+                          </div>
+                        </div>
+                        <div class="col-md-7 col-md-offset-5">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="panel b-green">
+          <iframe src="https://yoonyire.github.io/data-visualization/word/word.html?transparent=0" height="700" width="1000" style="-webkit-transform:scale(0.8); -moz-transform:scale(0.8);background-color:white;"></iframe>
+        </section>
+        <section class="panel b-yellow" id="5">
+          <article class="panel__wrapper">
+            <div class="panel__content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="about-content">
+                      <div class="heading">
+                        <h4>Word Clouds</h4><br>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+                          <div class="text-content">
+                                  <font color="white" fontsize=14><p> Steam에서 게임에 관한 댓글들을 Crawling 하여 긍정과 부정의 댓글을 나누어 Word cloud를 만들었다.<br>
+                                  Word cloud로 만든 게임들은 총 8개로 5개는 word tree를 기반으로 나머지 2개는 특이점이 관찰된 게임으로 선정하였다.<br>
+                                  게임 선정의 기준은 word tree에서 5개의 장르를 기준으로 가장 빈도수가 높은 2개의 연관 장르를 확인하고 그 장르의 게임들 중 가장 높은 순위에 있는 게임을 선택하였다.<br>
+                                   <!-- 선택된 게임은 다음과 같다.
+                                   1.Tom Clancy's The Division: Action<br>
+                                   2. Counter Strike: word chart of the combination of geners. <br>
+                                   3. 7 Days to die: Word clouds of Positive and Negative comments of selected games <br> -->
+                                </p></font>
+                                <!-- <font color="white" fontsize=14><p> Contents <br>
+                          1. About data: summary of SteamSpy data.<br>
+                          2. Renre Relationship: word chart of the combination of geners. <br>
+                          3. Word Clouds: Word clouds of Positive and Negative comments of selected games <br>
+                                </p></font> -->
+                          </div>
+                        </div>
+                        <div class="col-md-7 col-md-offset-5">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="panel b-red">
+          <article class="panel__wrapper">
+            <div class="panel__content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="projects-content">
+                      <div class="heading">
+                        <h4>Word Clouds</h4>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-14">
+                          <div class="owl-carousel owl-theme projects-container">
+                            <div>
+                              <div class="project-item">
+                                <a href="img/word1.jpg" data-lightbox="image-1"><img src="img/word1.jpg" alt=""></a>
+                                <div class="text-content">
+                                  <h4>Game: Battleground</h4>
+                                  <font color="black" fontsize=12><p>최근 가장 인기있는 게임</p></font>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <div class="project-item">
+                                <a href="img/word2.jpg" data-lightbox="image-1"><img src="img/word2.jpg" alt=""></a>
+                                <div class="text-content">
+                                  <h4>Game: Overcooked</h4>
+                                  <font color="black" fontsize=12><p>대부분 action장르의 게임이 상위권을 차지하고 있어서 Action이 포함되지 않은게임으로 선정함.</p></font>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <div class="project-item">
+                                <a href="img/word3.jpg" data-lightbox="image-1"><img src="img/word3.jpg" alt=""></a>
+                                <div class="text-content">
+                                  <h4>Game: Planet Zoo</h4>
+                                  <font color="black" fontsize=12><p>대부분 action장르의 게임이 상위권을 차지하고 있어서 Action이 포함되지 않은게임으로 선정함.</p></font>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <div class="project-item">
+                                <a href="img/word4.png" data-lightbox="image-1"><img src="img/word4.png"></a>
+                                <div class="text-content">
+                                  <h4>Action: Tom Clancy's The Division</h4>
+                                  <font color="black" fontsize=12><p>Action, Adventure, rpg 조합</p></font>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <div class="project-item">
+                                <a href="img/word5.jpg" data-lightbox="image-1"><img src="img/word5.jpg"></a>
+                                <div class="text-content">
+                                  <h4>RPG: Rust</h4>
+                                  <font color="black" fontsize=12><p>Rpg, Massively Multiplayer, Indie 조합</p></font>
+                                </div>
+                              </div>
+                            </div>
+                              <div class="project-item">
+                                <a href="img/word6.png" data-lightbox="image-1"><img src="img/word6.png"></a>
+                                <div class="text-content">
+                                  <h4>Adventure: The Forest</h4>
+                                  <font color="black" fontsize=12><p>Adventure, Indie, Simulation 조합</p></font>
+                                </div>
+                              </div>
+                              <div class="project-item">
+                                <a href="img/word7.jpg" data-lightbox="image-1"><img src="img/word7.jpg"></a>
+                                <div class="text-content">
+                                  <h4>Simulation: Robocraft</h4>
+                                  <font color="black" fontsize=12><p>Simulation, RPG, Multiplayer 조합</p></font>
+                                </div>
+                              </div>
+                              <div class="project-item">
+                                <a href="img/word8.png" data-lightbox="image-1"><img src="img/word8.png"></a>
+                                <div class="text-content">
+                                  <h4>Strategy: 7 Days to Die</h4>
+                                  <font color="black" fontsize=12><p>Strategy, Simulation, RPG 조합</p></font>
+                                </div>
+                              </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="panel b-green">
+          <iframe src="https://yoonyire.shinyapps.io/team_steam_wordclouds/" height="700" width="1000" style="-webkit-transform:scale(0.8); -moz-transform:scale(0.8);background-color:white;"></iframe>
+        </section>
+
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>

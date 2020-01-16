@@ -1,6 +1,6 @@
 [← go back to the course page](../../README.md)
 
-### Student Projects in 2019
+### Student Projects in HCI Course in 2019S
 - [Team 1.1 War Game (Leap Motion, Unity)](LeapMotionWarGame)
 - [Team 1.2 3D Interactive Dictionary (Leap Motion, Looking Glass, Unity)](LeapMotionRealDict)
 - [Team 1.3 Interactive Story Telling Game (Kinect, Scratch)](KinectStoryTelling)

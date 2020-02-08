@@ -53,6 +53,14 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/o2p4NznyxR0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+- more student works of NYU
+	- [ITP/IMA Winter Show 2019](https://www.youtube.com/watch?v=0LMNNsxPfJU)
+	- [ITP/IMA Spring Show 2019](https://www.youtube.com/watch?v=3Dzc6bwpBR0)
+	- [ITP/IMA Winter Show 2018](https://www.youtube.com/watch?v=02z_yyHAm-U)
+	- [ITP Spring Show 2018](https://www.youtube.com/watch?v=qVYd1HQFcGg)
+	- [ITP Winter Show 2017](https://www.youtube.com/watch?v=uCiV-QK28-k)
+	- [ITP Spring Show 2017](https://www.youtube.com/watch?v=Q_SbbqpoMnM)
+
 <br><br><br>
 
 **C. HCI products our department (or prof. Lee) have so that you might use for your term-project!**
@@ -178,17 +186,19 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 	- serious game
 	- educational app
 	- interactive website
-	- Projection Mapping & Interactive Wall/Floor
-		- [https://www.youtube.com/watch?v=JOg4chJAgn8](https://www.youtube.com/watch?v=JOg4chJAgn8)
-		- [https://www.youtube.com/watch?v=AZA6X3mPdtg](https://www.youtube.com/watch?v=AZA6X3mPdtg)
-		- [https://www.youtube.com/watch?v=ZRfo5rnM2wY](https://www.youtube.com/watch?v=ZRfo5rnM2wY)
-		- [https://www.youtube.com/watch?v=5qTxlYnq2F0](https://www.youtube.com/watch?v=5qTxlYnq2F0)
-		- [https://www.youtube.com/watch?v=IucCJFwygIg](https://www.youtube.com/watch?v=IucCJFwygIg)
-		- [https://www.youtube.com/watch?v=Y3BQE6ODpng](https://www.youtube.com/watch?v=Y3BQE6ODpng)
-		- [https://www.youtube.com/watch?v=KLOB-T1mgdY](https://www.youtube.com/watch?v=KLOB-T1mgdY)
-	- interactive digital art
-		- [https://www.youtube.com/watch?v=2RWop0Gln24](https://www.youtube.com/watch?v=2RWop0Gln24)
-		- [https://www.youtube.com/watch?v=kV8v2GKC8WA](https://www.youtube.com/watch?v=kV8v2GKC8WA)
+	- interactive wall/floor
+		- [Mood reflecting floor](https://www.youtube.com/watch?v=JOg4chJAgn8)
+		- [Interactive wall/floor examples](https://www.youtube.com/watch?v=AZA6X3mPdtg)
+		- [Interfactive floor projection](https://www.youtube.com/watch?v=5qTxlYnq2F0)
+		- [Interfactive floor projection by TouchDesigner & Kinect](https://www.youtube.com/watch?v=ZRfo5rnM2wY)
+		- [Public interactive wall using Kinect](https://www.youtube.com/watch?v=KLOB-T1mgdY)
+	- Projection Mapping
+		- [Interactive projection wall](https://www.youtube.com/watch?v=IucCJFwygIg)
+		- [projection mapping](https://www.youtube.com/watch?v=Y3BQE6ODpng)
+		- [Lightform](https://www.youtube.com/watch?v=uFTlzqI7ldw)
+	- Interactive Digital Art
+		- [What is digital art?](https://www.youtube.com/watch?v=2RWop0Gln24)
+		- [mechanical mirrors - WIRED](https://www.youtube.com/watch?v=kV8v2GKC8WA)
 
 
 

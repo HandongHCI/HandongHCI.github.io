@@ -10,25 +10,25 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 
 **A. SIGCHI Teaser Videos**
 
-- The birth of CHI 2019
+- CHI 2019
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/ZG7e1-4oAkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- The birth of CHI 2018
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/rQxyvxuv1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- CHI 2018
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/-rQxyvxuv1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- The birth of CHI 2017
+- CHI 2017
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/9pSeJWXcOvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- The birth of CHI 2016
+- CHI 2016
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/dUDHQNuCKWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- The birth of CHI 2015
+- CHI 2015
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/TQaiAxbU6Pw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- The birth of CHI 2014
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/pBjjca9NtQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- CHI 2014
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/-pBjjca9NtQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- The birth of CHI 2013
+- CHI 2013
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/eFavrbJQud8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
@@ -52,8 +52,6 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/JOg4chJAgn8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/o2p4NznyxR0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Wb6eFGbwPeA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
 
@@ -165,7 +163,6 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 	- student projects
 		- [EEG-based baby caring](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/MindWave/)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/uRf0AUuors4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/iFBhTHGXcMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -174,7 +171,6 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 	- details
 		- [GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/pW6nZXeWlGM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/xGV25oa4sOY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -183,16 +179,16 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 	- educational app
 	- interactive website
 	- Projection Mapping & Interactive Wall/Floor
-		- https://www.youtube.com/watch?v=JOg4chJAgn8
-		- https://www.youtube.com/watch?v=AZA6X3mPdtg
-		- https://www.youtube.com/watch?v=ZRfo5rnM2wY
-		- https://www.youtube.com/watch?v=5qTxlYnq2F0
-		- https://www.youtube.com/watch?v=IucCJFwygIg
-		- https://www.youtube.com/watch?v=Y3BQE6ODpng
-		- https://www.youtube.com/watch?v=KLOB-T1mgdY
+		- [https://www.youtube.com/watch?v=JOg4chJAgn8](https://www.youtube.com/watch?v=JOg4chJAgn8)
+		- [https://www.youtube.com/watch?v=AZA6X3mPdtg](https://www.youtube.com/watch?v=AZA6X3mPdtg)
+		- [https://www.youtube.com/watch?v=ZRfo5rnM2wY](https://www.youtube.com/watch?v=ZRfo5rnM2wY)
+		- [https://www.youtube.com/watch?v=5qTxlYnq2F0](https://www.youtube.com/watch?v=5qTxlYnq2F0)
+		- [https://www.youtube.com/watch?v=IucCJFwygIg](https://www.youtube.com/watch?v=IucCJFwygIg)
+		- [https://www.youtube.com/watch?v=Y3BQE6ODpng](https://www.youtube.com/watch?v=Y3BQE6ODpng)
+		- [https://www.youtube.com/watch?v=KLOB-T1mgdY](https://www.youtube.com/watch?v=KLOB-T1mgdY)
 	- interactive digital art
-		- https://www.youtube.com/watch?v=2RWop0Gln24
-		- https://www.youtube.com/watch?v=kV8v2GKC8WA
+		- [https://www.youtube.com/watch?v=2RWop0Gln24](https://www.youtube.com/watch?v=2RWop0Gln24)
+		- [https://www.youtube.com/watch?v=kV8v2GKC8WA](https://www.youtube.com/watch?v=kV8v2GKC8WA)
 
 
 

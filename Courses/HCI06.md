@@ -20,7 +20,7 @@
 
 #### List of Video Lectures
 - [1. Introduction to HCI](HCI01.md)
-- [2. Examples of HCI Application](HCI02.md)
+- [2. HCI Applications and Case Studies](HCI02.md)
 - [3. Home & Human Life](HCI03.md)
 - [4. Health & Safety](HCI04.md)
 - [5. Education](HCI05.md)

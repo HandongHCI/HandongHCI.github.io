@@ -66,13 +66,10 @@ From this series of videos, students might have a broad understanding of the con
 
 <br><br><br>
 
-**D. Introduction to HCI program in well-known universities**
+**D. Introduction to HCI and HCI programs in well-known universities**
 
 - HCI at Georgia Tech
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6kylRHpYw6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- HCI at University of Washington
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/8AWxgZ0bt_w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - HCI at CMU
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/J_oPtEjiVuA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -83,6 +80,9 @@ From this series of videos, students might have a broad understanding of the con
 - HCI at Rochester Institute of Technology
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Sp2rCO5aPug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+- HCI capstone project at University of Washington
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/wl5M1FNodWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
 #### Assignments
@@ -92,7 +92,7 @@ From this series of videos, students might have a broad understanding of the con
 
 #### List of Video Lectures
 - **1. Introduction to HCI**
-- [2. Examples of HCI Application](HCI02.md)
+- [2. HCI Applications and Case Studies](HCI02.md)
 - [3. Home & Human Life](HCI03.md)
 - [4. Health & Safety](HCI04.md)
 - [5. Education](HCI05.md)

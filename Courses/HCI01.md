@@ -4,7 +4,7 @@
 
 ### 1. Introduction to HCI
 
-(a short introduction will be provided soon)
+From this series of videos, students might have a broad understanding of the concept of Human-Computer Interaction (HCI), related technologies, and application domains. I hope students being interested in study in HCI.
 
 #### [Video Lectures]
 
@@ -28,7 +28,7 @@
 
 <br><br><br>
 
-**B. HCI Technologies ([Lecture by GeorgiaTech in Udacity](https://classroom.udacity.com/courses/ud400/))**
+**B. HCI Technologies ([Lecture by GeorgiaTech via Udacity](https://classroom.udacity.com/courses/ud400/))**
 
 - HCI Technologies: Virtual Reality
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/N114LH_-ST0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -47,22 +47,42 @@
 
 <br><br><br>
 
-**C. Related Domains of HCI ([Lecture by GeorgiaTech in Udacity](https://classroom.udacity.com/courses/ud400/))**
+**C. Related Domains of HCI ([Lecture by GeorgiaTech via Udacity](https://classroom.udacity.com/courses/ud400/))**
 
-- HCI Domains: Example 1. Special Needs
+- Example 1. Special Needs
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/qgv3IEyOJyo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- HCI Domains: Example 2. Education
+- Example 2. Education
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/bFbLcmNmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- HCI Domains: Example 3. Healthcare
+- Example 3. Healthcare
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/G0-6fqSfETM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- HCI Domains: Example 4. Security
+- Example 4. Security
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/sBjNX9nmh7M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- HCI Domains: Example 5. Security
+- Example 5. Security
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/ITSAciJLzGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br><br><br>
+
+**D. Introduction to HCI program in well-known universities**
+
+- HCI at Georgia Tech
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6kylRHpYw6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- HCI at University of Washington
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/8AWxgZ0bt_w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- HCI at CMU
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/J_oPtEjiVuA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- HCI at ArtCenter College of Design
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/AWVZb5gdRXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- HCI at Rochester Institute of Technology
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Sp2rCO5aPug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
 #### Assignments

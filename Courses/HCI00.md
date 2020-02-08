@@ -105,6 +105,7 @@ Amounts: about 10 pages in total.
 - Evaluation
 	- There will be a minus point if the minimum amount is not satisfied.
 	- There will be a minus point for the late submission.
+- Details can be updated while the course is operation during the semester.
 
 ### Grading
 I personally have a disagreeing opinion of the ABCDF-based grading system. 0-to-100 scale will be more meaningful, instead. Though, personal efforts in the class and what they earned by each of the various students' activities (e.g., team projects, discussion, practices, essay writings, online lectures, exams, et cetera) will be evaluated anyhow, but the final score or the grade is not the most suitable criteria that well explain students' learning levels. I hope, therefore, students carefully think themselves about which knowledge they have earned for the future career and about how they participated in the course, instead of focusing on their score or grade that they will get as the results.

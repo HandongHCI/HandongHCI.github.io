@@ -85,7 +85,14 @@ From this series of videos, students might have a broad understanding of the con
 
 <br><br><br>
 
-**E. Useful sites**
+**F. Show Case of HCI - Where we are now?**
+
+- Interactive Technology
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/_3RFrW4QALo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br><br><br>
+
+**F. Useful sites**
 Subscribe these channels to keep yourself up-to-date and inspired !!!
 - [Human-Computer Interaction](https://www.facebook.com/watch/552654744772414/)
 - [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg)
@@ -106,8 +113,8 @@ Subscribe these channels to keep yourself up-to-date and inspired !!!
 - **1. Introduction to HCI**
 - [2. HCI Applications and Case Studies](HCI02.md)
 - [3. Home & Human Life](HCI03.md)
-- [4. Health & Safety](HCI04.md)
-- [5. Education](HCI05.md)
+- [4. Healthcare & Safety](HCI04.md)
+- [5. Education & Work](HCI05.md)
 - [6. Smart City](HCI06.md)
 - [7. Transportation](HCI07.md)
 - [8. Ethics and Philosophies](HCI08.md)

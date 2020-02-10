@@ -215,8 +215,8 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 - [1. Introduction to HCI](HCI01.md)
 - **2. HCI Applications and Case Studies**
 - [3. Home & Human Life](HCI03.md)
-- [4. Health & Safety](HCI04.md)
-- [5. Education](HCI05.md)
+- [4. Healthcare & Safety](HCI04.md)
+- [5. Education & Work](HCI05.md)
 - [6. Smart City](HCI06.md)
 - [7. Transportation](HCI07.md)
 - [8. Ethics and Philosophies](HCI08.md)

@@ -42,20 +42,20 @@ Watch the [videos listed in **2. Examples of HCI Application**](HCI02.md), then 
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
-#### Topic 4. [aaaaa]
-Watch the [videos listed in **3. aaaaa**](HFE03.md), then write the essay including the following subtopics.
+#### Topic 4. [Home & Human Life]
+Watch the [videos listed in **3. Home & Human Life**](HFE03.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
-#### Topic 5. [aaaaa]
-Watch the [videos listed in **4. aaaaa**](HFE04.md), then write the essay including the following subtopics.
+#### Topic 5. [Healthcare & Safety]
+Watch the [videos listed in **4. Healthcare & Safety**](HFE04.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 
 
-#### Topic 6. [aaaaaa]
-Watch the [videos listed in **5. aaaaaa**](HFE05.md), then write the essay including the following subtopics.
+#### Topic 6. [Education & Work]
+Watch the [videos listed in **5. Education & Work**](HFE05.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 - **Subtopic 2**: 
 - **Subtopic 3**: 

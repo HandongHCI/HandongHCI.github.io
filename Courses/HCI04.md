@@ -2,7 +2,7 @@
 
 ## Human-Computer Interaction (SIT22008)
 
-### 4. Health & Safety
+### 4. Healthcare & Safety
 
 See what kinds of ICT services help people living healthy and safe. Find how computers interact with people in hospital or in which people want to have a medical care.
 
@@ -109,8 +109,8 @@ See what kinds of ICT services help people living healthy and safe. Find how com
 - [1. Introduction to HCI](HCI01.md)
 - [2. HCI Applications and Case Studies](HCI02.md)
 - [3. Home & Human Life](HCI03.md)
-- **4. Health & Safety**
-- [5. Education](HCI05.md)
+- **4. Healthcare & Safety**
+- [5. Education & Work](HCI05.md)
 - [6. Smart City](HCI06.md)
 - [7. Transportation](HCI07.md)
 - [8. Ethics and Philosophies](HCI08.md)

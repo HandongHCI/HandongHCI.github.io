@@ -4,11 +4,11 @@
 
 ### 3. Home & Human Life
 
-(a short introduction will be provided soon)
+See what computer-assisted services help people living conveniently. Find how humans and computers interact with each other in daily life.
 
 #### [Video Lectures]
 
-**A. Smart Home Techs**
+**A. Smart-Home Techs and HCI**
 
 - Smart Home IoT - Google Nest
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6-JXxFZYXlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

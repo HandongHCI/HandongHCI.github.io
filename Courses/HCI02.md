@@ -31,6 +31,9 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 - CHI 2013
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/eFavrbJQud8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+- More video
+	- [ACM SIGCHI](https://www.youtube.com/user/acmsigchi) - find more information from this YouTube channel
+
 <br><br><br>
 
 **B. Student Projects**

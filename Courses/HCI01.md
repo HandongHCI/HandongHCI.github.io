@@ -83,6 +83,18 @@ From this series of videos, students might have a broad understanding of the con
 - HCI capstone project at University of Washington
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/wl5M1FNodWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<br><br><br>
+
+**E. Useful sites**
+Subscribe these channels to keep yourself up-to-date and inspired !!!
+- [Human-Computer Interaction](https://www.facebook.com/watch/552654744772414/)
+- [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg)
+- [Tech Insider](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg)
+- [Futurism](https://www.youtube.com/user/FromQuarksToQuasars)
+- [Mashable](https://www.youtube.com/user/mashable)
+- [Tech That Matters](https://www.youtube.com/channel/UCtASL77th5xpFtfiOPrMZHA)
+- [Cheddar](https://www.youtube.com/channel/UC04KsGq3npibMCE9Td3mVDg)
+- [미래채널 MyF](https://www.youtube.com/channel/UCa1fMK5V8Kwg46om03OC0EA)
 
 
 #### Assignments

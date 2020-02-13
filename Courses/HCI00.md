@@ -64,8 +64,8 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 - Do NOT put your name or student ID. Due to the open source policy of this course, some of selected essays will be anonymously (without including the name and student-ID of the author) shared to public through the Google Drive.
 - Putting any own sketches or drawings are highly recommended.
 - Minimum requirements
-	- Number of pages: minimum of TWO A4 pages
-	- Language: English at least 5 out of 10
+	- Number of pages: MINIMUM of TWO A4 pages
+	- Language: English at least 5 out of 10 essays
 - Upload: Save your essay as PDF, then upload your essay to the LMS system ([https://lms.handong.edu/](https://lms.handong.edu/)).
 - Honor code
 	- Students should NOT just reuse (copy and paste) sentences from other's articles. But they can rephrase others' ideas to express your own opinion.

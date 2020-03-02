@@ -66,7 +66,7 @@ Let's be inspired by videos of student works. And let's try to make some ideas w
 
 <br><br><br>
 
-**C. HCI products our department (or prof. Lee) have so that you might use for your term-project!**
+**C. HCI facility our department (or prof. Lee) has, so that students might use for their term-project!**
 
 - Tello or Tello Edu
 	- requirements: Python

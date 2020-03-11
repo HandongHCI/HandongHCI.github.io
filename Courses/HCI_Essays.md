@@ -33,48 +33,42 @@ Write the first essay including the following subtopics.
 #### Topic 2. [Introduction to HCI]
 Watch the [videos listed in **1. Introduction to HCI**](HCI01.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2. Explain what is "interaction"**: RRemind your daily life and find how you live a day. You surely live a day with having a relationship with other people, also with using lots of products. Yes, you are keeping interacting with someone and something around you. Even you are now indirectly interacting with prof. Lee, by reading this article and understanding his assignment. Reading a book is an interaction/communication with the author of the book, even it was written in the 1800s. Watching a movie is also an interaction with filmmakers of that movie. KakaoTalk, e-mail, driving, smartphone game, taking a course, listening to music, having dinner with your family, ... all is worked based on a concept of "interaction". Genesis chapter 1, God created heaven and earth, and his created human, then immediately started to interact with his creature. Interaction is an essential action of living beings. **SO, my question is "how do you interact with your family, with your friends and colleagues, with your mobile phone and computer, with other devices/object around you, with God (if you have Christianity), and with any other target that you need to interact with?" This question is asking you to explain what is the philosophy of interaction and how interaction is working in our daily life.** (Answering this question is very important in this course. You will learn about HCI and do a term-project through this semester while you are searching for your own answer to the question that "What is good interaction? How to develop a product/software/app for better human life?")
+- **Subtopic 2. Explain what is "interaction"**: Look back on your daily life and find how you live a day. You surely live a day with having a relationship with other people, also with using lots of products. Yes, you are keeping interacting with someone and something around you. Even you are now indirectly interacting with prof. Lee, by reading this article and understanding his assignment. Reading a book is an interaction/communication with the author of the book, even it was written in the 1800s. Watching a movie is also an interaction with filmmakers of that movie. KakaoTalk, e-mail, driving, smartphone game, taking a course, listening to music, having dinner with your family, ... all is worked based on a concept of "interaction". Genesis chapter 1, God created heaven and earth, and his created human, then immediately started to interact with his creature. Interaction is an essential action of living beings. **SO, my question is "how do you interact with your family, with your friends and colleagues, with your mobile phone and computer, with other devices/object around you, with God (if you have Christianity), and with any other target that you need to interact with?" This question is asking you to explain what is the philosophy of interaction and how interaction is working in our daily life.** (Answering this question is very important in this course. You will learn about HCI and do a term-project through this semester while you are searching for your own answer to the question that "What is good interaction? How to develop a product/software/app for better human life?")
 
 #### Topic 3. [HCI Applications and Case Studies]
 Watch the [videos listed in **2. Examples of HCI Application**](HCI02.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 1. What would you like to make in this course?**: You surely have watched a lot of HCI examples and student projects from the listed videos. You will also build something very interesting through this semester in the HCI course. **What HCI product would you like to make in this course with your team?** Then, let's imagine more in detail. **What is the goal/purpose of what you'd like to make?** =Why do you want to make that? **Who will be the target user of your product? What do you need to achieve your goal?** et cetera. Including these questions, provide your detailed plans for the project. (BUT, I'm not sure if you can actually execute the project in this course or not.)
+- (there's no other subtopics)
 
 #### Topic 4. [Home & Human Life]
 Watch the [videos listed in **3. Home & Human Life**](HFE03.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1**: 
 - **Subtopic 2**: 
-- **Subtopic 3**: 
 
 #### Topic 5. [Healthcare & Safety]
 Watch the [videos listed in **4. Healthcare & Safety**](HFE04.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1**: 
 - **Subtopic 2**: 
-- **Subtopic 3**: 
 
 #### Topic 6. [Education & Work]
 Watch the [videos listed in **5. Education & Work**](HFE05.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1**: 
 - **Subtopic 2**: 
-- **Subtopic 3**: 
 
-#### Topic 7. [aaaaaaaa]
+#### Topic 7. [Smart City]
 Watch the [videos listed in **6. aaaaaa**](HFE06.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1**: 
 - **Subtopic 2**: 
-- **Subtopic 3**: 
 
-#### Topic 8. [aaaaaaa]
+#### Topic 8. [Transportation]
 Watch the [videos listed in **7. aaaaa**](HFE07.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1**: 
 - **Subtopic 2**: 
 
-#### Topic 9. [aaaaa]
+#### Topic 9. [Ethics and Philosophies]
 Watch the [videos listed in **8. aaaaaa**](HFE08.md), then write the essay including the following subtopics.
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1**: 
 - **Subtopic 2**: 
-- **Subtopic 3**: 
 
 #### Topic 10. Epilog
 Pblease share how you have studied in this course, also how you have worked in the team. What did you learn about HCI? What else have you earned from the contents and activities of this class? What experiences have you gotten in the course? How did you achieve your initial goal? How your experiences and knowledge you've gotten through the course can help your study or career? And do you have anything to share related to this course?

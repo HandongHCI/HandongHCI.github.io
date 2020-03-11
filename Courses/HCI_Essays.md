@@ -26,15 +26,14 @@
 ### Topics
 
 #### Topic 1. [The First Essay]
-Write the first essay including the follow subtopics.
+Write the first essay including the following subtopics.
 - **Subtopic 1. Introduction to yourself**: Say something about yourself. What do you study in Handong? Why do you want to take this course? What do you expect to learn from this course? Is there anything that you'd like to say to the professor?
 - **Subtopic 2. What is the 'human-computer interaction'?**: What do you know about HCI? Find one or two examples of human-computer interaction that you are interested in. Also, please provide what kind of HCI product/app/system do you want to build through the course project?
 
 #### Topic 2. [Introduction to HCI]
 Watch the [videos listed in **1. Introduction to HCI**](HCI01.md), then write the essay including the following subtopics.
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-- **Subtopic 2**: 
-- **Subtopic 3**: 
+- **Subtopic 2. Explain what is "interaction"**: RRemind your daily life and find how you live a day. You surely live a day with having a relationship with other people, also with using lots of products. Yes, you are keeping interacting with someone and something around you. Even you are now indirectly interacting with prof. Lee, by reading this article and understanding his assignment. Reading a book is an interaction/communication with the author of the book, even it was written in the 1800s. Watching a movie is also an interaction with filmmakers of that movie. KakaoTalk, e-mail, driving, smartphone game, taking a course, listening to music, having dinner with your family, ... all is worked based on a concept of "interaction". Genesis chapter 1, God created heaven and earth, and his created human, then immediately started to interact with his creature. Interaction is an essential action of living beings. **SO, my question is "how do you interact with your family, with your friends and colleagues, with your mobile phone and computer, with other devices/object around you, with God (if you have Christianity), and with any other target that you need to interact with?" This question is asking you to explain what is the philosophy of interaction and how interaction is working in our daily life.** (Answering this question is very important in this course. You will learn about HCI and do a term-project through this semester while you are searching for your own answer to the question that "What is good interaction? How to develop a product/software/app for better human life?")
 
 #### Topic 3. [HCI Applications and Case Studies]
 Watch the [videos listed in **2. Examples of HCI Application**](HCI02.md), then write the essay including the following subtopics.

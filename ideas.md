@@ -1,6 +1,6 @@
 [← go back to the main page](README.md)
 
-## DB of User Needs & Design Ideas
+## Needs & Ideas DB
 
 이 페이지는 사용자 조사 등을 통해 입수한 추상적인 혹은 구체적인 needs 및 토론와 essay 등을 통해 제시된 아이디어 등을 keyword 형태로 목록화합니다. 아이이어를 구체화하여 가치있는 제품/상품/서비스/앱으로 발전시켜볼 수 있기 바랍니다.
 
@@ -131,7 +131,7 @@
 - 소비
 	- 쇼핑
 	- 인터넷 쇼핑
-	- 
+	- 절약
 - 여가
 	- 레저
 	- 독서

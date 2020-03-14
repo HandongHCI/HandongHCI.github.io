@@ -4,17 +4,15 @@ This Github page is to introduce knowledge and techniques about HCI prototyping 
 
 ### Courses [[go →]](Courses/README.md)
 ### Tutorials [[go →]](Tutorials/README.md)
-### Video Lectures
+### Selected Helpful Video Lectures
 - [ICT & Emerging Technologies](VideoSeries1.md)
 - [Education](VideoSeries2.md)
 - [Leadership/Self-Improvement](VideoSeries3.md)
 
-### Needs & Ideas DB [[go →]](ideas.md)
 ### ICT Equipment & Devices [[go →]](devices.md)
 
-### TO-DO
-- add documents and instructions
-- add more student projects
+### Problems DB [[go →]](https://docs.google.com/spreadsheets/d/1skw47dXDwWH8reqdqKppQ-cLQf1FbkLnN49oYg6aScs/edit#gid=0)
+### Needs & Ideas DB [[go →]](ideas.md)
 
 ### Contact info.
 - W.LEE (at) HANDONG (dot) EDU

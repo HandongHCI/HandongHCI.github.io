@@ -84,7 +84,7 @@ Subtopics
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/ipW_p2TiXa8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - More videos
-	- [https://www.youtube.com/watch?v=bw2YzcdgrZE](https://www.youtube.com/watch?v=bw2YzcdgrZE)
+	- [Industrial safety technologies to protect the lives of workers (News in Korean)](https://www.youtube.com/watch?v=bw2YzcdgrZE)
 
 <br><br><br>
 

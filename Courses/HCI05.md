@@ -4,7 +4,7 @@
 
 ### 5. Education & Work
 
-(a short introduction will be provided soon)
+Think of how you learn, how you study, and how you work. Reading a book, watch videos, listening to an online lecture through your laptop or mobile phone, doing a team project, talking in KakoTalk for discussion, ... all the activities related to education and work is conducted via any type of interaction. Everyone learns knowledge or technique from a certain way of interaction. In the past, the knowledge transfer was made by people-to-people interaction. Today, various computer technologies support people to learn and work so that modern people can treat a lot of information and knowledge quickly in their daily life. Let's see what kind of interactive technologies can support people learn and work efficiently and smartly.
 
 #### [Video Lectures]
 
@@ -35,7 +35,7 @@
 - Picoo, Interactive game for indoor playgrounds
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/w4rU0cLJ5Js" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Future interactions in education, a future scenario by Corning
+- Future interactions in education, a scenario by Corning
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/enZBgMQeYXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
@@ -51,7 +51,7 @@
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Z_aqWRzABcg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- VR/AR-assisted cowork or training
+- VR/AR-assisted co-work or training
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/J-C6GE2gFYw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/xotxxe3bN-I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

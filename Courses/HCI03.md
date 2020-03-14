@@ -4,7 +4,13 @@
 
 ### 3. Home & Human Life
 
-See what computer-assisted services help people living conveniently. Find how humans and computers interact with each other in daily life.
+See what computer-assisted interactive services that could help people to live conveniently. Find how humans and computers interact with each other in daily life.
+
+Subtopics
+- A. Smart-Home Techs and HCI
+- B. Sports and Entertainment
+- C. Assistive Techs & HCI
+- D. Future Home Scenarios
 
 #### [Video Lectures]
 

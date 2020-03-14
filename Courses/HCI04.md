@@ -6,6 +6,13 @@
 
 See what kinds of ICT services help people living healthy and safe. Find how computers interact with people in hospital or in which people want to have a medical care.
 
+Subtopics
+- A. Emerging Healthcare Techs & HCI
+- B. Healthcare Robots
+- C. Elderly Care
+- D. Safety Techs & HCI
+- E. Future Scenarios
+
 #### [Video Lectures]
 
 **A. Emerging Healthcare Techs & HCI**
@@ -62,7 +69,7 @@ See what kinds of ICT services help people living healthy and safe. Find how com
 
 <br><br><br>
 
-**D. Safety Techs and HCI**
+**D. Safety Techs & HCI**
 
 - Ambulance Drone: fast approach to a patient
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/y-rEI4bezWc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

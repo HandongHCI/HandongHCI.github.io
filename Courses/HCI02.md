@@ -6,6 +6,11 @@
 
 Let's be inspired by videos of student works. And let's try to make some ideas what to make in your HCI course!
 
+Try to search to be informed about the following HCI-related conferences and their upcoming schedules. I hope students could have a chance to present their work at one of the HCI-related conferences.
+- [SIGCHI](https://sigchi.org/conferences/upcoming-conferences/)
+- [HCI International](http://www.hci.international/)
+- [HCI Korea](http://www.hcikorea.org/)
+
 #### [Video Lectures]
 
 **A. SIGCHI Teaser Videos**

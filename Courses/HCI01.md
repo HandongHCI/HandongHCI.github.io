@@ -4,7 +4,13 @@
 
 ### 1. Introduction to HCI
 
-From this series of videos, students might have a broad understanding of the concept of Human-Computer Interaction (HCI), related technologies, and application domains. I hope students being interested in study in HCI.
+From this series of videos, students might have a broad understanding of the concept of Human-Computer Interaction (HCI), related technologies, and application domains. I hope students being interested in studying HCI.
+
+Most of the videos in this chapter, "1. Introduction to HCI", are gotten from an [online HCI course of GeorgiaTech shared via Udacity](https://classroom.udacity.com/courses/ud400/). Try to enroll in GeorgiaTech's course if interested. In that course, you could have a broader understanding of not only the concept of HCI, but also design principles, user research methods, design process, prototyping and evaluation, and more theoretical information.
+
+In Prof. Lee's HCI course, those theories including 'understanding of human', 'design method and process', 'user study', 'ideation and prototyping' are NOT taught in the course. Those theories are delivered to the student in other his classes (e.g., Human Factors and Ergonomics, Product Planning and Development, Ideation and Prototyping), while the HCI course is mainly focusing on practice and project.
+
+If any student who feels a lack of understanding about the theoretical part of HCI, please take the online course that GeorgiaTech provides via Udacity.
 
 #### [Video Lectures]
 

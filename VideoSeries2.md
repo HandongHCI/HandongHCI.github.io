@@ -1,8 +1,8 @@
 [← go back to the main page](README.md)
 
-## EBS 다큐프라임
+## Video Series 2 - Education
 
-### 4차 인간 (2018년 3월)
+### EBS DocuPrime 4차 인간 (2018년 3월)
 
 **1부. 우리는 영원할 수 있을까?**
 
@@ -39,7 +39,7 @@
 
 <br><br><br>
 
-### 4차 산업혁명, 교육패러다임의 대전환 (2017년 12월)
+### EBS DocuPrime 4차 산업혁명, 교육패러다임의 대전환 (2017년 12월)
 
 **1부. 대학의 변신**
 

@@ -53,4 +53,4 @@
 - [HCI 2019S](StudentProjects/HCI2019S/README.md)
 - [ICT Prototyping 2019S](StudentProjects/ICTprototyping2019S/README.md)
 - [Data Visualization 2019F](StudentProjects/DV2019F/README.md)
-- [final posters](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/Courses/StudentProjects/posters)
+- [final posters](https://drive.google.com/open?id=1AKbhdIhpEYOLHpe_EO1AwqURAeYEDj2W)

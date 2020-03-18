@@ -1,7 +1,7 @@
 [← go back to the list](HFE00.md)
 
-## Human Factors and Ergonomics (SIT22008) - Essays
-(last update: 28 Feb 2020)
+## Human-Computer Interaction (SIT32002) - Essays
+(last update: 18 March 2020)
 
 ### Announcement
 - The essay topics might be changed over time, but not be updated in this site yet.
@@ -13,7 +13,7 @@
 - Minimum requirement
 	- **Minimum T  pages** per essay
 	- Language: basically, English (Korean is partly allowed)
-	- **More than half of essay assignments (at least five out of ten essay assignments) should be submitted in English**
+	- **More than half of essay assignments (at least five out of ten essays) should be submitted in English**
 	- Use the shared essay form (Download: [here](https://goo.gl/Lh7d4a))
 		- Font: Batang & Times New Roman
 		- Font size: 12 pt.

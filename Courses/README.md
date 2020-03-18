@@ -13,9 +13,8 @@
 - [5-1. Usability Engineering I: User-Centered Design Principles](HFE05_1.md)
 - [5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn](HFE05_2.md)
 - [Assignments](HFE_Essays.md)
-- Project *(not prepared yet)*
 
-### Human-Computer Interaction
+### Human-Computer Interaction (SIT32002)
 - [Syllabus](HCI00.md)
 - [1. Introduction to HCI](HCI01.md)
 - [2.HCI Applications anc Case Studies](HCI02.md)
@@ -25,6 +24,7 @@
 - [6. Smart City](HCI06.md)
 - [7. Transportation](HCI07.md)
 - [8. Ethics and Philosophies](HCI08.md)
+- [Assignments](HCI_Essays.md)
 
 
 ### Data Visualization (SIT42001)
@@ -35,6 +35,12 @@
 - [Introduction](PPD00.md)
 - [Materials - Videos related to PPD](PPD_Videos.md)
 - [Materials - 2019-2 Smart City](PPD_SmartCity.md)
+
+### Ideation & Prototyping (SIT23006)
+- *(not prepared yet)*
+
+### Intoduction to ICT Convergence ()
+- *(not prepared yet)*
 
 ### Seminars
 - *(not prepared yet)*

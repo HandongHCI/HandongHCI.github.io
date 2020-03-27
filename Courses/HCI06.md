@@ -12,6 +12,13 @@
 
 
 
+
+- More videos
+	- [Smart Cities: How do we build the cities of tomorrow by Hugh Green (TEDxEmory)](https://www.youtube.com/watch?v=YGOVEvm7dm0)
+
+
+
+
 #### Assignments
 - Find related essay assignment from [Here](HCI_Essays.md).
 - NOTE. The assignment topic might be changed during the semester but not updated in this site. Please always check LMS.handong.edu.

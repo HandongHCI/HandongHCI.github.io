@@ -28,8 +28,10 @@
 - (repeated content) How China Is Using Artificial Intelligence in Classrooms?
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/JMLsHI8aV0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- More videos (Strongly recommended for watching!!)
-	- 
+- More videos (Strongly recommended for watching!! / audio in Korean, no English subtitles)
+	- [KBS다큐인사이트 보일링 포인트 1부. 역전된 세계](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180902-01-000)
+	- [KBS다큐인사이트 보일링 포인트 2부. 비인간 지능](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180905-01-000)
+	- [KBS다큐인사이트 보일링 포인트 3부. 가상화폐의 도전](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180917-01-000)
 
 **B. Appropriate & Humanitarian Technologies/business**
 

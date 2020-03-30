@@ -17,7 +17,7 @@
 ### Human-Computer Interaction (SIT32002)
 - [Syllabus](HCI00.md)
 - [1. Introduction to HCI](HCI01.md)
-- [2.HCI Applications anc Case Studies](HCI02.md)
+- [2. HCI Applications anc Case Studies](HCI02.md)
 - [3. Home & Human Life](HCI03.md)
 - [4. Healthcare & Safety](HCI04.md)
 - [5. Education & Work](HCI05.md)

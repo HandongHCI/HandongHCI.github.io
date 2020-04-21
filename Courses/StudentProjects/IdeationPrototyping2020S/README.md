@@ -18,7 +18,7 @@
 <br><br><br>
 
 ![](/MidExhibitionJPG/5.jpg)
-([Link](https://marvelapp.com/5648hij)
+([Link](https://marvelapp.com/5648hij))
 <br><br><br>
 
 ![](/MidExhibitionJPG/6.jpg)

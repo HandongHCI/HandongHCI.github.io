@@ -10,57 +10,57 @@
 <br><br><br>
 
 ![](/MidExhibitionJPG/3.jpg)
-- [Link](https://marvelapp.com/e383hih)
+([Link](https://marvelapp.com/e383hih))
 <br><br><br>
 
 ![](/MidExhibitionJPG/4.jpg)
-- [Link](https://marvelapp.com/e32ig1a)
+([Link](https://marvelapp.com/e32ig1a))
 <br><br><br>
 
 ![](/MidExhibitionJPG/5.jpg)
-- [Link](https://marvelapp.com/5648hij)
+([Link](https://marvelapp.com/5648hij)
 <br><br><br>
 
 ![](/MidExhibitionJPG/6.jpg)
-- [Link](https://marvelapp.com/562i237)
+([Link](https://marvelapp.com/562i237))
 <br><br><br>
 
 ![](/MidExhibitionJPG/7.jpg)
-- [Link](https://marvelapp.com/1154f89j)
+([Link](https://marvelapp.com/1154f89j))
 <br><br><br>
 
 ![](/MidExhibitionJPG/8.jpg)
-- [Link](https://marvelapp.com/4e8eha7)
+([Link](https://marvelapp.com/4e8eha7))
 <br><br><br>
 
 ![](/MidExhibitionJPG/9.jpg)
-- [Link](https://marvelapp.com/ac32d4b)
+([Link](https://marvelapp.com/ac32d4b))
 <br><br><br>
 
 ![](/MidExhibitionJPG/10.jpg)
-- [Link](https://marvelapp.com/71djh90)
+([Link](https://marvelapp.com/71djh90))
 <br><br><br>
 
 ![](/MidExhibitionJPG/11.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/12.jpg)
-- [Link](https://marvelapp.com/ac87di8)
+([Link](https://marvelapp.com/ac87di8))
 <br><br><br>
 
 ![](/MidExhibitionJPG/13.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/14.jpg)
-- [Link](https://marvelapp.com/22a48ee6)
+([Link](https://marvelapp.com/22a48ee6))
 <br><br><br>
 
 ![](/MidExhibitionJPG/15.jpg)
-- [Link](https://marvelapp.com/71a2ibd)
+([Link](https://marvelapp.com/71a2ibd))
 <br><br><br>
 
 ![](/MidExhibitionJPG/16.jpg)
-- [Link](https://marvelapp.com/4e99bac)
+([Link](https://marvelapp.com/4e99bac))
 <br><br><br>
 
 ![](/MidExhibitionJPG/17.jpg)
@@ -70,70 +70,70 @@
 <br><br><br>
 
 ![](/MidExhibitionJPG/19.jpg)
-- [Link](https://marvelapp.com/e37bid7)
+([Link](https://marvelapp.com/e37bid7))
 <br><br><br>
 
 ![](/MidExhibitionJPG/20.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/21.jpg)
-- [Link](https://marvelapp.com/11544a6e)
+([Link](https://marvelapp.com/11544a6e))
 <br><br><br>
 
 ![](/MidExhibitionJPG/22.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/23-1.jpg) ![](/MidExhibitionJPG/23-2.jpg)
-- [Link](https://marvelapp.com/561ec85)
+([Link](https://marvelapp.com/561ec85))
 <br><br><br>
 
 ![](/MidExhibitionJPG/24.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/25-1.jpg) ![](/MidExhibitionJPG/25-2.jpg)
-- [Link](https://marvelapp.com/aca0883/)
+([Link](https://marvelapp.com/aca0883/))
 <br><br><br>
 
 ![](/MidExhibitionJPG/26.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/27.jpg)
-- [Link](https://marvelapp.com/e2haga1)
+([Link](https://marvelapp.com/e2haga1))
 <br><br><br>
 
 ![](/MidExhibitionJPG/28-1.jpg) ![](/MidExhibitionJPG/28-2.jpg)
 <br><br><br>
 
 ![](/MidExhibitionJPG/29-1.jpg) ![](/MidExhibitionJPG/29-2.jpg)
-- [Link](https://marvelapp.com/5612d2f)
+([Link](https://marvelapp.com/5612d2f))
 <br><br><br>
 
 ![](/MidExhibitionJPG/30-1.jpg) ![](/MidExhibitionJPG/30-2.jpg) ![](/MidExhibitionJPG/30-3.jpg)
-- [Link](https://marvelapp.com/22996gag)
+([Link](https://marvelapp.com/22996gag))
 <br><br><br>
 
 ![](/MidExhibitionJPG/31.jpg)
-- [Link](https://marvelapp.com/22a8a786)
+([Link](https://marvelapp.com/22a8a786))
 <br><br><br>
 
 ![](/MidExhibitionJPG/32.jpg)
-- [Link](https://marvelapp.com/1154d659)
+([Link](https://marvelapp.com/1154d659))
 <br><br><br>
 
 ![](/MidExhibitionJPG/33-1.jpg) ![](/MidExhibitionJPG/33-2.jpg) ![](/MidExhibitionJPG/33-3.jpg)
-- [Link](https://marvelapp.com/4e8f6i1)
+([Link](https://marvelapp.com/4e8f6i1))
 <br><br><br>
 
 ![](/MidExhibitionJPG/34-1.jpg) ![](/MidExhibitionJPG/34-2.jpg)
-- [Link](https://marvelapp.com/22a66ef6)
+([Link](https://marvelapp.com/22a66ef6))
 <br><br><br>
 
 ![](/MidExhibitionJPG/35-1.jpg) ![](/MidExhibitionJPG/35-2.jpg) ![](/MidExhibitionJPG/35-3.jpg)
-- [Link](https://marvelapp.com/71644ab)
+([Link](https://marvelapp.com/71644ab))
 <br><br><br>
 
 ![](/MidExhibitionJPG/36-1.jpg) ![](/MidExhibitionJPG/36-2.jpg) ![](/MidExhibitionJPG/36-3.jpg)
-- [Link](https://marvelapp.com/618j2f9)
+([Link](https://marvelapp.com/618j2f9))
 <br><br><br>
 
 

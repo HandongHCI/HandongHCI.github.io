@@ -2,7 +2,7 @@
 
 ## Ideation & Prototyping 2020S
 
-### Paper Prototypes
+### Paper Prototypes for App Design
 ![](/MidExhibitionJPG/1.jpg)
 <br><br><br>
 

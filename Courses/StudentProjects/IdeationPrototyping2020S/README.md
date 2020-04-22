@@ -141,7 +141,7 @@
 
 - COVID-19 101
 	- 코로나 19의 마스크 재고, 확진자 동선, 국내와 해외의 코로나 현황에 대해 알 수 있는 앱
-	- [Link](https://www.figma.com/file/2U0qkJa9u9RwVYVycULJ5x/COVID-19-101?node-id=1%3A4)
+	- [Link](https://www.figma.com/proto/2U0qkJa9u9RwVYVycULJ5x/COVID-19-101?node-id=1%3A4&scaling=scale-down)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GiEzBPV3pt0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
@@ -162,14 +162,14 @@
 
 - 너의 위치는
 	- 코로나 확산을 방지하기 위해 확진자의 이동경로와 사용자의 이동경로를 수집하여 사용자에게 경로에 대한 필요한 정보를 주는 앱입니다. 
-	- [Link](https://www.figma.com/file/sVxXMEjuVwIcOf5AjKrTdp/%EB%84%88%EC%9D%98%EC%9D%B4%EB%A6%84%EC%9D%80?node-id=0%3A1)
+	- [Link](https://www.figma.com/proto/sVxXMEjuVwIcOf5AjKrTdp/%EB%84%88%EC%9D%98%EC%9D%B4%EB%A6%84%EC%9D%80?node-id=1%3A2&scaling=scale-down)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/FSLiaANNPzU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
 
 - 우리동네
 	- 내 지역을 등록하면 우리동네의 전반적인 정보 및 유용한 서비스를 제공받을 수 있다(지역 정보서비스,마스크알리미 서비스,코로나 관련 정보서비스). 그리고 우리동네 챌린지를 통해 다양한 활동에 참여가능하고 비대면으로 지역 커뮤니티를 활성화시킨다.
-	- [Link](https://www.figma.com/file/u2fzo38VEzTVdeYhB5RTuV/Untitled?node-id=0%3A1)
+	- [Link](https://www.figma.com/proto/u2fzo38VEzTVdeYhB5RTuV/Untitled?node-id=38%3A52&scaling=scale-down)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/__CFO0rW4Po" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>

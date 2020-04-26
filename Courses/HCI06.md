@@ -75,6 +75,18 @@ From the series of videos in this chapter, try to find:
 - EventAgratE Interactive Technology
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/_3RFrW4QALo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<br><br><br>
+
+**D. Future of Cities**
+
+- The Fiture of Citiese
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/xOOWk5yCMMs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- More videos
+	- [Shenzhen: The Silicon Valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY)
+	- [City of the Future: Singapore](https://www.youtube.com/watch?v=xi6r3hZe5Tg)
+
+
 
 #### Assignments
 - Find related essay assignment from [Here](HCI_Essays.md).

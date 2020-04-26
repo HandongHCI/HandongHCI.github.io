@@ -4,7 +4,11 @@
 
 ### 8. Ethics and Philosophies
 
-(a short introduction will be provided soon)
+Finally, this is the last topic of the video lectures. As the HCI is a highly practical multidisciplinary academic domain, lots of university labs, institutes, and companies have involved in HCI researches with their own roles. But, the development of computer technologies without concern of HUMAN (which is "H" in HCI) can cause some problems. As a future computer engineer or ICT expert, what we should concern when we work for the enhancement of our life with technologies?
+
+We have thought about HCI and interactive design/technology in various sections of our life including home, entertainment, healthcare, safety, education, work, public life, transportation, etc. By the way, technology development is mostly happening in limited places in a few countries, while a high percentage of people over the world are not available to get benefits of technologies.
+
+Through this series of videos, let's have a think about technology, ethics, and our roles.
 
 #### [Video Lectures]
 
@@ -33,6 +37,8 @@
 	- [KBS다큐인사이트 보일링 포인트 2부. 비인간 지능](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180905-01-000)
 	- [KBS다큐인사이트 보일링 포인트 3부. 가상화폐의 도전](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180917-01-000)
 
+<br><br><br>
+
 **B. Appropriate & Humanitarian Technologies/business**
 
 - $100 laptop for child education in developing countries
@@ -53,6 +59,8 @@
 	- [Disaster-relief robotics in Nepal by Patrick Meier (TEDxBerlin)](https://www.youtube.com/watch?v=h4QinwOC534)
 	- [Drones as Humanitarian Tools](https://www.youtube.com/watch?v=-Jy7XMvbNko)
 	- [3DP4ME's another video](https://www.youtube.com/watch?v=PbcQ0Ct2wh4)
+
+<br><br><br>
 
 **C. Universal Design**
 

@@ -5,11 +5,10 @@
 ### 6. Smart City
 
 From the series of videos in this chapter, try to find:
-- what H-C interactions are happening in a city and places,
-- which computer technologies are used,
-- what data/information is trandferred from here to there for which service to be provided to citizens,
-- what public 
-- and what values people can earn from the computer-assisted life in a city.
+- what H-C interactions are happening in a city and public places,
+- which computer technologies are used for urban services (which is provided through an interactive way),
+- what data/information is commonly used in a city for which service to be provided to citizens,
+- and what values people can earn from computer-assisted life in a city.
 
 
 #### [Video Lectures]

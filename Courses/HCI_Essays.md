@@ -81,8 +81,8 @@ Also, make some ideas of smartphone app that provides a useful service related t
 
 #### Topic 9. [Ethics and Philosophies]
 Watch the [videos listed in **8. Ethics and Philosophies**](HCI08.md), then write an essay including the following subtopics.
-- **Subtopic 1**: 
-- **Subtopic 2**: 
+- **Subtopic 1**: This is the last topic of HCI-related essay writings. Above all the videos, the documentary films of KBS is highly recommended to watch (it's a Korean documentary film, and there are no English subtitles).<br><br>
+Because we are the engineers who (will) use technologies as a tool at work, first, we should know about what we handle. Technologies can make somebody killed, or people's minds destroyed, but also it can make people in love, peace, and joyful. **What is your opinion on technology's double-sidedness? How do you want to use your computer (or any other technical) skills? For what to create? What kind of interaction do you want to design (as an idea), which can make people being happy? What is a good technology, and what is a good H-C interaction?**
 
 #### Topic 10. Epilog
 Pblease share how you have studied in this course, also how you have worked in the team. What did you learn about HCI? What else have you earned from the contents and activities of this class? What experiences have you gotten in the course? How did you achieve your initial goal? How your experiences and knowledge you've gotten through the course can help your study or career? And do you have anything to share related to this course?

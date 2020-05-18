@@ -39,18 +39,18 @@ Through this series of videos, let's have a think about technology, ethics, and 
 
 <br><br><br>
 
-**B. Appropriate & Humanitarian Technologies/business**
+**B. Appropriate & Humanitarian Technologies/Business**
 
 - $100 laptop for child education in developing countries
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/OeBQLOTArL8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - M-Pesa, a mobile payment in Africa
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/n87VBVbjUeE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 (Because the cash transactions in developing countries are not easy and secure, the mobile-based banking system could be successfully settled in those countries. Mobile banking has increased the market economy and decreased crimes.)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/n87VBVbjUeE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Pupils Project by Warby Parker
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/95gnUxnXkvk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 (What a great interaction to the world!)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/95gnUxnXkvk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - 3D Printing For Me (3DP4ME)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/F4Wxfgw06Sg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -62,7 +62,7 @@ Through this series of videos, let's have a think about technology, ethics, and 
 
 <br><br><br>
 
-**C. Universal Design**
+**C. Universal Design & Design for People Under Special Needs**
 
 - Why we need universal design by Michael Nesmith (TEDxBoulder)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/bVdPNWMGyZY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -75,6 +75,9 @@ Through this series of videos, let's have a think about technology, ethics, and 
 
 - Apple's Afforts for Universal Design 2. Voice Over
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/aqoXFCCTfm4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Seeing is believing: Glasses give sight back to the blind
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/RHRxiuxP3QU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - More Videos
 	- [Rethink What Inclusive Design Means by Kat Holmes](https://www.youtube.com/watch?v=-iccWRhKZa8)

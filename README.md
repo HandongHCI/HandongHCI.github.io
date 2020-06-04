@@ -1,6 +1,6 @@
 ### Introduction
 
-This Github page is to introduce knowledge and techniques about HCI prototyping and to share it with my students as well as with anyone who is interested in the shared topics.
+This Github page is to share knowledge and techniques about HCI-related design and prototyping with students in Handong as well as anyone who is interested in the shared topics.
 
 ### Courses [[go →]](Courses/README.md)
 ### Tutorials [[go →]](Tutorials/README.md)

@@ -3,91 +3,91 @@
 ## Ideation & Prototyping 2020S
 
 ### Design Panels for HW Product Prototypes
-![](/FinalExhibitionImg/poster (1).png)
+![](/FinalExhibitionImg/poster01.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (2).png)
+![](/FinalExhibitionImg/poster02.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (3).png)
+![](/FinalExhibitionImg/poster03.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (4).png)
+![](/FinalExhibitionImg/poster04.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (5).png)
+![](/FinalExhibitionImg/poster05.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (6).png)
+![](/FinalExhibitionImg/poster06.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (7).png)
+![](/FinalExhibitionImg/poster07.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (8).png)
+![](/FinalExhibitionImg/poster08.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (9).png)
+![](/FinalExhibitionImg/poster09.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (10).png)
+![](/FinalExhibitionImg/poster10.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (11).png)
+![](/FinalExhibitionImg/poster11.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (12).png)
+![](/FinalExhibitionImg/poster12.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (13).png)
+![](/FinalExhibitionImg/poster13.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (14).png)
+![](/FinalExhibitionImg/poster14.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (15).png)
+![](/FinalExhibitionImg/poster15.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (16).png)
+![](/FinalExhibitionImg/poster16.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (17).png)
+![](/FinalExhibitionImg/poster17.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (18).png)
+![](/FinalExhibitionImg/poster18.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (19).png)
+![](/FinalExhibitionImg/poster19.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (20).png)
+![](/FinalExhibitionImg/poster20.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (21).png)
+![](/FinalExhibitionImg/poster21.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (22).png)
+![](/FinalExhibitionImg/poster22.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (23).png)
+![](/FinalExhibitionImg/poster23.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (24).png)
+![](/FinalExhibitionImg/poster24.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (25).png)
+![](/FinalExhibitionImg/poster25.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (26).png)
+![](/FinalExhibitionImg/poster26.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (27).png)
+![](/FinalExhibitionImg/poster27.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (28).png)
+![](/FinalExhibitionImg/poster28.png)
 <br><br><br>
 
-![](/FinalExhibitionImg/poster (29).png)
+![](/FinalExhibitionImg/poster29.png)
 <br><br><br>
 
 [→ App Prototyping](App.md)

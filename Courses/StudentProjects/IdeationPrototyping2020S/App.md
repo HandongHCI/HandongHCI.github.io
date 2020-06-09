@@ -3,136 +3,136 @@
 ## Ideation & Prototyping 2020S
 
 ### Paper Prototypes for App Design
-![](/MidExhibitionJPG/1.jpg)
+![](/MidExhibitionImg/1.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/2.jpg)
+![](/MidExhibitionImg/2.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/3.jpg)
+![](/MidExhibitionImg/3.jpg)
 ([Link](https://marvelapp.com/e383hih))
 <br><br><br>
 
-![](/MidExhibitionJPG/4.jpg)
+![](/MidExhibitionImg/4.jpg)
 ([Link](https://marvelapp.com/e32ig1a))
 <br><br><br>
 
-![](/MidExhibitionJPG/5.jpg)
+![](/MidExhibitionImg/5.jpg)
 ([Link](https://marvelapp.com/5648hij))
 <br><br><br>
 
-![](/MidExhibitionJPG/6.jpg)
+![](/MidExhibitionImg/6.jpg)
 ([Link](https://marvelapp.com/562i237))
 <br><br><br>
 
-![](/MidExhibitionJPG/7.jpg)
+![](/MidExhibitionImg/7.jpg)
 ([Link](https://marvelapp.com/1154f89j))
 <br><br><br>
 
-![](/MidExhibitionJPG/8.jpg)
+![](/MidExhibitionImg/8.jpg)
 ([Link](https://marvelapp.com/4e8eha7))
 <br><br><br>
 
-![](/MidExhibitionJPG/9.jpg)
+![](/MidExhibitionImg/9.jpg)
 ([Link](https://marvelapp.com/ac32d4b))
 <br><br><br>
 
-![](/MidExhibitionJPG/10.jpg)
+![](/MidExhibitionImg/10.jpg)
 ([Link](https://marvelapp.com/71djh90))
 <br><br><br>
 
-![](/MidExhibitionJPG/11.jpg)
+![](/MidExhibitionImg/11.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/12.jpg)
+![](/MidExhibitionImg/12.jpg)
 ([Link](https://marvelapp.com/ac87di8))
 <br><br><br>
 
-![](/MidExhibitionJPG/13.jpg)
+![](/MidExhibitionImg/13.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/14.jpg)
+![](/MidExhibitionImg/14.jpg)
 ([Link](https://marvelapp.com/22a48ee6))
 <br><br><br>
 
-![](/MidExhibitionJPG/15.jpg)
+![](/MidExhibitionImg/15.jpg)
 ([Link](https://marvelapp.com/71a2ibd))
 <br><br><br>
 
-![](/MidExhibitionJPG/16.jpg)
+![](/MidExhibitionImg/16.jpg)
 ([Link](https://marvelapp.com/4e99bac))
 <br><br><br>
 
-![](/MidExhibitionJPG/17.jpg)
+![](/MidExhibitionImg/17.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/18.jpg)
+![](/MidExhibitionImg/18.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/19.jpg)
+![](/MidExhibitionImg/19.jpg)
 ([Link](https://marvelapp.com/e37bid7))
 <br><br><br>
 
-![](/MidExhibitionJPG/20.jpg)
+![](/MidExhibitionImg/20.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/21.jpg)
+![](/MidExhibitionImg/21.jpg)
 ([Link](https://marvelapp.com/11544a6e))
 <br><br><br>
 
-![](/MidExhibitionJPG/22.jpg)
+![](/MidExhibitionImg/22.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/23-1.jpg) ![](/MidExhibitionJPG/23-2.jpg)
+![](/MidExhibitionImg/23-1.jpg) ![](/MidExhibitionImg/23-2.jpg)
 ([Link](https://marvelapp.com/561ec85))
 <br><br><br>
 
-![](/MidExhibitionJPG/24.jpg)
+![](/MidExhibitionImg/24.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/25-1.jpg) ![](/MidExhibitionJPG/25-2.jpg)
+![](/MidExhibitionImg/25-1.jpg) ![](/MidExhibitionImg/25-2.jpg)
 ([Link](https://marvelapp.com/aca0883/))
 <br><br><br>
 
-![](/MidExhibitionJPG/26.jpg)
+![](/MidExhibitionImg/26.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/27.jpg)
+![](/MidExhibitionImg/27.jpg)
 ([Link](https://marvelapp.com/e2haga1))
 <br><br><br>
 
-![](/MidExhibitionJPG/28-1.jpg) ![](/MidExhibitionJPG/28-2.jpg)
+![](/MidExhibitionImg/28-1.jpg) ![](/MidExhibitionImg/28-2.jpg)
 <br><br><br>
 
-![](/MidExhibitionJPG/29-1.jpg) ![](/MidExhibitionJPG/29-2.jpg)
+![](/MidExhibitionImg/29-1.jpg) ![](/MidExhibitionImg/29-2.jpg)
 ([Link](https://marvelapp.com/5612d2f))
 <br><br><br>
 
-![](/MidExhibitionJPG/30-1.jpg) ![](/MidExhibitionJPG/30-2.jpg) ![](/MidExhibitionJPG/30-3.jpg)
+![](/MidExhibitionImg/30-1.jpg) ![](/MidExhibitionImg/30-2.jpg) ![](/MidExhibitionImg/30-3.jpg)
 ([Link](https://marvelapp.com/22996gag))
 <br><br><br>
 
-![](/MidExhibitionJPG/31.jpg)
+![](/MidExhibitionImg/31.jpg)
 ([Link](https://marvelapp.com/22a8a786))
 <br><br><br>
 
-![](/MidExhibitionJPG/32.jpg)
+![](/MidExhibitionImg/32.jpg)
 ([Link](https://marvelapp.com/1154d659))
 <br><br><br>
 
-![](/MidExhibitionJPG/33-1.jpg) ![](/MidExhibitionJPG/33-2.jpg) ![](/MidExhibitionJPG/33-3.jpg)
+![](/MidExhibitionImg/33-1.jpg) ![](/MidExhibitionImg/33-2.jpg) ![](/MidExhibitionImg/33-3.jpg)
 ([Link](https://marvelapp.com/4e8f6i1))
 <br><br><br>
 
-![](/MidExhibitionJPG/34-1.jpg) ![](/MidExhibitionJPG/34-2.jpg)
+![](/MidExhibitionImg/34-1.jpg) ![](/MidExhibitionImg/34-2.jpg)
 ([Link](https://marvelapp.com/22a66ef6))
 <br><br><br>
 
-![](/MidExhibitionJPG/35-1.jpg) ![](/MidExhibitionJPG/35-2.jpg) ![](/MidExhibitionJPG/35-3.jpg)
+![](/MidExhibitionImg/35-1.jpg) ![](/MidExhibitionImg/35-2.jpg) ![](/MidExhibitionImg/35-3.jpg)
 ([Link](https://marvelapp.com/71644ab))
 <br><br><br>
 
-![](/MidExhibitionJPG/36-1.jpg) ![](/MidExhibitionJPG/36-2.jpg) ![](/MidExhibitionJPG/36-3.jpg)
+![](/MidExhibitionImg/36-1.jpg) ![](/MidExhibitionImg/36-2.jpg) ![](/MidExhibitionImg/36-3.jpg)
 ([Link](https://marvelapp.com/618j2f9))
 <br><br><br>
 
@@ -206,3 +206,7 @@
 	- 휴대폰으로 열의 온도를 감지하고 증상을 입력하여 코로나 등 여러가지 질병들을 알아보고 대처할 수 있는 앱
 	- [Link](https://www.figma.com/proto/dM5LsqAX58tLgXyZ84qLpR/%EC%95%84%ED%94%84-%EC%BD%94%EB%A1%9C%EB%82%98-%EC%95%B1-%22Thermo%22?node-id=17%3A8&scaling=scale-down)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/OfZVzSYcBQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+
+[→ HW Prototyping](HW.md)

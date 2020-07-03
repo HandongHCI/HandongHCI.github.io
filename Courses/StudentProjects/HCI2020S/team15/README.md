@@ -4,14 +4,14 @@
 ![](img/1.png)
 
 #### Members
-- Jihyun Lee
-- Jaeho Jung
-- Subeen Bae
-- Sieun Shin
 <img height="50" src="img/2.png">
 <img height="50" src="img/3.png">
 <img height="50" src="img/4.png">
 <img height="50" src="img/5.jpg">
+- Jihyun Lee
+- Jaeho Jung
+- Subeen Bae
+- Sieun Shin
 
 ## 1. Introduction 
 

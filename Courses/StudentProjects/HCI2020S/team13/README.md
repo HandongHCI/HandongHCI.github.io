@@ -69,10 +69,10 @@ python prof.py
 ### Explanation of your program with images
 #### [수업 중 학생이 졸고 있는 상황]
 - 화면 왼쪽에 보이는 세개의 숫자는 순서대로 다음과 같다.
+![](img/8.png)
 	1. hapum: 하품을 하면, 숫자가 커짐
 	2. EAR: 눈을 감으면 숫자가 작아짐
 	3. COUNTER: 눈이 감기는 것이 몇 프레임 이상 지속되는지 프레임 수를 기록한 것
-![](img/8.png)
 
 - 졸고 있는 학생에게 소리와 함께 아래 화면처럼 아이콘이 뜬다. 
 ![](img/9.png)

@@ -74,7 +74,7 @@ Your flower is fully grown!
 Your Rose is planted in your garden! Complete your mission every day to grow your garden. 
 
 #### 4. Source Code File
-Find our source code files from [[here](source/source.docx)
+Find our source code files from [[here]](source/source.docx)
 
 #### 5.Demo Video
 View our [Demo Video](https://drive.google.com/file/d/1uxQTkJAahFRxnK7z2ckBsBdYkmXt-AMt/view?usp=sharing)

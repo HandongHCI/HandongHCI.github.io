@@ -37,7 +37,7 @@ The picture above is a paper prototype which is made to further shape our protot
 The next thing what we've done is user research. If the function of the system actually doesn’t lead to a high standard of experiential innovation, it will be hard to drive into better results. Based on the prototype, we looked for the empirical values of real users who can evaluate the process of using the system. The results are as follows:
 
 |       | 사용자 1 | 사용자 2 | 사용자 3 | 사용자 4 | 사용자 5 |
-| ------|---------|----------|---------|----------|---------|
+|-------|---------|----------|---------|----------|---------|
 | 성명  | 최예찬   | 신겸     | 박아나   | 최효영    | 권준혁  |
 | 나이  | 29       | 25      | 21      | 51        | 27     |
 | #1 응답 | 4 | 5 | 4 | 5 | 3 |

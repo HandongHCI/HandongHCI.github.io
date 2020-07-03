@@ -51,7 +51,7 @@ We conducted two user tests. Through user test, I could get positive feedback th
 <img src="img/17.png" height="250">
 <img src="img/18.png" height="250">
 
-### Explanation of program
+### Explanation of program (visit [this site](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/Courses/StudentProjects/HCI2020S/team12) if gif animations are not shown.)
 #### [Start menu]
 ![gif animation](img/19.gif)
 - We make users feel like they're going to see constellations by using night sky illust that shooting stars fall.

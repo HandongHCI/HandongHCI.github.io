@@ -54,31 +54,37 @@ We conducted two user tests. Through user test, I could get positive feedback th
 ### Explanation of program (visit [this site](https://github.com/HandongHCI/HandongHCI.github.io/tree/master/Courses/StudentProjects/HCI2020S/team12) if gif animations are not shown.)
 #### [Start menu]
 ![gif animation](img/19.gif)
+
 - We make users feel like they're going to see constellations by using night sky illust that shooting stars fall.
 - Through fade-out, the screen naturally moves over to the main screen.
 
 #### [Observing constellation]
 ![gif animation](img/20.gif)
+
 - The main function of the SignZ*ONE program, Observing Constellation, consists of the Spread Mode and Constellation Mode.
 - When the function is selected, the Spread mode is selected as the default setting.
 
 #### [Spread Mode & zoom in/out]
 ![gif animation](img/21.gif)
+
 - In the Spread Mode, you can observe countless stars scattered in the night sky, giving the illusion that the user is looking at the night sky.
 - You can zoom in or out on the stars you want to see.
 
 #### [Constellation mode]
 ![gif animation](img/22.gif)
+
 - In Constellation Mode, you can look at various constellations in the night sky.
 - You can find and check the constellation you want through moving the screen.
 
 #### [Checking constellations' description]
 ![gif animation](img/23.gif)
+
 - When the constellation is placed in the center of the screen, the constellation is activated to check the illustration and explanation of the constellation.
 - Unactivated constellations appear opaque, allowing users to simultaneously check the shape and illustration of constellations.
 
 #### [Home button, Setting, check my sign]
 ![gif animation](img/24.gif)
+
 - Ppress the home button to return to the main screen.
 - Setting allows users to set brightness, GPS, and position.
 - Check my sign allows users to identify their constellations.

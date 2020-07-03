@@ -66,25 +66,29 @@ The next thing what we've done is user research. If the function of the system a
 ![](img/6.jpg)
 ![](img/7.jpg)
 
-##### Variable Description
+#### Variable Description
 - x,y,z-coordinate: x, y, z distance Box-x,y,z: x, y, z of box
 - Bulb: type of bulb
 - C: Environmental temperature
 - Side: the side the temperature is getting measured W: Bulb watt
+
 ![](img/8.jpg)
+
 - Wall-temp-out-surf: Temperature Data size:
 - The dataset contains around 1.48 million rows containing information of test- produced temperature. We started with around 150,000 in the beginning and continued to receive to more data to make the model stronger.
 
 #### 2.3.2. Machine Learning
-##### 1) Multiple Linear Regression Source code (brief)
+#### 1) Multiple Linear Regression Source code (brief)
 ![](img/9.jpg)
 ![](img/10.jpg)
 
 **Equation**
+
 ![](img/11.jpg)
 ![](img/12.jpg)
 
 **Result**
+
 The model was approached in two different perspectives, by individual temperature and mean temperature. Individual temperature modelling was running the algorithm simply on the data itself with no particular work done on. The problem was that the modelling took a long time and produced unsatisfying results with RMSE 14.957 and R-squared 0.7752.
 
 Therefore, we tried to decrease the size of the dataset by calculating the mean temperature of rows that shared the identical data for all variables other than the temperature. However, the mean temperature modelling also did not produce satisfying results. RMSE was recorded as 14.735 and R-squared was recorded as 0.770, which was only a small improvement from the former individual temperature model.
@@ -93,8 +97,9 @@ As the result, multiple linear regression was concluded as not fit for this proj
 
 ![A picture containing boat, many, group  Description automatically generated](img/13.jpg)
 
-##### 2) Random Forest (xg-boost)
-![](img/14.jpg)
+#### 2) Random Forest (xg-boost)
+![](img/14.png)
+
 The train and test dataset ratios were 8:2 and used cloud based machine learning. The parameters were Ntrees =1000, learning rate=0.01, max_depth=7, num_folds= 3.
 
 The model showed relatively better score than multiple linear regression, with the test RMSE scoring 8.5, but we realized that this was only strong against seen data. The model failed to predict temperatures for conditions that it has not seen, which was critical because in actual service, there will always be new kinds of data.
@@ -102,16 +107,19 @@ The model showed relatively better score than multiple linear regression, with t
 Again, the fundamental problem was that the data was not normalized. Although the data showed a standard mean increase accordingly to type of watt as shown below, failure of data normalization forced the model to not appropriately accept the relationship and to only see the instant relationship in the seen data.
 
 ![](img/15.jpg)
+
 Therefore, we quickly wrapped up the random foresting model and the source code is not shown because the model was falsely ineffective and did not give any insights to the project. Accordingly, the next approach was deep learning using h2o.
 
 #### 2.3.3. Deep Learning
 ![](img/16.jpg)
+
 The package we used for deep learning was h2o, which is a java based open source known for its web browser GUI and grid search to find the best model. The best hyperparameters were:
 
 ![](img/17.jpg)
+
 As shown in the left, the RMSE was brought down to 0.27 in our best models. The best hyperparameter sets were (128, 128, 64) for hidden neural networks and 0.01 for learning rate.
 
-##### Limits
+#### Limits
 1. Weak zones
 The model showed a very high accuracy in terms of low RMSE for the dataset overall. However, there were particular weak points that the model showed very poor performance. The size of those weak zones were similar to other zones and also showed similar statistical reviews, so in the given time, we failed to recognize why this “weak zone” problem was occurring.
 
@@ -127,21 +135,29 @@ https://www.mangoboard.net/
 
 Mango Board is a web-based design-making platform which provides templates, design elements, and editing tools for online images. Moreover, it supplies offline print function when there’s internet connection. Therefore, we thought mango board platforms can be a great design tool for developing application prototypes.
 
-##### Explanation of your program with images
+#### Explanation of your program with images
 ![](img/18.jpg)
+
 **Main Screen**
+
 When you start InCarTech, you will see the main screen as shown in the picture above. If you turn on the app and talk, InCarTech will recognize your voice. You can experience a wide range of value by interacting with InCarTech.
 
 ![](img/19.jpg)
+
 **Path Search**
+
 When you tell InCarTech about your destination, it will navigate through the path. At the same time, it predicts and notifies the driver of the various situations that exist between the departure and destination.
 
 ![](img/20.jpg)
+
 **Notify car status after arrival**
+
 When you arrive at your destination, InCarTech will brief you on the condition of your vehicle. This allows the driver to determine if there are any problems within the vehicle system that they are not aware of or if there are other considerations.
 
 ![](img/21.jpg)
+
 **Main Functions of InCarTech**
+
 InCarTech has 4 main functions. The functions are as follows.
 
 First, Check Conditions of Wipers and Air Conditions. Second check the Conditions of Tires. Third function is Check Conditions of Lamps. The fourth function is Check Conditions of Engines.
@@ -178,9 +194,9 @@ I am actually not a person who is familiar with working as a team. Because of my
 ![](img/22.jpg)
 
 ## References
-- https://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html
-- https://docs.h2o.ai/h2o/latest-stable/h2o-docs/save-and-load-model.html
-- https://docs.h2o.ai/h2o/latest-stable/h2o-docs/checkpointing-models.html
-- https://h2o-release.s3.amazonaws.com/h2o/rel-ueno/2/docs-website/h2o-docs/grid-search.html
-- https://datascienceplus.com/how-do-neural-nets-learn-a-step-by-step-explanation-using-the-h2o-deep-learning-algorithm/
-- https://www.kdnuggets.com/2018/01/deep-learning-h2o-using-r.html
+- [https://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html)
+- [https://docs.h2o.ai/h2o/latest-stable/h2o-docs/save-and-load-model.html](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/save-and-load-model.html)
+- [https://docs.h2o.ai/h2o/latest-stable/h2o-docs/checkpointing-models.html](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/checkpointing-models.html)
+- [https://h2o-release.s3.amazonaws.com/h2o/rel-ueno/2/docs-website/h2o-docs/grid-search.html](https://h2o-release.s3.amazonaws.com/h2o/rel-ueno/2/docs-website/h2o-docs/grid-search.html)
+- [https://datascienceplus.com/how-do-neural-nets-learn-a-step-by-step-explanation-using-the-h2o-deep-learning-algorithm/](https://datascienceplus.com/how-do-neural-nets-learn-a-step-by-step-explanation-using-the-h2o-deep-learning-algorithm/)
+- [https://www.kdnuggets.com/2018/01/deep-learning-h2o-using-r.html](https://www.kdnuggets.com/2018/01/deep-learning-h2o-using-r.html)

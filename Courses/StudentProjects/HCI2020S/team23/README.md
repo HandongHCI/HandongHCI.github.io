@@ -24,41 +24,53 @@ Our team used Leap Motion and Unity to implement our program.
 
 #### 2. Sketch
 ![1st Rough Draft](img/1.png)
+
 Our 1st Rough Draft Sketches for Sprout 
 
 ![2nd Draft](img/2.png)
+
 2nd Draft for Sprout 
 
 #### 3. Explanation of Sprout
 ![Intro](img/3.png)
+
 This is our starting screen 
 
 ![Tutorial](img/4.png)
 ![Tutorial2](img/5.png)
+
 Our tutorial begins with this slide.
 
 ![Garden](img/6.png)
+
 This is an overview of your garden. 
 
 ![Seed](img/7.png)
+
 Choose a seed that you wish to plant. 
 
 ![3icons](img/8.png)
+
 We provided 3 icons (sun, moon, and cloud) as a default. The sun represents the amount of exercise. The moon represents the amount of sleep. The cloud represents the amount of water you drank. 
 
 ![gauge](img/9.png)
+
 The gauge on the left rises everytime you complete a task/mission. You can slide down on each icon up to 3 times per day. 
 
 ![bluebulb](img/10.png)
+
 Slide down on the blue bulb 
 
 ![glow](img/11.png)
+
 The blue bulb starts glowing indicating that you've succesfully completed your daily mission. 
 
 ![rose](img/12.png)
-Your flower is fully grown ! 
+
+Your flower is fully grown! 
 
 ![plant](img/13.png)
+
 Your Rose is planted in your garden! Complete your mission every day to grow your garden. 
 
 #### 4. Source Code File

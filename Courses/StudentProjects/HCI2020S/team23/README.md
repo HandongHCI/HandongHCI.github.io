@@ -62,7 +62,7 @@ Your flower is fully grown !
 Your Rose is planted in your garden! Complete your mission every day to grow your garden. 
 
 #### 4. Source Code File
-Find our Source Code Files [here](source/source.docx)
+Find our source code files from [[here](source/source.docx)
 
 #### 5.Demo Video
 View our [Demo Video](https://drive.google.com/file/d/1uxQTkJAahFRxnK7z2ckBsBdYkmXt-AMt/view?usp=sharing)
@@ -77,13 +77,13 @@ We also had some trouble with having our Leap Motion recognize our hand motions 
 For our future studies, we plan on experimenting with our Leap Motion so that we have different types of interaction to provide more functions and easier navigation. 
 
 ## References 
-- https://assetstore.unity.com/?gclid=CjwKCAjwqdn1BRBREiwAEbZcR90icfCNhmNPQRWAi6stoJbXlsQMGRdE7RZWM-4jjV51m9WDZD4YvRoC7rkQAvD_BwE
-- https://www.youtube.com/watch?v=wKFDvj2ATRg&t=1281s
-- https://www.youtube.com/watch?v=IW2Fhoi1qIU&list=PLLy27HWGLrB0-aePDUVQ8VUGIAFTyTtg1&index=3
-- https://cpp11.tistory.com/13
-- https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=3D-Models/garden/obj&page_num=2
-- https://free3d.com/3d-models/tree
-- https://www.turbosquid.com/Search/3D-Models/vane
-- https://free3d.com/3d-models/well
-- https://www.turbosquid.com/Search/3D-Models/free/garden
-- https://uheeworld.tistory.com/35
+- [https://assetstore.unity.com/?gclid=CjwKCAjwqdn1BRBREiwAEbZcR90icfCNhmNPQRWAi6stoJbXlsQMGRdE7RZWM-4jjV51m9WDZD4YvRoC7rkQAvD_BwE](https://assetstore.unity.com/?gclid=CjwKCAjwqdn1BRBREiwAEbZcR90icfCNhmNPQRWAi6stoJbXlsQMGRdE7RZWM-4jjV51m9WDZD4YvRoC7rkQAvD_BwE)
+- [https://www.youtube.com/watch?v=wKFDvj2ATRg&t=1281s](https://www.youtube.com/watch?v=wKFDvj2ATRg&t=1281s)
+- [https://www.youtube.com/watch?v=IW2Fhoi1qIU&list=PLLy27HWGLrB0-aePDUVQ8VUGIAFTyTtg1&index=3](https://www.youtube.com/watch?v=IW2Fhoi1qIU&list=PLLy27HWGLrB0-aePDUVQ8VUGIAFTyTtg1&index=3)
+- [https://cpp11.tistory.com/13](https://cpp11.tistory.com/13)
+- [https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=3D-Models/garden/obj&page_num=2](https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=3D-Models/garden/obj&page_num=2)
+- [https://free3d.com/3d-models/tree](https://free3d.com/3d-models/tree)
+- [https://www.turbosquid.com/Search/3D-Models/vane](https://www.turbosquid.com/Search/3D-Models/vane)
+- [https://free3d.com/3d-models/well](https://free3d.com/3d-models/well)
+- [https://www.turbosquid.com/Search/3D-Models/free/garden](https://www.turbosquid.com/Search/3D-Models/free/garden)
+- [https://uheeworld.tistory.com/35](https://uheeworld.tistory.com/35)

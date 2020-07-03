@@ -1,7 +1,7 @@
 [← go back to the list](../README.md)
 
 # InCarTech : Interaction Model based on Car Condition Prediction System
-![Sprout Logo](img/1.png)
+![](img/1.jpg)
 
 #### Members
 - Jung Haejun, Jeong Pil Won, Choi Yeabin, Choi Yun Seo
@@ -20,7 +20,7 @@ From now on, we would like to show you the development process of InCarTech syst
 First of all, we would like to help the users to understand how we have sketched the program development process before we developed the program. We prepared several images of idea sketches, paper prototypes, and our final prototypes.
 
 #### 2.1.1. Idea Sketches
-![](img/2.png)
+![](img/2.jpg)
 When we first started this project, we tried to generate our ideas through idea sketches. As a result, we planned to develop our system through four main parts. The 4 parts are:
 1. Car Data Collection
 2. Data Analysis
@@ -28,7 +28,7 @@ When we first started this project, we tried to generate our ideas through idea 
 4. Interaction Model with Car
 
 #### 2.1.2. paper prototype
-![](img/3.png)
+![](img/3.jpg)
 The picture above is a paper prototype which is made to further shape our prototype development after the idea sketch. Through the process of creating paper prototypes, we had time to think about how to plan and execute prototypes in more detailed ways.
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/kvqU4ViWzmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -49,10 +49,10 @@ The next thing what we've done is user research. If the function of the system a
 
 #### Main Question
 - 이용자 본인이 생각할 때 자동차 관리(정비 포함)를 잘 한다(또는 못한다)라고 생각하십니까?
-![](img/4.png)
+![](img/4.jpg)
 
 - 자동차 관리 및 정비 보조 시스템의 필요성을 느끼십니까?
-![](img/5.png)
+![](img/5.jpg)
 
 #### Insights
 - Most drivers feel they are not effectively taking care of their automobiles.
@@ -63,26 +63,26 @@ The next thing what we've done is user research. If the function of the system a
 
 ### 2.3. The Model of InCarTech
 #### 2.3.1. Data Exploration
-![](img/6.png)
-![](img/7.png)
+![](img/6.jpg)
+![](img/7.jpg)
 
 ##### Variable Description
 - x,y,z-coordinate: x, y, z distance Box-x,y,z: x, y, z of box
 - Bulb: type of bulb
 - C: Environmental temperature
 - Side: the side the temperature is getting measured W: Bulb watt
-![](img/8.png)
+![](img/8.jpg)
 - Wall-temp-out-surf: Temperature Data size:
 - The dataset contains around 1.48 million rows containing information of test- produced temperature. We started with around 150,000 in the beginning and continued to receive to more data to make the model stronger.
 
 #### 2.3.2. Machine Learning
 ##### 1) Multiple Linear Regression Source code (brief)
-![](img/9.png)
-![](img/10.png)
+![](img/9.jpg)
+![](img/10.jpg)
 
 **Equation**
-![](img/11.png)
-![](img/12.png)
+![](img/11.jpg)
+![](img/12.jpg)
 
 **Result**
 The model was approached in two different perspectives, by individual temperature and mean temperature. Individual temperature modelling was running the algorithm simply on the data itself with no particular work done on. The problem was that the modelling took a long time and produced unsatisfying results with RMSE 14.957 and R-squared 0.7752.
@@ -91,24 +91,24 @@ Therefore, we tried to decrease the size of the dataset by calculating the mean 
 
 As the result, multiple linear regression was concluded as not fit for this project. The main problem was that the data was created in a laboratory test condition and not normalized, which led to statistical problems in residual analysis.
 
-![A picture containing boat, many, group  Description automatically generated](img/13.png)
+![A picture containing boat, many, group  Description automatically generated](img/13.jpg)
 
 ##### 2) Random Forest (xg-boost)
-![](img/14.png)
+![](img/14.jpg)
 The train and test dataset ratios were 8:2 and used cloud based machine learning. The parameters were Ntrees =1000, learning rate=0.01, max_depth=7, num_folds= 3.
 
 The model showed relatively better score than multiple linear regression, with the test RMSE scoring 8.5, but we realized that this was only strong against seen data. The model failed to predict temperatures for conditions that it has not seen, which was critical because in actual service, there will always be new kinds of data.
 
 Again, the fundamental problem was that the data was not normalized. Although the data showed a standard mean increase accordingly to type of watt as shown below, failure of data normalization forced the model to not appropriately accept the relationship and to only see the instant relationship in the seen data.
 
-![](img/15.png)
+![](img/15.jpg)
 Therefore, we quickly wrapped up the random foresting model and the source code is not shown because the model was falsely ineffective and did not give any insights to the project. Accordingly, the next approach was deep learning using h2o.
 
 #### 2.3.3. Deep Learning
-![](img/16.png)
+![](img/16.jpg)
 The package we used for deep learning was h2o, which is a java based open source known for its web browser GUI and grid search to find the best model. The best hyperparameters were:
 
-![](img/17.png)
+![](img/17.jpg)
 As shown in the left, the RMSE was brought down to 0.27 in our best models. The best hyperparameter sets were (128, 128, 64) for hidden neural networks and 0.01 for learning rate.
 
 ##### Limits
@@ -128,19 +128,19 @@ https://www.mangoboard.net/
 Mango Board is a web-based design-making platform which provides templates, design elements, and editing tools for online images. Moreover, it supplies offline print function when there’s internet connection. Therefore, we thought mango board platforms can be a great design tool for developing application prototypes.
 
 ##### Explanation of your program with images
-![](img/18.png)
+![](img/18.jpg)
 **Main Screen**
 When you start InCarTech, you will see the main screen as shown in the picture above. If you turn on the app and talk, InCarTech will recognize your voice. You can experience a wide range of value by interacting with InCarTech.
 
-![](img/19.png)
+![](img/19.jpg)
 **Path Search**
 When you tell InCarTech about your destination, it will navigate through the path. At the same time, it predicts and notifies the driver of the various situations that exist between the departure and destination.
 
-![](img/20.png)
+![](img/20.jpg)
 **Notify car status after arrival**
 When you arrive at your destination, InCarTech will brief you on the condition of your vehicle. This allows the driver to determine if there are any problems within the vehicle system that they are not aware of or if there are other considerations.
 
-![](img/21.png)
+![](img/21.jpg)
 **Main Functions of InCarTech**
 InCarTech has 4 main functions. The functions are as follows.
 
@@ -175,7 +175,7 @@ Working as a team was quite a challenge for me as our team’s subject for the p
 ### Choi Yun Seo
 I am actually not a person who is familiar with working as a team. Because of my personality, it was challenging for me at first. It was even harder due to COVID 19. We always had to meet through Zoom, which is online meeting application and sometimes it was hard for us to adjust each other’s schedule. Furthermore, it was hard for me to get detailed knowledges of car itself; However, I could not only learn about there are definitely interactions between human beings and computers, but also the way of cooperating with others. This experience will be a catalyst of developing and improving myself to be a both better person and better computer scientist in near future.
 
-![](img/22.png)
+![](img/22.jpg)
 
 ## References
 - https://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html

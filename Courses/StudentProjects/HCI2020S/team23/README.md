@@ -6,10 +6,10 @@
 #### Welcome to our project, Sprout! Our project aims to help users maintain and grow healthy habits. Grow a healthy habit to grow a healthy garden! 
 
 #### Members
-- 21500598 임성빈
-- 21800227 노은솔
-- 21800388 손지인
-- 21500809 황단열
+- 임성빈
+- 노은솔
+- 손지인
+- 황단열
 
 ## 1. Introduction 
 ### Background & Goal

@@ -8,6 +8,6 @@
 - [Team 2.1 Smart Farm (Arduino, sensors)](team21)
 - [Team 2.2 미래의 가정용 로봇 호마 (Anki Vector)](team22)
 - [Team 2.3 Sprout (Unity, Leap Motion)](team23)
-- [Team 2.4 Conducting Learning Game (Leap Motion, Scratch)](team24)
+- [Team 2.4 InCarTech : Interaction Model based on Car Condition Prediction System (Smartphone & Vehicle App)](team24)
 - [Team 2.5 Baby Sleeping Monitor (MindWave, Hue)](team25)
 - [Team 2.6 Cafe Recipe Memorize Game (Leap Motion, Scratch)](team26)

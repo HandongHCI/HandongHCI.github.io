@@ -10,4 +10,4 @@
 - [Team 2.3 Sprout (Unity, Leap Motion)](team23)
 - [Team 2.4 InCarTech : Interaction Model based on Car Condition Prediction System (Smartphone & Vehicle App)](team24)
 - [Team 2.5 Sign Language (Webcam, OpenPose)](team25)
-- [Team 2.6 Math Game for Children (Leap Motion, Scratch)](team26)
+- [Team 2.6 Math Game for Children (Leap Motion, Unity)](team26)

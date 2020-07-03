@@ -21,6 +21,7 @@ First of all, we would like to help the users to understand how we have sketched
 
 #### 2.1.1. Idea Sketches
 ![](img/2.jpg)
+
 When we first started this project, we tried to generate our ideas through idea sketches. As a result, we planned to develop our system through four main parts. The 4 parts are:
 1. Car Data Collection
 2. Data Analysis
@@ -29,6 +30,7 @@ When we first started this project, we tried to generate our ideas through idea 
 
 #### 2.1.2. paper prototype
 ![](img/3.jpg)
+
 The picture above is a paper prototype which is made to further shape our prototype development after the idea sketch. Through the process of creating paper prototypes, we had time to think about how to plan and execute prototypes in more detailed ways.
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/kvqU4ViWzmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -49,9 +51,11 @@ The next thing what we've done is user research. If the function of the system a
 
 #### Main Question
 - 이용자 본인이 생각할 때 자동차 관리(정비 포함)를 잘 한다(또는 못한다)라고 생각하십니까?
+
 ![](img/4.jpg)
 
 - 자동차 관리 및 정비 보조 시스템의 필요성을 느끼십니까?
+
 ![](img/5.jpg)
 
 #### Insights

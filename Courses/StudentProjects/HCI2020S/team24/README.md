@@ -85,6 +85,7 @@ The next thing what we've done is user research. If the function of the system a
 **Equation**
 
 ![](img/11.jpg)
+<br>
 ![](img/12.jpg)
 
 **Result**

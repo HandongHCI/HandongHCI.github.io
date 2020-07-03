@@ -49,6 +49,7 @@
 - All lecturing materials of Prof. Lee's courses are shared through his Google Drive: [http://tiny.cc/HandongHCI](http://tiny.cc/HandongHCI).
 
 ## Student Projects
+- [HCI 2020S](StudentProjects/HCI2020S/README.md)
 - [HCI 2019S](StudentProjects/HCI2019S/README.md)
 - [HCI 2018S](StudentProjects/HCI2018S/README.md)
 - [ICT Prototyping 2019S](StudentProjects/ICTprototyping2019S/README.md)

@@ -4,14 +4,14 @@
 ![](img/1.png)
 
 #### Members
-Jihyun Lee
-Jaeho Jung
-Subeen Bae
-Sieun Shin
+- Jihyun Lee
+- Jaeho Jung
+- Subeen Bae
+- Sieun Shin
 <img height="50" src="img/2.png">
 <img height="50" src="img/3.png">
 <img height="50" src="img/4.png">
-<img height="50" src="img/5.png">
+<img height="50" src="img/5.jpg">
 
 ## 1. Introduction 
 
@@ -55,7 +55,7 @@ Sieun Shin
 - tab키 또는 얼굴 인식 마우스를 통해  SEND버튼을 선택하면, 입력된 문자와 이모지가 채팅방에 전송된다.
 
 ### Demo Video
- <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GHBKlXoNvwU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GHBKlXoNvwU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## 3. Implementation
 ### 초기 Idea sketch
@@ -63,7 +63,7 @@ Sieun Shin
 ![](img/13.png)
 
 ### 최종 완성본
-![](img/14.png)
+![](img/14.gif)
 
 ### Schedule
 ![](img/15.png)

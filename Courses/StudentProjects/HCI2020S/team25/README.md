@@ -4,8 +4,9 @@
 ![](img/1.png)
 
 #### Members
-Chan Kim, So-ryung Park, Ye-sol Cho, Ye-won Lee
 ![](img/2.png)
+
+Chan Kim, So-ryung Park, Ye-sol Cho, Ye-won Lee
 
 ## 1. Introduction
 ### Project’s Background    
@@ -25,11 +26,13 @@ In 1997, the sign language interpreter qualification system was implemented by t
 
 #### Current situation/problem
 ![](img/5.png)
+
 Photo 1. number of national Deaf & Sign Language Interpreter
 
 According to statistics from the Ministry of Health and Welfare, the number of deaf and speech-impaired people in the country is estimated to be 245,801, and the combined number of unregistered people may reach 350,000. On the other hand, the number of national certified sign language interpreters was 835 which is significantly insufficient.
 
 ![](img/6.png)
+
 Photo 2. Percentage of special school teachers who have a sign language interpreter certificate
 
 Among 548 teachers at special schools with hearing impairments nationwide, only 21 teachers have sign language translation certificates(National Human Rights Commission, 2005). Only 3.8 percent of teachers at special schools with hearing impairments have sign language and interpretation certificates, making it urgent to improve the educational environment for deaf children.
@@ -79,10 +82,12 @@ There are three versions available in OpenPose: 'MPI_15', 'COCO_18', and 'Body_2
 The models we used were 'COCO_18' and 'Body_25'. This is because 'MPI_25' is not suitable for recognizing sign language by providing only a simple form, and the computer has shown many errors. On the other hand, 'COCO_18' was appropriate to represent the shape of the hand in a line that would not strain the computer. And 'Body_25' was turned to the desktop because it was not available on a regular laptop, and it was an optimized model for sign recognition because of its facial expression.
 
 ![](img/8.png)
+
 Photo3. Body_25(left) and COCO_18(right)
 
 #### How to run it
-![](img/9.jpg)
+![](img/9.png)
+
 Photo4. Windows PowerShell Running
 
 First, specify the location value of the folders where the environment is built through Windows PowerShell. Afterwards, execute Python code that recognizes the area you want to know, such as the hand or face, from a video or photo. Select one of the models ("MPI_15", "COCO_18", and "Body_25") that recognize and output the area.
@@ -192,84 +197,84 @@ except Exception as e:
 #### Sketch
 ![](img/10.jpg)
 ![](img/11.jpg)
-![](img/12.jpg)
-![](img/13.jpg)
+![](img/12.png)
+![](img/13.png)
 
 Although we set a topic for sign language education that recognized "motion," we thought that each member would have different ideas about the design or function of the app. So we decided to sketch and collect the ideas of each app. We collected the sketches and collected good ideas from my team members such as the big design frame of the app, how to study, and games.
 
 #### Prototype
-![](img/14.jpg)
-![](img/15.jpg)
-![](img/16.jpg)
-![](img/17.jpg)
+![](img/14.png)
+![](img/15.png)
+![](img/16.png)
+![](img/17.png)
 
 Prototyping was completed in three steps, largely through two stages of development. At first, ideas collected from sketches were simply prototyped with ppt and sigma.
 
-![](img/18.jpg)
+![](img/18.png)
 
 After that, the app prototype was created through Adobe XD by devolving screen layout and screen movement. Then, we tried to clarify how to study through motion recognition and how to review through games.
 
-![](img/19.jpg)
+![](img/19.png)
 
 We unified slightly different layouts such as photo size and location, the app has been organized so that the photos can be placed in the same location and the same size. Furthermore, we discussed and applied some of the feedback from the user research to app prototyping. First of all, we put mirror mode in the video after accepting feedback that 'I wish there was a mirror mode.' And we took feedback that the game didn't make sense and made the game more concrete.
 
 ### Explanation of program with images
 #### Main
-<img src="img/20.jpg" height="400">
-<img src="img/21.jpg" height="400"><br>
-<img src="img/22.jpg">
+<img src="img/20.png" height="400">
+<img src="img/21.png" height="400"><br>
+<img src="img/22.png">
 
 These are the main pages that pop up when you start an app. You can see the app's name and logo design. And you can check your finger position. There are five icons below, each representing home, table of studying contents, favorites, games, and My Page. When you press the home icon, the image on the right comes up.
 
 #### Study
-<img src="img/23.jpg" height="400">
-<img src="img/24.jpg" height="400">
-<img src="img/25.jpg" height="400">
+<img src="img/23.png" height="400">
+<img src="img/24.png" height="400">
+<img src="img/25.png" height="400">
 
 If you touch 'Studying Contents', you can see the screen on the left. You can learn the consonants and vowels of sign language if you click '지화'. If you choose '일상', you can learn various everyday sentences.
 
-<img src="img/26.jpg" height="400">
-<img src="img/27.jpg" height="400">
-<img src="img/28.jpg" height="400">
-<img src="img/29.jpg" height="400">   
+<img src="img/26.png" height="400">
+<img src="img/27.png" height="400">
+<img src="img/28.png" height="400">
+<img src="img/29.png" height="400">   
 
 Let's study consonants first. You can study by watching videos. Click "View in mirror mode" to view the video in mirror mode, which is better for studying. If you touch 'follow', you can follow the sign language through motion recognition and get feedback on how accurate it is.
 
-<img src="img/30.jpg" height="400">
-<img src="img/31.jpg" height="400">
-<img src="img/32.jpg" height="400">
-<img src="img/33.jpg" height="400">
+<img src="img/30.png" height="400">
+<img src="img/31.png" height="400">
+<img src="img/32.png" height="400">
+<img src="img/33.png" height="400">
 
 Studying sentences is also possible to watch in mirror mode and to follow the motion.
 
 #### Game
 You can review what you studied through two games. They are '지화 끝말잇기' and ‘수화 이구동성’. When you click on the game button, the game description appears. You can look at the game description and play the game as instructed.
 
-<img src="img/34.jpg" height="400">
-<img src="img/35.jpg" height="400">
-<img src="img/36.jpg" height="400">
-<img src="img/37.jpg" height="400">
+<img src="img/34.png" height="400">
+<img src="img/35.png" height="400">
+<img src="img/36.png" height="400">
+<img src="img/37.png" height="400">
 
 When you start the ‘Jihwa Word Chain game’, Jihwa's picture appears. Then, you should recognize the word represented by the picture and then take the word that comes after it in motion. The computer will recognize your motion to check the matching rate, check if you have done the right motion and give you a score.
 
-<img src="img/38.jpg" height="400">
-<img src="img/39.jpg" height="400">
-<img src="img/40.jpg" height="400">
-<img src="img/41.jpg" height="400">
+<img src="img/38.png" height="400">
+<img src="img/39.png" height="400">
+<img src="img/40.png" height="400">
+<img src="img/41.png" height="400">
 
 If you click the 'sign language's one-mouth game', you can see the sentence above the app. After three seconds, you should do sign language with a sentence meaning. The computer will recognize your motion and give you a score.
 
-<img src="img/42.jpg" height="200">
-<img src="img/43.jpg" height="200">
+<img src="img/42.png" height="200">
+<img src="img/43.png" height="200">
 
 It's the app's screens of the game when you do motion.
 
 #### Favorites & My page
 
-<img src="img/44.jpg" height="400">
-<img src="img/45.jpg" height="400">
-<img src="img/46.jpg" height="400">
-<img src="img/47.jpg" height="400">
+<img src="img/44.png" height="400">
+<img src="img/45.png" height="400">
+<img src="img/46.png" height="400">
+<img src="img/47.png" height="400">
 
 As you study, you can add favorite sentences or words. You can see the sentences you added as favorites at the 'Favorites icon' below. Also, You can check the progress of your studies on My Page. The app tells you how much you have studied and what grades you have in the game.
 

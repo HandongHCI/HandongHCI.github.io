@@ -1,7 +1,7 @@
 [← go back to the course page](../../README.md)
 
 ### Student Projects in HCI Course in 2020S
-- [Team 1.1 엄마잔소리 (Smartphone App)](teram11)
+- [Team 1.1 엄마잔소리 (Smartphone App)](team11)
 - [Team 1.2 3D Interactive Dictionary (Leap Motion, Unity)](team12)
 - [Team 1.3 Interactive Story Telling Game (Kinect, Scratch)](team13)
 - [Team 1.5 Interactive Olympic Game (Kinect, Scratch)](team15)

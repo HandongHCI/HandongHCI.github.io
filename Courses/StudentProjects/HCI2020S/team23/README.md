@@ -34,7 +34,7 @@
 
 - [어플 시연 영상](https://drive.google.com/file/d/1zE9__IC03LUmsb_ZjvKhtT6bytxym9oZ/view?usp=sharing)
 
-### 3. Source code
+### 3. Source Code
 #### SDK 설치
 벡터 SDK를 사용하기 위해서는 먼저 컴퓨터에 설치를 해야합니다. 설치의 전제 조건은 다음과 같습니다.
 1. 벡터가 켜져 있어야 합니다.
@@ -96,6 +96,8 @@ with anki_vector.Robot(args.serial) as robot:
 with anki_vector.Robot(args.serial, show_viewer = True, show_3d_viewer = True, enable_face_detection = True, enable_custom_object_detection = True, enable_nav_map_feed = True):
 ```
 #### [Demo video](https://drive.google.com/file/d/1WRkExbGfxuPEFxZn6AsWggE7-FzRNN7V/view?usp=sharing)
+
+#### [Download](source/source.docx)
 
 
 ## 3. Discussion

@@ -1,6 +1,6 @@
 [← go back to the list](../README.md)
 
-# Face Recognition-Based Interactive Online Lecture-Room
+# HCI final report 1-3
 
 #### Increasing interaction between teacher-student of online learning using hand detection and face recognition in webcam
 #### Members
@@ -8,12 +8,11 @@
 
 ## 1. Introduction 
 ![](img/1.png)
+[© stuffbyjlim](http://www.redbubble.com/people/stuffbyjli)
 
 ### Background and goal of our research
 코로나 사태로 인해 초등학교부터 대학교까지 많은 학교들이 온라인 수업으로 학기를 진행했다. 그러나 대면수업과는 달리 온라인 수업은 학생과 교사의 상호작용적인 수업이 아닌, 수업화면과 수업에 기반인 수업이 진행되었다. 그래서 기존 수업과는 달리 학생들과 교사들 사이의 상호작용이 원활하지 않다는 문제점을 발견하고, 이를 해소하기 위해 컴퓨터와 노트북에 흔히 내장되어 있는 웹캠을 이용하여 교사와 학생간의 상호작용을 높이고자 하였다. 내장된 웹캠을 손 인식과 얼굴 랜드마크 인식 기능을 이용할 것이다.
-학생과 교사의 상호작용의 부족함을 해소하기 위해, 우리 조는 학생들의 집중도를 높일 수 있게 도와줄 시각적 효과와 교사들이 학생들의 집중도와 이해도를 알 수 있는 척도를 제공해주는 것이 목표이다.
-
-Due to COVID 19's global trend, many schools and universities offer online classes. However, since online classes are currently centered on lectures, they have not enough interaction between students and teachers. Through this problem, out team decided to find and apply measures to stimulate insufficient interaction. As a method of activating interaction, the built-in webcam of the laptop and the desktop computer will be used with hand detection and face recognition. To resolve lack of interaction between teachers and students, we aim to raise students’ concentration by using visual effects to encourage students. also, we aim to enable teachers to know students’ concentration and understanding during lectures.
+학생과 교사의 상호작용의 부족함을 해소하기 위해, 우리 조는 학생들의 집중도를 높일 수 있게 도와줄 시각적 효과와 교사들이 학생들의 집중도와 이해도를 알 수 있는 척도를 제공해주는 것이 목표이다. 
 
 ## 2. Main contents
 ### How to build our program

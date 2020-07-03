@@ -1,107 +1,116 @@
 [← go back to the list](../README.md)
 
-# HCI final report 1-3
+# Typing for ALL
+![](img/1.png)
 
-#### Increasing interaction between teacher-student of online learning using hand detection and face recognition in webcam
 #### Members
-박성경, 반수현, 최슬기, 장하리
+Jihyun Lee
+Jaeho Jung
+Subeen Bae
+Sieun Shin
+<img height="50" src="img/2.png">
+<img height="50" src="img/3.png">
+<img height="50" src="img/4.png">
+<img height="50" src="img/5.png">
 
 ## 1. Introduction 
-![](img/1.png)
-[© stuffbyjlim](http://www.redbubble.com/people/stuffbyjli)
 
-### Background and goal of our research
-코로나 사태로 인해 초등학교부터 대학교까지 많은 학교들이 온라인 수업으로 학기를 진행했다. 그러나 대면수업과는 달리 온라인 수업은 학생과 교사의 상호작용적인 수업이 아닌, 수업화면과 수업에 기반인 수업이 진행되었다. 그래서 기존 수업과는 달리 학생들과 교사들 사이의 상호작용이 원활하지 않다는 문제점을 발견하고, 이를 해소하기 위해 컴퓨터와 노트북에 흔히 내장되어 있는 웹캠을 이용하여 교사와 학생간의 상호작용을 높이고자 하였다. 내장된 웹캠을 손 인식과 얼굴 랜드마크 인식 기능을 이용할 것이다.
-학생과 교사의 상호작용의 부족함을 해소하기 위해, 우리 조는 학생들의 집중도를 높일 수 있게 도와줄 시각적 효과와 교사들이 학생들의 집중도와 이해도를 알 수 있는 척도를 제공해주는 것이 목표이다. 
+### Background
+채팅 프로그램에는 손의 사용이 많이 요구되기 때문에, 손을 사용하는 것에 제약이 있는 사람들은 채팅에 불편함을 느낀다. 이러한 문제를 해결하기 위해 우리는 음성으로 text를 타이핑 해주고 얼굴 인식을 통해 얼굴표정을 이모지로 변환하여 타이핑해주는 프로그램을 기획하였다.
 
-## 2. Main contents
-### How to build our program
-We use hand detection and face landmarks openCV and PyQt5 to build our program
-![](img/2.png)
+### Target User
+손을 사용하는것이 불편한 사람들을 타겟 유저로 하여 프로그램을 기획하였다. 유저는 손가락을 사용하여 타이핑 할 필요 없이 목소리와 얼굴 표정만으로 원하는 말과 감정(이모지)를 전송할 수 있다.
 
-### Paper prototype
-We have two version of paper prototype, teachers and students
-![](img/3.png)
-![](img/4.png)
-![](img/5.png)
+### Goal
+유저들이 손가락의 사용을 최소화하여 음성으로 text 를 입력하고 얼굴인식을 이용하여 다양한 이모지를 입력할 수 있도록 한다.
+
+## 2. Images of our Program
+### Main Screen
 ![](img/6.png)
+- 메인 화면은 채팅 내용이 보이는 화면 (초록색 화면),
+- 메시지를 적는 창 (하얀색 화면), 
+- 목소리 인식 버튼 (상단에 있는 버튼 중 왼쪽에 있는 마이크 모양 버튼),
+- 얼굴 인식 버튼 (상단에 있는 버튼 중 오른쪽에 있는 얼굴 모양 버튼),
+- SEND 버튼(우측 하단에 있는 노란색 버튼)
+
+### Voice Recognition
 ![](img/7.png)
+- 메인 화면에서 얼굴 인식 버튼을 누르면 다음과 화면으로 전환된다.
+- “Currently Recording…” 이라는 메시지가 뜨면, 타이핑 하고 싶은 말을 하여 목소리 인식을 한다.
 
-### Explanation of source code
-1. git에서 해당되는 소스파일을 clone 해온다.
-```
-git clone https://github.com/csg17/HCI
-```
-
-2. 사용한 오픈소스 github주소에 들어가서 필요한 것들을 다운받는다.
-- [Download](https://github.com/jaredvasquez/CNN-HowManyFingers)하여 img.tgz와 model_6cat.h5를 다운받아서 finger_counting에 넣어준다.
-- [Downlaod](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)하여 shape_predictor_68_landmarks.dat을 다운받아서 drowsiness&sleep폴더에 넣어준다.
-
-3. pyqt 설치하기.
-- [Download](https://mainia.tistory.com/5604)
-
-4. 총 4가지의 폴더가 다운로드 받아진다. (drowsiness&sleep, zoom_version2_pyqt2, finger_counting, prof)
-- 졸거나 하품할 때 알림이 나오는 코드를 실행하려면 drowsiness&sleep을 들어간다.
-```
-cd drowsiness&sleep
-python drowsiness_sleep.py --shape-predictor shape_predictor_68_landmarks.dat --alarm alarm.wav
-```
-
-- 가상의 온라인 학습 창을 실행하기 위해서는 zoom_version2_pyqt 를 들어간다.
-```
-cd zoom_version2_pyqt
-python app.py
-```
-
-- 손가락을 counting 해주고 정답인지 아닌지 알려주는 코드를 실행하려면 finger_counting을 들어간다. 
-```
-cd finger_counting
-python application.py
-```
-
-- 교수님 입장의 인터페이스를 보여주는 코드를 실행하려면 prof를 들어간다.
-```
-cd prof
-python prof.py
-```
-
-### Explanation of your program with images
-#### [수업 중 학생이 졸고 있는 상황]
-- 화면 왼쪽에 보이는 세개의 숫자는 순서대로 다음과 같다.
-	1. hapum: 하품을 하면, 숫자가 커짐
-	2. EAR: 눈을 감으면 숫자가 작아짐
-	3. COUNTER: 눈이 감기는 것이 몇 프레임 이상 지속되는지 프레임 수를 기록한 것
 ![](img/8.png)
+- 목소리 인식이 완료 되면 메시지를 입력하는 창에 인식된 문장이 타이핑 된다.
 
-- 졸고 있는 학생에게 소리와 함께 아래 화면처럼 아이콘이 뜬다. 
+### Voice Recognition
 ![](img/9.png)
+- 메인 화면에서 얼굴 인식 버튼을 누르면  “A picture will be automatically taken after 3 seconds” 라는 메시지가 뜬다.
+-  메시지가 뜬 후, 3초뒤에 자동으로 사진이 찍힌다.
 
-- 하품을 하는 학생에게 아래 화면처럼 문구가 뜬다.
 ![](img/10.png)
+- 얼굴 표정을 인식하여, 비슷한 감정의 이모지들을 추천해 준다.
+- tab키 또는 얼굴 인식 마우스를 이용하여 이모지를 하나 선택하면 메시지 입력창에 이모지가 입력된다.
 
-#### [수업 중 퀴즈 푸는 상황]
-- 다른 학생들의 화면은 가려지게 되고, 자신의 손가락으로 표시하면 웹캠을 통해 인식되고 답이 맞는지 틀렸는지 화면에 나오게 된다.
-- 모든 수업은 기본적으로 오른쪽 학습목표가 기술되어 있고, 학습목표 후 퀴즈를 풀면 자동으로 체크되게 된다. 현재 어느 부분의 진도를 나갔는지 확인이 가능하다.
-![](11.png)
-![](12.png)
+### Send
+![](img/11.png)
+- tab키 또는 얼굴 인식 마우스를 통해  SEND버튼을 선택하면, 입력된 문자와 이모지가 채팅방에 전송된다.
 
-#### 수업 중 이해도 확인 방법
-- 타임라인과 함께 이해도를 묻는 란이 오른쪽에 표시된다. 학생들은 각자 이해정도를 표시하면, 오른쪽에 색으로 표시되며 교수님께 전달된다.
-![](13.png)
+### Demo Video
+ <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GHBKlXoNvwU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Demo video
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/_-O_nURtmps" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+## 3. Implementation
+### 초기 Idea sketch
+![](img/12.png)
+![](img/13.png)
 
-## 3. Conclusion
-### Limitation
-- 눈의 감김, 하품 외에도 학생의 집중도 및 참여도를 측정할 수 있는 척도의 다양화
-- 학생들의 수업 참여도 및 집중도를 높이고 이를 확인하는 심화된 인터페이스 구현
-- 온라인 수업과 같은 그룹 화상 회의 구현에 있어 기술적 제약 존재
-- 사용자가 다양한 기능을 최대한 활용할 수 있도록 방향성 제시 필요
+### 최종 완성본
+![](img/14.png)
 
-### Future Studies
-- 팝퀴즈 기능에 부정행위 방지를 위한 시간 설정과 화면구성 대한 평가가 매우 좋았다. (코로나 사태로 부정행위에 무방비한 온라인 시험을 이와 연계시켜 발전시킬 수 있다고 기대한다.)
--  온라인 수업에서 웹캠으로 포착할 수 있는 학생의 집중도 및 참여도 측정 척도에 대한 연구가 필요하다.
+### Schedule
+![](img/15.png)
 
-### Conclusion
-코로나 사태로 초등학교부터 대학교까지 전례 없는 온라인 강의로 학습이 이루어졌다. 온라인 수업 시 비대면 특성상 오프라인 수업에 비해 상대적으로 집중도와 참여도를 이끌 수 없음을 문제로 삼아 해결하고자 하였다. 별도의 기기 없이 웹캠을 이용해서 눈 감김 감지, 하품 감지, 손으로 푸는 팝퀴즈 등의 기능을 구현해 실시간 상호 소통을 활성화할 수 있었다. 추후에 수업 참여도와 집중도를 측정할 수 있는 다양한 척도가 연구된다면 미래 교육적 측면에서 장소와 시간에 구애 받지 않는 온라인 수업의 확장과 발전을 대비할 수 있을 것이라 기대한다.
+### What we use
+1. Voice Recognition
+	1. IBM Watson voice recognition
+	2. https://www.ibm.com/kr-ko/cloud/watson-speech-to-text
+2. Face Recognition
+	1. Naver Facial emotion Recognition
+	2. https://developers.naver.com/docs/clova/api/#/CFR/API_Guide.md
+3. Web
+	1. Framework - [django](https://www.djangoproject.com/)
+	2. HTML, CSS, JavaScript
+
+### How to build
+1. Voice Recognition
+	![](img/17.png)
+	User의 음성파일을 IBM서버로 보내 text 형태로 Return 받는다.
+2. Face Recognition
+	![](img/18.png)
+	User의 얼굴 이미지를 Clova ai. 서버로 보내, 감정을 분석 한 후 감정에 맞는 이모지를 추천한다.
+3. 웹
+	1. 본 채팅 프로토타입이 실제 채팅창처럼 보일 수 있도록, 채팅창 이미지와 관련 아이콘들로 HTML 화면을 구성하고, CSS로 디자인하는 작업을 하였다.
+	2. 해당 채팅 아이콘 (음성인식 아이콘, 얼굴인식 아이콘)을 클릭하였을 때 관련 API (IBM, Clova)가 작동할 수 되도록 하는 Javascript 알고리즘을 구현하였다.
+	3. 사용자가 마우스로 클릭하였을때, 이모지가 선택되거나 메시지가 전송되는 이벤트를 가시화해서 Interactive한 요소를 추가했다.
+	4. 상기 항목들을 통해 본 채팅 프로토타입이 구현하고자 하는 일련의 채팅 과정을 사용자가 실제처럼 체험할 수 있도록 하였다.
+
+### Github
+- https://github.com/dlwlgus53/TypingForALL
+
+## Limitation
+- Clova 에서 제공되는 인식 가능한 얼굴 표정이 7가지 정도이기 때문에 유저들이 다양한 이모지를 사용하는 것이 어렵다.
+- 음성인식을 사용할 때 소리를 내고 멈추면 음성인식이 자동으로 끝나는데, 이 정확한 종료 지점을 유저들에게 알려주기 어렵다.
+
+## Future plan
+- 얼굴인식 -> 이모지에 대한 아이디어가 좋다고 생각해서, 만약 기존 특허가 없다면 이 아이디어로 특허가 가능한지 알아 볼 예정이다.
+- 깃헙페이지의 Read.md  페이지를 정돈하여, 우리의 프로젝트를 잘 기록할 수 있도록 할 것이다.
+- 프로젝트를 진행하면서, 각자가 실력이 부족하다고 느껴진 부분이 있었다.(웹, 파이썬, 등등) 방학때 이 부분을 각자 공부할 예정이다.
+
+## Review
+- 지현 : 처음에는 우리가 계획한대로 구현하기 쉽지 않을것이라고 생각했다. 하지만 예상외로 ,각자의 결과물이 잘 합쳐졌고 생각대로 원하던 결과물을 만들 수 있었다. 자연스러운 구동이 되지 않았던것은 아쉽지만, 원격으로 진행하는 환경에서도 서로 맡은 일을 잘 해냈다.
+- 재호: 하나부터 열까지 직접 구현하지 않더라도, 웹상에서 제공되는 API를 잘 활용하면 의미있는 프로토타입을 만들 수 있다는 사실을 깨달았다. 하지만 이러한 API들은 내가 구현하려는 시스템과 완전히 적합하지는 않기 때문에 프로토타입이 아닌 실제 시스템을 만들때에는 직접 알고리즘을 짤 필요가 있겠다는 생각이 들었다.
+- 수빈 :  온라인상으로 프로젝트를 시작하고 각자 아이디어를 모으는 출발부터, 그리고 코드를 각각 작성하고 github에 올려서 합치는 협업 과정까지 어렵고 막막했다. 하지만 교수님과, 또 팀원들과 지속적인 대화와 미팅을 통해 만족도가 높은 프로그램을 만들어볼 수 있어서 뜻 깊고 좋은 경험이 되었다.
+- 시은:  처음에는 아무것도 몰랐었지만,  다른 사람과 아이디어를 나누고 코딩을 하여 프로그램을 만드는 과정에서,  정말 많은 것을 배울 수 있었다. 또 지속적인 교수님의 피드백을 통해 좋은 Interaction 과  HCI기술에 대해 생각해 볼 수 있는 경험이었다.
+
+## Reference
+- [Watson Speech to Text](https://www.ibm.com/kr-ko/cloud/watson-speech-to-text)
+- [Naver Face Recognition](https://developers.naver.com/docs/clova/api/#/CFR/API_Guide.md)
+- [Open cv](https://opencv.org/)

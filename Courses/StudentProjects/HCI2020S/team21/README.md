@@ -70,6 +70,7 @@
 	화면 오른쪽 상단에 표시된 인터페이스는 코로로가 해당 스테이지를 클리어하기 위해 모아야하는 남은 비누의 개수를 실시간으로 표시한다.
 
 - Demo video
+	<video width="480" height="320" controls="controls"><source src="demo video.mp4" type="video/mp4"></video>
 
 
 ## 3. 결론과 제언

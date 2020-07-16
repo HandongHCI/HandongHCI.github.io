@@ -27,20 +27,20 @@
 	![](img/2.png)
 
 	b. A screen capture of program
-		- 게임 시작 전 준비 사진
-		![](img/3.png)
+	- 게임 시작 전 준비 사진
+	![](img/3.png)
 
-		- In-game
-		![](img/4.png)
+	- In-game
+	![](img/4.png)
 
-		- 스테이지 클리어 후 다음 스테이지  준비화면
-		![](img/5.png)
+	- 스테이지 클리어 후 다음 스테이지  준비화면
+	![](img/5.png)
 
-		- 게임 승리 화면
-		![](img/6.png)
+	- 게임 승리 화면
+	![](img/6.png)
 
-		- 게임오버 화면
-		![](img/7s.png)
+	- 게임오버 화면
+	![](img/7s.png)
 
 - Explanation of source code if necessary (or just share the source code as a file)
 	- 소스코드 [download](source/source.zip)

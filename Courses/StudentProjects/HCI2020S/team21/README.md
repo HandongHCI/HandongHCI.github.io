@@ -24,43 +24,53 @@
 	- 코로로, 펭수, 비누와 같이 게임 속 등장하는 object들을 각각의 class로 설정해 객체지향 프로그래밍(OOP)으로 설계하였습니다.
 - Necessary images (idea sketches, paper prototype, a screen capture of your program, …)
 	a. Idea sketches
+
 	![](img/2.png)
 
 	b. A screen capture of program
 	- 게임 시작 전 준비 사진
+
 	![](img/3.png)
 
 	- In-game
+
 	![](img/4.png)
 
 	- 스테이지 클리어 후 다음 스테이지  준비화면
+
 	![](img/5.png)
 
 	- 게임 승리 화면
+
 	![](img/6.png)
 
 	- 게임오버 화면
+
 	![](img/7s.png)
 
 - Explanation of source code if necessary (or just share the source code as a file)
 	- 소스코드 [download](source/source.zip)
 	- 펭수 class
+
 	![](img/8.png)
 
 	펭수의 class 구조이다. x,y는 펭수의 위치를 업데이트하는데 사용되고 펭수의 width와 height를 설정해서 비누와 코로로와의 접촉시 원하는 동작을 하도록 구현했다. 또한 사용자가 입력하는 방향키값에 맞게 움직이도록 하기 위해 x,y좌표를 업데이트하여 펭수의 움직임을 조절했다.
  
 	- 코로로 class
+
 	![](img/9.png)
 
 	기본적인 구조는 펭수 class와 동일하고 상하좌우 랜덤한 위치에서 코로로가 등장할 수 있도록 구현했다.
 
 	- 비누 class
+
 	![](img/10.png)
 
 	비누 class또한 펭수 class와 구조는 동일하고 랜덤한 고정 위치에 비누를 생성하도록 했고, 펭수가 비누와 접촉하면 다른 랜덤한 위치에 다시 생성되도록 구현했다.
 
 - Explanation of your program with images
 	- 승리 조건
+
 	![](img/11.gif)
 
 	화면에 보이는 빨간 바이러스가 코로로이다. 주인공인 펭수는 랜덤한 위치에서 등장하는 코로로를 피하면서 비누를 모으면 된다. 게임은 백신 개발이 이루어지기 위해 걸리는 시간인 총 5일동안 코로로를 피하면서 필요한 비누 개수를 모으면 게임에서 승리하게 된다. 시간이 지날수록, 백신 개발이 다가올수록 코로로의 개체수와 속도가 증가하여 게임의 난이도가 증가한다.
@@ -70,6 +80,7 @@
 	화면 오른쪽 상단에 표시된 인터페이스는 코로로가 해당 스테이지를 클리어하기 위해 모아야하는 남은 비누의 개수를 실시간으로 표시한다.
 
 - Demo video
+
 	<video width="480" height="320" controls="controls"><source src="demo video.mp4" type="video/mp4"></video>
 
 

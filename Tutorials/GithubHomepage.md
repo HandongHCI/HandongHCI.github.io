@@ -43,7 +43,8 @@ Title에 대한 markdown 예시
 ##### 5-level 제목
 ```
 
-Title이 나타나는 방법
+Title이 표현된 결과 (참고: 테마에 따라 다르게 나타난다.)
+
 ---
 # 1-level 제목
 ## 2-level 제목

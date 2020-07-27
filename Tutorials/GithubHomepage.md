@@ -15,7 +15,7 @@
 ![GitHub Pages 활성화하는 setting 화면 예](img/GithubHomepageSetting.png)
 
 ### 글작성
-- 본인 컴퓨터에다 폴더를 만들어서 파일들을 생성하고 sourcetree와 같은 app을 통해 파일을 github에 comit하는 방법으로 github에 파일을 생성하과 수정/관리할 수 있다.
+- 본인 컴퓨터에다 폴더를 만들어서 파일들을 생성하고 sourcetree와 같은 app을 통해 파일을 github에 comit하는 방법으로 github에 파일을 생성하고 수정/관리할 수 있다.
 - 하지만 글작성/수정의 가장 쉬운 방법은 github 사이트에서 직접 파일을 생성하고 수정하는 것이다.
 - GitHub Pages에 보일 문서들을 가장 쉽게 documentation 하려면 markdown 방식이 유용하다. [매뉴얼을 참조하여 documentation 방법을 숙지하자.](https://guides.github.com/features/mastering-markdown/). [또 이 문서도 참고해보자.](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
 - Markdown을 이용하려면 파일 이름을 XXX.md로 만들고, 본문 내에서 XXX.md로 걸어주면 html을 이용하지 않고도 GitHub Pages를 만들 수 있다.
@@ -34,7 +34,7 @@
 	- `1. TEXT`는 TEXT를 ordered bullet point (순서가 있는 개조식)으로 표현한다. 숫자를 증가시키면서 표현할 필요 없이, 여러 항목 앞에 항상 `1.`을 사용하면 숫자는 자동으로 증가한다.
 	- 그 외에 table을 넣거나 emoji를 넣는 markdown code들이 있으니 [사이트](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)를 참고한다.
 
-Title 표기 예시
+Title에 대한 markdown 예시
 ```
 # 1-level 제목
 ## 2-level 제목
@@ -43,11 +43,14 @@ Title 표기 예시
 ##### 5-level 제목
 ```
 
+Title이 나타나는 방법
+---
 # 1-level 제목
 ## 2-level 제목
 ### 3-level 제목
 #### 4-level 제목
 ##### 5-level 제목
+---
 
 - Markdown에 html을 섞어서 사용할 수 있다.
 	- 예를 들어, markdown에서 이미지를 붙이는 방법은 `![이미지설명](이미지주소)`이다. 이미지 설명은 생략 가능하다. (이미지 설명 부분은 이미지 파일을 불러올 수 없을 경우 해당 이미지에 대해 설명한다.)

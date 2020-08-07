@@ -38,7 +38,7 @@ Write the first essay including the follow subtopics.
 
 #### Topic 2. [Physical Ergonomics I: Biomechanics]
 Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.<br><br>
-Biomechanics is a specific domain under HF/E. Did you search 'biomechanics' in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
+Biomechanics is a specific domain under HF/E. Did you search 'biomechanics' in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 

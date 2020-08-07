@@ -38,13 +38,13 @@ Write the first essay including the follow subtopics.
 
 #### Topic 2. [Physical Ergonomics I: Biomechanics]
 Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.<br><br>
-Biomechanics is a specific domain under HF/E. Did you search 'biomechanics' in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
+Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To help your understanding about this subtopic, you might remind the following keywords: motion capture, EMG, musculoskeletal system, bionics, exoskeleton, occupational biomechanics, sports science. For example, you might select 'EMG' and 'bionics' to explaining how our muscle signal (as a bio-data) can be used for development of bionic prosthesis.
+- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To help your understanding about this subtopic, you might remind the following keywords: `#biomechanics`, `musculoskeletal system`, `#motion capture`, `#human motion`, `#human movement`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`. For example, the keywords `EMG` and `bionics` can explain how our muscle signal (as a bio-data) is applied for the use of bionic prosthesis.
 
-- **Subtopic 3**: Provide your own ideas, which could be a new product, technology, or service based on human biomechanical data (e.g., motion data, EMG data) for general people or specific target users.
+- **Subtopic 3**: Provide your own idea of a new product, technology, or service based on human biomechanical data (e.g., motion data, EMG data) for general or specific target users.
 
 
 #### Topic 3. [Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
@@ -52,7 +52,7 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 
-- **Subtopic 2**: How can the knowledge of anthropometry help people in their daily life? Self-search some existing products for your understanding (example of search keywords: anthropometric design, 3d body scanning, 3d human shape, human body size, office ergonomics, ergonomic posture, office stretching, digital human model).
+- **Subtopic 2**: How can the knowledge of anthropometry help people in their daily life? Search some existing products for your understanding (search keywords: anthropometric design, 3d body scanning, 3d human shape, human body size, office ergonomics, ergonomic posture, office stretching, digital human model).
 
 - **Subtopic 3**: Provide some ideas about a new product that can make people in good and safe posture (at industry/office workplaces or at school/study places).
 

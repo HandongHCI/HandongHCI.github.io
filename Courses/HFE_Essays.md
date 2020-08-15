@@ -36,7 +36,7 @@ Write the first essay including the follow subtopics.
 - **Subtopic 3. Any other idea?** Look around you. What products can you find around you? Do you see any product that is not user-friendly designed to provide unsatisfactory or bad user experiences to users? Find any product that could be improved to be more user-friendly. And provide ideas on how to improve it for which values to deliver to users.
 
 
-#### Topic 2. [Physical Ergonomics I: Biomechanics]
+#### Topic 2. [2-1. Physical Ergonomics I: Biomechanics]
 Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.<br><br>
 Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
 
@@ -50,7 +50,7 @@ Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in 
 -------- not yet updated from here --------
 
 
-#### Topic 3. [Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
+#### Topic 3. [2-2. Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
 Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
@@ -60,7 +60,7 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 - **Subtopic 3**: Provide some ideas about a new product that can make people in good and safe posture (at industry/office workplaces or at school/study places).
 
 
-#### Topic 4. [Cognitive Ergonomics I: Information Processing Model]
+#### Topic 4. [3-1. Cognitive Ergonomics I: Information Processing Model]
 Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
@@ -70,7 +70,7 @@ Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then w
 - **Subtopic 3**: Provide some ideas on how to increase brain performance such as accurate divided attention, good memorizing, fast memorizing and recall, accurate sensation and perception, fast calculation, and so forth.
 
 
-#### Topic 5. [Cognitive Ergonomics II: Fight or Flight Response, Human Error, Cognitive Training]
+#### Topic 5. [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response]
 Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
@@ -80,24 +80,24 @@ Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then w
 - **Subtopic 3**: Look around. What kind of product or software can you find, which makes people causing the human error (e.g., wrong decision making, wrong perception, wrong calculation, mistake, slip, failure, memory lapse, ...). And provide some ideas on how to fix it to reduce human errors.
 
 
-#### Topic 6. [4-1. Emotional Ergonomics I: Emotional Design]
+#### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.
-
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-
-- **Subtopic 2**: How can human emotion affect human behavior? Let's think some good or bad examples on which emotion makes people act or hesitate. How can a design help people have a good emotional status?
-
-- **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., amusement, confidence, courage, dreaminess, energetic, fascination, hope, joy, kindness, love, pride, satisfaction, ...) showing in the cardset, provide some ideas on how to make people positively by a design. (For example, how to make people amused?)
-
-
-#### Topic 7. [4-2. Emotional Ergonomics II: Emotional Engineering, Measurement of Human Emotion]
-Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 
 - **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, this time, let's think about human emotion by the engineering perspective. This time, provide your ideas on how emotional engineering could be useful in Handong. (related keywords: neuroscience, neuromarketing, Brain-Computer Interaction, affective engineering, UX engineering, ...)
 
 - **Subtopic 3**: AI/robot technology is getting rapidly developed. Let's suppose that AI can perfectly measure human emotions using our bio-signals and facial recognition, also emotionally response (by a computer algorithm, of course) to you like a real human. What is your positive and/or negative opinion about a computer/device/robot's emotional reaction to you? (Did you perhaps watch the movie, 'Her'?) Provide your thoughts that what are positive and negative effects of the human-like robot/computer in people' daily life.
+
+
+#### Topic 7. [4-2. Emotional Ergonomics II: Emotional Design]
+Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
+
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+
+- **Subtopic 2**: How can human emotion affect human behavior? Let's think some good or bad examples on which emotion makes people act or hesitate. How can a design help people have a good emotional status?
+
+- **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., amusement, confidence, courage, dreaminess, energetic, fascination, hope, joy, kindness, love, pride, satisfaction, ...) showing in the cardset, provide some ideas on how to make people positively by a design. (For example, how to make people amused?)
 
 
 #### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]

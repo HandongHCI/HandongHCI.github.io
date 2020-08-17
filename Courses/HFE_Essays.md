@@ -110,7 +110,7 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 - **Subtopic 3**: Explain the differences between the low-fidelity prototype and the high-fidelity prototype.
 
 
-#### Topic 9. [5-1. Usability  II: User-Centered Design Principles]
+#### Topic 9. [5-2. Usability  II: User-Centered Design Principles]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.

@@ -100,24 +100,24 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 - **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., amusement, confidence, courage, dreaminess, energetic, fascination, hope, joy, kindness, love, pride, satisfaction, ...) showing in the cardset, provide some ideas on how to make people positively by a design. (For example, how to make people amused?)
 
 
-#### Topic 8. [5-1. Usability Engineering I: User-Centered Design Principles]
+#### Topic 8. [5-1. Usability I: Design with Users & Usability Evaluation]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
+
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+
+- **Subtopic 2**: 
+
+- **Subtopic 3**: Explain the differences between the low-fidelity prototype and the high-fidelity prototype.
+
+
+#### Topic 9. [5-1. Usability  II: User-Centered Design Principles]
+Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.
 
 - **Subtopic 2**: Why is the USER importantly considered in product development? What can be happened if the USER (their needs/wants and their physical, cognitive, and emotional characteristics) is not fully considered in a <font color="blue">product</font> (you can get some hints from my lecture note #02)? Also, based on the knowledge of "INCLUSIVE DESIGN", discuss how the HUMAN is different from the USER. (in other words, distinguish the differences between "HUMAN-centered" and "USER-centered")<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things: ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
 
 - (there's no Subtopic 3)
-
-
-#### Topic 9. [5-2. Usability Engineering II: Design with Users, Usability Evaluation]
-Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
-
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-
-- **Subtopic 2**: Based on the knowledge of 'Participatory Design', 'Build-Measure-Learn', and 'Prototyping', discuss why a product should be developed by satisfying various needs of its actual users. What are the major roles of the prototype? If needed, search for 'Build-Measure-Learn' to earn more knowledge of it. (related keywords: iterative design process, lean start-up, agile approach)
-
-- **Subtopic 3**: Explain the differences between the low-fidelity prototype and the high-fidelity prototype.
 
 
 #### Topic 10. Epilog

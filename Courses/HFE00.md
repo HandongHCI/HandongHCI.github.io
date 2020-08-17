@@ -157,5 +157,5 @@ All lecturing materials of Prof. Lee’s courses are shared through [his Google 
 - [4-1. Emotional Ergonomics I](HFE04_1.md): Emotional Engineering, Measurement of Human Emotion
 - [4-2. Emotional Ergonomics II](HFE04_2.md): 
 Emotional Design
-- [5-1. Usability Engineering I](HFE05_1.md): User-Centered Design Principles
-- [5-2. Usability Engineering II](HFE05_2.md): Usability Evaluation, Build-Measure-Learn
+- [5-1. Usability I](HFE05_1.md): Design with Users & Usability Evaluation
+- [5-2. Usability II](HFE05_2.md): User-Centered Design Principles

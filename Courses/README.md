@@ -10,8 +10,8 @@
 - [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response](HFE03_2.md)
 - [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion](HFE04_1.md)
 - [4-2. Emotional Ergonomics II: Emotional Design](HFE04_2.md)
-- [5-1. Usability Engineering I: User-Centered Design Principles](HFE05_1.md)
-- [5-2. Usability Engineering II: Usability Evaluation](HFE05_2.md)
+- [5-1. Usability I: Design with Users & Usability Evaluation](HFE05_1.md)
+- [5-2. Usability II: User-Centered Design Principles](HFE05_2.md)
 - [Assignments](HFE_Essays.md)
 
 ### Human-Computer Interaction (SIT32002)

@@ -110,7 +110,7 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 - (there's no Subtopic 3)
 
 
-#### Topic 9. [5-2. Usability Engineering II: Usability Evaluation, Build-Measure-Learn]
+#### Topic 9. [5-2. Usability Engineering II: Design with Users, Usability Evaluation]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos.

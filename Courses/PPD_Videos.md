@@ -1,6 +1,7 @@
 [← go back to the main](PPD00.md)
 
 ## Product Planning and Development (SIT23005) - Must Watch Videos
+* 목록은 수시로 업데이트 됩니다.
 
 ### Innovation
 - 끌림리어카
@@ -16,9 +17,11 @@
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/RcVHkI0z1nM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
+
 ### Human-Centered Philosophy
 - 인간중심의 종합적학문, 인간공학
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Npuids7EmL8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
 ### 제품기획개발 방법론/철학
@@ -63,7 +66,6 @@
 ### 자기 계발
 - 4차산업혁명 시대, 자기를 혁신하는 방법 (구글코리아 조용민 님)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/lyZx72FwBmY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 
 
 

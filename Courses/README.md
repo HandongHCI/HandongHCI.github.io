@@ -34,16 +34,10 @@
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)
 - [Materials - Videos related to PPD](PPD_Videos.md)
-- [Materials - 2019-2 Smart City](PPD_SmartCity.md)
+- [Materials - Prototyping](PPD_Videos.md)
 
-### Ideation & Prototyping (SIT23006)
-- *(not prepared yet)*
-
-### Intoduction to ICT Convergence ()
-- *(not prepared yet)*
-
-### Seminars
-- *(not prepared yet)*
+### Intoduction to ICT Convergence (SIT22002)
+- [Introduction to Depth Sensing & Its Applications](Intro_DepthSensing.md)
 
 ## Course Materials
 - All lecturing materials of Prof. Lee's courses are shared through his Google Drive: [http://tiny.cc/HandongHCI](http://tiny.cc/HandongHCI).

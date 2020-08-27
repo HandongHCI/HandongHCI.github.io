@@ -37,33 +37,33 @@ Write the first essay including the follow subtopics.
 
 
 #### Topic 2. [2-1. Physical Ergonomics I: Biomechanics]
-Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write the essay including the following subtopics.<br><br>
+Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write an essay including the following subtopics.<br><br>
 Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To help your understanding about this subtopic, you might remind the following keywords: `#biomechanics`, `musculoskeletal system`, `#motion capture`, `#human motion`, `#human movement`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`. For example, the keywords `EMG` and `bionics` can explain how our muscle signal (as a bio-data) is applied for the use of bionic prosthesis.
+- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To be helped your understanding about this subtopic, remind the following keywords: `#biomechanics`, `musculoskeletal system`, `#motion capture`, `#human motion`, `#human movement`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`. For example, the keywords `EMG` and `bionics` can explain how our muscle signal (as a bio-data) is applied for the use of bionic prosthesis.
 
-- **Subtopic 3**: Provide your own idea of a new product, technology, or service based on human biomechanical data (e.g., motion data, EMG data) for general or specific target users.
+- **Subtopic 3**: Provide your own idea of a new product or service, which is based on human biomechanical data (e.g., motion data, EMG data) for general or specific target users. Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
+
+
+#### Topic 3. [2-2. Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
+Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write an essay including the following subtopics.
+
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
+
+- **Subtopic 2**: How can the knowledge of anthropometry (which means measurement of human body) and 3D body scanning help people in our daily life? Try to search some existing products with keywords including `anthropometric design`, `3d body scanning`, `3d human shape`, `digital human modeling`, `human body size`, `human body shape`, etc.
+
+- **Subtopic 3**: Provide your own idea of a new product or service, which can make people in good, safe, and healthy posture (at industry/office workplaces, at home, at a hospital, at school, or at other particular places). Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
 
 
 -------- not yet updated from here --------
 
 
-#### Topic 3. [2-2. Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
-Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write the essay including the following subtopics.
-
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
-
-- **Subtopic 2**: How can the knowledge of anthropometry help people in their daily life? Search some existing products for your understanding (search keywords: anthropometric design, 3d body scanning, 3d human shape, human body size, office ergonomics, ergonomic posture, office stretching, digital human model).
-
-- **Subtopic 3**: Provide some ideas about a new product that can make people in good and safe posture (at industry/office workplaces or at school/study places).
-
-
 #### Topic 4. [3-1. Cognitive Ergonomics I: Information Processing Model]
-Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
 - **Subtopic 2**: Explain the process of OOO (e.g., learning, taking an exam, decision making, playing basketball) by the IPM. For the OOO task you choose, how the information is processed **within as well as between** the sensory memory, the short-term memory (= working memory), and the long-term memory? Drawing of the IPM chart might help you to understand the process of OOO. Self-search to understand the concept of IPM (example of search keywords: information processing model, information processing theory, cognitive process model, sensory memory, short-term memory, long-term memory).
 
@@ -71,9 +71,9 @@ Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then w
 
 
 #### Topic 5. [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response]
-Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
 - **Subtopic 2**: How can knowledge about 'fight or flight response' (= change of human physiological status by cognitive activities) help people in their daily life? Self-search some existing products measure human bio-signals to understand the physical, cognitive, and emotional status of people (example of search keywords: ECG, EEG, eye tracking, body temperature, skin conductance).
 
@@ -81,9 +81,9 @@ Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then w
 
 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]
-Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
 - **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, this time, let's think about human emotion by the engineering perspective. This time, provide your ideas on how emotional engineering could be useful in Handong. (related keywords: neuroscience, neuromarketing, Brain-Computer Interaction, affective engineering, UX engineering, ...)
 
@@ -91,9 +91,9 @@ Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then wr
 
 
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Design]
-Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
 - **Subtopic 2**: How can human emotion affect human behavior? Let's think some good or bad examples on which emotion makes people act or hesitate. How can a design help people have a good emotional status?
 
@@ -101,9 +101,9 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 
 
 #### Topic 8. [5-1. Usability I: Design with Users & Usability Evaluation]
-Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write the essay including the following subtopics.
+Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
 - **Subtopic 2**: 
 
@@ -111,9 +111,9 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 
 
 #### Topic 9. [5-2. Usability  II: User-Centered Design Principles]
-Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write the essay including the following subtopics.
+Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
 - **Subtopic 2**: Why is the USER importantly considered in product development? What can be happened if the USER (their needs/wants and their physical, cognitive, and emotional characteristics) is not fully considered in a <font color="blue">product</font> (you can get some hints from my lecture note #02)? Also, based on the knowledge of "INCLUSIVE DESIGN", discuss how the HUMAN is different from the USER. (in other words, distinguish the differences between "HUMAN-centered" and "USER-centered")<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things: ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
 

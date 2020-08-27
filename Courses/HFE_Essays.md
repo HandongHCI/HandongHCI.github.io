@@ -57,17 +57,17 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 - **Subtopic 3**: Provide your own idea of a new product or service, which can make people in good, safe, and healthy posture (at industry/office workplaces, at home, at a hospital, at school, or at other particular places). Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
 
 
--------- not yet updated from here --------
-
-
 #### Topic 4. [3-1. Cognitive Ergonomics I: Information Processing Model]
 Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You might use bullet points for listing keywords and short items. Don't exceed one page for a summary.
 
-- **Subtopic 2**: Explain the process of OOO (e.g., learning, taking an exam, decision making, playing basketball) by the IPM. For the OOO task you choose, how the information is processed **within as well as between** the sensory memory, the short-term memory (= working memory), and the long-term memory? Drawing of the IPM chart might help you to understand the process of OOO. Self-search to understand the concept of IPM (example of search keywords: information processing model, information processing theory, cognitive process model, sensory memory, short-term memory, long-term memory).
+- **Subtopic 2**: Explain the process of something (for example, learning, taking an exam, decision making, playing basketball, find a restaurant, plan a trip, plan an birthday event, ...) using the IPM. What information is processed through the sensory memory, short-term memory (= working memory), and long-term memory, and how? Draw an IPM chart to explaining the chosen task.
 
-- **Subtopic 3**: Provide some ideas on how to increase brain performance such as accurate divided attention, good memorizing, fast memorizing and recall, accurate sensation and perception, fast calculation, and so forth.
+- **Subtopic 3**: Provide your own idea of a new product or service, which can increase information processing performance such as focusing/attention, better memorization, faster and more accurate calculation, reasonable comparison, and so forth.
+
+
+-------- not yet updated from here --------
 
 
 #### Topic 5. [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response]

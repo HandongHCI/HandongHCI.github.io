@@ -52,7 +52,7 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can the knowledge of anthropometry (which means measurement of human body) and 3D body scanning help people in our daily life? Try to search some existing products with keywords including `anthropometric design`, `3d body scanning`, `3d human shape`, `digital human modeling`, `human body size`, `human body shape`, etc.
+- **Subtopic 2**: How can the knowledge of anthropometry (which means the measurement of the human body) and 3D body scanning help people in our daily life? Try to search some existing products with keywords including `anthropometric design`, `3d body scanning`, `3d human shape`, `digital human modeling`, `human body size`, `human body shape`, etc.
 
 - **Subtopic 3**: Provide your own idea of a new product or service, which can make people in good, safe, and healthy posture (at industry/office workplaces, at home, at a hospital, at school, or at other particular places). Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
 
@@ -62,7 +62,7 @@ Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then w
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: Explain the process of something (for example, learning, taking an exam, decision making, playing basketball, find a restaurant, plan a trip, plan an birthday event, ...) using the IPM. What information is processed through the sensory memory, short-term memory (= working memory), and long-term memory while doing the chosen task, and how? Draw an IPM chart to explaining the chosen task. (No perfect answer is required. Students will try to explain the IPM several times more during the course.)
+- **Subtopic 2**: Explain the process of something (for example, learning, taking an exam, decision making, playing basketball, find a restaurant, plan a trip, plan a birthday event, ...) using the IPM. What information is processed through sensory memory, short-term memory (= working memory), and long-term memory while doing the chosen task, and how? Draw an IPM chart to explaining the chosen task. (No perfect answer is required. Students will try to explain the IPM several times more during the course.)
 
 - **Subtopic 3**: Provide your own idea of a new product or service, which can increase information processing performance such as focusing/attention, better memorization, faster and more accurate calculation, reasonable comparison, and so forth.
 

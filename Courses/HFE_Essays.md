@@ -1,7 +1,7 @@
 [← go back to the list](HFE00.md)
 
 ## Human Factors and Ergonomics (SIT22008) - Essays
-(last update: 3 July 2019)
+(last update: 18 September 2020)
 
 ### Announcement
 - The essay topics might be changed over time, but not be updated in this site yet.
@@ -42,7 +42,7 @@ Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in 
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To be helped your understanding about this subtopic, remind the following keywords: `#biomechanics`, `musculoskeletal system`, `#motion capture`, `#human motion`, `#human movement`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`. For example, the keywords `EMG` and `bionics` can explain how our muscle signal (as a bio-data) is applied for the use of bionic prosthesis.
+- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To be helped your understanding about this subtopic, remind the following keywords: `#biomechanics`, `#musculoskeletal system`, `#motion capture`, `#human motion`, `#human movement`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`. For example, the keywords `EMG` and `bionics` can explain how our muscle signal (as a bio-data) is applied for the use of bionic prosthesis.
 
 - **Subtopic 3**: Provide your own idea of a new product or service, which is based on human biomechanical data (e.g., motion data, EMG data) for general or specific target users. Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
 
@@ -52,7 +52,7 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can the knowledge of anthropometry (which means the measurement of the human body) and 3D body scanning help people in our daily life? Try to search some existing products with keywords including `anthropometric design`, `3d body scanning`, `3d human shape`, `digital human modeling`, `human body size`, `human body shape`, etc.
+- **Subtopic 2**: How can the knowledge of anthropometry (which means the measurement of the human body) and 3D body scanning help people in our daily life? Try to search some existing products with keywords including `#anthropometric design`, `#3d body scanning`, `#3d human shape`, `#digital human modeling`, `#human body size`, `#human body shape`, etc.
 
 - **Subtopic 3**: Provide your own idea of a new product or service, which can make people in good, safe, and healthy posture (at industry/office workplaces, at home, at a hospital, at school, or at other particular places). Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
 
@@ -67,17 +67,20 @@ Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then w
 - **Subtopic 3**: Provide your own idea of a new product or service, which can increase information processing performance such as focusing/attention, better memorization, faster and more accurate calculation, reasonable comparison, and so forth.
 
 
--------- not yet updated from here --------
-
-
 #### Topic 5. [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response]
 Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can knowledge about 'fight or flight response' (= change of human physiological status by cognitive activities) help people in their daily life? Self-search some existing products measure human bio-signals to understand the physical, cognitive, and emotional status of people (example of search keywords: ECG, EEG, eye tracking, body temperature, skin conductance).
+- **Subtopic 2**: 
+From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. For examples, (1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not. (2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving or not. Or (3) a smartwatch (or any other wearable devices) can catch if a person seems in normal or abnormal status.
 
-- **Subtopic 3**: Look around. What kind of product or software can you find, which makes people causing the human error (e.g., wrong decision making, wrong perception, wrong calculation, mistake, slip, failure, memory lapse, ...). And provide some ideas on how to fix it to reduce human errors.
+**Question**: What other cases do you know about the human bio-signals and its applicability for assisting people?
+
+- **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make poeple causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, please provide your idea(s) on how to fix it to reduce the human error.
+
+
+-------- not yet updated from here --------
 
 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]

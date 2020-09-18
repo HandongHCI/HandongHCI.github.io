@@ -3,7 +3,7 @@
 ## Human Factors and Ergonomics (SIT22008) - General Syllabus
 This general syllabus is not year-specific. The course-takers should find the syllabus of the year in the intranet of HGU.
 
-### Course Introduction
+### 1. Course Introduction
 This course will provide essential knowledge related to the physical, cognitive, and emotional characteristics of the human, also hands-on practices regarding measuring, analysis, and application of those human characteristics in product design.
 
 This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule.
@@ -14,21 +14,21 @@ The PPD (Practice, Project, and Discussion) session is the essential concept of 
 ##### Online lectures
 Total of 600 min (eight-class amount) of videos will be provided through Prof. Lee's GitHub Page: [https://handonghci.github.io/Courses/](https://handonghci.github.io/Courses/).
 
-#### Course Objectives
+#### 1.1 Course Objectives
 Upon completion of the course, students will
 - understand of physical, cognitive, and emotional characteristics of human;
 - know how to measure human characteristics and analyze it;
 - experience how to apply measured/analyzed human characteristics in product design through in-class practices/discussion and team project;
 - and consider the usability and human-centered design which can help a broad range of people including children, elderly, disabled, and other minorities.
 
-#### Learning Outcomes
+#### 1.2 Learning Outcomes
 Upon completion of the course, students will be able to
 - find user-unfriendly designs around us and have feasible ideas on how to resolve or revise it to help people and society healthy and sound;
 - explain how human physical, cognitive, emotional characteristics can be applied in ergonomic/human-friendly product design and development;
 - discuss practical issues on how human-centric values can be considered in the product development process;
 - and have broader views such as team working, interdisciplinary collaboration, and ethical issues that should be considered in the ergonomic and human-friendly product development.
 
-#### Assignments and Exams
+#### 1.3 Assignments and Exams
 - Individual assignments: 10 essay writings
 - Group assignments: progress reports for the team project
 - Examination
@@ -37,14 +37,14 @@ Upon completion of the course, students will be able to
 	- Both mid-term and final-term exams are the essay-styled take-home exam with about 7+ days period.
 - See "Assignmetns and Grading" below for more information
 
-### Teaching Philosophy
+### 2. Teaching Philosophy
 
-#### Role of Professor
+#### 2.1 Role of Professor
 To say about the knowledge, there are different types: (1) information as common knowledge, (2) knowledge earned by understanding, (3) **empirical knowledge gained by experience**, (4) skills, (5) meta-knowledge, et cetera. The information or common knowledge that are a lot shared and distributed through various internet media such as blogs, news, and YouTube are not focused to care in this course. Re-providing that easily-findable knowledge in a classroom is not meaningful as high-level education in the university. Also, delivering a huge amount of information (even that is necessary for the coursework) by a lecturer in the small classroom is almost impossible as well as an inefficient way of information delivery. Instead, earning **in-depth and empirical knowledge (by hands-on experiences through discussion, practice, writing, and projects)** that cannot be easily acquired from the internet media should be majorly offered by professional tutoring in the classroom.
 
 The role of the professor in this course is a **facilitator** or **tutor**, not just a lecturer. As the **facilitator**, I guide students to know what to see and where to find any necessary knowledge about the course contents. I spend a lot of hours to carefully select 600 minutes of essential YouTube videos (and other media sources) that are informative, visually well-made, delivering meaningful knowledge, appropriate in the level of knowledge depth, and interesting not that boring. My role is to give meaningful questions that can be solved through critical, creative, and collaborative thinking, also to provide good reference information to expand students' knowledge and understanding. Then, during class time, I will guide students to earn sufficient experient by discussion, practice, project activities, and other hands-on experiences. As a **tutor**, I'd like to know each of my student in person through various channels so that I sincerely hope to communicate with each of them to make his/her study successfully finished through the semester.
 
-#### Role of Students
+#### 2.2 Role of Students
 All the activities in the classroom will be conducted by teams. Therefore, individual activity in the classroom is not appropriate, and students will be requested to actively participate in a group. Therefore, **active, positive, collaborative and enthusiastic mindsets** as a learner are highly required. Students **MUST take online lectures (about 60-75 minutes lengths) and write an essay assignment before they come to class**. Please do not hesitate to ask and discuss anything that you've wanted to know. The participation of each student will be evaluated by the professor.
 
 This course requires students to submit **multiple essay writings** including mid- and final-terms exams. Please describe your **own thoughts, insights, and philosophy** about issues related to this course. Use your academic knowledge and personal experiences to explain. The essay writings will not be that easy to produce but it requires students to **squeeze their brain and percolate ideas to melt all the related knowledge into short sentences**. Therefore, if necessary, enjoy to **learn yourself** from anywhere (from internet media, from classmates, or from the professor) to write your opinion about the topic. Writing should reveal the author's efforts of thinking and their time spent for the writing, therefore I can so easily see those efforts by reading the article. I encourage you to have enough time to prepare own article earnestly.
@@ -53,9 +53,9 @@ In team projects, students have the **responsibility to actively participate in 
 
 Finally, as my educational duty, I've gladly spent lots of time to **see each student of my class in person**. Please come to me **at least once during the semester**. To effectively excel my education into the class, this individual meeting is **compulsory for all students**.
 
-### Assignments
+### 3. Assignments
 
-#### Essay writing
+#### 3.1 Essay writing
 
 ##### Philosophy of essay writing
 - The essay writing is aimed to help students to have clear understandings and ideas regarding human factors and ergonomics topics delivered through the course.
@@ -89,7 +89,7 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 - Please find essay topics from [HERE](HFE_Essays.md).
 - The topics can be changed as time flows.
 
-#### Team Project
+#### 3.2 Team Project
 - Teams will be assignment based on their preferences in project topics.
 - Evaluation of team project
 	- Students will do a peer evaluation about the content and quality of presentation of each team using the following evaluation scheme. (Example of peer evaluation form: https://drive.google.com/open?id=1hGG-xeyU8iljVkyRgmruuCebny2jTlrP)
@@ -97,7 +97,7 @@ Finally, as my educational duty, I've gladly spent lots of time to **see each st
 	- **Self-evaluation**: There will be self-evaluation for own efforts, participation, and contribution in the team using the following form.
 	- There will be no peer evaluation within own team. The peer-evaluated presentation score and professor’s score will be same to all team members of each team. But, personal scores in the same team can be different based on the self-evaluation.
 
-#### Examination
+#### 3.3 Examination
 - Both the mid-term and final-term exams will be given as the essay-styled take-home exam with about one week period.
 - There will be three major topics with having 3 to 4 detailed sub-questions.
 Amounts: about 10 pages in total. 
@@ -112,12 +112,12 @@ Amounts: about 10 pages in total.
 	- There will be a minus point if the minimum amount is not satisfied.
 	- There will be a minus point for the late submission.
 
-### Grading
+### 4. Grading
 I personally have a disagreeing opinion of the ABCDF-based grading system. 0-to-100 scale will be more meaningful, instead. Though, personal efforts in the class and what they earned by each of the various students' activities (e.g., team projects, discussion, practices, essay writings, online lectures, exams, et cetera) will be evaluated anyhow, but the final score or the grade is not the most suitable criteria that well explain students' learning levels. I hope, therefore, students carefully think themselves about which knowledge they have earned for the future career and about how they participated in the course, instead of focusing on their score or grade that they will get as the results.
 
 Attendance is the right of students as they paid for their learning, not a responsibility that could be evaluated; therefore, there is no evaluation of students' attendance. However, uninformed absences or late attendances will be reflected in participation criteria (10%) because the active participation in class is one of the highly required attitudes in this course.
 
-#### General grading scheme
+#### 4.1 General grading scheme
 - Participation (10%)
 - Essay assignment (20%; 10 essays)
 - Mid-term examination (15%; 10-page essay style)
@@ -129,10 +129,10 @@ Attendance is the right of students as they paid for their learning, not a respo
 	- Mid-term presentation (5%)
 	- Final presentation (5%)
 
-### Schedule
+### 5. Schedule
 See the syllabus shared via Hisnet or [HERE](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
 
-### Miscellaneous
+### 6. Miscellaneous
 
 #### Open source policy
 All lecturing materials of Prof. Lee’s courses are shared through [his Google Drive](http://tiny.cc/HandongHCI).
@@ -148,7 +148,7 @@ All lecturing materials of Prof. Lee’s courses are shared through [his Google 
 - The course schedule can be adjusted by considering an overall schedule of the semester (e.g., mid-term period, festival, ...), the professor's schedule, and/or students' needs.
 - The freshman and 2nd grade students are not allowed to take this course if he/she doesn't have sufficient coding skills.
 
-### Online Videos
+### 7. Online Videos
 - [1. Introduction to HF/E](HFE01.md)
 - [2-1. Physical Ergonomics I](HFE02_1.md): Biomechanics
 - [2-2. Physical Ergonomics II](HFE02_2.md): Anthropometry, ergonomics at workplace, virtual ergonomics

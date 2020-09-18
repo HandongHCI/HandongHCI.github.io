@@ -73,11 +73,9 @@ Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then w
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
 - **Subtopic 2**: 
-From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. For examples, (1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not. (2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving or not. Or (3) a smartwatch (or any other wearable devices) can catch if a person seems in normal or abnormal status.
+From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. For examples, (1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not. (2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving or not. Or (3) a smartwatch (or any other wearable devices) can catch if a person seems in normal or abnormal status.<br><br>**Question**: What other cases do you know about the human bio-signals and its applicability for assisting people?
 
-**Question**: What other cases do you know about the human bio-signals and its applicability for assisting people?
-
-- **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make poeple causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, please provide your idea(s) on how to fix it to reduce the human error.
+- **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make people causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, please provide your idea(s) on how to fix it to reduce human error.
 
 
 -------- not yet updated from here --------

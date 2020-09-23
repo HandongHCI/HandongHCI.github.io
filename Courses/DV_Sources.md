@@ -17,6 +17,13 @@
 - [Tracking the state of open government data](https://index.okfn.org/)
 - [Report about Open Government Data](https://eiuperspectives.economist.com/sites/default/files/Open_Government_Data.pdf)
 
+### DV Examples from News and Journals
+- [Wall Street Journal](https://graphics.wsj.com/)
+- [New York Times](https://twitter.com/nytgraphics)
+- [BBC Interatives & Graphics](https://www.bbc.co.uk/news/11628973)
+- [연합뉴스](https://www.yna.co.kr/graphic/index)
+
+
 ### Sample Data
 - Open Data service by countries
 	- [South Korea](https://www.data.go.kr)

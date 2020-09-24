@@ -78,17 +78,14 @@ From the knowledge about 'fight or flight response', you might get ideas on how 
 - **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make people causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, please provide your idea(s) on how to fix it to reduce human error.
 
 
--------- not yet updated from here --------
-
-
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, this time, let's think about human emotion by the engineering perspective. This time, provide your ideas on how emotional engineering could be useful in Handong. (related keywords: neuroscience, neuromarketing, Brain-Computer Interaction, affective engineering, UX engineering, ...)
+- **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, this time, let's think about human emotion by the engineer's perspective. What ideas do you have, which is about how emotional engineering could be useful for students' life at Handong University? (related keywords to this question: `#neuroscience`, `#neuromarketing`, `#Brain-Computer Interaction`, `#affective engineering`, `#UX engineering`, ...)
 
-- **Subtopic 3**: AI/robot technology is getting rapidly developed. Let's suppose that AI can perfectly measure human emotions using our bio-signals and facial recognition, also emotionally response (by a computer algorithm, of course) to you like a real human. What is your positive and/or negative opinion about a computer/device/robot's emotional reaction to you? (Did you perhaps watch the movie, 'Her'?) Provide your thoughts that what are positive and negative effects of the human-like robot/computer in people' daily life.
+- **Subtopic 3**: AI/robot technologies are getting rapidly developed. Let's suppose that the AI can perfectly measure human emotions based on our bio-signals, facial recognition, and behavior analysis; also emotionally responses to you like a real human (based on computer algorithms, of course!). What are positive and negative thoughts of your about a computer/device/robot's emotional reaction to you? (Did you perhaps watch the movie, 'Her'?) Provide your arguments/opinion that what are positive/negative effects of the human-like robot/computer in people's daily life.
 
 
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Design]
@@ -96,9 +93,12 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: How can human emotion affect human behavior? Let's think some good or bad examples on which emotion makes people act or hesitate. How can a design help people have a good emotional status?
+- **Subtopic 2**: How can human emotion affect human behavior? Let's think about some good or bad examples on which emotion can make people doing good actions or hesitating. How can a design help people have a good emotional status? (keyword: `#positive emotion`, `#positive design`)
 
-- **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., amusement, confidence, courage, dreaminess, energetic, fascination, hope, joy, kindness, love, pride, satisfaction, ...) showing in the cardset, provide some ideas on how to make people positively by a design. (For example, how to make people amused?)
+- **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., `#amusement`, `#confidence`, `#courage`, `#dreaminess`, `#energetic`, `#fascination`, `#hope`, `#joy`, `#kindness`, `#love`, `#pride`, `#satisfaction`, ...) showing in the cardset, provide some ideas on how to make people being more positive by a new product/service. (For example, how to make people amused?)
+
+
+-------- not yet updated from here --------
 
 
 #### Topic 8. [5-1. Usability I: Design with Users & Usability Evaluation]

@@ -98,17 +98,17 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 - **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., `#amusement`, `#confidence`, `#courage`, `#dreaminess`, `#energetic`, `#fascination`, `#hope`, `#joy`, `#kindness`, `#love`, `#pride`, `#satisfaction`, ...) showing in the cardset, provide some ideas on how to make people being more positive by a new product/service. (For example, how to make people amused?)
 
 
--------- not yet updated from here --------
-
-
 #### Topic 8. [5-1. Usability I: Design with Users & Usability Evaluation]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: 
+- **Subtopic 2**: The USER needs to be importantly considered in product development. Why? What can be happened if the USER (e.g., their needs/wants, their working environment/situation, their physical/cognitive/emotional characteristics, ...) is not appropriately considered in a <font color="blue">product</font> development process? Some many reasons/aspects make a product successful or fail. How is 'usability' important for the product's success? Do you know any success or failure story? (keywords: `#user-centered design`, `#design with users`, `#co-design`, `#usability`, `#usability evaluation`)<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things such as ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
 
-- **Subtopic 3**: Explain the differences between the low-fidelity prototype and the high-fidelity prototype.
+- **Subtopic 3**: How to know about the user? There are many methods and ways of having a connection to users. Explain some methods of how to meet users. Also, describe the usability (use + ability) and usability testing (or usability evaluation). How is usability evaluation different from the user needs survey?
+
+
+-------- not yet updated from here --------
 
 
 #### Topic 9. [5-2. Usability  II: User-Centered Design Principles]
@@ -116,9 +116,9 @@ Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then 
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
 
-- **Subtopic 2**: Why is the USER importantly considered in product development? What can be happened if the USER (their needs/wants and their physical, cognitive, and emotional characteristics) is not fully considered in a <font color="blue">product</font> (you can get some hints from my lecture note #02)? Also, based on the knowledge of "INCLUSIVE DESIGN", discuss how the HUMAN is different from the USER. (in other words, distinguish the differences between "HUMAN-centered" and "USER-centered")<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things: ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
+- **Subtopic 2**: 
 
-- (there's no Subtopic 3)
+- **Subtopic 3**: Based on the knowledge of "INCLUSIVE DESIGN", discuss how the HUMAN is different from the USER. (in other words, distinguish the differences between "HUMAN-centered" and "USER-centered")
 
 
 #### Topic 10. Epilog

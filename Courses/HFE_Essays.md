@@ -108,9 +108,6 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 - **Subtopic 3**: How to know about the user? There are many methods and ways of having a connection to users. Explain some methods of how to meet users. Also, describe the usability (use + ability) and usability testing (or usability evaluation). How is usability evaluation different from the user needs survey?
 
 
--------- not yet updated from here --------
-
-
 #### Topic 9. [5-2. Usability  II: User-Centered Design Principles]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write an essay including the following subtopics.
 

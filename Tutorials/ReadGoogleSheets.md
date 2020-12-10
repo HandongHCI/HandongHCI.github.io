@@ -39,6 +39,9 @@
             if (parseInt(dataE3) == 0) {
                 document.getElementById('dust').innerHTML = "현재 미세먼지 없음"
             }
+            else {
+                document.getElementById('dust').innerHTML = "현재 미세먼지 수치: " +dataE3
+            }
         }
     </script>
     <!--아래와 같이 <script>를 불러줘야 위 code가 제대로 작동함-->

@@ -4,24 +4,24 @@
 
 ### 3. Home & Human Life
 
-HCI is now everywhere. You can easily find computer-provided services at home. By answering the following questions, you might understand how human and computer already have interacted every moment in daily life.
+HCI is now everywhere. You can easily find computer-provided services at home. By answering the following questions, you might understand how humans and computers already have interacted every moment in daily life.
 
-We will have some practices (like the below) regarding how human and computer treat information for each other. And what benefits we could have from the computer through H-C interaction?
+We will have some practices (like the below) regarding how humans and computers treat information for each other. And what benefits could we have from the computer through H-C interaction?
 
-	[`A`] Which devices or electronic products do you daily use at home?
-	[`B`] What do you do (=task) with the product mentioned in `A` column?
-	[`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
-	[`D`] How do you response to `A` when you get `C`?
-	| `A` | `B` | `C` | `D` |
-	|---|---|---|---|
-	| refrigerator | taking a food from it | it provides a beep sound if I made the door opened accidently | it remind me to close the door |
-	| door bell | noticed when someone arrived at my home (or the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily realize who is arrived then could make a decision whether I should open the door or not |
-	| ... | ... | ... |
+[`A`] Which devices or electronic products do you daily use at home?
+[`B`] What do you do (=task) with the product mentioned in `A` column?
+[`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
+[`D`] How do you respond to `A` when you get `C`?
+| `A` | `B` | `C` | `D` |
+|---|---|---|---|
+| refrigerator | taking food from it | it provides a beep sound if I made the door opened accidentally | it reminds me to close the door |
+| doorbell | noticed when someone arrived at my home (or the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily realize who is arrived then could make a decision whether I should open the door or not |
+| ... | ... | ... |
 
-From the following videos, see what computer-assisted interactive services that could help people conveniently in their daily life. Get informed how humans and computers interact with each other in daily life.
+From the following videos, see what computer-assisted interactive services that could help people conveniently in their daily life. Get informed about how humans and computers interact with each other in daily life.
 
 Subtopics
-- A. Smart-Home Techs and HCI
+- A. Smart-Home Techs and use scenarios related to HCI
 - B. Sports and Entertainment
 - C. Assistive Techs & HCI
 - D. Future Home Scenarios
@@ -30,7 +30,8 @@ Subtopics
 
 **A. Smart-Home Techs and HCI**
 
-- Smart Home IoT - Google Nest
+- Smart Home IoT - Google Nest examples
+Lots of IoT sensors and devices that intend to make your life easier have been introduced. But not every product was successful, and only some are famously used. Why? That's because of UX. If a product requires too much care (e.g., too often battery change, easily disconnected from the internet, unsatisfied features in a smartphone app, inconvenience in data monitoring/handling), it is not the smart product anymore.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6-JXxFZYXlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Smart Speakers - Google Home

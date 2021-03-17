@@ -12,6 +12,7 @@ We will have some practices (like the below) regarding how humans and computers 
 [`B`] What do you do (=task) with the product mentioned in `A` column?
 [`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
 [`D`] How do you respond to `A` when you get `C`?
+
 | `A` | `B` | `C` | `D` |
 |---|---|---|---|
 | refrigerator | taking food from it | it provides a beep sound if I made the door opened accidentally | it reminds me to close the door |
@@ -37,23 +38,29 @@ Lots of IoT sensors and devices that intend to make your life easier have been i
 
 - Smart Speakers - Google Home
 
-If you really want to understand an HCI expert's role in a big company like Google, you firstly should use an AI speaker.
+If you really want to understand an HCI expert's role in a big company like Google, you firstly should use an AI speaker and imagine how its services are created.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/oy2y7rs2z64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Smart Speakers - Amazon Echo Dot Kids
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/jNdZAgij-K0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- [Amazon Echo Dot Kids](https://www.youtube.com/watch?v=jNdZAgij-K0)
 
-- Robots at home (as concepts of Human-Robot Interaction)
+- Robots at home (as concepts/scenarios of Human-Robot Interaction)
+
+The robot industry is fastly growing, and the moment of living with robots are getting closer. Samsung recently introduced [AI-powered household robots](https://r2.community.samsung.com/t5/Galaxy-Gallery/Read-the-Contents/td-p/6706505) at CES 2021, which can help your housework in the near future. Imagine how you will live with robots at home. What services do you expect to get from house robots? Find what's the HCI (or HRI) from the following videos.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/0XmUaHf-11A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/INHpPQ5qqFs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 - Smart Home Farming
+
+Food technology is one of the most important technologies for our life as everybody wants to eat healthy and safe foods. More and more people are getting involved to grow veggies at home, and home farming technologies will be increased dramatically in the near future.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/uI7aHhy8tyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Pet-Tech
+
+Yes, the pet industry is surely a big industry. This market is growing very fast, and lots of products are revealed every day. Thinking of HCI ideas related to pet care (or say, Pet-Tech) will be very interesting!
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/kDKLseR_BVc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- New Sony Aibo
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/oGo0TwNXXuo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- [New Sony Aibo](https://www.youtube.com/watch?v=oGo0TwNXXuo): Do you think people really want to live with robot pets? Or those are just expensive toys? In terms of INTERACTION, what values can those robot pets bring in our daily life?
 
 - Interactive fitting room
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Uxm9tdroJ0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

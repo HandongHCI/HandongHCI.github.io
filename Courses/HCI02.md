@@ -4,16 +4,22 @@
 
 ### 2. HCI Applications and Case Studies
 
-Let's be inspired by videos of student works. And let's try to make some ideas what to make in your HCI course!
+Let's be inspired by videos of student works. We have try to make some similar things in this HCI course!
 
-Try to search to be informed about the following HCI-related conferences and their upcoming schedules. I hope students could have a chance to present their work at one of the HCI-related conferences.
+See the previous student works in this HCI course. [Go →](https://handonghci.github.io/Courses/StudentProjects/HCI.html)
+
+There are some HCI-related conferences (domestic or international) you may be interested in. I hope you could have a chance to present your work at one of these conferences while you are a student. The HCI Korea is the most feasible option to participate in.
 - [SIGCHI](https://sigchi.org/conferences/upcoming-conferences/)
 - [HCI International](http://www.hci.international/)
 - [HCI Korea](http://www.hcikorea.org/)
+- [Korea Computer Graphics Society](http://www.cg-korea.org/)
 
 #### [Video Lectures]
 
-**A. SIGCHI Teaser Videos**
+**A. SIGCHI Student Works!**
+
+- CHI 2020
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/P3dpJM7-xPw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - CHI 2019
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/ZG7e1-4oAkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -41,7 +47,7 @@ Try to search to be informed about the following HCI-related conferences and the
 
 <br><br><br>
 
-**B. Student Projects**
+**B. Other Student Projects**
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/_ZdihBr7WPg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -61,7 +67,7 @@ Try to search to be informed about the following HCI-related conferences and the
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/o2p4NznyxR0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- more student works of NYU
+- more student works at NYU
 	- [ITP/IMA Winter Show 2019](https://www.youtube.com/watch?v=0LMNNsxPfJU)
 	- [ITP/IMA Spring Show 2019](https://www.youtube.com/watch?v=3Dzc6bwpBR0)
 	- [ITP/IMA Winter Show 2018](https://www.youtube.com/watch?v=02z_yyHAm-U)
@@ -71,13 +77,15 @@ Try to search to be informed about the following HCI-related conferences and the
 
 <br><br><br>
 
-**C. HCI facility our department (or prof. Lee) has, so that students might use for their term-project!**
+**C. HCI facility/devices in our department**
+
+Students may use some of these for their term project!
 
 - Tello or Tello Edu
 	- requirements: Python
 	- qty
 		- Tello: 20
-		- Tello Edu: three
+		- Tello Edu: 3
 	- details: [DJI's GitHub](https://github.com/dji-sdk/Tello-Python)
 	- possible applications
 		- Tello Swarm
@@ -97,9 +105,8 @@ Try to search to be informed about the following HCI-related conferences and the
 		- applications for disabilities
 		- Projection Mapping
 	- student projects
-		- [education for disabled children](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/KinectStoryTelling/)
-		- [Olympic game](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/KinectOlympic/)
-		- [Exercise game for children](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/KinectKidsExercise/)
+		- [Olympic game (Scratch)](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/KinectOlympic/)
+		- [Exercise game for children (Scratch)](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/KinectKidsExercise/)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/hfeB7cjDU7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -114,10 +121,10 @@ Try to search to be informed about the following HCI-related conferences and the
 		- Leap Motion + PyGame
 		- Leap Motion + VR
 	- student projects
-		- [Leap Motion + LookingGlass for virtual encyclopedia](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionRealDict/)
-		- [war game](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionWarGame/)
-		- [conducting learning game](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionConducting/)
-		- [recipe memorization game](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionBarista/)
+		- [Math game for youger elementary school kids (Leap Motion + Unity)](https://handonghci.github.io/Courses/StudentProjects/HCI2020S/team26/)
+		- [Sprout, a habbit making app (Leap Motion + Unity)](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/KinectStoryTelling/)
+		- [Virtual Encyclopedia (Leap Motion + Unity + LookingGlass)](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionRealDict/)
+		- [Hand War Game (Leap Motion + Unity)](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionWarGame/)
 
 
 - Leap Motion + VR(HTC Vive) or AR
@@ -157,20 +164,14 @@ Try to search to be informed about the following HCI-related conferences and the
 	- requirements: Python
 	- qty: five
 	- details
+		- [Digital Dream Labs](https://www.digitaldreamlabs.com/collections/vector-products)
 		- [SDK Document](https://developer.anki.com/vector/docs/index.html)
 		- [GitHub](https://github.com/anki/vector-python-sdk)
 		- [YouTube Tutorial](https://www.youtube.com/watch?v=mdD8g329_3c)
+	- student project
+		- [Robot in Future Home](https://handonghci.github.io/Courses/StudentProjects/HCI2020S/team22/)
+	- other example
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/bmS917sKheo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-- Sphero Bolt
-	- requirements: Python
-	- qty: 20
-	- details
-		- [SpheroPy's GitHub](https://github.com/darin-costello/spheropy)
-	- possible applications
-		- Sphero Bolt Swarm
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/0UCpf7mBZIw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 - Neurosky Mindwave Mobile 2
@@ -178,17 +179,28 @@ Try to search to be informed about the following HCI-related conferences and the
 	- qty: 20
 	- student projects
 		- [EEG-based baby caring](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/MindWave/)
+	- other examples
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/uRf0AUuors4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/iFBhTHGXcMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 - OpenPose
-	- requirements: Python
+	- requirements: Python, High-Spec Computer!
 	- details
 		- [GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/pW6nZXeWlGM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/xGV25oa4sOY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+	- OpenPose alternatives
+			- [Teachable Machine](https://teachablemachine.withgoogle.com/train/pose)
 
+- Just webcam!
+	- requirements: Python or web programming, any kind of webcam
+	- useful APIs
+		- [Naver Clova Face Recognition](https://developers.naver.com/products/clova/face/)
+		- And there are many!
+	- student project
+		- [Face recognition-based interactive online lecture-room](https://handonghci.github.io/Courses/StudentProjects/HCI2020S/team15/)
+		- [Typing for all](https://handonghci.github.io/Courses/StudentProjects/HCI2020S/team13/)
 
 - other topics
 	- serious game

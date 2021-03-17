@@ -43,7 +43,16 @@ Watch the [videos listed in **1. Introduction to HCI**](HCI01.md), then write an
 #### Topic 3. [HCI Applications and Case Studies]
 Watch the [videos listed in **2. Examples of HCI Application**](HCI02.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. What would you like to make in this course?**: You surely have watched a lot of HCI examples and student projects from the listed videos. You will also build something very interesting through this semester in the HCI course. **What HCI product would you like to make in this course with your team?** Then, let's imagine more in detail. **What is the goal/purpose of what you'd like to make?** =Why do you want to make that? **Who will be the target user of your product? What do you need to achieve your goal?** et cetera. Including these questions, provide your detailed plans for the project. (BUT, I'm not sure if you can actually execute the project in this course or not.)
+- **Subtopic 1. What HCI application would you like to try to build in this semester?**: You probably have watched lots of HCI examples and student projects, so far. And some of you already have interesting ideas for your project. Please share **what would you like to do in this course**. By the way, let's think about your idea in detail. Here are some questions.
+	- What will be the goal/purpose?
+	- Who will be the target user?
+	- Main functions?
+	- What values it can provide?
+	- Why they (=users) need it?
+	- Will it be fun to use?
+	- What computer tech or knowledge do you need for development?
+	- What could be challenges?
+	- Do you have already some sketches? (You can put some sketches or any figures in essays)
 
 - (there's no other subtopics)
 

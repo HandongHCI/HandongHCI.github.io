@@ -4,7 +4,21 @@
 
 ### 3. Home & Human Life
 
-See what computer-assisted interactive services that could help people to live conveniently. Find how humans and computers interact with each other in daily life.
+HCI is now everywhere. You can easily find computer-provided services at home. By answering the following questions, you might understand how human and computer already have interacted every moment in daily life.
+
+We will have some practices (like the below) regarding how human and computer treat information for each other. And what benefits we could have from the computer through H-C interaction?
+
+	[`A`] Which devices or electronic products do you daily use at home?
+	[`B`] What do you do (=task) with the product mentioned in `A` column?
+	[`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
+	[`D`] How do you response to `A` when you get `C`?
+	| `A` | `B` | `C` | `D` |
+	|---|---|---|---|
+	| refrigerator | taking a food from it | it provides a beep sound if I made the door opened accidently | it remind me to close the door |
+	| door bell | noticed when someone arrived at my home (or the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily realize who is arrived then could make a decision whether I should open the door or not |
+	| ... | ... | ... |
+
+From the following videos, see what computer-assisted interactive services that could help people conveniently in their daily life. Get informed how humans and computers interact with each other in daily life.
 
 Subtopics
 - A. Smart-Home Techs and HCI

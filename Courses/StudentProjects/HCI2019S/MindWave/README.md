@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # 뇌파 데이터를 이용한 시각화 프로젝트
 

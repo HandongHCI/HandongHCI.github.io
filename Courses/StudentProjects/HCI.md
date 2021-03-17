@@ -25,8 +25,8 @@
 - [Cafe Recipe Memorize Game (Leap Motion, Scratch)](HCI2019S/LeapMotionBarista)
 
 ### Student Projects in HCI Course in 2018S
-- [Interactive Web Design](InteractiveWeb)
-- [Interactive Media Art](MediaArt)
-- [IoT](IoT)
-- [Drone](Drone)
-- [Smart Mirror](SmartMirror)
+- [Interactive Web Design](HCI2018S/InteractiveWeb)
+- [Interactive Media Art](HCI2018S/MediaArt)
+- [IoT](HCI2018S/IoT)
+- [Drone](HCI2018S/Drone)
+- [Smart Mirror](HCI2018S/SmartMirror)

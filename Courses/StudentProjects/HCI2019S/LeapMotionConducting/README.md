@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # 리듬손타
 ### LeapMotion을 활용한 지휘 프로그램

@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # 엄마잔소리
 ![](img/1.png) 

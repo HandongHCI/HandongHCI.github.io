@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # 바리스타 교육용 립모션 게임
 

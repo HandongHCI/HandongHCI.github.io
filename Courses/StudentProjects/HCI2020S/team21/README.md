@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # Serious Game to Educate How to Prevent Coronavirus
 ![](img/1.png)

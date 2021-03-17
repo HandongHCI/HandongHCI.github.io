@@ -6,7 +6,7 @@
 
 Let's be inspired by videos of student works. We have try to make some similar things in this HCI course!
 
-See the previous student works in this HCI course. [Go →](https://handonghci.github.io/Courses/StudentProjects/HCI.html)
+See the previous student works in this HCI course. [[Go →]](https://handonghci.github.io/Courses/StudentProjects/HCI.html)
 
 There are some HCI-related conferences (domestic or international) you may be interested in. I hope you could have a chance to present your work at one of these conferences while you are a student. The HCI Korea is the most feasible option to participate in.
 - [SIGCHI](https://sigchi.org/conferences/upcoming-conferences/)
@@ -157,6 +157,8 @@ Students may use some of these for their term project!
 	- details: [LookingGlass SDK](*https://lookingglassfactory.com/devtools)
 	- possible applications
 		- LookingGlass + Leap Motion
+	- student project
+		- [Virtual Encyclopedia (Leap Motion + Unity + LookingGlass)](https://handonghci.github.io/Courses/StudentProjects/HCI2019S/LeapMotionRealDict/)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/htFotQi_-jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -190,8 +192,9 @@ Students may use some of these for their term project!
 		- [GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/pW6nZXeWlGM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/xGV25oa4sOY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 	- OpenPose alternatives
-			- [Teachable Machine](https://teachablemachine.withgoogle.com/train/pose)
+		- [Teachable Machine](https://teachablemachine.withgoogle.com/train/pose)
 
 - Just webcam!
 	- requirements: Python or web programming, any kind of webcam

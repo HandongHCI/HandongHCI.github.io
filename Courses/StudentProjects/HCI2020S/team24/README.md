@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # InCarTech : Interaction Model based on Car Condition Prediction System
 ![](img/1.jpg)

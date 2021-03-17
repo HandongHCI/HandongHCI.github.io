@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # 미래의 가정용 로봇 호마
 ![](img/1.png)

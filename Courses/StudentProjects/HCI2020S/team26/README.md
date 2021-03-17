@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # 초등학교 저학년을 위한 유니티를 이용한 수학게임
 

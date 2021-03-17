@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # Face Recognition-Based Interactive Online Lecture-Room
 

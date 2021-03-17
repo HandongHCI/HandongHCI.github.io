@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # Homelympic
 <img src="image/kinect.jpg" height="300"><img src="image/scratchX.png" height="300">

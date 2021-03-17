@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # Sprout 
 ![Sprout Logo](img/sprout.png)

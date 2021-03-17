@@ -1,4 +1,4 @@
-[← go back to the list](../README.md)
+[← go back to the list](../../HCI.md)
 
 # Sign Language Education for the Non-Disabled Using Motion Recognition
 ![](img/1.png)

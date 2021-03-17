@@ -31,10 +31,13 @@ Subtopics
 **A. Smart-Home Techs and HCI**
 
 - Smart Home IoT - Google Nest examples
+
 Lots of IoT sensors and devices that intend to make your life easier have been introduced. But not every product was successful, and only some are famously used. Why? That's because of UX. If a product requires too much care (e.g., too often battery change, easily disconnected from the internet, unsatisfied features in a smartphone app, inconvenience in data monitoring/handling), it is not the smart product anymore.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6-JXxFZYXlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Smart Speakers - Google Home
+
+If you really want to understand an HCI expert's role in a big company like Google, you firstly should use an AI speaker.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/oy2y7rs2z64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Smart Speakers - Amazon Echo Dot Kids

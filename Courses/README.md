@@ -32,6 +32,7 @@
 
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)
+- [Materials - EduTech](PPD_EduTech.md)
 - [Materials - Videos related to PPD](PPD_Videos.md)
 - [Materials - Agile](PPD_Agile.md)
 - [Materials - Prototyping](PPD_Videos.md)

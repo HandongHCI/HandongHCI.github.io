@@ -73,4 +73,5 @@
 
 ### Links 
 - [참고영상](PPD_Videos.md)
+- [Agile](PPD_Agile.md)
 - [Prototyping](PPD_Prototyping.md)

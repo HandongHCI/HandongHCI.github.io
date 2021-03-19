@@ -26,7 +26,6 @@
 - [8. Ethics and Philosophies](HCI08.md)
 - [Assignments](HCI_Essays.md)
 
-
 ### Data Visualization (SIT42001)
 - [Introduction](DV00.md)
 - [Video Lectures & Useful Metarials](DV_Sources.md)
@@ -34,6 +33,7 @@
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)
 - [Materials - Videos related to PPD](PPD_Videos.md)
+- [Materials - Agile](PPD_Agile.md)
 - [Materials - Prototyping](PPD_Videos.md)
 
 ### Intoduction to ICT Convergence (SIT22002)

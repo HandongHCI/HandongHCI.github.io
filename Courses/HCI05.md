@@ -2,6 +2,10 @@
 
 ## Human-Computer Interaction (SIT22008)
 
+HCI quotes
+> "The big art of design is to make complicated things simple." - Tim Parsey
+> "Good design, when it’s done well, becomes invisible. It’s only when it’s done poorly that we notice it. Think of it like a room’s air conditioning. We only notice it when it’s too hot, too cold, making too much noise, or the unit is dripping on us. Yet, if the air conditioning is perfect, nobody say anything and we focus, instead, on the task at hand." - Jared Spool
+
 ### 5. Education & Work
 
 Think of how you learn, how you study, and how you work. Reading a book, watch videos, listening to an online lecture through your laptop or mobile phone, doing a team project, talking in KakoTalk for discussion, ... all the activities related to education and work is conducted via any type of interaction. Everyone learns knowledge or technique from a certain way of interaction. In the past, the knowledge transfer was made by people-to-people interaction. Today, various computer technologies support people to learn and work so that modern people can treat a lot of information and knowledge quickly in their daily life. Let's see what kind of interactive technologies can support people learn and work efficiently and smartly.

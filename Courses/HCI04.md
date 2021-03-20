@@ -2,6 +2,10 @@
 
 ## Human-Computer Interaction (SIT22008)
 
+HCI quotes
+> "Technology serves humans. Humans do not serve technology." - Joshua Porter
+> "Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves." - Steve Jobs
+
 ### 4. Healthcare & Safety
 
 See what kinds of ICT services help people living healthy and safe. Find how computers interact with people in hospital or in which people want to have a medical care.

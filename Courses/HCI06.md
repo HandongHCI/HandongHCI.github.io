@@ -2,6 +2,9 @@
 
 ## Human-Computer Interaction (SIT22008)
 
+HCI quotes
+> "Good design is design that changes behavior for the better. I think it needs to take into account the context of the environment, of the human condition, the culture, and then attempt to make the things you do—make us do them better, make us do better things. It encourages us to change the way that we live." - Jon Kolko
+
 ### 6. Smart City
 
 From the series of videos in this chapter, try to find:

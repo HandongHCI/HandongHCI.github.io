@@ -2,22 +2,25 @@
 
 ## Human-Computer Interaction (SIT22008)
 
+HCI quotes
+> "Feedback is the heart of interaction. If user interaction is a conversation between your user and the product, then your product better participate in a friendly, interesting, and helpful manner." - UXPin team
+
 ### 3. Home & Human Life
 
 HCI is now everywhere. You can easily find computer-provided services at home. By answering the following questions, you might understand how humans and computers already have interacted every moment in daily life.
 
-We will have some practices (like the below) regarding how humans and computers treat information for each other. And what benefits could we have from the computer through H-C interaction?
+We will have some practices (like the below) regarding how humans and computers treat information for each other. And what benefits could we have from the computer through H-C interaction? Let's find it by filling the following form.
+- [`A`] Which devices or electronic products do you daily use at home?
+- [`B`] What do you do (=task) with the product mentioned in `A` column?
+- [`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
+- [`D`] How do you respond to `A` when you get `C`?
+- [`E`] Benefits you have gotten
 
-[`A`] Which devices or electronic products do you daily use at home?
-[`B`] What do you do (=task) with the product mentioned in `A` column?
-[`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
-[`D`] How do you respond to `A` when you get `C`?
-
-| `A` | `B` | `C` | `D` |
-|---|---|---|---|
-| refrigerator | taking food from it | it provides a beep sound if I made the door opened accidentally | it reminds me to close the door |
-| doorbell | noticed when someone arrived at my home (or the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily realize who is arrived then could make a decision whether I should open the door or not |
-| ... | ... | ... |
+| `A` | `B` | `C` | `D` | `E` |
+|---|---|---|---|---|
+| refrigerator | I made the door opened accidentally after taking food from it | it provides a beep sound | it reminds me to close the door | I can avoid unexpected situations (e.g., frozen food melted, fresh food spoiled, ...) due to my mistake |
+| doorbell | noticed when someone arrived at my home (or at the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily recognize who is arrived; then could make a decision if I should open the door or not | No need to go to the entrance and open the door to check who is out there |
+| ... | ... | ... | ... | ... |
 
 From the following videos, see what computer-assisted interactive services that could help people conveniently in their daily life. Get informed about how humans and computers interact with each other in daily life.
 
@@ -33,12 +36,12 @@ Subtopics
 
 - Smart Home IoT - Google Nest examples
 
-Lots of IoT sensors and devices that intend to make your life easier have been introduced. But not every product was successful, and only some are famously used. Why? That's because of UX. If a product requires too much care (e.g., too often battery change, easily disconnected from the internet, unsatisfied features in a smartphone app, inconvenience in data monitoring/handling), it is not the smart product anymore.
+Lots of IoT sensors and devices that intend to make your life easier have been introduced. But not every product was successful, and only some are famously used. Why? That's mostly because of UX, which is not enough considered. If a product requires too much care (e.g., too often battery change, easily disconnected from the internet, unsatisfied features in a smartphone app, inconvenience in data monitoring/handling), it is not the SMART product anymore. Keep in mind that everyone likes EASY and SIMPLE things for their everyday life (e.g., houseworks, going for a work, ...) so that they can focus on important things.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6-JXxFZYXlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Smart Speakers - Google Home
+- Smart Speakers - Google Home example
 
-If you really want to understand an HCI expert's role in a big company like Google, you firstly should use an AI speaker and imagine how its services are created. Also, see [Amazon Echo Dot Kids](https://www.youtube.com/watch?v=jNdZAgij-K0) and find how kids interact/play with AI speakers.
+If you want to understand an HCI expert's role in a big company like Google, it's good to use an AI speaker and imagine how its services are created. Also, see [Amazon Echo Dot Kids](https://www.youtube.com/watch?v=jNdZAgij-K0) and find how kids interact/play with AI speakers. HCI experts (or UX researchers) always focus their eyes on USERS and find what they need.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/oy2y7rs2z64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Robots at home (as concepts/scenarios of Human-Robot Interaction)
@@ -60,11 +63,26 @@ Yes, the pet industry is surely a big industry. This market is growing gradually
 - [New Sony Aibo](https://www.youtube.com/watch?v=oGo0TwNXXuo): Do you think people really want to live with robot pets? Or those are just expensive toys? In terms of INTERACTION, what values can those robot pets bring in our daily life?
 
 - Interactive fitting room
+
+What do you expect to do, if you have this kind of product (say, smart mirror) at your home?
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/qWz9fA7RUyc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
 
 **B. Sports and Entertainment**
+
+What benefits the ICT-based interactive sports can provide to people?
+- better health
+- focus on training (e.g., coached by an AI trainer)
+- imediate feedbacks (e.g., posture correction, calorie usage)
+- fun, joyful, not boring
+- challenging
+- achievements, accomplishments
+- exercise track records
+- reminders
+- ...
+
+See the following videos. Looks so fun to play!
 
 - MIRROR
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/S9yIcNyEfbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -95,11 +113,18 @@ Yes, the pet industry is surely a big industry. This market is growing gradually
 
 **C. Assistive Techs & HCI**
 
+Someone needs help and support in daily life. See how ICT technologies (also with remarkable interactions) can cowork with disabled people in their life and work!
+
+What can you do for people who needs help?
+
 - Apple's accessibility technologies
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/XB4cjbYywqg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Apple's voice control
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/aqoXFCCTfm4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Xbox Adaptive Controllers
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/0hHJCY2BSh4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Tobii Dynavox for augmentative communication
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/C8hN-QjW8BY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

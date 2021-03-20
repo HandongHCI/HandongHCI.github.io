@@ -2,6 +2,9 @@
 
 ## Human-Computer Interaction (SIT22008)
 
+HCI quotes
+> "It’s not enough that we build products that function, that are understandable and usable, we also need to build products that bring joy and excitement, pleasure and fun, and yes, beauty to people’s lives." - Don Norman
+
 ### 7. Transportation
 
 As technology has developed, the mobility of people also has been highly increased. The HCI issues in transportation include convenience, comfort, entertainment, safety, and so forth. Good vehicle interfaces and driver-vehicle interactions have been researched as its importance in human life. But, still, lots of hazard accidents are happening sometimes because its interface or interaction is bad. Vehicle interfaces/interactions should keep people in a protected status and should not distract or annoy drivers or passengers. Do you think there's no accident if there are no drivers operating their own car and only automated vehicles are running on the road?

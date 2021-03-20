@@ -47,11 +47,8 @@ So, what can you see from the videos above? How can computers make our life more
 
 - other videos/materials
 	- [Brief Introduciton to HCI](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)
+
 <br><br><br>
-
-(No worries! I will also provide my short lecture about 'What is HCI?' in the class.)
-
-
 
 **B. HCI Technologies**
 

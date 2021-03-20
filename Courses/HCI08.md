@@ -2,6 +2,10 @@
 
 ## Human-Computer Interaction (SIT22008)
 
+HCI quotes
+> "Interaction is the essence of all user experiences. It is the conversation between your product and your user, and if the conversation is boring, your user will leave and talk to someone more interesting." -UXPin team
+> "If we want users to like our software we should design it to behave like a likeable person: respectful, generous and helpful." - Alan Cooper
+
 ### 8. Ethics and Philosophies
 
 Finally, this is the last topic of the video lectures. As the HCI is a highly practical multidisciplinary academic domain, lots of university labs, institutes, and companies have involved in HCI researches with their own roles. But, the development of computer technologies without concern of HUMAN (which is "H" in HCI) can cause some problems. As a future computer engineer or ICT expert, what we should concern when we work for the enhancement of our life with technologies?

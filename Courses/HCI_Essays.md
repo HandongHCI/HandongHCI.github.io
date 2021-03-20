@@ -62,13 +62,12 @@ Write the first essay including the following subtopics.
 
 - **Subtopic 1. What's Value/Benefit**: People want to get values/benefits from services provided by products/devices as they paid for it. Here I give you some keywords what people want to earn by products: `convenience`, `comfort`, `health`, `safety`, `efficiency`, `fun`, `satisfaction`, `relief`, `family reunion`, `happy evening`, `loving each other`, ... First, **please provide some of your experiences about (1) what benefits you earned (2) by which product/service** in your daily life. A refrigerator, hairdryer, microwave oven, laundry machine can be the one you might remind for the first time. Then, you may say some smartphone apps such as KakaoTalk, Mise Mise, YouTube, Instagram, ... as those provide you particular benefits (e.g., easy conversation, easy information search, connected each other, being informed, ...) in your daily life. **As a student who is taking an HCI course, it's important to think of VALUES/BENEFITS that people want to get. Write your deep thoughts about `human VALUES` and `BENEFITS`.** Why do we need to care about someone's values/benefits? Do you really want to create values? For what? Why?
 
-- **Subtopic 2. Your ideas?**: From the videos, you might have insights and inspirations on how you will live your future life (individual life as well as family life) with smart techs and HCI products. **Provide some new HCI ideas** related to Home and Human Life, which can deliver values/benefits to people. Then, here are some questions followed by. **Which people?, For which purpose? What values/benefits?, ...** You may put some **sketch or illustration** if available. Also, you may use the following form to describe your thoughts (at leat, five).
-
-- [`A`] Which devices, products, or smartphone apps?
-- [`B`] What can people do (=task) with [`A`]?
-- [`C`] What information (or service) can [`A`] provide by doing [`B`]?
-- [`D`] How can people react on [`C`]?
-- [`E`] Values/Benefits people can earn from [`A`]
+- **Subtopic 2. Your ideas?**: From the videos, you might have insights and inspirations on how you will live your future life (individual life as well as family life) with smart techs and HCI products. **Provide some new HCI ideas** related to Home and Human Life, which can deliver values/benefits to people. Then, here are some questions followed by. **Which people?, For which purpose? What values/benefits?, ...** You may put some **sketch or illustration** if available. Also, you may use the following form to describe your thoughts (at least, five).
+	- [`A`] Which devices, products, or smartphone apps?
+	- [`B`] What can people do (=task) with [`A`]?
+	- [`C`] What information (or service) can [`A`] provide by doing [`B`]?
+	- [`D`] How can people react on [`C`]?
+	- [`E`] Values/Benefits people can earn from [`A`]
 
 | [`A`] | [`B`] | [`C`] | [`D`] | [`E`] |
 |---|---|---|---|---|

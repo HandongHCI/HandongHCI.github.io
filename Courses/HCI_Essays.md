@@ -64,16 +64,23 @@ Write the first essay including the following subtopics.
 
 - **Subtopic 2. Your ideas?**: From the videos, you might have insights and inspirations on how you will live your future life (individual life as well as family life) with smart techs and HCI products. **Provide some new HCI ideas** related to Home and Human Life, which can deliver values/benefits to people. Then, here are some questions followed by. **Which people?, For which purpose? What values/benefits?, ...** You may put some **sketch or illustration** if available. Also, you may use the following form to describe your thoughts (at leat, five).
 
-- [`A`] Which devices or electronic products (or a smartphone app) do people can use in their daily life?
-- [`B`] What can they do (=task) with `A`?
-- [`C`] What information (or service) can `A` provide by doing `B`?
-- [`D`] How can people react on `C`?
-- [`E`] Benefits people can earn
+- [`A`] Which devices, products, or smartphone apps?
+- [`B`] What can people do (=task) with [`A`]?
+- [`C`] What information (or service) can [`A`] provide by doing [`B`]?
+- [`D`] How can people react on [`C`]?
+- [`E`] Values/Benefits people can earn from [`A`]
 
-| `A` | `B` | `C` | `D` | `E` |
+| [`A`] | [`B`] | [`C`] | [`D`] | [`E`] |
 |---|---|---|---|---|
-| refrigerator | I made the door opened accidentally after taking food from it | it provides a beep sound | it reminds me to close the door | I can avoid unexpected situations (e.g., frozen food melted, fresh food spoiled, ...) due to my mistake |
-| doorbell | noticed when someone arrived at my home (or at the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily recognize who is arrived; then could make a decision if I should open the door or not | No need to go to the entrance and open the door to check who is out there |
+| (next generation) refrigerator | ... | ... | ... | ... |
+| smart speaker | ... | ... | ... | ... |
+| small garden in the kitchen | ... | ... | ... | ... |
+| (something for pets) | ... | ... | ... | ... |
+| (something for family happy time) | ... | ... | ... | ... |
+| (something related to good sleep) | ... | ... | ... | ... |
+| (something for fun exercise) | ... | ... | ... | ... |
+| (any new ideas about smartphone apps that make our life more convenient) | ... | ... | ... | ... |
+| (assistive devices for disabled people) | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... |
 
 

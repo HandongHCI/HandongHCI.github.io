@@ -11,20 +11,20 @@ HCI is now everywhere. You can easily find computer-provided services at home. B
 
 We will have some practices (like the below) regarding how humans and computers treat information for each other. And what benefits could we have from the computer through H-C interaction? Let's find it by filling the following form.
 - [`A`] Which devices or electronic products do you daily use at home?
-- [`B`] What do you do (=task) with the product mentioned in `A` column?
-- [`C`] What information (or service) does `A` provide you (based on your behavior or not) when you are doing the task `B`?
-- [`D`] How do you respond to `A` when you get `C`?
+- [`B`] What do you do (=task) with the product mentioned in [`A`] column?
+- [`C`] What information (or service) does [`A`] provide you (based on your behavior or not) when you are doing the task [`B`]?
+- [`D`] How do you respond to [`A`] when you get [`C`]?
 - [`E`] Benefits you have gotten
 
-| `A` | `B` | `C` | `D` | `E` |
+| [`A`] | [`B`] | [`C`] | [`D`] | [`E`] |
 |---|---|---|---|---|
 | refrigerator | I made the door opened accidentally after taking food from it | it provides a beep sound | it reminds me to close the door | I can avoid unexpected situations (e.g., frozen food melted, fresh food spoiled, ...) due to my mistake |
-| doorbell | noticed when someone arrived at my home (or at the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily recognize who is arrived; then could make a decision if I should open the door or not | No need to go to the entrance and open the door to check who is out there |
+| doorbell | I noticed when someone arrived at my home (or at the entrance of my building) | it alarmed to me with a sound (music) and a video screen | I could easily recognize who is arrived; then could make a decision if I should open the door or not | No need to go to the entrance and open the door to check who is out there |
 | ... | ... | ... | ... | ... |
 
 From the following videos, see what computer-assisted interactive services that could help people conveniently in their daily life. Get informed about how humans and computers interact with each other in daily life.
 
-Subtopics
+Subtopics in this lecture
 - A. Smart-Home Techs and use scenarios related to HCI
 - B. Sports and Entertainment
 - C. Assistive Techs & HCI

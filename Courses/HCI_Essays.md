@@ -83,6 +83,7 @@ Write the first essay including the following subtopics.
 | (assistive devices for disabled people) | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... |
 
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6LELq9ZbS8o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 #### Topic 5. [Healthcare & Safety]
 [Take the video lecture **4. Healthcare & Safety**](HCI04.md), then write an essay including the following subtopics.

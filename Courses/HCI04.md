@@ -10,10 +10,28 @@ HCI quotes
 
 See what kinds of ICT services help people living healthy and safe. Find how computers interact with people in hospital or in which people want to have a medical care.
 
+Try to keep thinking the detailed (= decomposited) interactions between humans and computers, especially in a medical/healthcare or safety-care processes.
+- [`A`] What products/apps?
+- [`B`] Which tasks?
+- [`C`] Human action
+- [`D`] Computer's action
+- [`E`] **Values/Benefits**
+
+| [`A`] | [`B`] | [`C`] | [`D`] | [`E`] |
+|---|---|---|---|---|
+| medicine delivery robot | ... | ... | ... | ... |
+| telemedicine app | ... | ... | ... | ... |
+| diabetes checking device | ... | ... | ... | ... |
+| smartwatch | ... | ... | ... | ... |
+| safeguard drone | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... |
+
+While watching videos, try to think about what analog medical/healthcare/safety-related works could be digitally transformed; what services we might need in the near future. Please do NOT focus on the technology itself. **HCI is more than technologies.**
+
 Subtopics
 - A. Emerging Healthcare Techs & HCI
-- B. Healthcare Robots
-- C. Elderly Care
+- B. COVID-19 & HCI
+- C. Special Cares
 - D. Safety Techs & HCI
 - E. Future Scenarios
 
@@ -30,21 +48,13 @@ Subtopics
 - Long-distance medical care
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/S-e4PnE3eM0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Telehealth
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/ZuRAElch6HU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 - Innovation and Technology at the Glenrose Rehabilitation Hospital
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/IAYbzp_lyXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- Siemens Healthineers - Shaping the future of healthcare
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/o8NIN8dJqdc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - AI meets human compassion (AI as a co-pilot)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/VSSj7MugOyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<br><br><br>
-
-**B. Healthcare Robots**
+Let's see how robots and help people in medical or healthcare procedures. Also, think about HRI (human-robot interaction), which is one of the specific areas of HCI.
 
 - Papper
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/MrRISDDZy_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -55,21 +65,39 @@ Subtopics
 - Moxi
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/JM1vUmrjOHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Pillo
+- Pillo: The robot doesn't need to move around.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/GfjGPTKBFB4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
 
-**C. Elderly Care**
+**B. COVID-19 & HCI**
+
+Okay, we understand the medical/healthcare technologies are suddenly boosting during the pandemic. HOWEVER, what about the interactions? Who cares interactions? The HCI should care about human and their thinking, behaviors, and emotions, but when the technology is developed, the HCI is not enough considered, so that many techs become failed as it is unsatisfied to use.
+
+- Untact Services (Korean sound included)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/r-tfQH-r_3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Tech innovations in medical area during the pandemic (20 min, but worthwhile to watch)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/zPyOnZpeFnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Robot for Remote Medical Care (a concept testing film)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/Ty1ycHzjVps" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br><br><br>
+
+**C. Special Care**
 
 - Healthcare Denmark
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/aeP0AcFEdSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/igKdgta23gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Dinsow
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/3csjRY8tGoI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Elder care robots
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/P_0jzsNF8kA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Diabetes Tech: See how the real-time medical data (=blood data) can be treated by patients and doctors through ICT devices (e.g., smartphone, smartwatch).
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/ozoVpPULySo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
 
@@ -94,17 +122,19 @@ Subtopics
 
 **E. Future Scenarios**
 
+Try to focus on futuristic 'interactions' and 'interfaces' from the videos.
+
 - Microsoft's future scenario (made in 2011)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6aKNK7OTHKs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Siemens Healthieers
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/jh5U5BnpGN8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - GE Healthcare Imaging 2030 - Meet Sophie
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/N6HqHIGfvVI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - More videos
-	- [The Medical Futurist](https://www.youtube.com/user/medicalfuturist/videos) - Subscribe this YouTube channel!
-	- [IBM Watson](https://www.youtube.com/watch?v=ZPXCF5e1_HI)
-	- [Cisco](https://www.youtube.com/watch?v=gZGJDWwxc1Q)
-	- [Philips HealthSuite](https://www.youtube.com/watch?v=0RhSytysl5U)
+	- [The Medical Futurist](https://www.youtube.com/user/medicalfuturist/videos) - Recommend to subscribe this YouTube channel if interested
 
 
 

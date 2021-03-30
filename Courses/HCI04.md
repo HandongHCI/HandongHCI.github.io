@@ -26,7 +26,7 @@ Try to keep thinking the detailed (= decomposited) interactions between humans a
 | safeguard drone | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... |
 
-While watching videos, try to think about what analog medical/healthcare/safety-related works could be digitally transformed; what services we might need in the near future. Please do NOT focus on the technology itself. **HCI is more than technologies.**
+While watching videos, try to think about what analog medical/healthcare/safety-related works could be digitally transformed; what human-centered services we might need in the near future. Please do NOT focus on the technology itself. **HCI is more than technologies.**
 
 Subtopics
 - A. Emerging Healthcare Techs & HCI
@@ -54,7 +54,7 @@ Subtopics
 - AI meets human compassion (AI as a co-pilot)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/VSSj7MugOyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Let's see how robots and help people in medical or healthcare procedures. Also, think about HRI (human-robot interaction), which is one of the specific areas of HCI.
+Robot techs are getting important, especially in medical/healthcare/safety areas. Let's see how robots can help people in medical or healthcare procedures. Also, think about HRI (human-robot interaction), which is one of the specific areas of HCI.
 
 - Papper
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/MrRISDDZy_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -77,7 +77,7 @@ Okay, we understand the medical/healthcare technologies are suddenly boosting du
 - Untact Services (Korean sound included)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/r-tfQH-r_3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Tech innovations in medical area during the pandemic (20 min, but worthwhile to watch)
+- (optional) Tech innovations in medical area during the pandemic (20 min, but worthwhile to watch)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/zPyOnZpeFnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Robot for Remote Medical Care (a concept testing film)

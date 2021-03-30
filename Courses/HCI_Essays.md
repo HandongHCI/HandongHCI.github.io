@@ -87,9 +87,14 @@ Write the first essay including the following subtopics.
 #### Topic 5. [Healthcare & Safety]
 [Take the video lecture **4. Healthcare & Safety**](HCI04.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Core values?**: The selected videos are showing various cases of how computer technologies can help people in different situations. Don't just get information about technologies and products themselves, but try to catch how the interaction between human and computer works. In this series of videos (Healthcare & Safety), find **what values people could earn from the interactive technologies related to healthcare and safety.** And explain **which aspects could make people healthy and safe.** (Here, I give some keywords about the "aspects" you might have: *clear communication, right information, accuracy, fast enough, accessibility to necessary data, appropriate alarming*, ... In the design of HCI applications, it is important to consider what values people would receive.)
+- **Subtopic 1. Core values?**: The videos are showing various cases of how computer technologies can help people in medical/healthcare situations. Don't just get information about technologies and products themselves, but try to catch how the interaction between human and computer works.
 
-- **Subtopic 2. Your ideas?**: Here now, all over the world is facing a serious problem with COVID 19, an infectious virus. You might have some ideas on such as a device, facility, hospital environment/interior, personal protective equipment, software/app showing visual data about any useful information, and so forth, which could support people in health and safety from COVID 19. **Provide your HCI idea(s) that can be helpful to overcome COVID 19. Then, explain in detail how the suggested item interacts with people. Try to visualize (e.g., draw some sketches) your idea.**
+As emphasized in this HCI course, 'human' is the most important part among the H, C, and I. Any fancy technologies without considering humans are sucks. Only technologies that bring benefits as much as possible to human is the good tech; otherwise, valueless and unsuccessful.
+
+Through this series of videos (Healthcare & Safety), find **what values people could earn from the interactive technologies related to medical/healthcare and safety.** And explain **which aspects could make people healthy and safe.** Here are some keywords that might be helpful: `#effective communication`;, `#right information on time`, `#accuracy and reliability`, `#fast enough`, `#accessibility to necessary data`, ... In the design of HCI applications, it is important to consider what values people would receive.)
+
+- **Subtopic 2. HCI ideas?**: Here now, all over the world is facing a serious problem with COVID-19, an infectious virus. You might have some ideas such as a device, facility, hospital environment/interior, personal protective equipment (PPE), software/app showing visual data about any useful information, and so forth, which could support people in health and safety from COVID-19. **Provide your HCI idea(s) that can help overcome COVID-19 (or any upcoming pandemic-like situations). And explain in detail the interactions between people through the suggested items. Try to visualize (e.g., sketches maybe) your idea.**
+
 
 
 #### Topic 6. [Education & Work]

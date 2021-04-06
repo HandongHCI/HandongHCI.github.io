@@ -98,9 +98,29 @@ Through this series of videos (Healthcare & Safety), find **what values people c
 #### Topic 6. [Education & Work]
 [Take the video lecture **5. Education & Work**](HCI05.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Core values?**: All the learning is resulted based on some kind of the interactive activities. Reading, watching videos, discussion, presentation, practice, participation in an exhibition or a conference, ... we learn through various types of interactions. Among those different types, some activities (such as reading a book, watching a video) are indirect between learner and teacher, while discussion or presentation is the more direct way of interaction between learner and teacher (or between learners). First, **explain how the quality of interaction affects the quality of education**. And the follow-up question is **"what is the meaning of 'good quality of interaction' in education?".** Based on your learning experiences this semester, try to compare **what are the benefits and disadvantages of online lecture in terms of interaction**(e.g., conducting of interactive activities between students in the same course, way of interaction with the professor, communication in a project team)?
+- **Subtopic 1. New Normal Life of Learning?**: All the learning is resulted based on some kind of the interactive activities. Reading, watching videos, discussion, presentation, practice, participation in an exhibition or a conference, ... we learn through various types of interactions. Among those different types, some activities (such as reading a book, watching a video) are indirect between learner and teacher, while discussion or presentation is the more direct way of interaction between learner and teacher (or between learners). By the way, COVID-19 definitely changes our lives, especially education. **What kind of educational situations do you face everyday while COVID-19?** For example, we all need to use Zoom and more of on-line contents and tools thesedays. **How do you think of the new style of student life?** Based on your learning experiences after COVID-19, try to compare **what are the benefits/positive-effects and disadvantages/negative-effects of on-line lectures (also, on-line and off-line blended classes) in terms of INTERACTION** Here are some examples of INTERACTIONs: doing face-to-face activities (e.g., discussion, meetings, ...) between students in the same classroom, communications with the lecturer, collaborations in a project team, ...
 
-- **Subtopic 2. Your ideas?**: Continued from the questions above, then **what new ideas about the interaction for (online and/or offline) education do you have**? Try to make some ideas based on your good or bad experiences of learning and study. **What kind of interactions can help people to learn or work efficiently? How can computer-assistive technologies support people having disabilities to learn or work in a good way?**
+- **Subtopic 2. Ideas?**: Continued from the questions above, also thinking of the WORK, **what new ideas about INTERACTIONs for education and work, do you have?** Please provide new ideas (that should be related to INTERACTION or INTERACTIVE behaviors) related to education/work under on-line and off-line blended situation (also called, **meta-verse situation**). What kind of interactions can help people to learn or work efficiently? How can computer-assistive technologies support people having disabilities to learn or work in a proper way? Provide some ideas by using a table look similar to this:
+	- [`A`] What people requires/needs/wants? (=values/benefits people want to get)
+	- [`B`] Your idea(s) to satisfy their needs
+	- [`C`] Detailed INTERACTION ideas
+
+| [`A`] | [`B`] | [`C`] |
+|---|---|---|---|---|
+| proper way of connections | ... | ... |
+| lunch together | ... | ... |
+| time-efficient work collaboration | ... | ... |
+| not loose communication | ... | ... |
+| quality learning | ... | ... |
+| necessary mentoring/cauching | ... | ... |
+| deep thinking | ... | ... |
+| comfortable place for learning/work | ... | ... |
+| ... | ... | ... |
+
+
+
+
+
 
 
 #### Topic 7. [Smart City]

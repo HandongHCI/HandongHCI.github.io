@@ -1,7 +1,8 @@
 [← go back to the course page](../README.md)
 
 ### 2021S
-- [App Prototyping]
+- [People Drawing](IdeationPrototyping2021S/people)
+- [App Prototyping - Paper Prototype & Wireframe](IdeationPrototyping2021S/App1)
 
 ### 2020S
 - [App Prototyping - Paper-Based Prototyping (Marvel App)](IdeationPrototyping2020S/App1)

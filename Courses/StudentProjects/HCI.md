@@ -1,4 +1,4 @@
-[← go back to the course page](../../README.md)
+[← go back to the course page](../README.md)
 
 ## Student Projects in HCI Course
 
@@ -26,7 +26,7 @@
 - [Sign Language (Webcam, OpenPose)](HCI2020S/team25)
 - [Math Game for Children (Leap Motion, Unity)](HCI2020S/team26)
 
-## Student Projects in HCI Course in 2019S
+### 2019S
 - [War Game (Leap Motion, Unity)](HCI2019S/LeapMotionWarGame)
 - [3D Interactive Dictionary (Leap Motion, Looking Glass, Unity)](HCI2019S/LeapMotionRealDict)
 - [Interactive Story Telling Game (Kinect, Scratch)](HCI2019S/KinectStoryTelling)
@@ -38,7 +38,7 @@
 - [Baby Sleeping Monitor (MindWave, Hue)](HCI2019S/MindWave)
 - [Cafe Recipe Memorize Game (Leap Motion, Scratch)](HCI2019S/LeapMotionBarista)
 
-## Student Projects in HCI Course in 2018S
+### 2018S
 - [Interactive Web Design](HCI2018S/InteractiveWeb)
 - [Interactive Media Art](HCI2018S/MediaArt)
 - [IoT](HCI2018S/IoT)

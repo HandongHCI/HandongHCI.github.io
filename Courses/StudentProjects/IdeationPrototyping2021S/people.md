@@ -7,167 +7,167 @@
 
 `#star peopl`, `#box people`, `#stick people`, `#bean people`
 
-![](MidExhibitionImg/people/1.jpg)
+![](MidExhibitionImg/people/1.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/2.jpg)
+![](MidExhibitionImg/people/2.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/3.jpg)
+![](MidExhibitionImg/people/3.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/4.jpg)
+![](MidExhibitionImg/people/4.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/5.jpg)
+![](MidExhibitionImg/people/5.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/6.jpg)
+![](MidExhibitionImg/people/6.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/7.jpg)
+![](MidExhibitionImg/people/7.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/8.jpg)
+![](MidExhibitionImg/people/8.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/9.jpg)
+![](MidExhibitionImg/people/9.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/10.jpg)
+![](MidExhibitionImg/people/10.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/11.jpg)
+![](MidExhibitionImg/people/11.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/12.jpg)
+![](MidExhibitionImg/people/12.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/13.jpg)
+![](MidExhibitionImg/people/13.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/14.jpg)
+![](MidExhibitionImg/people/14.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/15.jpg)
+![](MidExhibitionImg/people/15.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/16.jpg)
+![](MidExhibitionImg/people/16.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/17.jpg)
+![](MidExhibitionImg/people/17.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/18.jpg)
+![](MidExhibitionImg/people/18.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/19.jpg)
+![](MidExhibitionImg/people/19.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/20.jpg)
+![](MidExhibitionImg/people/20.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/21.jpg)
+![](MidExhibitionImg/people/21.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/22.jpg)
+![](MidExhibitionImg/people/22.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/23.jpg)
+![](MidExhibitionImg/people/23.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/24.jpg)
+![](MidExhibitionImg/people/24.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/25.jpg)
+![](MidExhibitionImg/people/25.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/26.jpg)
+![](MidExhibitionImg/people/26.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/27.jpg)
+![](MidExhibitionImg/people/27.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/28.jpg)
+![](MidExhibitionImg/people/28.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/29.jpg)
+![](MidExhibitionImg/people/29.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/30.jpg)
+![](MidExhibitionImg/people/30.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/31.jpg)
+![](MidExhibitionImg/people/31.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/32.jpg)
+![](MidExhibitionImg/people/32.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/33.jpg)
+![](MidExhibitionImg/people/33.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/34.jpg)
+![](MidExhibitionImg/people/34.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/35.jpg)
+![](MidExhibitionImg/people/35.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/36.jpg)
+![](MidExhibitionImg/people/36.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/37.jpg)
+![](MidExhibitionImg/people/37.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/38.jpg)
+![](MidExhibitionImg/people/38.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/39.jpg)
+![](MidExhibitionImg/people/39.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/40.jpg)
+![](MidExhibitionImg/people/40.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/41.jpg)
+![](MidExhibitionImg/people/41.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/42.jpg)
+![](MidExhibitionImg/people/42.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/43.jpg)
+![](MidExhibitionImg/people/43.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/44.jpg)
+![](MidExhibitionImg/people/44.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/45.jpg)
+![](MidExhibitionImg/people/45.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/46.jpg)
+![](MidExhibitionImg/people/46.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/47.jpg)
+![](MidExhibitionImg/people/47.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/48.jpg)
+![](MidExhibitionImg/people/48.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/49.jpg)
+![](MidExhibitionImg/people/49.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/50.jpg)
+![](MidExhibitionImg/people/50.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/51.jpg)
+![](MidExhibitionImg/people/51.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/52.jpg)
+![](MidExhibitionImg/people/52.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/53.jpg)
+![](MidExhibitionImg/people/53.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/54.jpg)
+![](MidExhibitionImg/people/54.png)
 <br><br><br>
 
-![](MidExhibitionImg/people/55.jpg)
+![](MidExhibitionImg/people/55.png)
 <br><br><br>

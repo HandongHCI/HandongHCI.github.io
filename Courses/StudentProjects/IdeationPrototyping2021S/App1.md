@@ -5,50 +5,50 @@
 ### Paper Prototype & Wireframe for App Design
 주제: 메타버스 시대의 앱 개발
 
-![](/MidExhibitionImg/wireframe/1.jpg)
+![](/wireframe/1.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/2.jpg)
+![](/wireframe/2.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/3.jpg)
+![](/wireframe/3.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/4.jpg)
+![](/wireframe/4.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/5.jpg)
+![](/wireframe/5.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/6.jpg)
+![](/wireframe/6.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/7.jpg)
+![](/wireframe/7.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/8.jpg)
+![](/wireframe/8.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/9.jpg)
+![](/wireframe/9.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/10.jpg)
+![](/wireframe/10.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/11.jpg)
+![](/wireframe/11.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/12.jpg)
+![](/wireframe/12.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/13.jpg)
+![](/wireframe/13.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/14.jpg)
+![](/wireframe/14.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/15.jpg)
+![](/wireframe/15.jpg)
 <br><br><br>
 
-![](/MidExhibitionImg/wireframe/16.jpg)
+![](/wireframe/16.jpg)
 <br><br><br>

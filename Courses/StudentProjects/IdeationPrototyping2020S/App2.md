@@ -1,4 +1,4 @@
-[← go back to the previous page](../README.md)
+[← go back to the previous page](../IdeaProto.md)
 
 ## Ideation & Prototyping
 
@@ -73,7 +73,3 @@
 	- 휴대폰으로 열의 온도를 감지하고 증상을 입력하여 코로나 등 여러가지 질병들을 알아보고 대처할 수 있는 앱
 	- [Link](https://www.figma.com/proto/dM5LsqAX58tLgXyZ84qLpR/%EC%95%84%ED%94%84-%EC%BD%94%EB%A1%9C%EB%82%98-%EC%95%B1-%22Thermo%22?node-id=17%3A8&scaling=scale-down)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/OfZVzSYcBQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-
-[→ HW Prototyping](HW.md)

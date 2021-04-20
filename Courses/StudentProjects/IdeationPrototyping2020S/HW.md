@@ -1,4 +1,4 @@
-[← go back to the main page](../../README.md)
+[← go back to the main page](../IdeaProto.md)
 
 ## Ideation & Prototyping 2020S
 
@@ -118,5 +118,3 @@
 ![](/FinalExhibitionImg/poster29.png)
 한가은
 <br><br><br>
-
-[→ App Prototyping](App.md)

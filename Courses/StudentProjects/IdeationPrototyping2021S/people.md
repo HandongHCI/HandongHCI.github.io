@@ -1,4 +1,4 @@
-[← go back to the previous page](../README.md)
+[← go back to the previous page](../IdeaProto.md)
 
 ## Ideation & Prototyping
 

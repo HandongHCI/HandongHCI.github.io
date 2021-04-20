@@ -7,167 +7,167 @@
 
 `#star peopl`, `#box people`, `#stick people`, `#bean people`
 
-![](/people/1.jpg)
+![](MidExhibitionImg/people/1.jpg)
 <br><br><br>
 
-![](/people/2.jpg)
+![](MidExhibitionImg/people/2.jpg)
 <br><br><br>
 
-![](/people/3.jpg)
+![](MidExhibitionImg/people/3.jpg)
 <br><br><br>
 
-![](/people/4.jpg)
+![](MidExhibitionImg/people/4.jpg)
 <br><br><br>
 
-![](/people/5.jpg)
+![](MidExhibitionImg/people/5.jpg)
 <br><br><br>
 
-![](/people/6.jpg)
+![](MidExhibitionImg/people/6.jpg)
 <br><br><br>
 
-![](/people/7.jpg)
+![](MidExhibitionImg/people/7.jpg)
 <br><br><br>
 
-![](/people/8.jpg)
+![](MidExhibitionImg/people/8.jpg)
 <br><br><br>
 
-![](/people/9.jpg)
+![](MidExhibitionImg/people/9.jpg)
 <br><br><br>
 
-![](/people/10.jpg)
+![](MidExhibitionImg/people/10.jpg)
 <br><br><br>
 
-![](/people/11.jpg)
+![](MidExhibitionImg/people/11.jpg)
 <br><br><br>
 
-![](/people/12.jpg)
+![](MidExhibitionImg/people/12.jpg)
 <br><br><br>
 
-![](/people/13.jpg)
+![](MidExhibitionImg/people/13.jpg)
 <br><br><br>
 
-![](/people/14.jpg)
+![](MidExhibitionImg/people/14.jpg)
 <br><br><br>
 
-![](/people/15.jpg)
+![](MidExhibitionImg/people/15.jpg)
 <br><br><br>
 
-![](/people/16.jpg)
+![](MidExhibitionImg/people/16.jpg)
 <br><br><br>
 
-![](/people/17.jpg)
+![](MidExhibitionImg/people/17.jpg)
 <br><br><br>
 
-![](/people/18.jpg)
+![](MidExhibitionImg/people/18.jpg)
 <br><br><br>
 
-![](/people/19.jpg)
+![](MidExhibitionImg/people/19.jpg)
 <br><br><br>
 
-![](/people/20.jpg)
+![](MidExhibitionImg/people/20.jpg)
 <br><br><br>
 
-![](/people/21.jpg)
+![](MidExhibitionImg/people/21.jpg)
 <br><br><br>
 
-![](/people/22.jpg)
+![](MidExhibitionImg/people/22.jpg)
 <br><br><br>
 
-![](/people/23.jpg)
+![](MidExhibitionImg/people/23.jpg)
 <br><br><br>
 
-![](/people/24.jpg)
+![](MidExhibitionImg/people/24.jpg)
 <br><br><br>
 
-![](/people/25.jpg)
+![](MidExhibitionImg/people/25.jpg)
 <br><br><br>
 
-![](/people/26.jpg)
+![](MidExhibitionImg/people/26.jpg)
 <br><br><br>
 
-![](/people/27.jpg)
+![](MidExhibitionImg/people/27.jpg)
 <br><br><br>
 
-![](/people/28.jpg)
+![](MidExhibitionImg/people/28.jpg)
 <br><br><br>
 
-![](/people/29.jpg)
+![](MidExhibitionImg/people/29.jpg)
 <br><br><br>
 
-![](/people/30.jpg)
+![](MidExhibitionImg/people/30.jpg)
 <br><br><br>
 
-![](/people/31.jpg)
+![](MidExhibitionImg/people/31.jpg)
 <br><br><br>
 
-![](/people/32.jpg)
+![](MidExhibitionImg/people/32.jpg)
 <br><br><br>
 
-![](/people/33.jpg)
+![](MidExhibitionImg/people/33.jpg)
 <br><br><br>
 
-![](/people/34.jpg)
+![](MidExhibitionImg/people/34.jpg)
 <br><br><br>
 
-![](/people/35.jpg)
+![](MidExhibitionImg/people/35.jpg)
 <br><br><br>
 
-![](/people/36.jpg)
+![](MidExhibitionImg/people/36.jpg)
 <br><br><br>
 
-![](/people/37.jpg)
+![](MidExhibitionImg/people/37.jpg)
 <br><br><br>
 
-![](/people/38.jpg)
+![](MidExhibitionImg/people/38.jpg)
 <br><br><br>
 
-![](/people/39.jpg)
+![](MidExhibitionImg/people/39.jpg)
 <br><br><br>
 
-![](/people/40.jpg)
+![](MidExhibitionImg/people/40.jpg)
 <br><br><br>
 
-![](/people/41.jpg)
+![](MidExhibitionImg/people/41.jpg)
 <br><br><br>
 
-![](/people/42.jpg)
+![](MidExhibitionImg/people/42.jpg)
 <br><br><br>
 
-![](/people/43.jpg)
+![](MidExhibitionImg/people/43.jpg)
 <br><br><br>
 
-![](/people/44.jpg)
+![](MidExhibitionImg/people/44.jpg)
 <br><br><br>
 
-![](/people/45.jpg)
+![](MidExhibitionImg/people/45.jpg)
 <br><br><br>
 
-![](/people/46.jpg)
+![](MidExhibitionImg/people/46.jpg)
 <br><br><br>
 
-![](/people/47.jpg)
+![](MidExhibitionImg/people/47.jpg)
 <br><br><br>
 
-![](/people/48.jpg)
+![](MidExhibitionImg/people/48.jpg)
 <br><br><br>
 
-![](/people/49.jpg)
+![](MidExhibitionImg/people/49.jpg)
 <br><br><br>
 
-![](/people/50.jpg)
+![](MidExhibitionImg/people/50.jpg)
 <br><br><br>
 
-![](/people/51.jpg)
+![](MidExhibitionImg/people/51.jpg)
 <br><br><br>
 
-![](/people/52.jpg)
+![](MidExhibitionImg/people/52.jpg)
 <br><br><br>
 
-![](/people/53.jpg)
+![](MidExhibitionImg/people/53.jpg)
 <br><br><br>
 
-![](/people/54.jpg)
+![](MidExhibitionImg/people/54.jpg)
 <br><br><br>
 
-![](/people/55.jpg)
+![](MidExhibitionImg/people/55.jpg)
 <br><br><br>

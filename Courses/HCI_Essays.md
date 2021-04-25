@@ -126,10 +126,27 @@ Through this series of videos (Healthcare & Safety), find **what values people c
 #### Topic 7. [Smart City]
 [Take the video lecture **6. Smart City**](HCI06.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Core values?**: The population increases; cities are getting bigger and more complex; and we meet lots of problems to solve. What problems have we had? How have technologies used to solve the problems in the cities? And what could be HCI's role? <br><br>
+- **Subtopic 1. What are HCI's roles for people in the city?**: The population increases; cities are getting bigger and more complex; and we meet lots of problems to solve. What problems have we had? How have technologies used to solve the problems in the cities? And what could be HCI's role? <br><br>
 The major issues that most cities have are: traffic problems, crimes, high prices of commodities, pollution, housing, energy supply, medical and educational cares, and so on. To solve these problems, we use computer technologies. In this era, people use **smartphones to handle the information to overcome the issues**. Here are examples of smartphone apps: map and navigation, bus/subway scheduler, mobile shopping, sales/coupons information, mobile learning, car sharing, news watching, information searching, weather alarm, ... which help people live conveniently in the crowded city. **To answer this question, first find examples of smartphone apps (or smart devices) that help people live in the city smartly. Then, explain 'what benefits people want to earn while they are living in the city'.** For example, people want to move quickly, easily, and conveniently from here to there during the rush hours. Or people want to get quality information to decide where to live with considerations of public transportation, housing price, and conveniences nearby. **And then, the following questions are 'what are HCI's roles for people in the city' and 'how people interact with others, with service providers, with systems,  and with various components/elements in the city'.** 
 
-- **Subtopic 2. Your ideas?**: Still, there are lots of issues to be solved. What problems in the city are you interested in and do you want to care most? (for example, traffic-related problem? parking places? too many cars? pollution? high price for housing? low-birth-rate problem? slum area?) **Give your HCI idea(s) that can help to improve the qaulity of city life.** Also, exaplain **why that idea can helpful and valuable to people.**
+- **Subtopic 2. Ideas?**: Still, there are lots of issues to be solved about cities. What problems related to cities do you want to care most? (for example, traffic-related problem? parking places? too many cars? pollution? high price for housing? low-birth-rate problem? slum area?) **Please provide your HCI-related idea(s) that can help to improve the qaulity of city life.** Also, exaplain **why that idea can helpful and valuable to people.**<br><br>
+Use this form to explain those ideas.
+	- [`A`] What people requires/needs/wants in the city? (=values/benefits people want to get)
+	- [`B`] Your idea(s) to satisfy their needs
+	- [`C`] Detailed INTERACTION ideas
+
+| [`A`] | [`B`] | [`C`] |
+|---|---|---|---|---|
+| parking | ... | ... |
+| quickly traveling | ... | ... |
+| safety | ... | ... |
+| connected each other | ... | ... |
+| enjoying life | ... | ... |
+| leisure | ... | ... |
+| nature-friendly life | ... | ... |
+| comfort home | ... | ... |
+| ... | ... | ... |
+
 
 
 #### Topic 8. [Transportation]

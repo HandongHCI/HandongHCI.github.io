@@ -158,7 +158,7 @@ Use this form to explain those ideas.
 
 | [`A`] | [`B`] | [`C`] |
 |---|---|---|---|---|
-| driving in downtown | focus on road situation,  keep traffic lights, listen to the navigation, searching for shops, ... | ... |
+| driving in downtown | focus on the road's situation,  keep traffic lights, listen to the navigation, searching for shops, ... | ... |
 | driving on a highway | ... | ... |
 | search a radio program | ... | ... |
 | communication (telephone talking) | ... | ... |
@@ -173,8 +173,8 @@ Use this form to explain those ideas.
 | ... | ... | ... |
 | ... | ... | ... |
 
-- **Subtopic 2. Need HCI ideas for future transportations and personal flights**: There are many scenarios about the future transportations including autonomous cars, autonomous delivery services, and personal flights. But still, detailed interfaces and new HCIs (or human-vehicle interactions) are not prepared. Even, the current in-vehicle systems show lacks of user-centeredness. That means there are many things that we (= HCI experts) can contribute!<br><br>
-We are going to consider two things in this question. (1) HCI ideas for future vehicles: **What ideas do you have, which can improve the current interfaces and interactions better?** **Also, what (novel) interactions can you suggest for passengers' tasks (e.g., work, study, entertainment, resting, shopping, ...) in a self-driving car in the near future?** **Be careful,** the most important consideration of the vehicle design should be the **SAFETY**! So, your HCI idea should not distract the driver's attention from the driving.<br><br>
+- **Subtopic 2. Need HCI ideas for future transportations and personal flights**: There are many scenarios about future transportations including autonomous cars, autonomous delivery services, and personal flights. But still, detailed interfaces and new HCIs (or human-vehicle interactions) are not prepared. Even, the current in-vehicle systems show lacks of user-centeredness. That means there are many things that we (= HCI experts) can contribute!<br><br>
+We are going to consider two things in this question. (1) HCI ideas for future vehicles: **What ideas do you have, which can improve the current interfaces and interactions better?** **Also, what (novel) interactions can you suggest for passengers' tasks (e.g., work, study, entertainment, resting, shopping, ...) in a self-driving car in the near future?** **Be careful,** the most important consideration of the vehicle design should be **SAFETY**! So, your HCI idea should not distract the driver's attention from the driving.<br><br>
 (2) Not only personal vehicles, but let's also think about public transportations and related software systems. For example, we currently use the smartphone for many things related to traveling; for example, checking subway/bus schedules, making a reservation, renting SOCAR (or a kickboard), buying a KTX ticket, calling a taxi, searching where to go and how to move, planning a journey, and lots of things we do with our devices. What could HCI be necessary for future transportations (including personal flights)?
 
 

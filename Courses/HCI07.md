@@ -64,14 +64,14 @@ Imagine the fully self-driving world so that every care moves by itself, not by 
 
 **C. Let's Fly**
 
-- Real-Life 'Iron Man' Just Broke A Flying Suit Speed Record
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/3gtXVOwBnv8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 - [LUNAVITY](https://lunavity.com/): A Backpack Multi-rotor for Jump Augmentation
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/MOx6_REBxLI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Why Personal Flying Machines Could Be the Future of Commuting
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/A4IqRr1eicE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Where we are? South Korea tested a drone taxi in Seoul (Nov 2020)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/x3yz46jN5go" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br><br>
 
@@ -87,11 +87,8 @@ Technology keeps pushing its boundary toward the future, and there will be lots 
 		- [Underground Tunnels](https://www.boringcompany.com/)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/CUS2w4y2Qj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Hyundai Smart Mobility Ecosystem Vision (CES 2020)
+- Hyundai's Smart Mobility Ecosystem Vision (CES 2020)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/J_OBgXalGFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- Where we are? South Korea tested a drone taxi in Seoul (Nov 2020)
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/x3yz46jN5go" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Other scenarios
 	- [Infrastructure and Transport of the Future](https://www.youtube.com/watch?v=d1DndVz9dAs)

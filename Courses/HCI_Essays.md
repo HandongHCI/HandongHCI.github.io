@@ -119,10 +119,6 @@ Through this series of videos (Healthcare & Safety), find **what values people c
 
 
 
-
-
-
-
 #### Topic 7. [Smart City]
 [Take the video lecture **6. Smart City**](HCI06.md), then write an essay including the following subtopics.
 
@@ -152,13 +148,35 @@ Use this form to explain those ideas.
 #### Topic 8. [Transportation]
 [Take the video lecture **7. Transportation**](HCI07.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Core values?**: The technology of transportation has enormously advanced since the first steam-powered car was created in 18c. The car in the past was a heave mechanical box that consists of lots of bolts, nuts, and gears; but the vehicles now became a computer with wheels that consists of chips and circuit boards. That means, the vehicles are the "C" of the HCI; and people interacts with the vehicles (as "C") every day. (so called 'human-vehicle interaction')<br><br>
-Let's think about how we are interacting with the vehicles and/or transportation systems. What information do we get from the vehicles and how we use them? For example, what we do in a car as a driver? Not only driving but also drivers need to control lots of interfaces (e.g., air-conditioner, radio/media, navigator). As the car has more computer functions, drivers need to know more about how to interact with the car. Then, drivers might be distracted and uneasy to focus on the primary task, which is driving.<br><br>
-Engineers have struggled with the development of good in-vehicle interfaces and interactions for many decades. But, lastly, they decided not to struggle with consideration of driver's tasks; and started to work on 'self-driving cars' in which driver don't need to focus on their primary task (= driving) anymore. The self-driving car will change our life a lot in the near future. Let's imagine the world with fully autonomous vehicles on the roads; and there will be no drivers in the city! **What benefits could you expect to earn when people use self-driving cars every day? What will you do in the self-driving car?**<br><br>
-Not only personal vehicles, but let's also think about public transportations and transportation systems. For example, we use the smartphone for many things related to traveling, including checking subway/bus schedule, making a reservation, renting SOCAR, buying a KTX ticket, calling a taxi, searching where to go and how to move, planning a journey, and lots of things we do with our smartphones. Can you recognize how you interact with your smartphone or with a transportation system through your smartphone? **Which values do the computerized transportation systems provide you?** One idea of mine is that it's so convenient as I don't need to wait in line to buy a ticket at a station.
+- **Subtopic 1. HCI in Transportation**: The technology of transportation has enormously advanced since the first steam-powered car was created in 18c. The car in the past was a heave mechanical box that consists of lots of bolts, nuts, and gears; but the vehicles now became a computer with wheels that consists of chips and circuit boards. That means, the vehicles are the "C" of the HCI; and people interact with the vehicles every day (so-called `human-vehicle interaction`).<br><br>
+Let's think about how we are interacting with the vehicles and/or transportation systems. **What we do in a car as a driver?** **What information do we get from the vehicles and how we use them?** Drivers need to be able to focus on not only driving and safety, but also controlling lots of interfaces (e.g., air-conditioner, radio/media, navigator) that are getting more and more complex. New interfaces/interactions have been introduced by future scenarios, concept designs, and prototypes. But we surely need to check if those are really human-centered HCI or not. More complex functions and interfaces require more attention and brain-usage of drivers and passengers. If a driver might be distracted and uneasy to focus on the primary task (= driving), there could be many problems.<br><br>
+Engineers have struggled with the development of good in-vehicle interfaces and interactions for many decades. But, lastly, they decided not to struggle with consideration of the driver's primary task (= driving), and started to work on 'self-driving cars of the level 5'. The self-driving car will change our life a lot. Imagine the world with a fully autonomous world, where no people drive on the roads. Then, we could think: **what you will do in the self-driving car; and what benefits you could expect to earn by using the self-driving systems.**<br><br>
+Use this form to explain those ideas.
+	- [`A`] Vehicle and transportation related interactions
+	- [`B`] How do you **interact** with vehicles or transportations systems currently? (detailed interaction cases; for a driver or a passenger)
+	- [`C`] What **benefits** can you earn in the fully autonomous world (Lv 5)?
 
-- **Subtopic 2. Your ideas?**: Do you think the current in-vehicle systems provide good (= user-centered) interfaces and interactions? If not, what idea do you have to improve the current interfaces and interactions better? Be careful that the most important consideration of the vehicle design is SAFETY! So, your idea should not distract driving.<br><br>
-Also, make some ideas of smartphone app that provides a useful service related to travelling, using public transportation, ....
+| [`A`] | [`B`] | [`C`] |
+|---|---|---|---|---|
+| driving in downtown | focus on road situation,  keep traffic lights, listen to the navigation, searching for shops, ... | ... |
+| driving on a highway | ... | ... |
+| search a radio program | ... | ... |
+| communication (telephone talking) | ... | ... |
+| communication (text messaging) | ... | ... |
+| consuming media (e.g., YouTube) | ... | ... |
+| game | ... | ... |
+| sleep | ... | ... |
+| reading a book | ... | ... |
+| homework | ... | ... |
+| buying tickets | ... | ... |
+| wait for a public transportation | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+
+- **Subtopic 2. Need HCI ideas for future transportations and personal flights**: There are many scenarios about the future transportations including autonomous cars, autonomous delivery services, and personal flights. But still, detailed interfaces and new HCIs (or human-vehicle interactions) are not prepared. Even, the current in-vehicle systems show lacks of user-centeredness. That means there are many things that we (= HCI experts) can contribute!<br><br>
+We are going to consider two things in this question. (1) HCI ideas for future vehicles: **What ideas do you have, which can improve the current interfaces and interactions better?** **Also, what (novel) interactions can you suggest for passengers' tasks (e.g., work, study, entertainment, resting, shopping, ...) in a self-driving car in the near future?** **Be careful,** the most important consideration of the vehicle design should be the **SAFETY**! So, your HCI idea should not distract the driver's attention from the driving.<br><br>
+(2) Not only personal vehicles, but let's also think about public transportations and related software systems. For example, we currently use the smartphone for many things related to traveling; for example, checking subway/bus schedules, making a reservation, renting SOCAR (or a kickboard), buying a KTX ticket, calling a taxi, searching where to go and how to move, planning a journey, and lots of things we do with our devices. What could HCI be necessary for future transportations (including personal flights)?
+
 
 
 #### Topic 9. [Ethics and Philosophies]

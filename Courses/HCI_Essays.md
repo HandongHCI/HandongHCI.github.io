@@ -1,7 +1,7 @@
 [← go back to the list](HCI00.md)
 
 ## Human-Computer Interaction (SIT32002) - Essays
-(last update: 18 March 2020)
+(last update: 05 May 2021)
 
 ### Announcement
 - The essay topics might be changed over time, but not be updated in this site yet.

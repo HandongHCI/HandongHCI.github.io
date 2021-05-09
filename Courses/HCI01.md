@@ -68,8 +68,8 @@ Of course, most (or all) computer technologies are related to HCI, as the `HCI` 
 
 Q. "What are computers, then?"
 A. (You will need to answer this question in the 2nd essay assignment.)
-<br><br><br>
 
+<br><br><br>
 
 **C. Related Domains of HCI**
 
@@ -86,8 +86,8 @@ In this course, you will have to think how computers can help/support (or intera
 - Education & Work
 - Smart City
 - Transportation
-<br><br><br>
 
+<br><br><br>
 
 **D. HCI Ideas**
 
@@ -100,8 +100,8 @@ Again, take the following lessons provided in **1.3: Exploring HCI**.
 	- Idea: Social Computing
 
 Those ideas are just small examples. You would get more ideas from the next series of videos: [2. HCI Applications and Case Studies](HCI02.md). You have to have some ideas quickly for the term project in this course.
-<br><br><br>
 
+<br><br><br>
 
 **(optional) E. Introduction to HCI and HCI programs in well-known universities**
 
@@ -110,7 +110,9 @@ See the following videos, especially if you want to study HCI in graduate level.
 - HCI at Georgia Tech
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/6kylRHpYw6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- HCI at ArtCenter College of Design
+- Interaction Design at ArtCenter College of Design
+
+Interaction Design is not exactly the same as HCI, but part of HCI.
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/AWVZb5gdRXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - HCI at Rochester Institute of Technology

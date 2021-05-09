@@ -21,35 +21,33 @@ Through this series of videos, let's have a think about technology, ethics, and 
 - Ethic and Technology
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/1nyp9oczu-A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- What is "Technology Ethics"?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/UISZx6K9enQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- The ethical dilemma we face on AI and autonomous tech by Christine Fox (TEDxMidAtlantic)
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/3oE88_6jAwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- More videos about Ethics and Technology
+	- [What is "Technology Ethics"?](https://www.youtube.com/watch?v=UISZx6K9enQ)
+	- [The ethical dilemma we face on AI and autonomous tech by Christine Fox (TED)](https://www.youtube.com/watch?v=3oE88_6jAwc)
+	- [Stanford class examines the impact and ethics of technology](https://www.youtube.com/watch?v=AOqIiofqp3E)
 
 - The big debate about the future of work
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/TUmyygCMMGA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+- More videos about AI-based technologies and ethics
+	- [The three big ethical concerns with artificial intelligence](https://www.youtube.com/watch?v=1LyacmzB1Og)
+	- [Sophia, a human-like AI robot](https://www.youtube.com/watch?v=78-1MlkxyqI)
+	- [(repeated content) How China Is Using Artificial Intelligence in Classrooms?](https://www.youtube.com/watch?v=JMLsHI8aV0g)
+
 - Is your job safe? (by the Economist)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/gUc5oN_ffRo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Sophia, a human-like AI robot
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/78-1MlkxyqI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- (repeated content) How China Is Using Artificial Intelligence in Classrooms?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/JMLsHI8aV0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- More videos (Strongly recommended for watching!! / audio in Korean, no English subtitles)
-	- [KBS다큐인사이트 보일링 포인트 1부. 역전된 세계](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180902-01-000)
-	- [KBS다큐인사이트 보일링 포인트 2부. 비인간 지능](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180905-01-000)
-	- [KBS다큐인사이트 보일링 포인트 3부. 가상화폐의 도전](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180917-01-000)
-
 <br><br><br>
 
-**B. Appropriate & Humanitarian Technologies/Business**
+**B. HCI & Sustainability**
 
-- $100 laptop for child education in developing countries
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/OeBQLOTArL8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- Achieving SDGs through ICT (by Fusitsu)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/FShDs6uC-Sk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Technology & Sustainability - The Roles of Tech Giants
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/08uYjdsOTik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+**C. Appropriate & Humanitarian Technologies/Business**
 
 - M-Pesa, a mobile payment in Africa
 (Because the cash transactions in developing countries are not easy and secure, the mobile-based banking system could be successfully settled in those countries. Mobile banking has increased the market economy and decreased crimes.)
@@ -64,18 +62,16 @@ Through this series of videos, let's have a think about technology, ethics, and 
 
 - More video
 	- [Disaster-relief robotics in Nepal by Patrick Meier (TEDxBerlin)](https://www.youtube.com/watch?v=h4QinwOC534)
+	- [$100 laptop for child education in developing countries](https://www.youtube.com/watch?v=OeBQLOTArL8)
 	- [Drones as Humanitarian Tools](https://www.youtube.com/watch?v=-Jy7XMvbNko)
 	- [3DP4ME's another video](https://www.youtube.com/watch?v=PbcQ0Ct2wh4)
 
 <br><br><br>
 
-**C. Universal Design & Design for People Under Special Needs**
+**D. Universal Design & Design for People Under Special Needs**
 
 - Why we need universal design by Michael Nesmith (TEDxBoulder)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/bVdPNWMGyZY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- Meet the Normals
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/A88E4DH2asQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Apple's Afforts for Universal Design 1
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/XB4cjbYywqg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -88,10 +84,6 @@ Through this series of videos, let's have a think about technology, ethics, and 
 
 - More Videos
 	- [Rethink What Inclusive Design Means by Kat Holmes](https://www.youtube.com/watch?v=-iccWRhKZa8)
-
-
-
-
 
 
 

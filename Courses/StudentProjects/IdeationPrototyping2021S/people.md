@@ -171,3 +171,9 @@
 
 ![](MidExhibitionImg/people/55.png)
 <br><br><br>
+
+![](MidExhibitionImg/people/56.png)
+<br><br><br>
+
+![](MidExhibitionImg/people/57.png)
+<br><br><br>

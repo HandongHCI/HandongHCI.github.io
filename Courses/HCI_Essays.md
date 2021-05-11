@@ -182,6 +182,8 @@ We are going to consider two things in this question. (1) HCI ideas for future v
 #### Topic 9. [Ethics and Philosophies]
 [Take the video lecture **8. Ethics and Philosophies**](HCI08.md), then write an essay including the following subtopics.
 
+![](img/design90.jpg)
+
 - **Subtopic 1. Ethics & Good HCIs**: This is the last topic of HCI-related essay writings. Above all the videos, the documentary films of KBS is highly recommended to watch (Korean sound, no English subtitles).
 	- [KBS다큐인사이트 보일링 포인트 1부. 역전된 세계](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180902-01-000)
 	- [KBS다큐인사이트 보일링 포인트 2부. 비인간 지능](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180905-01-000)

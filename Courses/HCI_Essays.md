@@ -182,8 +182,34 @@ We are going to consider two things in this question. (1) HCI ideas for future v
 #### Topic 9. [Ethics and Philosophies]
 [Take the video lecture **8. Ethics and Philosophies**](HCI08.md), then write an essay including the following subtopics.
 
-- **Subtopic 1**: This is the last topic of HCI-related essay writings. Above all the videos, the documentary films of KBS is highly recommended to watch (it's a Korean documentary film, and there are no English subtitles).<br><br>
-Because we are the engineers who (will) use technologies as a tool at work, first, we should know about what we handle. Technologies can make somebody killed, or people's minds destroyed, but also it can make people in love, peace, and joyful. **What is your opinion on technology's double-sidedness? How do you want to use your computer (or any other technical) skills? For what to create? What kind of interaction do you want to design (as an idea), which can make people being happy? What is a good technology, and what is a good H-C interaction?**
+- **Subtopic 1. Ethics & Good HCIs**: This is the last topic of HCI-related essay writings. Above all the videos, the documentary films of KBS is highly recommended to watch (Korean sound, no English subtitles).
+	- [KBS다큐인사이트 보일링 포인트 1부. 역전된 세계](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180902-01-000)
+	- [KBS다큐인사이트 보일링 포인트 2부. 비인간 지능](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180905-01-000)
+	- [KBS다큐인사이트 보일링 포인트 3부. 가상화폐의 도전](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180917-01-000)
+<br><br>
+Because we are the engineers who (will) use technologies as a tool at work, first, we should know about what we handle. Technologies can make somebody killed, or people's minds destroyed, but also it can make people in love, peace, and joyful. **What is your opinion on technology's double-sidedness? How do you want to use your computer (or any other technical) skills? For what to create? What kind of interaction do you want to design (as an idea), which can make people being happy? What is the GOOD technology, and what is the GOOD H-C interaction?**
+
+- **Subtopic 2. HCI for the other 90%**: First, search what is the concept of "the other 90%". This question is related to videos of `#M-Pesa`, `#3DP4ME`, `#Apple's Universal Designs`. There are so many people who needs particular cares for their living, health, and safety. Find what are their problems and needs, and how HCI can help them?
+	- [`A`] Who?
+	- [`B`] Their problems
+	- [`C`] HCI ideas
+
+| [`A`] | [`B`] | [`C`] |
+|---|---|---|---|---|
+| visually impaired people | ... | ... |
+| disabled using wheelchairs | ... | ... |
+| ... | children education | ... |
+| ... | appropriate medical | ... |
+| ... | lack of drinking water | ... |
+| ... | robbery/violence problems | ... |
+| ... | waste problems | ... |
+| ... | sea waste problems | ... |
+| ... | plastic usage problems | ... |
+| refugees | ... | ... |
+| economically poor | ... | ... |
+| tech poor | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 
 
 #### Topic 10. Epilog

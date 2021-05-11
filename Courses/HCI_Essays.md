@@ -190,6 +190,7 @@ We are going to consider two things in this question. (1) HCI ideas for future v
 	- [KBS다큐인사이트 보일링 포인트 2부. 비인간 지능](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180905-01-000)
 	- [KBS다큐인사이트 보일링 포인트 3부. 가상화폐의 도전](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180917-01-000)
 
+<br><br>
 - **Subtopic 2. HCI for the other 90%**: First, search what is the concept of "the other 90%". This question is related to videos of `#M-Pesa`, `#3DP4ME`, `#Apple's Universal Designs`. There are so many people who needs particular cares for their living, health, and safety. Find what are their problems and needs, and how HCI can help them?
 	- [`A`] Who?
 	- [`B`] Their problems

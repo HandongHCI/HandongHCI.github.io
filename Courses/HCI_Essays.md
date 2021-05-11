@@ -173,6 +173,7 @@ Use this form to explain those ideas.
 | ... | ... | ... |
 | ... | ... | ... |
 
+<br><br>
 - **Subtopic 2. Need HCI ideas for future transportations and personal flights**: There are many scenarios about future transportations including autonomous cars, autonomous delivery services, and personal flights. But still, detailed interfaces and new HCIs (or human-vehicle interactions) are not prepared. Even, the current in-vehicle systems show lacks of user-centeredness. That means there are many things that we (= HCI experts) can contribute!<br><br>
 We are going to consider two things in this question. (1) HCI ideas for future vehicles: **What ideas do you have, which can improve the current interfaces and interactions better?** **Also, what (novel) interactions can you suggest for passengers' tasks (e.g., work, study, entertainment, resting, shopping, ...) in a self-driving car in the near future?** **Be careful,** the most important consideration of the vehicle design should be **SAFETY**! So, your HCI idea should not distract the driver's attention from the driving.<br><br>
 (2) Not only personal vehicles, but let's also think about public transportations and related software systems. For example, we currently use the smartphone for many things related to traveling; for example, checking subway/bus schedules, making a reservation, renting SOCAR (or a kickboard), buying a KTX ticket, calling a taxi, searching where to go and how to move, planning a journey, and lots of things we do with our devices. What could HCI be necessary for future transportations (including personal flights)?
@@ -182,7 +183,7 @@ We are going to consider two things in this question. (1) HCI ideas for future v
 #### Topic 9. [Ethics and Philosophies]
 [Take the video lecture **8. Ethics and Philosophies**](HCI08.md), then write an essay including the following subtopics.
 
-![](img/design90.jpg)
+![](/img/design90.jpg)
 
 - **Subtopic 1. Ethics & Good HCIs**: This is the last topic of HCI-related essay writings. Above all the videos, the documentary films of KBS is highly recommended to watch (Korean sound, no English subtitles).
 	- [KBS다큐인사이트 보일링 포인트 1부. 역전된 세계](http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_id=PS-2019180902-01-000)

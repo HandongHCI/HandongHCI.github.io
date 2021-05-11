@@ -199,7 +199,7 @@ We are going to consider two things in this question. (1) HCI ideas for future v
 |---|---|---|---|---|
 | visually impaired people | ... | ... |
 | disabled using wheelchairs | ... | ... |
-| ... | children education | ... |
+| ... | children education | Raspberry Pi library |
 | ... | appropriate medical | ... |
 | ... | lack of drinking water | ... |
 | ... | robbery/violence problems | ... |

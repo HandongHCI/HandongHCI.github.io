@@ -7,7 +7,7 @@
 ### Members
 이대성 이성원 이유리 임도전 정수현
 
-</br></br>
+<br><br>
 
 ***
 ## *1. Background*
@@ -29,6 +29,8 @@ We want to implement a simulation using OpenCV for Aruco marker detector and Ope
 ### 1-3. Target
 Lower grade students and any other student who wants leaning about Solar system 
 
+<br><br>
+
 ***
 ## *2. Final Output*
 
@@ -38,6 +40,8 @@ Lower grade students and any other student who wants leaning about Solar system
 
 ### 2-2. Artifacts
 Aruco Stick (we named it Spoon)
+
+<br><br>
 
 ***
 ## *3. Step by step tutorial*
@@ -90,6 +94,7 @@ The Game Mode starts when a button (number 6) is pressed. The planets rotate fas
 ![spoon_school](/img/gameModeLost.png)
 ![spoon_school](/img/gameModeWin.png)
 
+<br><br>
 
 ***
 ## *4. Limitations*
@@ -98,6 +103,8 @@ The Game Mode starts when a button (number 6) is pressed. The planets rotate fas
 2. The webcam sometimes gets out of focus resulting not being able to detect the aruco code
 
 3. The current version 1.0 only supports 1 player mode
+
+<br><br>
 
 ***
 ## *5. Future Plan*
@@ -108,6 +115,8 @@ The core of the project was to get the coordinate system and let the user move d
 3. And we will add information about the Sun like another planet.  
 4. Increase Arcomarker Recognition.
 5. Speed up image processing. 
+
+<br><br>
 
 ***
 ## Reference

@@ -1,6 +1,7 @@
 [← go back to the list](../../HCI.md)
 
-# Bingo Game for Etiquette (Kinect&Python)
+# Bingo Game for Etiquette
+
 ### Manners Maketh Man members    
 강하영, 강진, 김해린, 지서영, 유수정
 
@@ -29,6 +30,7 @@
 
 
 ## 3.Main Function [🔝](#bingo-game-for-etiquette-kinectpython)
+
 ### 3.1 Bingo Game
 1. 3x3 빙고판을 채우는 것이 과제다. 각각의 빙고 칸마다 각기 다른 스토리로 언어예절 게임이 존재한다.
 2. User가 선택한 칸에 해당하는 게임의 문제를 읽고 지시사항대로 모션을 취한다.  
@@ -39,50 +41,50 @@
 4. 빙고판에 동그라미가 표시되고 같은 방식으로 다른 게임들을 진행해 빙고판을 완성한다.
 5. 정답을 맞추지 못하면 오답화면에 나오고 빙고판에 변화가 없다. 
 
-<img src="/image/정답.PNG" width="50%" height="50%"><img src="/image/빙고판3.png" width="50%" height="50%">
+<img src="image/정답.PNG" width="50%" height="50%"><img src="image/빙고판3.png" width="50%" height="50%">
+
 ### 3.2 Motion in Game 
 1. Kinect V2 카메라를 통해 사람 몸의 Joint를 인식한다.  
 2. 게임별로 사용되는 Joint가 각각 다른데 미리 설정한 Joint가 정해진 위치에 닿으면 정답 유무를 인식하는 알고리즘을 적용한다.
 3. 이를 통해 여러 정답 선택지들을 마우스가 아닌 Body Joints를 사용해 정답을 선택한다.  
 Ex) 손, 팔꿈치, 무릎, 머리 등  
 
-<img src="/image/손.PNG" width="50%" height="50%"><img src="/image/무릎.PNG" width="50%" height="50%">
+<img src="image/손.PNG" width="50%" height="50%"><img src="image/무릎.PNG" width="50%" height="50%">
 
 ## 4.Demonstration Video [🔝](#bingo-game-for-etiquette-kinectpython)
 
-https://user-images.githubusercontent.com/55008881/120818246-632ebc80-c58d-11eb-95ae-9e0707814542.mp4
+- https://user-images.githubusercontent.com/55008881/120818246-632ebc80-c58d-11eb-95ae-9e0707814542.mp4
 
 
 
 ## 5.Step by Step Instruction [🔝](#bingo-game-for-etiquette-kinectpython)
+
 ### 5.1 Kinect for Windows SDK v2 Installation
 
 [Microsoft Download Center](https://www.microsoft.com/ko-kr/download/)에서 설치 파일 [Kinect for Windows SDK v2](https://developer.microsoft.com/ko-kr/windows/kinect/)을 다운 받는다. 
 
-<img src="/image/download(1).png" width="50%" height="50%">
+<img src="image/download(1).png" width="50%" height="50%">
 
 최신버전 사용을 추천합니다.
 
-시스템 요구 사항:
+##### 시스템 요구 사항:
+- 지원되는 운영 체제 (Embedded 8 Standard, Windows8, Window 8.1)(사용자:Window10, 64-bit)
+- 권장 하드웨어 구성 : 64-bit (x64) 프로세서 / 4 GB 메모리 (이상) / Physical dual-core 3.1 GHz (2 logical cores per physical) 이상 프로세서 /  Kinect for Windows v2 센서 전용 USB 3.0 controller* / DX11 capable graphics adapter** / 전원 허브 및 USB 케이블이 포함 된 Microsoft Kinect v2 케이블
 
-지원되는 운영 체제 (Embedded 8 Standard, Windows8, Window 8.1)(사용자:Window10, 64-bit)
-- 권장 하드웨어 구성 : 64-bit (x64) 프로세서 / 4 GB 메모리 (이상) / Physical dual-core 3.1 GHz (2 logical cores per physical) 이상 프로세서 /  Kinect for Windows v2 센서 전용 USB 3.0 controller*/ DX11 capable graphics adapter** / 전원 허브 및 USB 케이블이 포함 된 Microsoft Kinect v2 케이블
+<img src="image/kinect%20hardware.png" width="50%" height="50%">
 
-<img src="/image/kinect%20hardware.png" width="50%" height="50%">
-
-- Softerware 요구 사항:
-  - Visual 2012 또는 [Visual Studio2013](https://www.microsoft.com/ko-kr/download/details.aspx?id=40784) 
+- Softerware 요구 사항: Visual 2012 또는 [Visual Studio2013](https://www.microsoft.com/ko-kr/download/details.aspx?id=40784) 
 
 설치 진행 순서 상세 :
   1. kinect 센서가 컴퓨터 USB 포트에 연결되어 있지 않은지 확인합니다.
   2. 다운로드 위치에서 KinectSDK_v2.0_1409-Setup.exe를 두 번 클릭합니다.
 
-<img src="/image/download%20(2).png" width="50%" height="50%"><img src="/image/download%20(3).png" width="50%" height="50%">
+<img src="image/download%20(2).png" width="50%" height="50%"><img src="image/download%20(3).png" width="50%" height="50%">
 
   4. 설치가 완료되면 Kinect 센서가 전원 허브에 연결되어 있고 전원 허브가 콘센트에 연결되어 있는지 확인합니다. 전원 허브의 USB 케이블을 PC의 USB 3.0 포트에 연결합니다. 드라이버 설치가 자동으로 시작됩니다.
   5. 드라이버 설치 후 장치 관리자를 실행하여 확인할 수 있으며 장치 목록에 "KinectSensor Device"가 존재합니다.
   
-<img src="/image/download(5).jpeg" width="50%" height="50%"><img src="/image/download(6).jpeg" width="50%" height="50%">
+<img src="image/download(5).jpeg" width="50%" height="50%"><img src="image/download(6).jpeg" width="50%" height="50%">
 
   6. 실행된 Kinect for Window에 위와 같이 체크가 되어 있어야 합니다. (USB Controller의 느낌표가 표시되어 있지만 사용하는데 문제는 없습니다.)
   7. 설치가 완료되었습니다.
@@ -92,11 +94,11 @@ https://user-images.githubusercontent.com/55008881/120818246-632ebc80-c58d-11eb-
 
    1. 사이트에서 [Python](https://www.python.org/downloads/) 설치 파일을 다운 받습니다. 
 
-<img src="/image/hrImg1.png" width="50%" height="50%">
+<img src="image/hrImg1.png" width="50%" height="50%">
 
    2. 다운받은 python-3-X.pkg 파일을 실행하여 파이썬 설치를 완료합니다.
 
-<img src="/image/hrImg2.png" width="50%" height="50%">
+<img src="image/hrImg2.png" width="50%" height="50%">
 
    3. 터미널에서 아래의 명령어를 입력하면, 설치한 파이썬 버전을 확인할 수 있습니다.
    ```
@@ -112,6 +114,7 @@ https://user-images.githubusercontent.com/55008881/120818246-632ebc80-c58d-11eb-
    ```
 
 ### 5.4 NumPy package Installation (1,2번중 선택) 
+
    1. Anaconda 32-bit 버전에 NumPy가 포함되어 있기 때문에 [Anaconda](https://www.anaconda.com/products/individual)다운 받으면 됩니다. 
    2. 터미널 또는 CMD창에서 아래의 명령어를 통해 패키지를 설치합니다.
    

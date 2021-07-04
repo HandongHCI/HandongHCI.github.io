@@ -10,7 +10,7 @@
 - [Light Interaction Assistance for Hard of Hearing Drivers (IoT sensors)](HCI2021S/team22)
 - [Virtual Tour Guide (Kinect & Unity)](HCI2021S/team23)
 - [Bingo Game for Etiquette (Kinect & Python)](HCI2021S/team24)
-- [FORONE](HCI2021S/team25)
+- [FORONE (Python, Google Image Recognition API)](HCI2021S/team25)
 - [Zero-Earth (Leap Motion, Unity)](HCI2021S/team26)
 
 ### 2020S

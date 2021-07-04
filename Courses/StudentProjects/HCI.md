@@ -3,16 +3,15 @@
 ## Student Projects in HCI Course
 
 ### 2021S
-- Team 1-1
-- Team 1-2
-- Team 1-3
-- Team 1-4
-- Team 2-1
-- Team 2-2
-- Team 2-3
-- Team 2-4
-- Team 2-5
-- Team 2-6
+- [Team 1-1](HCI2021S/team11)
+- [Team 1-2](HCI2021S/team12)
+- [Team 1-3](HCI2021S/team13)
+- [Team 1-4](HCI2021S/team14)
+- [Team 2-2](HCI2021S/team22)
+- [Team 2-3](HCI2021S/team23)
+- [Team 2-4](HCI2021S/team24)
+- [Team 2-5](HCI2021S/team25)
+- [Team 2-6](HCI2021S/team26)
 
 ### 2020S
 - [Mom's Advice (Smartphone App)](HCI2020S/team11)

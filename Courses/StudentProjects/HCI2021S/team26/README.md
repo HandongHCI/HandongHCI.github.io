@@ -1,3 +1,5 @@
+[← go back to the list](../../HCI.md)
+
 # 환경 교육 기능성게임 : "Zero-Earth"
 ## 1. Introduction
 ### 1.1 Background

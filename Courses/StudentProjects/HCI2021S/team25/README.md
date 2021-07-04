@@ -1,4 +1,4 @@
-class 2_5
+[← go back to the list](../../HCI.md)
 
 # FORONE
 

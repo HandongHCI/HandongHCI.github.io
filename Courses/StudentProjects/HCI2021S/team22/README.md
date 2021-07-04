@@ -1,7 +1,6 @@
-# Light Interaction Assistance for Hard of Hearing Drivers
+[← go back to the list](../../HCI.md)
 
-상태: 학부생 차맑은샘, 주환 김, 선주 조
-속성: Team 2 Clear Light
+# Light Interaction Assistance for Hard of Hearing Drivers
 
 ![](img/2.png)
 

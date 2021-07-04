@@ -1,4 +1,6 @@
-# Draw Your Own Mask! (Leapmotion, Unity) 
+[← go back to the list](../../HCI.md)
+
+# Draw Your Own Mask! (Leap Motion, Unity) 
 ![0](/image/0.png)
 
 
@@ -66,22 +68,18 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
 
 ## Step by step instructions
-1. 실행 파일 다운로드 https://github.com/snow-creater/HCI
-3. 립모션 다운로드 및 연결 https://developer.leapmotion.com/sdk-leap-motion-controller
+1. [실행 파일 다운로드](https://github.com/snow-creater/HCI)
+3. [립모션 다운로드 및 연결](https://developer.leapmotion.com/sdk-leap-motion-controller)
 4. 실행 파일 실행
 
 ## Results
-* Demo Video
-
-    https://user-images.githubusercontent.com/48082551/120884830-7048bb80-c620-11eb-98e2-b942de5bbc4e.mp4
+* [Demo Video](https://user-images.githubusercontent.com/48082551/120884830-7048bb80-c620-11eb-98e2-b942de5bbc4e.mp4)
 
 * Poster
 
 ![HCI_poster](./image/HCI_poster.png)
 
-* src code
-
-    https://github.com/duidong/HCI2021_Team01.git
+* [Source codes](https://github.com/duidong/HCI2021_Team01.git)
 
 ## Conclusion 
 초기 유저 테스트에서 마스크를 꾸밀 수 있다고 해서 캠페인의 주제 의식을 높일 수 없다는 의견을 받아들여 마스크 착용에 대한 올바른 인식을 위한 퀴즈를 추가하였다. 
@@ -92,5 +90,5 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 1. 김영애, 장지웅, 허수진, 박구만. (2015). 립모션을 이용한 Unity3D 기반의 인터랙티브 미디어 아트 콘텐츠 개발. 한국정보과학회 학술발표논문집, (), 1969-1971.
 2. 박선희, 이정배, 신현호. (2015). 립모션 장치를 활용한 에듀테인먼트 콘텐츠 제작. 한국콘텐츠학회 종합학술대회 논문집, (), 345-346.
 3. 유준영, 김덕연, 이진호, 조요한. (2018). VR, AR을 이용한 립모션 아티스트. 한국정보과학회 학술발표논문집, (), 2369-2370.
-4. LeapMotion Unity Module Documentation https://leapmotion.github.io/UnityModules/
-5. Ultraleap-developer https://developer-archive.leapmotion.com/documentation/v2/unity/unity/Unity_UIInput_Setup.html
+4. [LeapMotion Unity Module Documentation](https://leapmotion.github.io/UnityModules/)
+5. [Ultraleap-developer](https://developer-archive.leapmotion.com/documentation/v2/unity/unity/Unity_UIInput_Setup.html)

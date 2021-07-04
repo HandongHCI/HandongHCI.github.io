@@ -1,6 +1,6 @@
 [← go back to the list](../../HCI.md)
 
-# APT(AI Personal Trainer)
+# APT (AI Personal Trainer)
 
 
 <img height="450" src="img/intro.png">

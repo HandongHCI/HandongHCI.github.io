@@ -3,15 +3,15 @@
 ## Student Projects in HCI Course
 
 ### 2021S
-- [Team 1-1](HCI2021S/team11)
-- [Team 1-2](HCI2021S/team12)
-- [Team 1-3](HCI2021S/team13)
-- [Team 1-4](HCI2021S/team14)
-- [Team 2-2](HCI2021S/team22)
-- [Team 2-3](HCI2021S/team23)
-- [Team 2-4](HCI2021S/team24)
-- [Team 2-5](HCI2021S/team25)
-- [Team 2-6](HCI2021S/team26)
+- [Draw Your Own Mask! (Leap Motion, Unity)](HCI2021S/team11)
+- [APT (AI Personal Trainer) (Teachable Machine, web programming)](HCI2021S/team12)
+- [Emo Game Challenge (Web Cam, Face Recognition APIs, Python)](HCI2021S/team13)
+- [Spoon-School (Web Cam, Projector, C#)](HCI2021S/team14)
+- [Light Interaction Assistance for Hard of Hearing Drivers (IoT sensors)](HCI2021S/team22)
+- [Virtual Tour Guide (Kinect & Unity)](HCI2021S/team23)
+- [Bingo Game for Etiquette (Kinect & Python)](HCI2021S/team24)
+- [FORONE](HCI2021S/team25)
+- [Zero-Earth (Leap Motion, Unity)](HCI2021S/team26)
 
 ### 2020S
 - [Mom's Advice (Smartphone App)](HCI2020S/team11)

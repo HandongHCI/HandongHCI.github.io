@@ -4,6 +4,7 @@
 ### Manners Maketh Man members    
 강하영, 강진, 김해린, 지서영, 유수정
 
+### 목차
 1. [Introduction](#1introduction-) 
 2. [Background & Objective](#2background--objective-)
 3. [Main Function](#3main-function-)
@@ -22,6 +23,7 @@
 
 ### 2.2 Their Problems 
 >바른 언어습관 형성을 위해서는 공동체 속에서 학습하는 것이 필요하다. 과거에는 대가족을 형성해 많은 가족 구성원이 함께함으로써 예절을 배울 기회가 많았다면 현재는 점점 핵가족화 되어가 예절교육에 소홀해지는 경향이 있고, 더욱이 현재 Covid-19와 같은 펜데믹상황이 발생하여 사회적 거리두기로 인해 공동체를 이루는 것이 어려워졌다. 따라서 어린이들이 다양한 상황에 따른 바른 언어 습관을 형성할 수 있도록 돕는 새로운 방법을 고안했다.
+
 ### 2.3  Project Goal 
 >Kinect V2와 pygame을 이용한 모션인식 게임을 통해 어린이가 직접 몸을 움직이면서 다양한 상황에 해당하는 올바른 언어예절을 학습을 할 수 있는 빙고게임을 개발한다.
 
@@ -31,7 +33,7 @@
 1. 3x3 빙고판을 채우는 것이 과제다. 각각의 빙고 칸마다 각기 다른 스토리로 언어예절 게임이 존재한다.
 2. User가 선택한 칸에 해당하는 게임의 문제를 읽고 지시사항대로 모션을 취한다.  
   
-<img src="/image/빙고판.PNG" width="50%" height="50%"><img src="/image/게임.PNG" width="50%" height="50%">  
+<img src="image/빙고판.PNG" width="50%" height="50%"><img src="image/게임.PNG" width="50%" height="50%">  
   
 3. 정답맞추기에 성공하면 정답화면으로 넘어간다.
 4. 빙고판에 동그라미가 표시되고 같은 방식으로 다른 게임들을 진행해 빙고판을 완성한다.

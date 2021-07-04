@@ -2,22 +2,25 @@
 
 # Emo Game Challenge
 
-## Memebers
-### -21600171 김평안
-### -21700194 김하휼
-### -21700566 이주연
-### -21800815 이요한
+### Memebers
+-21600171 김평안
+-21700194 김하휼
+-21700566 이주연
+-21800815 이요한
 
 
 ## 1. Introduction
 
 ### 1-1. Project Background
 We were thinking about developing products in the entertainment field and decided to make a game using face detection. The goal of this game is to allow people to enjoy playing games simply through camera recognition. 
+
 Many things have changed, from classroom methods to various ways of communicating with people. The communication media in the middle of the changed way is video chatting. Many people can participate in meetings in real time and use them for various purposes. We thought about what's fun and easy to do in Zoom, and now that many people have adapted to Zoom, we thought it would be fun to play games using Zoom's real-time video communication.
+
 Our target users are all customers who use Zoom. The final goal of the game we develop is to play games that can be used in Zoom or another video chat, but I think it's too much for undergraduates to develop this game, so we'll develop this semester's goal into a game that they can play alone. However, our final goal is to create games that can be played on video media such as zoom or Kakao video chat, so our target users is who use video-based communication media.
 
 ### 1-2. Project Objective
 Our goal is to develop a game called emo game to entertain people. The emo game matches the emotional state written on the floating face on the screen, and scores by matching the position. In addition, the fever time in the middle of the game will allow people to enjoy more exciting visual effects and provide a variety of games to enter the fever game. So many people thought that having fun games that can be played from zoom to burn would help us get closer. we also thought it would be good to go further and develop into a "challenge."
+
 In order to develop this game, we will use two api, CRF api from naver clova and kakao vision api, the open source of face detection technology. We will use eyes/nose/mouth position and facial value recognition from Clova CRF and will use face position and angle(add accuracy utilization) from kakao vision api
 
 ## 2. Preparation

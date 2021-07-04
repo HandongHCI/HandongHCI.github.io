@@ -266,22 +266,10 @@ b. A screen capture of program
 P나 R의 상황의 경우, 사운드 센서와 초음파 센서가 동시에 작동하도록 하였다. 만약 이 상황에서 사운드 센서와 초음파 센서가 동시에 작동하는 상황이 생겼을 때 2가지 방법을 생각해보았다. 첫번째는 여기에서 사운드 센서에 prority가 있는 것이다. 후진을 하거나 parking의 상황에서도 큰 소리가 나타난다면 우선순위에 따라 빛의 색이 사운드 센서에 따라 나타나는 색으로 변한다. 그러나 이 방법은 사운드 센서와 초음파 센서가 동시에 필요한 상황이 발생한다면 좋은 방법이 아니게 된다. 이에 대한 대안으로 빛의 색은 사운드 센서를 인식했을 때의 색으로 바뀌면서 초음파 센서에 따라 깜빡이는 정도는 유지하는 것이다. 즉, 물체에 따라 깜빡이는 정도는 보여지면서 빛의 색이 파란색에서 그라데이션 색으로 변화하는 것이다. 
 
 ### Demo video
-
-- 사용자 조사 시뮬레이션 영상 (1차)
-
-[https://youtu.be/m2o4yAEOqio](https://youtu.be/m2o4yAEOqio)
-
-- 최종 빛 인터렉션 영상 (2차)
-
-[https://youtu.be/3lyrodTpypQ](https://youtu.be/3lyrodTpypQ)
-
-- Arduino ultrasonic sensor demo
-
-[https://youtu.be/SQhSHADl9tE](https://youtu.be/SQhSHADl9tE)
-
-- Philips hue siren demo
-
-[https://youtu.be/CNDfqKGPuew](https://youtu.be/CNDfqKGPuew)
+- [사용자 조사 시뮬레이션 영상 (1차)](https://youtu.be/m2o4yAEOqio)
+- [최종 빛 인터렉션 영상 (2차)](https://youtu.be/3lyrodTpypQ)
+- [Arduino ultrasonic sensor demo](https://youtu.be/SQhSHADl9tE)
+- [Philips hue siren demo](https://youtu.be/CNDfqKGPuew)
 
 ## 3. Conclusion
 
@@ -322,27 +310,17 @@ Arduino write file와 Python read file 상호작용이 원활히 안 이루어�
 ---
 
 **Plan A. arduino → iftt → philips hue**
-
-[Arduino - HTTP Request | Arduino Tutorial](https://arduinogetstarted.com/tutorials/arduino-http-request)
-
-[Connect Arduino to IFTTT for IoT Projects](https://www.learnrobotics.org/blog/connect-arduino-to-ifttt-for-iot-projects/)
-
-[Controlling a Philips Hue via a Arduino](https://create.arduino.cc/projecthub/iotsky/controlling-a-philips-hue-via-a-arduino-b56620)
-
-[Link Python code to IFTTT!](https://www.youtube.com/watch?v=fmjFO5d2AsM)
-
-[Rupakpoddar/Trigger-Events](https://github.com/Rupakpoddar/Trigger-Events)
+- [Arduino - HTTP Request | Arduino Tutorial](https://arduinogetstarted.com/tutorials/arduino-http-request)
+- [Connect Arduino to IFTTT for IoT Projects](https://www.learnrobotics.org/blog/connect-arduino-to-ifttt-for-iot-projects/)
+- [Controlling a Philips Hue via a Arduino](https://create.arduino.cc/projecthub/iotsky/controlling-a-philips-hue-via-a-arduino-b56620)
+- [Link Python code to IFTTT!](https://www.youtube.com/watch?v=fmjFO5d2AsM)
+- [Rupakpoddar/Trigger-Events](https://github.com/Rupakpoddar/Trigger-Events)
 
 **Plan B. arduino → philips hue**
-
-[Philips Hue Light Control Using Arduino | Home Automation | Smart IoT | Nodemcu](https://www.youtube.com/watch?v=pNoH4MPkhZk)
-
-[Get Started - Philips Hue Developer Program](https://developers.meethue.com/develop/get-started-2/)
+- [Philips Hue Light Control Using Arduino | Home Automation | Smart IoT | Nodemcu](https://www.youtube.com/watch?v=pNoH4MPkhZk)
+- [Get Started - Philips Hue Developer Program](https://developers.meethue.com/develop/get-started-2/)
 
 **Plan C. arduino file write → python file read → philips hue**
-
-[studioimaginaire/phue](https://github.com/studioimaginaire/phue)
-
-[No handlers could be found for logger "phue" · Issue #53 · studioimaginaire/phue](https://github.com/studioimaginaire/phue/issues/53)
-
-[Can't Connect to Bridge · Issue #121 · studioimaginaire/phue](https://github.com/studioimaginaire/phue/issues/121)
+- [studioimaginaire/phue](https://github.com/studioimaginaire/phue)
+- [No handlers could be found for logger "phue" · Issue #53 · studioimaginaire/phue](https://github.com/studioimaginaire/phue/issues/53)
+- [Can't Connect to Bridge · Issue #121 · studioimaginaire/phue](https://github.com/studioimaginaire/phue/issues/121)

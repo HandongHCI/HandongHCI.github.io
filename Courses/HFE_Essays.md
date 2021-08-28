@@ -31,10 +31,13 @@ Write the first essay including the follow subtopics.
 
 - **Subtopic 1. Introduction to yourself**: Say something about yourself. What do you study in Handong? Why do you want to take this course? What do you expect to learn from this course? Is there anything that you'd like to say to the professor?
 
-- **Subtopic 2. What is the 'human factors and ergonomics'?**: What do you know about HF/E? Search a web a little bit to find one or two examples called 'ergonomic product' or 'human-centered product'. Why is the product human-centered? Which features of the product are making the product more human-friendly? What core values the target users might earn when they use the product?
+- **Subtopic 2. What is the 'human factors and ergonomics'?**: First, watch the [videos listed in **Introduction to HF/E**](HFE01.md), then write this essay to answer the following questions.
+	- What is HF/E?
+	- Remarkable examples of 'ergonomic' or 'user-centered' products.
+	- What makes a product user-centered? (characteristics/features of user-centered products)
+	- What values we might get when we use user-friendly product? (effects of HF/E in our daily life)
 
-- **Subtopic 3. Any other idea?** Look around you. What products can you find around you? Do you see any product that is not user-friendly designed to provide unsatisfactory or bad user experiences to users? Find any product that could be improved to be more user-friendly. And provide ideas on how to improve it for which values to deliver to users.
-
+- **Subtopic 3. Good and bed examples around us** Look around you. What products/software can you find? Do you see any products that provide better user-friendly experiences. Also, find any other products that are not user-friendly designed so that it provides unsatisfactory or bad experiences to users? Then, provide your ideas on how to improve it to make it more usable.
 
 #### Topic 2. [2-1. Physical Ergonomics I: Biomechanics]
 Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write an essay including the following subtopics.<br><br>

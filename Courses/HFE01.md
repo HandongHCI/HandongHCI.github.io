@@ -34,6 +34,8 @@ Are you ready to learn about the human and 'things' around human?
 - History of human factors in Aviation
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/H36MhK5ADUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+- other sources
+	- [https://www.youtube.com/watch?v=O6FAz4F1j2k](https://www.youtube.com/watch?v=O6FAz4F1j2k) (13 min)
 
 ### B. HF/E Research Cases
 

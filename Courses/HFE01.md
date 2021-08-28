@@ -12,27 +12,33 @@ Okay, I start this course with some questions. Are you ready to answer?
 - To be detailed, what are the physical, cognitive, and emotional characteristics of humans?
 - What (bio-) data (which human keeps producing every moment) could be used in designing a product or a service?
 
-Well.. You might not want to answer this now, right? But, you will need to be available to answer those questions at the end of this course. And I know you can. 
+Well.. You might not want to answer this right now? But, you will need to be available to answer those questions at the end of this course. And I know you can.
 
 Through the course, you will get familiar with the concept of HF/E. And you will surely have a new perspective of the world and human being after you finish to take this course. You will also acquire a fundamental philosophy about 'how to make/design a product' for successful business in a market.
 
 Today, let's get brief understaning about HF/E.
 
-Are you ready to learn about the human?
+Are you ready to learn about the human and 'things' around human?
 
 
 #### [Video Lectures]
-- Ergonomics and Human Factors at Iowa State
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/urhU5XBh2KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- History of HF/E
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/5r1aFRiqLCI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+### A. Basics of HF/E
 
-- Ergonomics and Design
+- HF/E and User-Centered Design I (an old video, but it well explains about HF/E)
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/LAKlmdMHpdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- History of human factors (Example by Aviation domain)
+- HF/E and User-Centered Design II (this video explains various concepts clearly with good examples)
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/v19hAbLAWyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- History of human factors in Aviation
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/H36MhK5ADUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+### B. HF/E Research Cases
+
+- Ergonomics and Human Factors at Iowa State
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/urhU5XBh2KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Center for Ergonomics at University of Michigan
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe src="https://www.youtube.com/embed/_WG-Wm1XLhE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

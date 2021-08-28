@@ -6,10 +6,10 @@ This general syllabus is not year-specific. The course-takers should find the sy
 ### 1. Course Introduction
 This course will provide essential knowledge related to the physical, cognitive, and emotional characteristics of the human, also hands-on practices regarding measuring, analysis, and application of those human characteristics in product design.
 
-This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule.
+This course consists of 24 classes (= 12 weeks), not 32 classes (= 16 weeks). There will be two introductory classes (= 1 week), 22 classes (= 11 weeks) of practice/project/discussion (PPD) sessions, then the course will end at around the 12th or 13th week. The remaining 8 classes (= 4 weeks) will be given as online lectures that parallelly go with the course schedule. See the following figure and "Course Schedule" section for your clear understanding of the course operation in this semester.
 
 ##### PPD sessions
-The PPD (Practice, Project, and Discussion) session is the essential concept of this course. Every week, students MUST take assigned online lectures (about 60-to-70-minute-length per week) and write an essay before they come to the class. In class, students will learn specific theories by practicing and discussing in groups. Also, students will participate in one project through the full course schedule (about three months). Students will participate in their team project once every week under the supervision of the professor. The designated activities regarding the project that are not completed in class time should be done as homework.
+The PPD (Practice, Project, and Discussion) session is the essential concept of this course. Every week, students MUST take assigned online lectures (about 75 minutes lengths per week) and write an essay before they come to the class. In class, students will learn specific theories by practicing and discussing in groups. Also, students will participate in one project through the full course schedule (more or less three months), and they will make certain progress of the project during each regular class time. The activities regarding the project that are not completed in the class time should be done as assignment.
 
 ##### Online lectures
 Total of 600 min (eight-class amount) of videos will be provided through Prof. Lee's GitHub Page: [https://handonghci.github.io/Courses/](https://handonghci.github.io/Courses/).
@@ -34,24 +34,25 @@ Upon completion of the course, students will be able to
 - Examination
 	- Mid-term exam (around W5 and W6)
 	- Final-term exam (around W12 and W13)
-	- Both mid-term and final-term exams are the essay-styled take-home exam with about 7+ days period.
+	- Both mid-term and final-term exams are the essay-styled take-home exam with about a 10+ days period.
 - See "Assignmetns and Grading" below for more information
 
 ### 2. Teaching Philosophy
 
 #### 2.1 Role of Professor
-To say about the knowledge, there are different types: (1) information as common knowledge, (2) knowledge earned by understanding, (3) **empirical knowledge gained by experience**, (4) skills, (5) meta-knowledge, et cetera. The information or common knowledge that are a lot shared and distributed through various internet media such as blogs, news, and YouTube are not focused to care in this course. Re-providing that easily-findable knowledge in a classroom is not meaningful as high-level education in the university. Also, delivering a huge amount of information (even that is necessary for the coursework) by a lecturer in the small classroom is almost impossible as well as an inefficient way of information delivery. Instead, earning **in-depth and empirical knowledge (by hands-on experiences through discussion, practice, writing, and projects)** that cannot be easily acquired from the internet media should be majorly offered by professional tutoring in the classroom.
+To say about the knowledge, there are different types: (1) information as common knowledge, (2) knowledge earned by understanding, (3) **empirical knowledge gained by experience**, (4) skills, (5) meta-knowledge, et cetera. The information or common knowledge that is a lot shared and distributed through various internet media such as blogs, news, and YouTube are not focused on care in this course. Re-providing that easily-findable knowledge in a classroom is not meaningful as high-level education in the university. Also, delivering a huge amount of information (even that is necessary for the coursework) by a lecturer in the small classroom is almost impossible as well as an inefficient way of information delivery. Instead, earning **in-depth and empirical knowledge** that cannot be easily acquired from the internet media should be majorly offered by professional tutoring in the classroom.
 
-The role of the professor in this course is a **facilitator** or **tutor**, not just a lecturer. As the **facilitator**, I guide students to know what to see and where to find any necessary knowledge about the course contents. I spend a lot of hours to carefully select 600 minutes of essential YouTube videos (and other media sources) that are informative, visually well-made, delivering meaningful knowledge, appropriate in the level of knowledge depth, and interesting not that boring. My role is to give meaningful questions that can be solved through critical, creative, and collaborative thinking, also to provide good reference information to expand students' knowledge and understanding. Then, during class time, I will guide students to earn sufficient experient by discussion, practice, project activities, and other hands-on experiences. As a **tutor**, I'd like to know each of my student in person through various channels so that I sincerely hope to communicate with each of them to make his/her study successfully finished through the semester.
+The role of the professor in this course is a facilitator, tutor, or coach, not just a lecturer. As the facilitator, I guide students to know what to see and where to find any necessary knowledge about the course contents. I spend a lot of hours carefully selecting 600 minutes of essential YouTube videos (and other media sources) that are informative, visually well-made, delivering meaningful knowledge, appropriate in the level of knowledge depth, and interesting, not that boring. My role is to give meaningful questions that can be solved through critical, creative, and collaborative thinking, also to provide good reference information to expand students' knowledge and understanding. Then, during class time, I will guide students to earn sufficient experience by discussion, practice, project activities, and other hands-on experiences. As a tutor, I'd like to know each of my students in person through various channels so that I sincerely hope to communicate with each of them to make his/her study successfully finished through the semester.
 
 #### 2.2 Role of Students
 All the activities in the classroom will be conducted by teams. Therefore, individual activity in the classroom is not appropriate, and students will be requested to actively participate in a group. Therefore, **active, positive, collaborative and enthusiastic mindsets** as a learner are highly required. Students **MUST take online lectures (about 60-75 minutes lengths) and write an essay assignment before they come to class**. Please do not hesitate to ask and discuss anything that you've wanted to know. The participation of each student will be evaluated by the professor.
 
-This course requires students to submit **multiple essay writings** including mid- and final-terms exams. Please describe your **own thoughts, insights, and philosophy** about issues related to this course. Use your academic knowledge and personal experiences to explain. The essay writings will not be that easy to produce but it requires students to **squeeze their brain and percolate ideas to melt all the related knowledge into short sentences**. Therefore, if necessary, enjoy to **learn yourself** from anywhere (from internet media, from classmates, or from the professor) to write your opinion about the topic. Writing should reveal the author's efforts of thinking and their time spent for the writing, therefore I can so easily see those efforts by reading the article. I encourage you to have enough time to prepare own article earnestly.
+This course requires students to submit **multiple essay writings** including mid- and final-terms exams. Please describe your **own thoughts, insights, and philosophy** about issues related to this course. Use your academic knowledge and personal experiences to explain. The essay writing will not be that easy to conduct but it requires students to **squeeze their brain and percolate ideas to melt all the related knowledge into short sentences**. Therefore, if necessary, enjoy **learning yourself** from anywhere (from internet media, from classmates, or from the professor) to write your opinion about the topic. Writing should reveal the author's efforts of thinking and their time spent for the writing, therefore I can easily see those efforts by reading the article. I encourage you to have enough time to prepare your own article earnestly.
 
-In team projects, students have the **responsibility to actively participate in their team activities**. For the presentations, show fruitful outcomes of own projects as professionally as possible with well-prepared materials.
+In team projects, students have the **responsibility to actively participate in their team activities**. For the presentation, show fruitful outcomes of your own projects as professionally as possible with well-prepared materials.
 
-Finally, as my educational duty, I've gladly spent lots of time to **see each student of my class in person**. Please come to me **at least once during the semester**. To effectively excel my education into the class, this individual meeting is **compulsory for all students**.
+Finally, as my educational duty, I've gladly spent lots of time **seeing each student of my class in person**. Please come to me **at least once during the semester**. To effectively excel my education into the class, this individual meeting is **compulsory for all students**.
+
 
 ### 3. Assignments
 
@@ -118,6 +119,7 @@ I personally have a disagreeing opinion of the ABCDF-based grading system. 0-to-
 Attendance is the right of students as they paid for their learning, not a responsibility that could be evaluated; therefore, there is no evaluation of students' attendance. However, uninformed absences or late attendances will be reflected in participation criteria (10%) because the active participation in class is one of the highly required attitudes in this course.
 
 #### 4.1 General grading scheme
+*(Note that this scheme could be different by semester)*
 - Participation (10%)
 - Essay assignment (20%; 10 essays)
 - Mid-term examination (15%; 10-page essay style)
@@ -129,8 +131,9 @@ Attendance is the right of students as they paid for their learning, not a respo
 	- Mid-term presentation (5%)
 	- Final presentation (5%)
 
+
 ### 5. Schedule
-See the syllabus shared via Hisnet or [HERE](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
+See the syllabus shared via Hisnet or [an extended syllabus shared in Google Drive](https://docs.google.com/document/d/17inRfCGKYV04LgGr0rF28XDgyFYO691OZaDuuCk-kMQ/edit#)
 
 ### 6. Miscellaneous
 

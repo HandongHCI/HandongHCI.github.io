@@ -20,7 +20,7 @@
 		- Line height: 1.5
 	- Evaluation
 		- Satisfaction of the minimum requirement
-		- Evaluation criteria: clarity of opinion, rationality of argument, creativity about new ideas, depth of own philosophy about the topic
+		- Evaluation criteria: clarity of opinion, the rationality of argument, creativity about new ideas, depth of own philosophy about the topic
 - **Do NOT put the instructions in your essay.**
 
 
@@ -44,14 +44,23 @@ Write the first essay including the following subtopics.
 Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write an essay including the following subtopics.<br><br>
 Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+	- How do people move?
+	- What is biomechanics?
+	- What knowledge do you need to have if you want to understand human motion?
+	- How can biomechanics be used in our daily life?
+	- How can biomechanics be applied in special areas such as sports engineering/science, design for disabled people?
+	- What are the applicabilities of the motion capture system?
+	- What are the applicabilities of the EMG system?
+	- Why is it important to understand the physical characteristics of humans in user-friendly product design?
+	- What is a good design in terms of biomechanics view?
 
-- **Subtopic 2**: How can the knowledge of biomechanics help people in our daily life? To be helped your understanding about this subtopic, remind the following keywords: `#biomechanics`, `#musculoskeletal system`, `#motion capture`, `#human motion`, `#human movement`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`. For example, the keywords `EMG` and `bionics` can explain how our muscle signal (as a bio-data) is applied for the use of bionic prosthesis.
+- **Subtopic 2**: Do Googling, then provide **one case study regarding "how the knowledge of biomechanics can help people in their daily life?"** For example, you may explain how `bionic prosthesis` works based on the muscle data (called `EMG`). Or you may describe how a `webcam` image with `OpenPose` library can detect hand postures ([see this blog](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html)). Related keywords for this subtopic: `#biomechanics`, `#musculoskeletal system`, `#human motion`, `#human movement`, `#muscle activities`, `#motion capture`, `#depth sensing`, `#OpenPose`, `#EMG`, `#bionics`, `#exoskeleton`, `#occupational biomechanics`, `#sports science`.
 
-- **Subtopic 3**: Provide your own idea of a new product or service, which is based on human biomechanical data (e.g., motion data, EMG data) for general or specific target users. Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
+- **Subtopic 3**: Provide your own idea of a new product or service, which is based on human biomechanical data (e.g., motion data, EMG data) for general or specific target users. Provide detailed features, related ICT technologies, app design, major functions of your idea. Also, try to provide figures or sketches of your idea.
 
 
-#### Topic 3. [2-2. Physical Ergonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
+#### Topic 3. [2-2. Physical Ergeonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
 Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.

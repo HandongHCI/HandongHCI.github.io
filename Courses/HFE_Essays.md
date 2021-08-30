@@ -32,11 +32,11 @@ Write the first essay including the following subtopics.
 - **Subtopic 1. Focus on yourself**: Say something about yourself. What do you study in Handong? Why do you want to take this course? What do you expect to learn from this course? Is there anything that you'd like to say to the professor?
 
 - **Subtopic 2. Focus on people**: First, watch the [videos listed in **Introduction to HF/E**](HFE01.md), then write this essay to answer the following questions.
-	- What is HF/E?
+	- What is HF/E? 
 	- What is 'user-centered'?
 	- Remarkable examples of 'ergonomic' or 'user-centered' products.
 	- What makes a product user-centered? (characteristics/features of user-centered products)
-	- What values users might get when they use the user-friendly products? (effects of HF/E in our daily life)
+	- What values users might get when they use user-friendly products? (effects of HF/E in our daily life)
 
 - **Subtopic 3. Good and bad examples around users** Look around you. What products/software can you find? Do you see any products that provide better user-friendly experiences? Also, find any other products that are not user-friendly designed so that it provides unsatisfactory or bad experiences to users? Then, provide your ideas on how to improve it to make it more usable.
 

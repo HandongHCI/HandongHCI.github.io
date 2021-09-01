@@ -32,10 +32,11 @@
 
 ### Product Planning and Development / 제품 기획 및 개발 (SIT23005)
 - [Introduction](PPD00.md)
-- [Materials - EduTech](PPD_EduTech.md)
 - [Materials - Videos related to PPD](PPD_Videos.md)
 - [Materials - Agile](PPD_Agile.md)
 - [Materials - Prototyping](PPD_Videos.md)
+- [Materials - EduTech (2019-2)](PPD_2019F_SmartCity.md)
+- [Materials - EduTech (2021-1)](PPD_2021S_EduTech.md)
 
 ### Intoduction to ICT Convergence (SIT22002)
 - [Introduction to Depth Sensing & Its Applications](Intro_DepthSensing.md)

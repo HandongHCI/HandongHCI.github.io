@@ -63,11 +63,21 @@ Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in 
 #### Topic 3. [2-2. Physical Ergeonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
 Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+	- What is anthropometry?
+	- What to get human body size and shape data?
+	- How is the knowledge of anthropometry used in our daily life?
+	- If you need to design a chair and desk for the classroom, which body parts do you need to measure?
+	- What are the applicabilities of the 3D scanning?
+	- Why is a good posture necessary for our life?
+	- What ergonomic knowledge can support an healthy and safe work in factories and offices?
+	- What is the virtual ergonomics?
 
-- **Subtopic 2**: How can the knowledge of anthropometry (which means the measurement of the human body) and 3D body scanning help people in our daily life? Try to search some existing products with keywords including `#anthropometric design`, `#3d body scanning`, `#3d human shape`, `#digital human modeling`, `#human body size`, `#human body shape`, etc.
+- **Subtopic 2**: How can the knowledge of anthropometry and 3D body scanning help a certain people in their life? First, set a target user (e.g., normal adults, ladies/gentlemen seeking a fit suit, fast-grwoing children, weakened elderly people, disabled people, ...). You may search some existing products with keywords including `#anthropometric design`, `#3d body scanning`, `#3d human shape`, `#digital human modeling`, `#human body size`, `#human body shape`, `#prosthetics`, etc.
 
-- **Subtopic 3**: Provide your own idea of a new product or service, which can make people in good, safe, and healthy posture (at industry/office workplaces, at home, at a hospital, at school, or at other particular places). Provide detailed features of your idea. Also, provide figures or sketches of your idea if possible.
+- **Subtopic 3**: Provide your own idea of a new product or service, which can make people in good, safe, and healthy posture (at industry/office workplaces, at home, at a hospital, at school, or at other particular places).
+	- Explain detailed features of your product/service.
+	- Try to provide figures or sketches of your idea.
 
 
 #### Topic 4. [3-1. Cognitive Ergonomics I: Information Processing Model]

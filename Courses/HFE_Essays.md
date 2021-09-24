@@ -106,16 +106,12 @@ Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then w
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
 	- Why do people make errors? (explain it in terms of the relation between the human error and IPM)
-	- How to prepare human errors in terms of the user-centered design perspective?
-	- How the cognitive skills could be trained? (explain it in terms of the relation between the cognitive training and IPM)
+	- How to prevent human errors in terms of the user-centered design perspective?
 	- Types of cognitive skills (e.g., calculation speed, quality of memorization, the accuracy of decision making, ...)
+	- How the cognitive skills could be trained? (explain it in terms of the relation between the cognitive training and IPM)
 	- What is 'fight or flight'?
-	- Could people focus on many things at the same time? (about multi-taking)
-	- How does the IPM explain about limitations of our brain?
-	- How is the knowledge of IPM used in our daily life?
-	- What is the user-centered design in terms of the IPM?
-	- Why the cognitive health is the matter? (if cognitively unhealthy, what happened?)
-	- How to improve cognitive health?
+	- What is cognitive workload?
+	- How to manage cognitive load (or say, stress)?
 
 - **Subtopic 2**: 
 From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. Here are some example.

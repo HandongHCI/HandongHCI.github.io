@@ -105,11 +105,26 @@ Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then w
 Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+	- Why do people make errors? (explain it in terms of the relation between the human error and IPM)
+	- How to prepare human errors in terms of the user-centered design perspective?
+	- How the cognitive skills could be trained? (explain it in terms of the relation between the cognitive training and IPM)
+	- Types of cognitive skills (e.g., calculation speed, quality of memorization, the accuracy of decision making, ...)
+	- What is 'fight or flight'?
+	- Could people focus on many things at the same time? (about multi-taking)
+	- How does the IPM explain about limitations of our brain?
+	- How is the knowledge of IPM used in our daily life?
+	- What is the user-centered design in terms of the IPM?
+	- Why the cognitive health is the matter? (if cognitively unhealthy, what happened?)
+	- How to improve cognitive health?
 
 - **Subtopic 2**: 
-From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. For examples, (1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not. (2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving or not. Or (3) a smartwatch (or any other wearable devices) can catch if a person seems in normal or abnormal status.<br><br>**Question**: What other cases do you know about the human bio-signals and its applicability for assisting people?
+From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. Here are some example.
+	(1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not.
+	(2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving. 
+	(3) A smartwatch (or any other wearable device) can catch if a person seems in abnormal status.<br><br>
+**Question**: Then, what other cases do you know about sensing human bio-signals to help people to manage their stresses or workloads? Or you may provide your idea(s) on the use of human bio-signals for managing cognitive stress or workloads.
 
-- **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make people causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, please provide your idea(s) on how to fix it to reduce human error.
+- **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make people causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, provide your ideas (with some sketches) on how to fix it to reduce human error.
 
 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]

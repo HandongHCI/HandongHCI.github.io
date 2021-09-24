@@ -83,17 +83,28 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 #### Topic 4. [3-1. Cognitive Ergonomics I: Information Processing Model]
 Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+	- Understanding the human brain and cognitive process
+	- What is IPM?
+	- Key concepts of IPM
+		- (1) sensation/perception
+		- (2) attention (divided attention & selective attention)
+		- (3) memory (short-term memory and long-term memory)
+	- Could people focus on many things at the same time? (about multi-taking)
+	- How does the IPM explain about limitations of our brain?
+	- How is the knowledge of IPM used in our daily life?
+	- What is the user-centered design in terms of the IPM?
+	- Why the cognitive health is the matter? (if cognitively unhealthy, what happened?)
+	- How to improve cognitive health?
 
-- **Subtopic 2**: Explain the process of something (for example, learning, taking an exam, decision making, playing basketball, find a restaurant, plan a trip, plan a birthday event, ...) using the IPM. What information is processed through sensory memory, short-term memory (= working memory), and long-term memory while doing the chosen task, and how? Draw an IPM chart to explaining the chosen task. (No perfect answer is required. Students will try to explain the IPM several times more during the course.)
+- **Subtopic 2**: Explain the process of human behavior (for example, learning HF/E, taking an exam, decision making for dinner, playing basketball, find a restaurant, plan a trip, plan a birthday event, ...) using the IPM. What information is processed through sensory memory, short-term memory (= working memory), and long-term memory while doing the chosen task, and how? Draw an IPM chart to explain the chosen task. (No perfect answer is required. You will try to explain the IPM several times more in this course.)
 
-- **Subtopic 3**: Provide your own idea of a new product or service, which can increase information processing performance such as focusing/attention, better memorization, faster and more accurate calculation, reasonable comparison, and so forth.
-
+- **Subtopic 3**: Provide your own idea of a new product (e.g., device, smartphone app, service platform, ...), which can increase information processing performance such as focusing/attention, better memorization, faster and more accurate calculation, reasonable comparison, and so forth. Or a new product that can make you cognitively healthier.
 
 #### Topic 5. [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response]
 Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: 
 From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. For examples, (1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not. (2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving or not. Or (3) a smartwatch (or any other wearable devices) can catch if a person seems in normal or abnormal status.<br><br>**Question**: What other cases do you know about the human bio-signals and its applicability for assisting people?
@@ -104,7 +115,7 @@ From the knowledge about 'fight or flight response', you might get ideas on how 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, this time, let's think about human emotion by the engineer's perspective. What ideas do you have, which is about how emotional engineering could be useful for students' life at Handong University? (related keywords to this question: `#neuroscience`, `#neuromarketing`, `#Brain-Computer Interaction`, `#affective engineering`, `#UX engineering`, ...)
 
@@ -114,7 +125,7 @@ Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then wr
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Design]
 Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: How can human emotion affect human behavior? Let's think about some good or bad examples on which emotion can make people doing good actions or hesitating. How can a design help people have a good emotional status? (keyword: `#positive emotion`, `#positive design`)
 
@@ -124,7 +135,7 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 #### Topic 8. [5-1. Usability I: Design with Users & Usability Evaluation]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: The USER needs to be importantly considered in product development. Why? What can be happened if the USER (e.g., their needs/wants, their working environment/situation, their physical/cognitive/emotional characteristics, ...) is not appropriately considered in a <font color="blue">product</font> development process? What are the benefits of involving users in the product/service development process? There are many reasons/aspects, which might result in a product successful or fail. How is 'usability' important for the product's success? Do you know any success or failure story? (keywords: `#user-centered design`, `#design with users`, `#co-design`, `#usability`, `#usability evaluation`)<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things such as ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
 
@@ -134,7 +145,7 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 #### Topic 9. [5-2. Usability  II: User-Centered Design Principles]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. Use "bullet points" for listing important keywords and short sentences. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: Based on the knowledge of "INCLUSIVE DESIGN", discuss how HUMAN is different from USER. (in other words, how can you distinguish differences between "HUMAN-centered" and "USER-centered")
 

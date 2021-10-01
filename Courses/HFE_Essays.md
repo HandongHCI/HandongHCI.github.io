@@ -104,20 +104,20 @@ Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then w
 #### Topic 5. [3-2. Cognitive Ergonomics II: Human error, cognitive training, and fight or flight response]
 Watch the [videos listed in **3-2 Cognitive Ergonomics II**](HFE03_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
-	- Why do people make errors? (explain it in terms of the relation between the human error and IPM)
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
+	- Why do people make errors? (explain it in terms of the relationship between human error and IPM)
 	- How to prevent human errors in terms of the user-centered design perspective?
 	- Types of cognitive skills (e.g., calculation speed, quality of memorization, the accuracy of decision making, ...)
-	- How the cognitive skills could be trained? (explain it in terms of the relation between the cognitive training and IPM)
+	- How the cognitive skills could be trained? (explain it in terms of the relationship between the cognitive training and IPM)
 	- What is 'fight or flight'?
-	- What is cognitive workload?
+	- What is the cognitive workload?
 	- How to manage cognitive load (or say, stress)?
 
 - **Subtopic 2**: 
-From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. Here are some example.
+From the knowledge about 'fight or flight response', you might get ideas on how our physiological status can be technically explained based on bio-signals. Human bio-signals are broadly used to recognize the physical, cognitive, and emotional status of people. Here are some examples.
 	(1) `#ECG`, `#EEG`, `#eye movement`, `#body temperature`, `#skin conductance`, ... can tell whether we are nervous/afraid or not.
 	(2) ECG, body temperature, and eye movement data can tell if a driver is drowsy while driving. 
-	(3) A smartwatch (or any other wearable device) can catch if a person seems in abnormal status.<br><br>
+	(3) A smartwatch (or any other wearable device) can catch if a person seems in abnormal status.<br>
 **Question**: Then, what other cases do you know about sensing human bio-signals to help people to manage their stresses or workloads? Or you may provide your idea(s) on the use of human bio-signals for managing cognitive stress or workloads.
 
 - **Subtopic 3**: Look around. Find any product or app or its interfaces, which easily make people causing an error (e.g., wrong decision making, wrong perception, wrong calculation, misunderstand, mistake, slip, failure, memory lapse, ...). If you find a case, provide your ideas (with some sketches) on how to fix it to reduce human error.

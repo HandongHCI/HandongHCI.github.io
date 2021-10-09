@@ -44,7 +44,7 @@ Write the first essay including the following subtopics.
 Watch the [videos listed in **2-1. Physical Ergonomics I**](HFE02_1.md), then write an essay including the following subtopics.<br><br>
 Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in Google's image search? You might see lots of images related to the skeleton and muscle of the human body. Yes, biomechanics is a domain related to the movement and posture of living creatures. We move (e.g., walking, running, dancing, standing work at a factory, sitting for desk work, playing sports, holding heavy stuff, controlling keyboard and mouse, touching smartphone) by controlling our muscles.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
 	- How do people move?
 	- What is biomechanics?
 	- What knowledge do you need to have if you want to understand human motion?
@@ -63,7 +63,7 @@ Biomechanics is a specific domain under HF/E. Did you search `#biomechanics` in 
 #### Topic 3. [2-2. Physical Ergeonomics II: Anthropometry, Ergonomics at Workplace, Virtual Ergonomics]
 Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
 	- What is anthropometry?
 	- What to get human body size and shape data?
 	- How is the knowledge of anthropometry used in our daily life?
@@ -83,7 +83,7 @@ Watch the [videos listed in **2-2. Physical Ergonomics II**](HFE02_2.md), then w
 #### Topic 4. [3-1. Cognitive Ergonomics I: Information Processing Model]
 Watch the [videos listed in **3-1. Cognitive Ergonomics I**](HFE03_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
 	- Understanding the human brain and cognitive process
 	- What is IPM?
 	- Key concepts of IPM
@@ -126,27 +126,44 @@ From the knowledge about 'fight or flight response', you might get ideas on how 
 #### Topic 6. [4-1. Emotional Ergonomics I: Emotional Engineering, Measurement of Human Emotion]
 Watch the [videos listed in **4-1 Emotional Ergonomics I**](HFE04_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
+	- What is human emotion?
+	- How are human emotion and cognition similar and different?
+	- How could human emotions be measured?
+	- How are the human emotions used in commercial products?
+	- How can the computer know human emotion by analyzing the human face?
 
-- **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals show the physical, cognitive, and emotional status of people. Continued from that, this time, let's think about human emotion by the engineer's perspective. What ideas do you have, which is about how emotional engineering could be useful for students' life at Handong University? (related keywords to this question: `#neuroscience`, `#neuromarketing`, `#Brain-Computer Interaction`, `#affective engineering`, `#UX engineering`, ...)
+- **Subtopic 2**: In the session of cognitive ergonomics II (related to 'fight or flight response'), we had learned how the human bio-signals present human cognitive status. Continued from that, this time, we are thinking of the bio-signals as they can explain human emotions. Provide some ideas on **how the human bio-signals or human bio-data (e.g., brain signal, eye movement, facial expression) can be used for human happiness**. For example, how could the knowledge and technology of emotional engineering help Handong students mentally and emotionally healthy in college life? (related keywords to this question: `#neuroscience`, `#neuromarketing`, `#Brain-Computer Interaction`, `#affective engineering`, `#UX engineering`, ...)
 
-- **Subtopic 3**: AI/robot technologies are getting rapidly developed. Let's suppose that the AI can perfectly measure human emotions based on our bio-signals, facial recognition, and behavior analysis; also emotionally responses to you like a real human (based on computer algorithms, of course!). What are positive and negative thoughts of your about a computer/device/robot's emotional reaction to you? (Did you perhaps watch the movie, 'Her'?) Provide your arguments/opinion that what are positive/negative effects of the human-like robot/computer in people's daily life.
+- **Subtopic 3**: AI/robot technologies are getting developed very fast. Let's suppose that the AI can perfectly measure human emotions based on our bio-signals, facial recognition, and behavior analysis; also emotionally responses to you like an actual human (based on computer algorithms, of course!). What are your positive and negative thoughts about a computer/device/robot's emotional reaction to you? (Did you perhaps watch the movie 'Her'?) Provide your arguments/opinion on **the emotionally positive/negative effects** of the human-like robot/computer in people's daily lives.
 
 
 #### Topic 7. [4-2. Emotional Ergonomics II: Emotional Design]
 Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
+	- What are positive emotions and negative emotions?
+	- Power of the positive emotion
+	- What is emotional design?
+	- Why do we have to care human hapiness (or positive emotions) when we design a product or a service?
+	- What is the UX?
+	- How is the UX related to the human emotions?
 
-- **Subtopic 2**: How can human emotion affect human behavior? Let's think about some good or bad examples on which emotion can make people doing good actions or hesitating. How can a design help people have a good emotional status? (keyword: `#positive emotion`, `#positive design`)
+- **Subtopic 2**: How can human emotion affect human behavior? Let's think about how emotion can make people doing good or bad. For example, if someone keeps getting irritated/annoyed by using a product (due to awkward/uncomfortable user interfaces), he/she might behave an unkind action to somebody nearby. Or if someone is so enjoyed by a user-friendly service, she/he could be very happy for the day. Provide **some good and bad examples which make people have good or bad emotions**. And discuss the ** `#power of design` (= effects of design)** and importance of emotional ergonomics in product/service design.
 
-- **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., `#amusement`, `#confidence`, `#courage`, `#dreaminess`, `#energetic`, `#fascination`, `#hope`, `#joy`, `#kindness`, `#love`, `#pride`, `#satisfaction`, ...) showing in the cardset, provide some ideas on how to make people being more positive by a new product/service. (For example, how to make people amused?)
-
+- **Subtopic 3**: How do you think about the power of positivity? Get this [Design for Happiness Cardset](https://repository.tudelft.nl/islandora/object/uuid:22a4e066-a1ab-468c-bd78-6c2c3e39e064/datastream/OBJ/download) by clicking the link. Then, by referring to the keywords (e.g., `#amusement`, `#confidence`, `#courage`, `#dreaminess`, `#energetic`, `#fascination`, `#hope`, `#joy`, `#kindness`, `#love`, `#pride`, `#satisfaction`, ...) in the cardset, provide **new product/service ideas on how to make people being more positive**. Try to put some figures and visual examples about your ideas.<br>For example: 
+	- How to make people being amused?
+	- How to make people being proud of themselves?
+	- How to make people being joyful?
+	- How to make people thank each other?
+	- How to make people encouraged?
+	- How to make people doing kind actions?
+	- How to make people having hope?
 
 #### Topic 8. [5-1. Usability I: Design with Users & Usability Evaluation]
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: The USER needs to be importantly considered in product development. Why? What can be happened if the USER (e.g., their needs/wants, their working environment/situation, their physical/cognitive/emotional characteristics, ...) is not appropriately considered in a <font color="blue">product</font> development process? What are the benefits of involving users in the product/service development process? There are many reasons/aspects, which might result in a product successful or fail. How is 'usability' important for the product's success? Do you know any success or failure story? (keywords: `#user-centered design`, `#design with users`, `#co-design`, `#usability`, `#usability evaluation`)<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things such as ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
 
@@ -156,7 +173,7 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 #### Topic 9. [5-2. Usability  II: User-Centered Design Principles]
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write an essay including the following subtopics.
 
-- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions of this topic. Don't exceed one page for a summary.
+- **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
 
 - **Subtopic 2**: Based on the knowledge of "INCLUSIVE DESIGN", discuss how HUMAN is different from USER. (in other words, how can you distinguish differences between "HUMAN-centered" and "USER-centered")
 

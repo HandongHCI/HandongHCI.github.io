@@ -1,0 +1,638 @@
+body, td {
+	font-size:9pt;
+	padding:0;
+	margin:0;	
+	font-family:"Verdana", "돋움";
+}
+body table {
+	margin:auto;
+}
+input,textarea,select {
+	font-size:9pt;
+	font-family:"Verdana", "돋움";
+}
+
+input1 {
+	font-size:9pt;
+	font-family:"Verdana", "돋움";
+	white-space:normal;
+	width:200px;
+	
+}
+
+body {
+	background-image:url(topmenu_bg.jpeg);
+	background-position:center 0;
+	background-repeat:no-repeat;
+
+}
+
+form {
+	display: inline; margin:0px;
+	
+}
+h1, h2, h3 {
+	text-align:left;
+}
+.cls_tdLeft {
+	background-color:#eeebb6;
+	width:155px;
+}
+.cls_tdContents {
+	width:690px;
+	padding-left:10px;
+	padding-top:10px;
+	vertical-align:top;
+}
+
+.Navi1 {
+	color: #005c9b;
+	font-weight: bold;
+	font-size: 11px;
+}
+.Navi2 {
+	color:7777;
+	font-size: 11px;
+}
+
+/* ############################################################################################## */
+/* 테이블의 TR, TD에 대한 정의 영역 */
+/* ############################################################################################## */
+.cls_trHeadType1 td {
+	text-align:center;
+	color:#5075ba;
+	font-size:9pt;
+	font-family:"Verdana", "돋움";
+	font-weight:bold;
+	border-top:2px solid #0064c9;
+	border-bottom:1px solid #b8b8b8;
+	background-color:#dedede;
+	background-image:url(/2012_images/public/trheadtype1_bg.png);
+	background-position:bottom right;
+	background-repeat:no-repeat;
+	height:27px;
+	vertical-align:middle;
+}
+.cls_noBgImg {
+	background-image:none !important;
+}
+.cls_trType1 td {
+	text-align:center;
+	color:#6666;
+	font-size:9pt;
+	font-family:"Verdana", "굴림";
+	font-weight:normal;
+	border-bottom:1px solid #b8b8b8;
+	background-color:#FFFFFF;
+	background-image:url(/2012_images/public/trheadtype1_bg.png);
+	background-position:bottom right;
+	background-repeat:no-repeat;
+	height:27px;
+	vertical-align:middle;
+}
+.cls_trType1 th {
+	text-align:center;
+	color:#6666;
+	font-size:9pt;
+	font-family:"Verdana", "굴림";
+	font-weight:normal;
+	border-bottom:1px solid #b8b8b8;
+	background-image:url(/2012_images/public/trheadtype1_bg.png);
+	background-position:bottom right;
+	background-repeat:no-repeat;
+	height:27px;
+	vertical-align:middle;
+}
+.cls_trBar1 {
+	background-image:url(/2012_images/public/bar1_bg.gif);
+	background-repeat:repeat-x;
+}
+/* ############################################################################################## */
+/* 패딩에 대한 정의 영역 */
+/* ############################################################################################## */
+.cls_Margin0 {
+	margin:0 !important;
+}
+.cls_MarginTB10 {
+	margin-top:10px !important;
+	margin-bottom:10px !important;
+}
+.cls_MarginLR10 {
+	margin-left:10px;
+	margin-right:10px;
+}
+.cls_MarginB10 {
+	margin-bottom:10px;
+}
+.cls_PaddingL10 {
+	padding-left:10px;
+}
+.cls_PaddingR10 {
+	padding-right:10px;
+}
+.cls_PaddingLR10 {
+	padding-left:10px;
+	padding-right:10px;
+}
+.cls_Padding0 {
+	padding:0 !important;
+}
+.cls_PaddingT5 {
+	padding-top:10px;
+}
+.cls_PaddingT10 {
+	padding-top:10px;
+}
+.cls_Padding0 {
+	padding:0px !important;
+}
+.cls_Padding10 {
+	padding:10px !important;
+}
+.cls_PaddingTB5 {
+	padding-top:5px !important;
+	padding-bottom:5px !important;
+}
+.cls_PaddingTB10 {
+	padding-top:10px !important;
+	padding-bottom:10px !important;
+}
+
+/* ############################################################################################## */
+/* 정렬에 대한 정의 영역 */
+/* ############################################################################################## */
+.cls_AlignJustify {
+	text-align:justify !important;
+}
+.cls_AlignJustify div {
+	text-align:justify !important;
+}
+.cls_AlignLeft {
+	text-align:left !important;
+}
+.cls_AlignRight {
+	text-align:right !important;
+}
+.cls_AlignCenter {
+	text-align:center !important;
+}
+
+/* ############################################################################################## */
+/* 텍스트 색상에 대한 정의 영역 */
+/* ############################################################################################## */
+.cls_Blue1 {
+	color:#3571cb !important;
+}
+.cls_Underline {
+	text-decoration:underline !important;
+}
+.cls_Bold {
+	font-weight:bold !important;
+}
+.cls_Blue2 {
+	color:#5075c1;
+}
+
+
+/* ############################################################################################## */
+/* 표속성, 색상에 대한 정의 영역 */
+/* ############################################################################################## */
+
+/* 표 같은것의 첫번째 열 */
+.Td1 {
+	color:#368bc8;
+	text-align:center;
+	padding:10px;
+	font-weight:bold;
+}
+.blueTBorder {
+/* 상단만 파란색인 보더 */
+	border-top:1px solid #368bc8;
+}
+.blueBBorder {
+/* 상단만 파란색인 보더 */
+	border-bottom:1px solid #368bc8;
+}
+.grayTBorder {
+/* 상단만 회색인 보더 */
+	border-top:1px solid #E8E8E8;
+}
+.grayBBorder {
+/* 상단만 회색인 보더 */
+	border-bottom:1px solid #E8E8E8;
+}
+
+.Font10 {
+	font-size:10pt;
+}
+.Font9 {
+	font-size:9pt;
+}
+
+a {
+	text-decoration:none;
+}
+
+/* 게시판 쪽 하단에 개발자만 볼 수 있는 화면을 만드는 iframe으로 현재는 보이지 않아야 하기에 none 속성을 줌 */
+#MyXFrame {
+	display:none !important;
+}
+
+/* A 링크를 버튼으로 만들어주는 CSS */
+a.aBtn {
+	background-color:#EFEFEF;
+	border:1px solid #CCCCCC;
+	color:#000000;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top:3px;
+	margin-bottom:3px;
+	height:24px;
+}
+a.aBtn:hover {
+	background-color:#E0E0E0;
+	border:1px solid #CCCCCC;
+/*	font-weight:bold; */
+	color:#000000;
+}
+a.aBtnDis {
+	background-color:#EFEFEF;
+	border:1px solid #CCCCCC;
+	color:#FFF !important;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top:3px;
+	margin-bottom:3px;
+	height:24px;
+}
+a.aBtnDis:hover {
+	background-color:#E0E0E0;
+	border:1px solid #CCCCCC;
+/*	font-weight:bold; */
+	color:#F00;
+}
+
+a.aBtn2 {
+	background-color:#86a0d5;
+	border:1px solid #666666;
+	color:#000000;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top:3px;
+	margin-bottom:3px;
+	height:24px;
+}
+a.aBtn2:hover {
+	background-color:#0441bb;
+	border:1px solid #000;
+/*	font-weight:bold; */
+	color:#FFFFFF;
+}
+/* TD 에 사용되며 파란배경 하얀 글씨로 만들어주는 CSS */
+.tdCaption {
+	background-color:#006699 !important;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:20px;
+}
+
+.tdCaption_Gray {
+	background-color:#999999 !important;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:20px;
+}
+
+.tdCaption_LightGray {
+	background-color:#f7f7f7 !important;
+	font-weight:bold;
+	color:#606060;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:20px;
+}
+.tdCaption_LightBlue {
+	background-color:#c2d8fd !important;
+	font-weight:bold;
+	color:#606060;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:20px;
+}
+
+.cls_after3 {
+	display:none;
+}
+.cls_CISPageTitle {
+	/* CIS 관련 페이지의 타이틀 텍스트 */
+	font-size:16pt;
+}
+.cls_CISPageTitle img {
+	vertical-align:middle;
+}
+
+#cis_titlebox {
+	padding-top:48px;
+	padding-left:40px;
+	text-align:left;
+}
+#cis_titlebox .cls_kyomname {
+	color:#0066CC;
+	font-size:16pt;
+	font-weight:bold;
+}
+#cis_titlebox .cls_hakgi {
+	color:#0066CC;
+	font-size:9pt;
+}
+/* 게시물 등에서 아이콘이 나올때 사용하는 클래스 */
+.cls_icon {
+	vertical-align:middle;
+}
+.subTabcls {
+    font-weight:bold;
+	color:#606060;
+}
+a.subTabcls {
+    font-weight:bold;
+	color:#606060 !important;
+	text-decoration:none !important;
+}
+a:hover.subTabcls {
+    font-weight:bold;
+	color:#606060  !important;
+	text-decoration:none !important;
+}
+.tblcationTitlecls {
+    font-weight:bold;
+	color:#808080;
+	text-align:center;
+}
+
+A:link {font-size:9pt; text-decoration:none; color:#000000; } /* color:#606060; */
+A:visited {font-size:9pt; text-decoration:none;color:#000000;} /* color:#606060; */
+A:hover {font-size:9pt; text-decoration:none;color:#000000;} /* color:#606060; */
+A:active {font-size:9pt; text-decoration:none; color:#000000;} /* color:#606060; */
+
+#tr_side_show {
+}
+#tr_side_hide {
+	display:none;
+}
+#img1 {
+	position:	relative;
+	left:	110px;
+}
+#img2 {
+	position:	relative;
+	left:	220px;
+}
+#att_list {
+	border-collapse:	collapse;
+	border-top:	3px solid	#0099FF;
+	border-bottom: 2px solid #9ec550;/*gray;*/
+	color:	#333333;
+}
+
+#att_list th {
+	border:	1px solid #cccccc;
+	text-align:	left;
+}
+#att_list td {
+	border:	1px solid #cccccc;
+	text-align:	list;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#att_list td.chk {
+	color:	#FF6600;
+	font-weight:	bold;
+}
+#att_list th.first {
+	border-left:	none;
+}
+#att_list td.first {
+	border-left:	none;
+}
+#att_list th.last {
+	border-right:	none;
+}
+#att_list td.last {
+	border-right:	none;
+}
+#att_list td.chk a:link    { color:#FF6600; text-decoration:none; }
+#att_list td.chk a:visited { color:#FF6600; text-decoration:none; }
+#att_list td.chk a:hover   { color:#FF6600; text-decoration:none; }
+#att_list td.chk a:active  { color:#FF6600; text-decoration:none; }
+
+#att_list1 {
+	border-collapse:	collapse;
+	border-top:	3px solid	#0099FF;
+	border-bottom: 2px solid #9ec550;/*gray;*/
+	color:	#333333;
+}
+#att_list1 th {
+	border:	1px solid #cccccc;
+	text-align:	center;
+}
+#att_list1 td {
+	border:	1px solid #ffffff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#att_list1 td.chk {
+	color:	#FF6600;
+	font-weight:	bold;
+}
+#att_list1 th.first {
+	border-left:	none;
+}
+#att_list1 td.first {
+	border-left:	none;
+}
+#att_list1 th.last {
+	border-right:	none;
+}
+#att_list1 td.last {
+	border-right:	none;
+}
+#att_list1 td.chk a:link { color:#FF6600; text-decoration:none; }
+#att_list1 td.chk a:visited { color:#FF6600; text-decoration:none; }
+#att_list1 td.chk a:hover { color:#FF6600; text-decoration:none; }
+#att_list1 td.chk a:active { color:#FF6600; text-decoration:none; }
+
+/* #################################################################### */
+
+.att_list {
+	border-collapse:	collapse;
+	border-top:	3px solid	#0099FF;
+	border-bottom: 2px solid #9ec550;/*gray;*/
+	color:	#333333;
+}
+.att_list th {
+	border:	1px solid #cccccc;
+	text-align:	left;
+}
+.att_list td {
+	border:	1px solid #cccccc;
+	text-align:	list;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.att_list td.chk {
+	color:	#FF6600;
+	font-weight:	bold;
+}
+.att_list th.first {
+	border-left:	none;
+}
+.att_list td.first {
+	border-left:	none;
+}
+.att_list th.last {
+	border-right:	none;
+}
+.att_list td.last {
+	border-right:	none;
+}
+.att_list td.chk a:link { color:#FF6600; text-decoration:none; }
+.att_list td.chk a:visited { color:#FF6600; text-decoration:none; }
+.att_list td.chk a:hover { color:#FF6600; text-decoration:none; }
+.att_list td.chk a:active { color:#FF6600; text-decoration:none; }
+
+
+.att_list1 {
+	border-collapse:	collapse;
+	border-top:	3px solid	#0099FF;
+	border-bottom: 2px solid #9ec550;/*gray;*/
+	color:	#333333;
+}
+.att_list1 th {
+	border:	1px solid #cccccc;
+	text-align:	center;
+}
+.att_list1 td {
+	border:	1px solid #ffffff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.att_list1 td.chk {
+	color:	#FF6600;
+	font-weight:	bold;
+}
+.att_list1 th.first {
+	border-left:	none;
+}
+.att_list1 td.first {
+	border-left:	none;
+}
+.att_list1 th.last {
+	border-right:	none;
+}
+.att_list1 td.last {
+	border-right:	none;
+}
+.att_list1 td.chk a:link { color:#FF6600; text-decoration:none; }
+.att_list1 td.chk a:visited { color:#FF6600; text-decoration:none; }
+.att_list1 td.chk a:hover { color:#FF6600; text-decoration:none; }
+.att_list1 td.chk a:active { color:#FF6600; text-decoration:none; }
+
+/* #################################################################### */
+
+
+
+.attendInput {
+	color:						#0099FF;
+	font-size: 				14px;
+	font-weight:			bold;
+	border:						3px solid #0099FF;
+	padding:					6px 8px 5px 8px;
+}
+
+.attendInput1 {
+	color:						#0099FF;
+	font-size: 				12px;
+	border:						3px solid #0099FF;
+	padding:					0px 0px 0px 0px;
+}
+
+.attendPoint {
+	color:						#FF9900;
+	font-size: 				14px;
+	font-weight:			bold;
+	border:						3px solid #FF9900;
+	padding:					6px 8px 5px 8px;
+}
+
+.tab_table {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.tab_table .tab_row {
+    display: table-row;
+    width: 100%;
+	list-style: none;
+}
+
+.tab_table .tab_col {
+    position: relative;
+    display: table-cell;
+    border: 1px solid #ccc;
+    border-top: 0;
+    border-left: 0;
+    background-color: #e8ecef;
+    text-align: center;
+    vertical-align: middle;
+	list-style: none;
+}
+
+.tab_table .active {
+    background-color: #337ab7;
+    border-bottom: 0;
+    font-weight: bold;
+}
+
+.tab_col a {
+    display: block;
+    padding: 13px 5px;
+    color: #555;
+}
+
+.tab_table .active a {
+    color: #fff;
+}
+
+/* 버튼 추가20200824 (HISNet -> 커뮤니티 -> 스마트캠퍼스 -> 2차인증 예외자 관리 메뉴에서 쓰이는 CSS */
+#smart_tbl .btn {display:inline-block;margin:2px;padding:7px 10px;min-width:70px;font-size:13px;border-radius:3px;border:1px solid #1c2640;vertical-align:middle;text-align:center;cursor:pointer;transition: .3s;color:#000;}
+#smart_tbl .btn:hover {text-decoration:none;box-shadow:0 0 5px 0 rgba(0, 0, 0, .2);color:#000;}
+
+#smart_tbl .btn.type01 {color:#000;border-color:#1c2640;}
+#smart_tbl .btn.type01:hover {color:#1c2640;background-color:#fff;}
+#smart_tbl .btn.type02 {color:#000;border-color:#ccc;background-color:#f2f4f6;}
+#smart_tbl .btn.type02:hover {color:#000;border-color:#000;background-color:#fff;}
+
+#smart_tbl .btn.small{padding:5px 8px;min-width:50px;font-size:12px;}
+
+#smart_tbl .search_list_paging {height:49px;padding-top:19px;text-align:center;}
+#smart_tbl .search_list_paging a {display:inline-block;width:25px;height:25px;line-height:25px;text-align:center;color:#777;font-size:12px;}
+#smart_tbl .search_list_paging a.cur_page {background:#333;border-radius:5px;color:#fff;}
+#smart_tbl .search_list_paging .prev_page {width:auto;margin-right:15px;}
+#smart_tbl .search_list_paging .next_page {width:auto;margin-left:15px;}

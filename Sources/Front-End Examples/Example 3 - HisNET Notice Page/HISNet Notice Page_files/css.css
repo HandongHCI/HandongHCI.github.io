@@ -1,0 +1,60 @@
+body, td {
+	font-size:9pt;
+}
+.listTitleBorder {
+/* 게시판 목록 타이틀 관련 */
+	border-top:1px solid #368bc8;
+	border-bottom:1px solid #368bc8;
+	color:#404040;
+	font-family:Verdana, "돋움";
+	font-size:9pt;
+	background-image:url(/myboard/images/bd_bg3.gif);
+	background-repeat:no-repeat;	
+}
+.listTitleBorder0 {
+/* 게시판 목록 타이틀 관련 */
+	background-image:none !important;
+	height:27px;
+}
+.NoBg {
+	background-image:none !important;
+}
+
+.listBody {
+/* 게시판 목록 몸통 관련 */
+	border-bottom:1px solid #E5E5E5;
+	color:#808080;
+	font-family:Verdana, "돋움";
+	font-size:9pt;
+	height:27px;
+	text-decoration:none;
+}
+.listBody td {
+/* 게시판 목록 몸통 관련 */
+	color:#808080;
+	font-family:Verdana, "돋움";
+	font-size:9pt;
+	vertical-align:middle;
+}
+.listBody a {
+/* 게시판 목록 몸통 관련 */
+	text-decoration:none;
+	color:#808080;
+	font-family:Verdana, "돋움";
+	font-size:9pt;
+	vertical-align:middle;
+}
+.listBody a:hover {
+/* 게시판 목록 몸통 관련 */
+	color:#368bc8;
+}
+.readText {
+/* 게시판 읽기화면 관련 */
+	color:#666666;
+	font-size:9pt;
+}
+.tdAttach {
+/*	본문에서 첨부파일을 표시하는 TD */
+	padding-top:10px;
+	padding-bottom:10px;
+}

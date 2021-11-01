@@ -164,10 +164,16 @@ Watch the [videos listed in **4-2 Emotional Ergonomics II**](HFE04_2.md), then w
 Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
+	- Consideration of users in the design process
+	- Concept of participatory design
+	- Meaning of usability
+	- Meaning of usability evaluation (or testing)
+	- Methods of usability evaluation
+	- about the rule of "85% from 5 participants"
 
-- **Subtopic 2**: The USER needs to be importantly considered in product development. Why? What can be happened if the USER (e.g., their needs/wants, their working environment/situation, their physical/cognitive/emotional characteristics, ...) is not appropriately considered in a <font color="blue">product</font> development process? What are the benefits of involving users in the product/service development process? There are many reasons/aspects, which might result in a product successful or fail. How is 'usability' important for the product's success? Do you know any success or failure story? (keywords: `#user-centered design`, `#design with users`, `#co-design`, `#usability`, `#usability evaluation`)<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things such as ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
+- **Subtopic 2**: The **USER** needs to be importantly considered in product development. Why? What can be happened if the USER (e.g., their needs/wants, their working environment/situation, their physical/cognitive/emotional characteristics, ...) is not appropriately considered in a <font color="blue">product</font> development process? What are the benefits of involving users in the product/service development process? There are many reasons/aspects, which might result in a product being successful or failing. How is 'usability' important for the product's success? Do you know any success or failure stories related to the consideration of users? (keywords: `#user-centered design`, `#design with users`, `#co-design`, `#usability`, `#usability evaluation`)<br><font color="blue">(Note) "product" mentioned in this question widely includes various types of the produced things such as ICT devices, home appliances, crafts, meals, designs, equipment, facility, buildings, home, interior, software, smartphone app, ...</font>
 
-- **Subtopic 3**: How to know about the user? There are many methods and ways of having a connection to users. Explain some methods of how to meet users. Also, describe the usability (use + ability) and usability testing (or usability evaluation). How is usability evaluation different from the user needs survey?
+- **Subtopic 3**: What is the meaning of "Designers are not users" from the first video (by Jakob Nielsen) of the list? And why should you meet actual users in order to hear their voice? How do recent companies try to understand users?
 
 
 #### Topic 9. [5-2. Usability  II: User-Centered Design Principles]

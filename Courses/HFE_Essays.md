@@ -180,11 +180,15 @@ Watch the [videos listed in **5-1 Usability Engineering I**](HFE05_1.md), then w
 Watch the [videos listed in **5-2 Usability Engineering II**](HFE05_2.md), then write an essay including the following subtopics.
 
 - **Subtopic 1. Summary**: Summarize what you've learned from the videos. You can use "bullet points" to list important concepts in short sentences. Here are important questions on this topic. Don't exceed one page for a summary.
+	- Concept of human-centered design
+	- User-centered design (UCD) principles
+	- Mental model
+	- Concept of inclusive design
+	- Concept of universal design
 
-- **Subtopic 2**: Based on the knowledge of "INCLUSIVE DESIGN", discuss how HUMAN is different from USER. (in other words, how can you distinguish differences between "HUMAN-centered" and "USER-centered")
+- **Subtopic 2**: From the philosophy of "INCLUSIVE DESIGN" and "UNIVERSAL DESIGN", we may think about "the range/coverage of USERS". Apple's accessibility policy is a very good example to see how the company tries to provide its products to various people including the disabled. Hereby, we may think about USER versus HUMAN, and "USER-centered" vs. "HUMAN-centered". Please discuss how HUMAN is different from USER and the meaning of including various people as a user in a product/service.
 
-- **Subtopic 3**: Everybody knows that user-centered design is important. And UCD is one of the success factors in business. But, how-to-design is a different story. There are general guidelines for the user-centered design (e.g., `#simplicity`, `#affordance`, `#mapping`, `#consistency`, `#flexibility`, `#structure`, `#constraints`, `#tolerance`, `#feedback`, ...), but the specific considerations are all different by product. Provide different examples (two or three), which require different considerations for the increment of own usability.
-
+- **Subtopic 3**: Everybody knows that user-centered design (UCD) is important. And UCD is one of the success factors in business. But, how-to-design is a different story. There are general guidelines for the user-centered design (e.g., `#simplicity`, `#affordance`, `#mapping`, `#consistency`, `#flexibility`, `#structure`, `#constraints`, `#tolerance`, `#feedback`, ...), but the specific considerations are all different by product. Discuss "the challenges of user-centered design". (tip. You may find plenty of articles on Google.)
 
 #### Topic 10. Epilog
 Please share how you studied in this course, also how you have have worked in the team. Which core concepts have you learned? What have you earned from the activities of this class? What is the new experience you have gotten in the course? How did you do it through the course? How did you learn and experience? How did you achieve your initial goal? What is your next step in human-centered design, HF/E, HCI, or UX/UI areas? How could the earned knowledge and experiences be used in your future study or work? And do you have anything to share related to this course?

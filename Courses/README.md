@@ -16,15 +16,7 @@
 
 ### Human-Computer Interaction (SIT32002)
 - [Syllabus](HCI00.md)
-- [1. Introduction to HCI](HCI01.md)
-- [2. HCI Applications anc Case Studies](HCI02.md)
-- [3. Home & Human Life](HCI03.md)
-- [4. Healthcare & Safety](HCI04.md)
-- [5. Education & Work](HCI05.md)
-- [6. Smart City](HCI06.md)
-- [7. Transportation](HCI07.md)
-- [8. Ethics and Philosophies](HCI08.md)
-- [Assignments](HCI_Essays.md)
+- The pages have been moved to Notion [[go →]](https://handonghci.notion.site/Human-Computer-Interaction-SIT32002-090cc68a817a438da9b5d7b298ec9023)
 
 ### Data Visualization (SIT42001)
 - [Introduction](DV00.md)
@@ -46,7 +38,6 @@
 
 ## Student Projects
 - [Human-Computer Interaction](StudentProjects/HCI.md)
-- [Data Visualization](StudentProjects/DV.md)
 - [Ideation & Prototyping](StudentProjects/IdeaProto.md)
 - [ICT Prototyping 2019S](StudentProjects/ICTprototyping2019S/README.md)
 - [final posters (Google Drive)](https://drive.google.com/open?id=1AKbhdIhpEYOLHpe_EO1AwqURAeYEDj2W)

@@ -25,7 +25,7 @@
 - [Introduction to Depth Sensing & Its Applications](Intro_DepthSensing.md)
 
 ## Course Materials
-- All lecturing materials of Prof. Lee's courses are shared through his Google Drive: [http://tiny.cc/HandongHCI](http://tiny.cc/HandongHCI).
+- All lecturing materials of Prof. Lee's courses are shared through his Google Drive: [http://tiny.cc/HandongWLee](http://tiny.cc/HandongWLee).
 
 ## Student Projects
 - [Human-Computer Interaction](StudentProjects/HCI.md)

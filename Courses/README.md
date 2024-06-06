@@ -1,7 +1,7 @@
 [← go back to the main page](../README.md)
 
 IMPORTANT ANNOUNCEMENT!<br>
-Part of the of the contents shared in this site have been moved to [Notion](https://handonghci.notion.site/Course-Sites-ab4aee94e25540ec90235f6ed4697bda?pvs=4)
+Part of the contents shared in this site have been moved to [Notion](https://handonghci.notion.site/Course-Sites-ab4aee94e25540ec90235f6ed4697bda?pvs=4)
 
 
 ## Courses
